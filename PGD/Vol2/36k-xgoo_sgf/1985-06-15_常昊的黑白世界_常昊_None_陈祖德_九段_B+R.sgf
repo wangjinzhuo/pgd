@@ -1,0 +1,10 @@
+(;GM[1]AP[StoneBase(弈典):SGFParser.2.3]SZ[19]GN[常昊的黑白世界]HA[4]EV[常昊的黑白世界]PB[常昊]PW[陈祖德]WR[九段]RE[B+R]DT[1985-06-15]PC[上海]SO[常昊的黑白世界]US[leegogocn]AB[pd][dp][dd][pp]C[1985年6月常昊学棋刚1年的时间和回上海的陈祖德对弈。
+]
+;W[nc];B[jd];W[qf];B[oe];W[qc];B[pc];W[qd];B[pg];W[pf];B[of];W[og]LB[pi:a]C[黑12还是改为走a位跳比较好];B[qg];W[rg];B[rh];W[rf];B[pi];W[oh];B[pj];W[kd]C[白19碰，是借力着法。若黑扳，那么白棋借用很多，黑四子易受攻击。];B[mf]C[黑20跳，是明快着法。];W[je];B[id];W[ke];B[mh]C[至黑24白棋收效甚微。];W[fd];B[ie];W[if];B[ge];W[de];B[ce];W[cd]C[白29、31是腾挪着法，黑棋正面迎击成立。];B[dc];W[cc];B[cb];W[bb];B[db];W[be];B[cf];W[bf];B[ee]LB[cg:a][df:b]C[黑40大恶手，有两种下法可选择一是单在a位退、二是在b位打吃都可成立。
+];W[df];B[cg];W[dg];B[ch];W[dh];B[ci];W[fe];B[gc];W[fc];B[fb];W[gd];B[hc];W[gb];B[hb]LB[eb:a]C[黑54应在a位接。];W[eb];B[ga];W[ba];B[hf];W[ig];B[ff];W[ef];B[fg];W[di];B[ck]LB[cj:a]C[黑64应在a位单退。];W[ec];B[ea];W[da];B[hd];W[fa];B[kg]C[黑70太小。];W[gb];B[jf];W[ha];B[jb];W[kb];B[ia];W[lg]C[至白77靠断，白方的让子棋技术让只有九岁的常昊眼花缭乱应接不暇，攻守关系发生了逆转。
+];B[lh];W[hg];B[fi];W[fh]C[白79、81反攻，严厉！];B[eh];W[gh];B[ei];W[dj];B[eg];W[gj];B[fk];W[pe];B[od];W[me];B[mg];W[nf];B[ne]LB[qb:a]C[黑94坐失良机，应现在a位扳。];W[pb];B[ng]LB[md:a]C[黑96应先在a位打吃。];W[oc];B[dk]C[至黑98盘面还是黑棋好。];W[nd];B[nf];W[ki];B[mj];W[kk];B[km];W[hl];B[in]LB[dq:a]C[黑104、106着法冒险，还是在a位扎丁比较稳妥。
+];W[gm];B[em]LB[go:a]C[黑108缓，应a位才是前后连贯呼应的下法。
+];W[jq];B[hq];W[mq];B[oq];W[mo];B[mm];W[ko]C[至白115黑棋不乐观。];B[dq];W[ri];B[qh];W[rp];B[rn]C[黑120强手。];W[qo];B[on];W[oo];B[po];W[qn];B[np];W[ql];B[lr];W[hp];B[gq];W[iq];B[lq];W[gp];B[gn]C[黑134当仁不让，这一战斗黑棋下的不错，强硬而准确。
+];W[fn];B[hm];W[go];B[hn];W[gl];B[fm];W[fq];B[il];W[ik];B[jl];W[jk];B[gk];W[hk];B[gi]C[黑146、148应该保留。];W[hi];B[gg];W[jg];B[kf];W[kh];B[lf];W[lj];B[fr];W[mr];B[mp];W[lp];B[nr];W[kq];B[ms];W[gr];B[hr];W[er];B[gs];W[eq]C[白167接，白棋大龙并没有活。
+];B[is]LB[ir:a]C[黑168应走a位爬。];W[kr];B[ks];W[ls];B[lr];W[lq];B[ls];W[js];B[jr];W[ir];B[js];W[no]C[实战白棋吃两子做活，获利甚多。];B[pn];W[nq];B[pr];W[op];B[hh];W[ih];B[rm];W[qm];B[rk];W[qq];B[pq];W[rl];B[rr];W[sl];B[rq];W[pk];B[rj]C[这局棋最终黑棋获胜，棋谱并没有记全。
+])

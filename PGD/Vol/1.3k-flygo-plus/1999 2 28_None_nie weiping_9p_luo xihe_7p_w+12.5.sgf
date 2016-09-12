@@ -1,0 +1,41 @@
+(;C[中国围棋快棋赛
+
+聂卫平 黑
+罗洗河 白
+
+
+
+讲解  郑弘、徐莹]SZ[19]GN[1998-1999 cctv game]RO[2]DT[1999 2 28]PC[beijing cctv]PB[nie weiping]BR[9p]PW[luo xihe]WR[7p]KM[5.5]RE[w+12.5]US[http://xuyang.yeah.net]SO[CCTV-5];B[qd];W[dd];B[pp];W[dp]
+;B[oc];W[qj];B[cf];W[fc];B[bd]C[普通的下法];W[cc];B[ci];W[qn];B[nq];W[rp];B[fq]C[保留变化];W[hq]
+;B[kq]LB[fp:][ep:]C[白如果在A压，黑B挖];W[oe]C[为了在左下角引征];B[fo];W[qe];B[pd];W[pe];B[dr]C[左下被黑连走到两手，白不好];W[dm];B[cp]C[不能被白尖到三三，黑托必然]
+;W[co];B[cq];W[nc]C[左下角白已经没有棋形可补了，走不好就不走了。];B[nb];W[mc];B[mb];W[od];B[pb];W[lc];B[ck]C[根据要点];W[el];B[fj]
+;W[gk];B[gm];W[eo];B[en];W[gj];B[dn];W[dj];B[di];W[cn];B[fi];W[gl];B[im];W[cl]C[白想就地做活。]
+;B[om]C[黑优势列然];W[km];B[pl];W[kp];B[jq];W[ql];B[pn];W[qm];B[pj];W[mp];B[mq];W[fn];B[fm]
+;W[gn];B[hn];W[go];B[fp];W[em];B[hp];W[jl];B[qi];W[qk];B[oi]C[黑很厚实];W[df];B[ce];W[dg]
+;B[cg];W[pm]C[试应手];B[ol];W[nj];B[oj];W[mh];B[ll];W[lb]C[很大];B[lj]LB[kn:]C[黑步步为营，优势意识明显，黑下边还有A的靠，黑全局
+约有60目强，且厚实];W[ki];B[kj]
+;W[il]C[白如不补，被黑此处冲不能忍受];B[ji];W[jh];B[li];W[bk]C[大棋];B[kh];W[bi];B[de];W[ee];B[ef];W[fe];B[eg]
+;W[jf];B[jg];W[if];B[kf];W[ke];B[cj];W[pq];B[qq];W[qp];B[pr];W[po];B[oq];W[bj]
+;B[gf]LB[lf:]C[在A长好一点];W[ff];B[fg];W[lf];B[ge];W[gd];B[he];W[ph];B[pi];W[rd];B[rc];W[qc]
+;B[pc];W[rb];B[qb]LB[sc:]C[大昏着，在a立下一点事也没有 ];W[sc];B[re];W[qc];B[rf];W[oa];B[rc];W[do];B[ho];W[qc]
+;B[ra];W[rc];B[ob];W[qa];B[sa];W[rg]C[妙手];B[rh];W[qg];B[sg];W[sb];B[ra];W[sa];B[pa]C[形成紧气劫，黑大失败。]
+;W[gg]C[制造劫材];B[hg];W[gh];B[hf];W[ma];B[ra];W[gi];B[kg];W[qa];B[hd];W[na];B[hb]C[转换黑大损，白吃掉黑角获利30目左右，而黑破掉白空不过
+15目左右。黑已非势]
+;W[gb];B[bc];W[bb];B[hc];W[db];B[on];W[oo];B[no];W[je];B[ij]C[又是错觉，应提掉白一子，];W[ig];B[hh];W[ih]
+;B[hi];W[hj];B[ii];W[fh];B[eh];W[lm]LB[hl:][ik:][hm:][hk:][fl:][fk:][ek:][dk:]C[黑a,白b,黑c,白d ,黑e,白f, 黑g,白g, 黑接不归。
+白贴消除黑吃下边两子的手段，而且瞄着黑中央的
+薄味，可见黑刚才的失误是严重的。 ]
+;B[rq];W[rj];B[gc];W[fb];B[bh];W[bp];B[bq];W[dq];B[cr];W[ni];B[oh];W[lh];B[nk]
+;W[sq];B[sr];W[sp];B[lg];W[mg];B[ki];W[mf];B[lo];W[mn]C[好棋，黑中间大龙眼位不足];B[op];W[qo];B[mm];W[mo]
+;B[lp];W[nm];B[ml];W[nn];B[ln];W[pk];B[ok];W[np];B[kl];W[jm];B[jk];W[ko]C[黑空盘面都不足];B[ab]
+;W[hl];B[ba];W[cb];B[fd];W[ed];B[en];W[dn];B[hm];W[rr];B[rs];W[ss];B[nl];W[no]
+;B[sr];W[kn];B[lq];W[ss];B[ec];W[ga];B[sr];W[gp];B[gq];W[en];B[jp];W[ss];B[ha]
+;W[dc];B[sr];W[bo];B[qr];W[ai];B[ek];W[fl];B[dk];W[jo];B[io];W[jc];B[jb];W[kb]
+;B[ic];W[ja];B[jd];W[kd];B[kc];W[eq];B[er];W[jc];B[nh];W[mi];B[kc];W[fr];B[hr]
+;W[jc];B[bl];W[bm];B[kc];W[ah];B[ag];W[jc];B[al];W[am];B[kc];W[ei];B[ej];W[jc]
+;B[dl];W[ak];B[kc];W[af];B[bg];W[jc];B[ea];W[eb];B[kc];W[gr];B[iq];W[jc];B[pg]
+;W[qf];B[qh];W[se];B[kc];W[cd];B[be];W[jc];B[sh];W[sf];B[kc];W[ep];B[hq];W[jc]
+;B[sj];W[sk];B[kc];W[dh];B[ch];W[jc];B[bl];W[ib];B[cm];W[si];B[cl];W[al];B[ia]
+;W[jb];B[ri];W[sj];B[ng];W[nf];B[ap];W[ao];B[aq];W[mj];B[mk];W[id];B[ac];W[ca]
+;B[ie]C[白胜12目半];W[ik]C[老聂在前半盘向人们展示了漂亮的大局观
+而罗洗河的后半盘下的很出色。])

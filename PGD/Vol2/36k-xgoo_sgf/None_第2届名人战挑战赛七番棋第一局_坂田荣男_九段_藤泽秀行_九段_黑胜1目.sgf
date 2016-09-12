@@ -1,0 +1,46 @@
+(;GM[1]AP[StoneBase:SGFParser.3.0.1]SZ[19]CA[gb2312]HA[0]KM[0]EV[第2届名人战挑战赛七番棋第一局]PB[坂田荣男]BR[九段]PW[藤泽秀行]WR[九段]RE[黑胜1目]C[    初次挑战名人头衔，而且是第一局，对局时充斥着异常的紧迫感。这局棋刚开始的布局阶段，白棋有一些棋有点点变调，我认为是黑棋有利。不过，后来遭到白棋强有力的抵抗，而且黑也有缓着，形势变得很细，但总算优势保持到底，赢了这盘棋。
+     布局主宰着一盘棋骨干的形成，其优劣对胜负的影响力很大，实战例子有很多。当然啦，布局阶段对胜负起到决定性作用的情形相当少见，但最低限度。布局的好坏经常会使一盘棋变得好下或不好下。
+业余棋手在提升棋力的过程当中，也会认识到布局的重要性吧！
+     预先交待一下，布局实战解说把重点摆在布局上，尽可能做详细的说明。]
+;B[qc]C[黑1采用三三战法，];W[cd];B[qp];W[dq];B[ec]LB[oq:A]C[黑5若在A位缔角的话，容易形成慢慢下的细棋局面。];W[oq];B[do]LB[co:A][cq:B]C[黑5挂角、黑7再挂，意在形成急战。
+黑7当然也可低一路在A位小飞挂，但黑7一间高挂后，下一步B位托为好点。]
+(;W[hd];B[cq]
+(;W[ed]LB[cg:A]C[白10靠压，少见。被黑A夹击时，白10才常见。普通应如[图2]。]
+(;B[dc]C[黑11长进去不错，如此，黑棋不至于不利。];W[cc];B[gc]
+(;W[dd]C[白14略缓，];B[gd]
+(;W[hc];B[ge];W[he];B[gf];W[hf]C[白棋跟在后面压，运子的方向倒了过来。];B[gg]
+(;W[ih]C[白22飞，不得不这样下。];B[dh]C[黑23当然。若被白棋占得此点，白棋上边厚实，黑有所不安。];W[nd]C[白24也是同样的道理，若被黑占据此点，白棋的厚势就消失了。];B[pe]LB[pf:A][oc:B][qe:C][nb:D]C[黑25也在在A位大飞，但白可B位尖，扩大地域的同时狙击着C位的打入。黑25之后有D位的潜入。];W[of];B[qg];W[po]C[由于黑27位置低，故白28飞压，想把右边的黑子压在低位。];B[qo];W[pn];B[qm];W[ip];B[cf];W[fb]LB[be:A][gb:B]C[34是好次序，如果先在A位做活再在34觑的话，黑棋可能会弃掉两子于B位冲下去。];B[fc]
+(;W[be]
+(;B[dp]C[黑37虽然很大，但应如[图8]的下法。];W[eq];B[cr];W[gb];B[eb];W[cb];B[nb]LB[oc:A][ib:B][lc:C]C[黑43绝对，否则被白A尖到，白地变大。又，黑43之后，以后有黑B觑再黑C飞出破坏白地的手段。];W[dj];B[gi]LB[hi:A][dm:B][hh:C]C[黑45应该在A位飞较好，白若同样如实战在B位拆二，黑C补棋形厚实。];W[dm];B[hj];W[oc]C[白48以下交换掉，目前是时机。];B[ob];W[pc]LB[lc:A][qb:B]C[如果被黑A飞到之后，白50时黑可在B位立，白棋就没有意思了。];B[pb];W[qd];B[rc];W[pf];B[qf];W[qe];B[re];W[cn]LB[gp:A]C[白58也可在A位防守。];B[gq];W[gp]
+(;B[dn]C[61挤是好手筋！]
+(;W[hq];B[cm];W[ch]C[64托意在寻求腾挪。];B[ci];W[di];B[bh];W[eh];B[dg];W[cl];B[bm];W[cj];B[bi]
+(;W[em];B[bn];W[fj];B[ii]C[77尖顶，];W[hh]C[引诱白78觑，];B[gh]LB[fh:A]C[然后黑79粘，解消白A位并的味道，黑棋好调。];W[bf]LB[hl:A]C[白80于A位镇头是大势上的要点，如果这样下的话，仍然是前途不明的棋。];B[gm]C[被黑81反过来镇头，白棋苦战。];W[bg];B[cg];W[gl];B[hl];W[hm];B[gk];W[fl];B[il];W[gn];B[jh];W[jf];B[im];W[hn]
+(;B[lh]C[黑95下得有点松缓，应如[图14]。];W[pd]C[实战被白棋粘回两子，生出了种种坏味道。];B[pq];W[or];B[no]LB[ln:A]C[黑99深入，但此棋于A位附近浅消比较好吧。];W[op];B[nm];W[pm];B[ql];W[pl];B[pk];W[ok];B[pj];W[nl];B[lm];W[rd]C[黑棋的恶味出来了。];B[sd];W[rf];B[se]
+(;W[pi]C[白114鼻顶是妙手！]
+(;B[oj]C[黑115冲出，也是没有办法的事。];W[rg];B[qh]LB[nc:A][oe:B][lp:C]C[黑117应该先把黑A、白B交换掉，然后再转到C位比较好。];W[qi];B[rh];W[ri]C[白116至120弃子，先手破掉了黑地。];B[rk];W[lo]C[然后再回手补棋，形势变细了。];B[qr];W[ph];B[sf];W[ll];B[ml];W[mk];B[mm]
+(;W[nj];B[lk];W[lj];B[kk];W[kj];B[jj];W[ki];B[ji]C[黑棋在中央围到了不少空。];W[qn];B[rn];W[rm];B[sm];W[ni];B[jg];W[lb]C[144封住黑棋的出路。]
+(;B[kn];W[mp];B[gr]C[黑147立是致胜的一着。下边一子得以生还，白棋实空不够。]
+(;W[fq];B[fs];W[hr];B[es];W[fr];B[gs];W[hs];B[dr];W[fo];B[kf];W[kd];B[pr];W[pp];B[rl];W[bl];B[lc];W[kc];B[mb];W[ld];B[la];W[kb];B[nh];W[oi];B[if]LB[jo:A]C[黑171应该在A位尖，这样好3目。];W[je];B[hg];W[jn]C[被白174逆收，局面变得更细了。];B[jm];W[ko];B[in];W[jo]C[以下没有什么可指责之处，顺利地收官下去，黑最终胜1目（盘面6目）。];B[os];W[ns];B[ps];W[nq];B[fk];W[ek];B[ka];W[ja];B[ma];W[hb];B[bj];W[ie];B[bk];W[al];B[am];W[ck];B[ig];W[rj];B[qk];W[lg];B[kh];W[mg];B[mh];W[ng];B[kg];W[pg];B[sg];W[mc];B[lf];W[mf];B[fi];W[ei];B[ah];W[ag];B[om];W[ak];B[aj];W[ol];B[io];W[ho];B[le];W[me];B[nc];W[oe];B[er];W[en];B[eo];W[fp];B[fa];W[ef];B[eg];W[df];B[ff];W[fh];B[fg];W[ga];B[ea];W[ca];B[mo];W[ln];B[km];W[np];B[sk];W[oh]C[黑胜1目。（炽天使：书上一开始说是黑贴5目半，后来又是盘面6目黑胜1目，搞不清是哪弄错了。出书的人也不检查一下：）。哪位朋友有心的话就点一下目吧）])
+(;W[er]N[[图19]]C[[图19]白棋强硬的分断也没有用，];B[fp];W[fq];B[jp]C[靠是好手筋！];W[jo];B[io];W[in];B[iq];W[hp];B[hr];W[ep];B[jq];W[jn];B[jm];W[ko];B[fs];W[es];B[kr]C[黑棋在下边做活了。]))
+(;B[mp]N[[图18]]C[[图18]黑棋冲出无理，];W[lp];B[mq];W[mo];B[np];W[nn]C[白棋一挖，黑棋就难办了。];B[on];W[om];B[mn];W[kl];B[jk];W[km]C[黑棋被吃。]))
+(;W[qn]N[[图17]]C[[图17]白棋先把右边交换掉，];B[rn];W[rm];B[sm];W[kl]C[这样下白棋比较好，有胜负手的味道。];B[nj];W[nk];B[km];W[lj];B[jn]C[不过黑棋也有反击的手段。];W[ji];B[ki];W[jl];B[jj];W[jm];B[in];W[kn];B[ko];W[ln];B[lp];W[kp];B[jo];W[mp];B[lq];W[mo];B[jp]C[白棋虽然吃掉黑六子，但黑棋也破坏了白下边的地域，黑棋优势仍然不动。]))
+(;B[qi]N[[图16]]C[[图16]黑棋若从下边扳，];W[qh]C[挖是好棋。];B[rh];W[ph];B[rg];W[qj];B[ri];W[qk];B[oj];W[qn];B[rn];W[ro];B[rm];W[nj];B[oi];W[nh];B[oh];W[pg];B[rk];W[ni];B[rj];W[lk]C[这样黑棋不满。]))
+(;W[qi]N[[图15]]C[[图15]白棋打入的话，];B[pi];W[qh];B[ph];W[rg];B[pg];W[sf];B[sc];W[sh];B[ri];W[rj];B[qj];W[rh];B[rk];W[sj]C[白棋虽然做活，但并不是什么了不起的事。]))
+(;B[jg]N[[图14]]C[[图14]黑棋先顶，];W[kf];B[pq];W[or];B[lm];W[lo];B[pd]C[将以上全部交换掉后，再厚实地吃掉白二子，黑棋胜势确定。]))
+(;W[fh]N[[图12]]C[[图12]白棋刺（？）也很有力。];B[hg];W[ef]
+(;B[ig];W[bl];B[bf];W[bn]C[这样白棋好象也可下。])
+(;B[em]N[[图13]]C[[图13]图12是白棋一厢情愿的下法，黑棋当然不会如白所愿。];W[dl];B[bn];W[ig];B[fj]C[我认为不能说白棋作战有利。])))
+(;W[cm]N[[图10]]C[[图10]白棋很想粘住，但——];B[fp]
+(;W[fq];B[gr]
+(;W[hq];B[hr];W[ir];B[go];W[hp];B[fr]C[白三子就被吃掉了。])
+(;W[go]N[[图11]]C[[图11]白棋即使长，];B[jq];W[ep];B[fn];W[fo];B[em]C[仍是白恶。]))
+(;W[ep]N[[思考]]C[[思考]白棋仍然冲怎么办？];B[fq]C[敌之要点即我之要点，粘吧，];W[eo];B[en];W[fo];B[go];W[fn];B[em]C[白棋形很不好啊，左右为难的样子。])))
+(;B[fp]N[[图9]]C[[图9]黑棋若扳，];W[ep];B[eo];W[fq];B[fo];W[hq];B[gr];W[fr];B[go];W[hp]C[黑棋影响不到左边白子，无趣。]))
+(;B[gb]LB[kc:A][bf:B][cb:C][bb:D][ba:E][db:F][da:G]N[[图8]]C[[图8]黑棋冲下去绝好。有了这一子，直接产生了A位的打入，还有B位的挡会成为先手。因为黑B时，白若不理，黑有C、白D、黑E、白F、黑G打劫的手段。]))
+(;W[df]N[[图7]]C[[图7]白棋如靠，];B[dg];W[bf];B[bg];W[ce];B[ef];W[cg];B[ch]LB[af:A]C[将来黑棋提劫时，白不得不在A位立求活，黑棋厚实。]))
+(;W[dh]N[[图6]]C[[图6]白棋若拆边，];B[hg]C[黑棋拐头不错。];W[ld]C[白棋仍要拆一手，];B[cj]C[黑棋逼相当愉快。]))
+(;W[ge]N[[图5]]C[[图5]白棋扳无法期待好结果。];B[fe];W[fd];B[he];W[gf];B[id];W[fc];B[hc];W[fb];B[hg]LB[gg:A][gh:B][fh:C][hf:D]C[这样黑棋充分。其中黑10是大势上的要点，下一手白棋不好办。譬如，白A、黑B、白C、黑D，因 白气紧，白恶。]))
+(;W[fe]N[[图4]]C[[图4]白棋尖为棋形，];B[hc];W[id];B[jc];W[ck]LB[cj:A]C[白5也可在A位。这样白棋比实战好吧。]))
+(;B[fd]N[[图3]]C[[图3]黑棋扳不好，];W[ee];B[dc];W[cc]TR[hd]C[白（三角）一子正处在急所，黑棋不好。]))
+(;W[dc]N[[图2]]C[[图2]白棋先尖顶，把黑子弄重，];B[ed];W[de]LB[df:A]C[白3也可下在A位，这样比较普通。]))
+(;W[co]N[图1]C[[图1]白棋若托退则普通，];B[cn];W[cp];B[dn];W[fq];B[cg]LB[cj:A]C[先夹击是调子，若单在A位拆，被白在6位拆二则无趣。];W[de];B[cj]))

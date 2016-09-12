@@ -1,0 +1,253 @@
+(
+;
+FF[4]
+EV[名人战,25,日本,Asahi]
+RO[1]
+PB[依田纪基]
+BR[九段]
+PW[赵治勋]
+WR[九段, 名人]
+KM[5.5]
+DT[2000-09-06,07]
+PC[Amsterdam, the Netherlands]
+US[http://www.flygo.net]
+RE[B+R]
+TM[28800];B[pd];W[dp];B[pq];W[dd];B[qk];W[nc];B[pf];W[pb]
+LB[kc:A][jd:B]C[Takemiya prefers a move at A or B
+];B[fq]LB[cn:A]
+C[This is exactly the same opening as in the first game
+of the 1998 Kisei match between Cho and Yoda but
+with the colors reversed! In that game Yoda continued
+with A (see variation).
+]
+(;W[ip]
+(;B[cn]
+C[Other ways to play this position is
+to jump to A or invade at B (see
+variations).
+]
+LB[fo:A][cq:B];W[fp];B[gp];W[fo]
+(;B[dq]C[This move can also be played at A (variation).
+]LB[cq:A];
+W[eq];B[er];W[ep];B[gr];W[cq];B[dr];W[go]
+C[All these moves are joseki.
+];B[cj];W[hp]LB[cr:A]
+C[Thick move, in this position a good choice.
+With this strong white position the black
+formation on the right side looks thin.
+Black has to answer this move since white
+threatens to play A.
+]
+;B[cp];W[co];B[bp];W[bo];B[bq];W[ch];B[dm];W[dn];B[en];W[do];B[ej]
+(;W[dc]
+C[Takemiya would prefer A instead to be
+more ambituous at the top. Please note
+that since white B is nearly sente (see diagram)
+white A has an immediate threat of white C as
+follow-up.
+]
+LB[eh:A][ao:B][gj:C];B[lc]
+C[Natural since the top is an important area.
+]
+(;W[ld]
+C[If white plays the normal move (A, see variation)
+black gets what he wants.
+]
+LB[qc:A];B[kd];W[md];B[qc]LB[ke:A]
+C[Takemiya Masaki prefers A because the center
+is important in this game.
+]
+;W[kc];B[jc];W[kb];B[jd];W[lb];B[eh];W[dg]
+(;B[pi]
+C[Not to the point, Takemiya suggests the
+strategy as in the variation.
+]
+;W[og]
+C[After seeing this move Yoda probably realized
+that his previous move was bad. If white wins
+this game then this move might be called the
+winning move.
+]
+(;B[of]LB[pg:A]
+C[This move is unnatural: black's previous
+move defended the side, so natural would
+be to defend with A (see diagram).
+]
+(;W[ng]C[Correct shape, the variation explains why.
+]
+(;B[nf]LB[jg:A]C[Black cannot play tenuki with A, see diagram.
+];W[mf]
+;B[mg];W[lf]
+(;B[mh]C[Good style. Black A would be bad style, see variation.
+]
+LB[lg:A];W[hg]LB[jf:A]
+C[A good move, white has to attack the three stones
+at the top on a large scale. White A would be too small.
+]
+;B[eg];W[ge]C[Virtually captures the black stones at the top.
+];B[df]
+C[The sealed move of the first day.
+];W[cf]
+(;B[ig]
+C[Takemiya expected that black would sacrifice
+the stones as shown in the variation.
+]
+;W[if];B[jf];W[jg];B[ih]
+(;W[jh]LB[ie:A]
+C[Commenting professionals prefered white A
+as in the variation.
+];
+B[ji];W[ki];B[hf];W[ie];B[he];W[hd];B[gf];W[id]
+C[Last move before the lunch break on the second day.
+];B[ii];W[fe];
+B[kj];W[li];B[ni];W[lj];B[kk];W[po]
+(;B[qp]LB[np:A]
+C[This black move seems to indicate that
+Yoda (black) is confident abbout the outcome
+of the game. However, general opinion amongst
+the attending professionals was that black should
+play more positive with A instead (see variation).
+]
+;W[op];B[oq];W[mp];B[nq];W[lo]
+C[White connecting his stones is the correct strategy.
+];B[np];W[no];
+B[on];W[oo];B[ff];W[kg]LB[kh:A]C[Preventing the cut at A.
+];B[hl];
+W[qo];B[mq];W[lq];B[lr];W[kq];B[mn];W[mo];B[qb]
+C[Very big move, worth around 20 points.
+];W[ro]
+(;B[rq]C[Correct style, see variation for the reason.
+];W[de];B[ef];
+W[rl];B[ql];W[rm];B[rk];W[jl];B[kl];W[jm];B[ik];W[cm];B[cl];W[bm];
+B[el];W[gq];B[fr];W[kr];B[mr];W[pc];B[oc];W[ob];B[od];W[hr];B[nb];
+W[mb];B[gm];W[bl];B[bk];W[bi];B[dh];W[cg];B[kn];W[km];B[ln];W[jn];
+B[ko];W[ci];B[di];W[ml];B[nn];W[oj];B[ol];W[qd];B[pa];W[na];B[rd];
+W[qe];B[re];W[nj];B[oi];W[pg];B[qg];W[fn];B[fm];W[sk];B[sj];W[sl];
+B[qj];W[mi];B[qm];W[qn];B[kp];W[lp];B[jp];W[jq]
+(;B[in]LB[io:A]
+C[This is the tesuji which Cho missed in byo-yomi.
+Probably he only considered black A (variation).
+]
+;W[lm];B[mk]TR[nj][oj]
+C[Black cuts off the two marked stones
+(see variations), thus deciding the game.
+]
+(;W[br];B[cr];W[ao];B[ap])
+
+(;W[lk];B[nk];W[ll];B[mj]
+C[This capture turns the game around completely
+since it was very close in the first place with Cho
+maybe leading with 0.5-1.5 point.
+Please note that black shouldn't be greedy as
+in the next variation...
+])
+
+(;W[lk];B[ll]C[This is too greedy...
+];W[io];B[jo];W[mm];B[nk];W[nl];
+B[ok];W[om];B[pm];W[pn]C[Black is captured.
+])
+)
+
+(;B[io];W[hn]C[White is connected.
+])
+)
+
+(;B[rp];W[sp];B[sq];W[sn];B[rq];W[sj]TR[sn]
+C[White's marked stone in sente enables
+this large endgame move.
+])
+)
+
+(;B[np]
+C[The strategic idea behind this move is to
+separate white's groups. A possible continuation...
+]
+;W[qq];B[qr];W[qp];B[rr];W[qm];B[gq]
+C[Separating the two white groups means that connecting
+here now becomes black's privilege. During the endgame
+white will continuously have to take care of both groups.
+])
+)
+
+(;W[ie];B[kf];W[lg]
+C[This variation is more attractive for white than
+the game since the black group on the left side
+is still weak now.
+])
+)
+
+(;B[kh];W[jg];B[op]TR[kh]MA[og][ng]
+C[The marked black stone prevents a white
+move on this point which would enlarge
+the top but also aim at utilizing the aji of
+the two marked stones.
+Black will have a hard time in this position
+though since the white top is big and white's
+strong lower-left position means that dealing
+with black's right side is not very difficult.
+])
+)
+
+(;B[lg];W[kg];B[kh];W[jh]
+C[Pushing would kill black's own stones at the top.
+])
+)
+
+(;B[jg];W[pg];B[qg];W[qh];B[ph];W[qf];B[rg];W[qe]
+(;B[qi];W[pe];B[oe];W[od]C[Black collapses.
+])
+
+(;B[re]C[Sometimes a tesuji...
+];W[rf];B[rh];W[rd];B[pe];W[rc]
+C[Black in great trouble.
+])
+)
+)
+
+(;W[mg];B[jg];W[pg];B[qg];W[qh];B[ph];W[qf];B[rg];W[qe];B[qi]LB[ng:A]
+C[And white cannot do anything because of the
+weakness at A.
+])
+)
+
+(;B[pg];W[jf];B[kf];W[kg];B[le];W[lg];B[me];W[ne];B[mf];W[oi]
+C[This variation shows why things develop
+nicely for white. The white forcing move
+is perfectly placed in relation to the fighting
+at the top.
+])
+)
+
+(;B[eg];W[df];B[kg]LB[ng:A]
+C[Black virtually connects his two groups and can look
+forward to the follow-up move at A.
+])
+)
+
+(;W[qc];B[oc];W[ob];B[nd]C[Black connects his stones.
+])
+)
+
+(;W[br];B[cr];W[aq];B[ap];W[ao]
+C[White can get this move with sente
+which means that the black group
+on the left side is very weak.
+])
+)
+
+(;B[cq];W[eq];B[cp];W[fr]
+C[The big drawback of this variation is that
+white becomes very strong which makes
+black's right side look very thin and easy
+to invade.
+])
+)
+
+(;B[fo];W[dn];B[kp];W[in];B[fm])
+
+(;B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn];W[lp])
+)
+
+(;W[cn];B[jp];W[po];B[qp];W[op];B[mp];W[oq];B[qo])
+
+)

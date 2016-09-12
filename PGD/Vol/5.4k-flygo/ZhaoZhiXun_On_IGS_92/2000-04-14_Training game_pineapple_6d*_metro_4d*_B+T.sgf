@@ -1,0 +1,21 @@
+(
+;
+FF[4]
+EV[Training game]
+PB[pineapple]
+BR[6d*]
+PW[metro]
+WR[4d*]
+KM[5.5]
+DT[2000-04-14]
+PC[IGS]
+RE[B+T]
+TM[60]
+
+;B[pd];W[dp];B[pp];W[dd];B[pj];W[dj];B[fq];W[hq];B[cq];W[cp]
+;B[dq];W[ep];B[fp];W[eq];B[er];W[dr];B[cr];W[fr];B[ds];W[fo]
+;B[gr];W[en];B[go];W[gn];B[ho];W[hn];B[io];W[in];B[jo];W[jn]
+;B[ko];W[fj];B[fc];W[fd];B[gd];W[fe];B[ec];W[dc];B[hc];W[df]
+;B[nc];W[qq];B[pq];W[qp];B[qo];W[ro];B[rn];W[qn];B[po];W[rm]
+;B[rp];W[sn];B[rq];W[gp];B[gq];W[hr];B[hp];W[gs];B[fs];W[kn]
+;B[ln];W[lm];B[mm];W[mn];B[lo];)

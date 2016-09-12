@@ -1,0 +1,23 @@
+(;
+EV[20-game match]
+RO[3]
+PB[Tamura Hoju (later Shusai)]
+BR[4d]
+PW[Tsuchiya Shugen]
+WR[4d]
+RE[B+R]
+DT[1894-07-11]
+SZ[19]
+
+;B[qd];W[dc];B[pq];W[oc];B[cp];W[eq];B[po];W[cn];B[do];W[dn]
+;B[fo];W[hq];B[dj];W[cf];B[en];W[ek];B[ej];W[em];B[fm];W[fk]
+;B[jq];W[ep];B[eo];W[jp];B[iq];W[ip];B[hp];W[hr];B[kq];W[kp]
+;B[lp];W[lq];B[ko];W[jn];B[lr];W[mq];B[ho];W[in];B[mr];W[nq]
+;B[nr];W[ir];B[jr];W[js];B[kr];W[cr];B[hm];W[lo];B[dk];W[dl]
+;B[cl];W[cm];B[gj];W[ck];B[bl];W[bk];B[fl];W[el];B[gk];W[bm]
+;B[mc];W[no];B[od];W[pc];B[pd];W[qc];B[nc];W[rd];B[re];W[rc]
+;B[qf];W[gd];B[om];W[ln];B[ok];W[qm];B[rn];W[qj];B[pj];W[qi]
+;B[qk];W[rk];B[ql];W[pi];B[oi];W[oh];B[ph];W[ni];B[oj];W[rl]
+;B[rm];W[pl];B[pk];W[rg];B[og];W[nh];B[qh];W[rh];B[rf];W[qg]
+;B[pg];W[ri];B[sj];W[pf];B[sg];W[of];B[ng];W[nf];B[mg];W[mf]
+;B[lg])

@@ -1,0 +1,38 @@
+(;GM[1]AP[StoneBase(弈典):SGFParser.2.3]SZ[19]HA[0]KM[6.5]TM[0]EV[日本第46期十段战预选]PB[沟上知亲八段]PW[林海峰九段]RE[W+R]SO[www.ourgame.com]US[www.ourgame.com]
+;B[qd];W[dd];B[pq]C[<*wq001 直播1>黑棋错小目是最常见的开局。];W[dq]
+(;B[fc];W[id];B[df];W[fd];B[gd];W[fe];B[ec];W[de]
+(;B[cc]C[<wq~zhengjie 冰风溪谷>跳一个后留有断];W[gc];B[hc];W[gb];B[hd];W[dc];B[db];W[cb];B[bb]C[<*wq001 直播1>断哪边吃哪边，这是围棋格言。];W[eb];B[ca];W[fb];B[ce];W[cf];B[cg];W[cd];B[bf];W[bd]C[<wq~zhengjie 冰风溪谷>感觉黑棋也不便宜<*wq001 直播1>白30立下后，黑左上角需要补一手才活。]
+(;B[co];W[od];B[gq];W[ep]C[<*wq001 直播1>尖出必然。];B[go]
+(;W[dn]
+(;B[cm];W[kp];B[do];W[eo];B[en];W[hp];B[gp];W[fn];B[em];W[fm];B[el];W[bp];B[bo]
+(;W[er];B[jn];W[fl];B[fk];W[gk];B[gj];W[fj];B[ek];W[hk];B[gi];W[io];B[hm];W[in];B[im];W[hn];B[gn];W[gm]
+(;B[jm];W[ij];B[jq];W[jo];B[kq];W[lp];B[fo];W[gl];B[fr];W[lq];B[cr]
+(;W[cq];B[br];W[bq];B[es];W[ds];B[fs];W[oo]
+(;B[dr]C[<butterflywenzi 芳芳>黑棋又补一刀。]
+(;W[qo];B[qp];W[ro];B[nq];W[mo];B[rq];W[kj];B[pi]
+(;W[pg];B[pl];W[nl]C[<wq~zhengjie 冰风溪谷>白棋厚实,关键看攻击中能得到多少利益];B[om];W[mm];B[rm]
+(;W[qc];B[po];W[pn];B[on]
+(;W[pp];B[op];W[no];B[po]C[<butterflywenzi 芳芳>打劫了。];W[rk];B[ql];W[qj];B[pj];W[qh];B[pp];W[pd]
+(;B[kc];W[eg];B[dh]
+(;W[mc]C[<butterflywenzi 芳芳>上边的定型成为关键。];B[ic];W[jd];B[hf];W[gh]C[<butterflywenzi 芳芳>顶是手筋。];B[mb];W[jc];B[jb];W[ib]
+(;B[kb];W[hb];B[nc];W[fi];B[ei];W[fh];B[ob];W[pb];B[ke];W[he];B[nd];W[bc];B[of];W[pf];B[oe];W[pe];B[jf];W[mf];B[nh]C[<butterflywenzi 芳芳>反击。];W[kd]C[<wq~zhengjie 冰风溪谷>黑棋实地领先];B[lg];W[rl];B[qm];W[ej];B[dj];W[dk];B[ck];W[ld];B[me];W[nj];B[li];W[lj];B[ih];W[jr]
+(;B[kr];W[hr];B[gr];W[lr];B[ir];W[hq];B[hs];W[ki];B[mr];W[ls];B[iq];W[lh];B[mg];W[kg];B[kf];W[sm]C[<butterflywenzi 芳芳>一路扳粘是白棋的先手权利。];B[sn];W[sl];B[rn];W[be];B[hi];W[cf];B[rj]
+(;W[qk];B[qi];W[ri];B[sj];W[si];B[ce];W[mh];B[nf];W[cf];B[pk];W[sk];B[ce];W[lc];B[lb];W[cf];B[rj];W[sj];B[ce];W[ni];B[jg];W[kh];B[gf];W[ge];B[oc];W[pc]C[<butterflywenzi 芳芳>细棋。];B[ms];W[cf];B[rh];W[rg];B[ce];W[eh];B[di];W[cf];B[ph];W[sh];B[ce];W[mq];B[nr];W[cf];B[nm];W[nn];B[ol];W[nk];B[ce];W[oh];B[ef];W[ff];B[hh];W[cf];B[ml];W[ll];B[ce];W[ng];B[lf];W[cf];B[lm];W[mn];B[ce];W[if];B[ig];W[cf];B[ji];W[jj];B[ce];W[af];B[ag];W[ae];B[dg];W[cf];B[kl];W[mk];B[ce];W[ie];B[hg];W[fg];B[ee];W[ed];B[jp];W[ko];B[cf];W[ks];B[js];W[oa];B[na];W[pa];B[og];W[nh];B[hj];W[ik];B[np];W[le];B[md];W[ja];B[ka];W[ia])
+(;C[<<wq~zhengjie 冰风溪谷>>];W[ri];B[qi];W[qk];B[pk];W[sj];B[ce]))
+(;C[<<wq~zhengjie 冰风溪谷>>];B[kr];W[hr]C[有跳]))
+(;C[<<butterflywenzi 芳芳>>];B[hb];W[kb];B[ia];W[lc];B[ie];W[ke]C[周围白很厚，这样黑没活。]))
+(;C[<<wq~zhengjie 冰风溪谷>>];W[ic];B[nc];W[oc];B[ke];W[ie];B[ob];W[pb];B[mb]C[这样白棋实地不够]))
+(;C[<<wq~zhengjie 冰风溪谷>>];B[ic];W[kc];B[jd]C[黑棋实地不错]))
+(;C[<<butterflywenzi 芳芳>>];W[pp];B[op];W[np];B[po]C[劫。]))
+(;LB[po:A]C[瞄着将来挖断。<<butterflywenzi 芳芳>>]))
+(;C[<<wq~zhengjie 冰风溪谷>>];W[qe];B[re];W[pe];B[rf];W[qc];B[rc];W[pd];B[rd];W[pg];B[qh];W[hh];B[ni]C[b白棋围不了]))
+(;C[<<wq~zhengjie 冰风溪谷>>];W[qo];B[rq];W[pf]C[白棋中央潜力还是很大的]))
+(;C[<<butterflywenzi 芳芳>>];B[qo];W[ol]C[白棋想大吃中央五个黑子。]))
+(;C[<<wq~zhengjie 冰风溪谷>>];W[cq];B[br];W[bq];B[es];W[ds];B[fs];W[dr];B[bs];W[ar];B[ap]C[局部白不活]))
+(;C[<<wq~zhengjie 冰风溪谷>>];B[fo];W[gl];B[ij];W[jl];B[jm];W[ik]C[白棋要强吃的样子]))
+(;C[<<wq~zhengjie 冰风溪谷>>];W[in];B[er];W[dr];B[fo];W[hn];B[eq];W[dp];B[cp]C[白棋封住勉强]))
+(;C[<<wq~zhengjie 冰风溪谷>>];B[cn];W[dm];B[cm];W[dl];B[ck];W[dk];B[cj];W[jp];B[do];W[eo];B[fn];W[en];B[cq]))
+(;C[<<wq~zhengjie 冰风溪谷>>];W[cp];B[do];W[bo];B[bn];W[bp];B[dm];W[pf]))
+(;C[<<wq~zhengjie 冰风溪谷>>];B[bc];W[cn];B[ck];W[ie]C[补活现在太小]))
+(;C[<<wq~zhengjie 冰风溪谷>>];B[cb];W[cf]C[普通]))
+(;C[<<*wq001 直播1>>];B[do]C[先挂小目也很多。];W[co];B[cn];W[cp];B[fc];W[cf];B[dn];W[fq];B[dj];W[oc];B[mc]))
