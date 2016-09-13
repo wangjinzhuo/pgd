@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第13届中国围棋名人战第五局]DT[2000-11-21]KM[5.5]BR[九段]WR[九段]C[http://weiqi.cn.tom.com
+
+棋圣道场-->比赛直播]PB[邵炜刚]PW[马晓春]RE[W+0.5];B[pd];W[dd];B[qp];W[dq];B[oq];W[qj];B[cf]
+
+;W[fc];B[co];W[ce];B[fq]C[黑11抢先攻击，力争全局主动权。];W[ep];B[fp];W[dn];B[cm];W[cp];B[bp];W[do]LB[bq:a]C[白18下法少见，一般是在a位挡]
+
+;B[bn];W[fn];B[cr]C[21试白应手是好着];W[cq]LB[dr:a]C[白22虽不愉快也只能如此了，若于a位挡，被黑22位打吃是受不了的];B[cj];W[qg];B[nc];W[bf];B[dr];W[eq];B[er]
+
+;W[fo]C[白28、30稍嫌委屈，但一时也找不到更好的下法，只有先安定自己再找机会了];B[qe];W[rp];B[rq]C[黑33稳健，如果于a位扳，则白b位断，黑恐落后手]LB[ro:a][qo:b];W[hq];B[bq];W[qo];B[pp];W[pm];B[kc]
+
+;W[ic];B[kq];W[ro]C[白42是既大又厚实的一手];B[pj]LB[qk:a][pg:b][ph:c][og:d][qh:e][qi:f][pl:g]C[43靠，试白应手。白棋如在a位长，则黑b、白c、黑d后，e位的断点变得严厉；如果白在f位长，则今后存在着g位靠的手段];W[qk];B[gp]
+
+;W[np];B[nq];W[io];B[ko];W[ch]C[白50先捞实地，看黑棋如何攻击白下面两子];B[go];W[jn];B[kn];W[jp]C[白52、54是典型的“苦肉计”，棋型虽难看，但很实用];B[jq];W[gn];B[jm]LB[hp:a][ip:b][kp:c]C[黑57虽可于a位冲吃一子，但被白b位先手团后，再c位冲断，黑不便宜]
+
+;W[ho]C[至此中午封盘，黑方用时1小时30分， 白方用时1小时3分];B[pg];W[mc]LB[ph:a][og:b]C[白60靠是一种心情，如果有了白a、黑b的交换，白若再靠在此位，黑棋可能动杀心];B[mb];W[ph];B[og];W[lb];B[lc];W[md];B[nb]
+
+;W[je];B[ih]C[黑69是威风八面的好棋，黑局面领先];W[jg];B[ig];W[hf];B[gg];W[rf];B[oh];W[if];B[df];W[bg];B[eh];W[jb]
+
+;B[kb];W[jh];B[gf];W[ge];B[fe]C[黑73至85先手侵消了白棋……];W[fd];B[kf];W[jf];B[po];W[pn];B[re]C[继而在91挡，黑棋作战成功];W[ke]
+
+;B[on];W[om];B[im];W[hm];B[in];W[hn];B[nn];W[sq];B[rr];W[kp];B[lp];W[jo];B[lm]C[黑93至105价值很大，且厚实]
+
+;W[lq];B[lr];W[cn];B[bl]C[黑109是防止白棋在此闹事，波及中间的黑棋];W[bo];B[ao];W[qf];B[pf];W[qh];B[le]C[在研究室中观战的曹大元九段和张文东九段认为黑115是败着];W[se];B[sd]
+
+;W[sf];B[rd];W[ld];B[gr]C[白120冲后，黑121脱先……];W[iq];B[pi];W[mf]C[124吃进黑二子太大了，当初115的恶果由此可见];B[bi];W[jr];B[kr];W[il]C[白128是胜负手];B[jl]
+
+;W[jk];B[kk];W[ik];B[kj];W[lo];B[mq];W[mm];B[ml];W[ll];B[kl];W[nl];B[mk];W[mn]
+
+;B[mo];W[nm];B[ln];W[nk];B[mj]C[至147止，黑地虽略有增加，但白先手阻止了黑上边和下边的联络];W[dj]C[148重拳出击，看黑如何治理中腹的弱棋，鹿死谁手就看这一战了];B[di];W[ci];B[ej];W[dk];B[ck];W[ek]
+
+;B[fk];W[fl];B[gk];W[dh];B[ei];W[eg];B[fg];W[ef];B[ee];W[dg];B[gi];W[ff];B[bh]
+
+;W[cg];B[hl];W[ji];B[jj];W[gl];B[hk];W[ii];B[ij];W[nj];B[oi];W[pk];B[jc];W[ib]
+
+;B[dm];W[em];B[lg];W[mg];B[lh];W[lf];B[hi];W[sr];B[ne];W[me];B[dl];W[el];B[qi]
+
+;W[ri];B[ir];W[hr];B[js];W[rs];B[qr];W[nd];B[od];W[hs];B[sp];W[so];B[nf];W[is]
+
+;B[jr];W[hg];B[hh];W[li];B[mh];W[bj];B[aj];W[mi];B[gs];W[ah];B[bk];W[kg];B[ni]
+
+;W[lj];B[lk];W[ki];B[oj];W[ok];B[hp];W[ip];B[ja];W[ia];B[jd];W[id];B[ka];W[ng]
+
+;B[nh];W[fr];B[fs];W[gq];B[fr];W[co];B[oe];W[ag];B[ai];W[sp];B[qs];W[kd];B[la]
+
+;W[ss])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

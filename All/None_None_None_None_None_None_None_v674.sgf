@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]PC[]EV[“名人赛”挑战权赛三番棋第二局]DT[2000-08-09]PB[邵炜刚]BR[九段]PW[刘菁]WR[八段]KM[5.5]RE[黑胜1又3/4子]C[
+
+吴玉林六段解说
+
+http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局];B[qd];W[od];B[pp];W[dc];B[dp];W[cn]
+
+;B[fq];W[di];B[jc]C[此时分投是力求稳妥的下法];W[gp]C[布局的趣向。];B[fp];W[gn];B[em];W[kp];B[mp];W[cp]C[托也是有趣的着想];B[cq];W[do]
+
+;B[bp]LB[eo:a][dq:b][ep:c][bq:d][cr:e][br:f][dr:g][dl:h]C[当然的一手，此时若是于a位应正合白意，经白b、黑c、白d、黑e、白f、黑g、白h，白实利大可满足。];W[fo];B[co];W[dn];B[bn];W[cl]C[实战至24，双方各有所得。]
+
+;B[gd]C[全局的好点];W[de];B[mc];W[pf]C[思路灵活的一手];B[oc];W[nd];B[nc];W[pd];B[pc];W[qe];B[rd];W[gf]C[形势要点]
+
+;B[pj];W[ie];B[cc]C[机敏，现在正是问白应手的绝好时机。];W[cd]C[待白40应、黑在白角部留有活棋抢得先手后，];B[mj]C[抢占41位的形势消涨要点，构思巧妙。];W[qp];B[qo];W[ro];B[po];W[qq];B[rn];W[or]
+
+;B[db];W[ec];B[qg]LB[bm:a][dl:b][kj:c]C[稍有疑问，当于a位长、与白b位双作交换后再于c位关绝好。];W[oh];B[pi];W[kj];B[jf];W[kh];B[if];W[hf]
+
+;B[lf];W[ni];B[ih];W[nj];B[hg];W[gg];B[gh];W[fh];B[gi];W[fi];B[gj];W[eb];B[rp]
+
+;W[rq];B[so];W[np]LB[ok:a]C[显缓，此时当下a位尖，极大。];B[no];W[nq];B[nk];W[mk];B[nl];W[mo];B[lk]C[好手，白78一子已不能逃出。];W[mf]
+
+;B[me];W[le];B[ke];W[ne];B[ld];W[mg];B[nn]LB[bm:a]C[此时于a位长实利最大。];W[bm]C[被白占到此处后局势相当、胜负不明。];B[bb];W[ca];B[gb]
+
+;W[hc];B[hb];W[re]C[疑问，当下a位挡下为好，如此全局呈细棋模样。]LB[gq:a];B[lo];W[mq];B[fb];W[fa];B[lp]C[以下按正确收官，黑棋稍优。];W[lq];B[ko];W[sd]
+
+;B[rb];W[sh];B[rh];W[mi];B[lj];W[li];B[fj];W[ej];B[ek];W[dk];B[kk];W[sg];B[si]
+
+;W[se];B[rg];W[sf];B[ri];W[fd];B[hd];W[id];B[ic];W[jo];B[jn];W[jp];B[in];W[gq]
+
+;B[gr];W[hr];B[fr];W[hm];B[il];W[hl];B[fl];W[jl];B[km];W[iq];B[pq];W[pr];B[ik]
+
+;W[jk];B[jj];W[ij];B[ji];W[im];B[hk];W[jm];B[ki];W[rc]C[最后的抵抗，以一争胜负。];B[qc];W[sb];B[sc];W[an]
+
+;B[bo];W[rc];B[ga];W[ea];B[sc];W[gk];B[hj];W[rc];B[bd];W[cb];B[sc];W[oj];B[ok]
+
+;W[rc];B[bc];W[be];B[sc];W[he];B[pg];W[og];B[sa]C[劫争解消后局势明朗，黑棋胜定。
+
+
+
+以下官子解说从略。];W[sq];B[ho];W[gl];B[fk];W[io]
+
+;B[hn];W[hp];B[kl];W[gm];B[ao];W[am];B[dm];W[cm];B[kg];W[lh];B[hs];W[is];B[gs]
+
+;W[jh];B[jg];W[md];B[le];W[jd];B[kd];W[sp];B[ro];W[ph];B[qh];W[op];B[oo];W[ge]
+
+;B[gc];W[fc];B[ep])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

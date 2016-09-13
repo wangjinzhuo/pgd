@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]GN[日本小棋圣战]DT[1995/03/30]PB[石田笃司]BR[6P]PW[大竹英雄]WR[9P]RO[]PC[日本东京日本棋院]US[]SO[]C[]RE[B+R]GM[5.5];B[pd];W[dd];B[cp];W[pp];B[eq];W[ck];B[fc];W[cf];B[db];W[cc];B[ic];W[qf];B[pi];W[qc];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc];B[qn];W[nq];B[on];W[rp];B[ro];W[qo];B[rn];W[ni];B[ki];W[of];B[pg];W[nd];B[pf];W[mn];B[cm];W[hp];B[kn];W[mp];B[kp];W[hm];B[rq];W[jo];B[ko];W[ml];B[jm];W[pj];B[qq];W[qi];B[ph];W[qk];B[oj];W[ok];B[nj];W[nk];B[mj];W[qp];B[no];W[mo];B[pq];W[op];B[sp];W[pm];B[pn];W[or];B[rl];W[qm];B[rm];W[rk];B[pr];W[nn];B[oo];W[jq];B[lq];W[lr];B[oq];W[np];B[jk];W[nr];B[sl];W[ib];B[hb];W[jb];B[jc];W[kc];B[kd];W[lc];B[hd];W[fd];B[gd];W[ff];B[ne];W[ld];B[lf];W[cb];B[dj];W[dk];B[ej];W[cj];B[dh];W[bh];B[hk];W[bp];B[bo];W[cq];B[dp];W[dr];B[bq];W[fr];B[er];W[br];B[ap];W[gq];B[es];W[ke];B[kf];W[dm];B[jp];W[ip];B[cl];W[jd];B[oc];W[ob];B[gg];W[fg];B[gh];W[fh];B[gi];W[gf];B[ed];W[id];B[hc];W[dc];B[ia];W[kb];B[ec];W[if];B[ig];W[hg];B[hh];W[hf];B[jg];W[eb];B[fb];W[da];B[fe];W[ee];B[ge];W[kl];B[im];W[dl];B[bk];W[bj];B[kq];W[kr];B[pb];W[qb];B[bl];W[cn];B[bn];W[fk];B[fj];W[qh];B[qg];W[om];B[os];W[ns];B[ps];W[gk];B[gj];W[hl];B[il];W[eo];B[ek];W[hn];B[el];W[fm];B[rg])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

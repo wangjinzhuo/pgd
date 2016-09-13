@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]DT[1999/12/28]PC[北京]PB[马晓春]BR[9p]PW[俞斌]WR[9p]KM[5.5]RE[B+4.5]US[]EV[第3届乐百氏挑战者决定赛];B[pd];W[dd];B[qp];W[dq];B[do];W[np]
+
+;B[oq];W[dl];B[gp];W[eo];B[en];W[fo];B[dp];W[fq];B[cq];W[eq];B[fn];W[go];B[bp]
+
+;W[nq];B[or];W[nr];B[pn];W[jp];B[qf];W[gn]C[追求调子];B[el];W[ek];B[fl];W[fk];B[gk];W[gj]
+
+;B[hl];W[hk];B[gl];W[dj]C[大致如此];B[fc];W[dc];B[cf]C[马晓春毫不犹豫的打入];W[ch]C[感觉有点委屈，但也不太清楚应该下到哪里];B[bd];W[bc];B[dh];W[ci]
+
+;B[cb];W[cc];B[fe]C[灵活的转身是马的特点];W[df];B[jc]C[可能还是拆二好一点，有利与实地];W[hc];B[id];W[fb];B[eb];W[fd];B[gd];W[ec]
+
+;B[ed];W[gb];B[hd]C[白先手捞取实地，白无不满。];W[hj];B[db];W[bb];B[de];W[ce];B[ef];W[dg];B[be];W[ee];B[kp]
+
+;W[kq];B[de];W[cd]C[黑好象比较痛快，其实应该保留];B[lq];W[lp]C[白应该在69的上面（L5）打，马晓春局后的意见];B[ko];W[jq];B[pk];W[nj];B[oi]C[俞斌认为不好，在P17守角大];W[pc];B[oc]
+
+;W[qd];B[pe];W[qb];B[ob];W[re];B[rf];W[rc];B[mh];W[ol];B[pl];W[op];B[pp];W[on]
+
+;B[pm];W[ib]C[到这里，双方形势接近];B[jb];W[kh];B[ns];W[ms];B[os]C[黑扳沾是巨大的官子];W[lg];B[lr];W[lo];B[mr];W[kn]
+
+;B[cm];W[cl];B[bm];W[le];B[pb];W[qc];B[sf];W[qe];B[nf];W[lc];B[md];W[ld];B[eg]
+
+;W[cg];B[hg];W[if];B[gc];W[ne];B[me];W[mf];B[ng];W[ig]C[败着！];B[hb]C[马晓春的鬼手！上面居然有棋！];W[ha];B[ic]
+
+;W[hb];B[mg];W[lf];B[fa]C[这里如果白收气吃，是个倒脱靴！];W[ca];B[ba];W[aa];B[ea];W[ja]C[白大势已去，解说从略];B[lb];W[ka];B[kb]
+
+;W[mc];B[nd];W[ba];B[la];W[da];B[om];W[dr];B[im];W[in];B[is];W[ir];B[cr];W[bl]
+
+;B[al];W[ak];B[am];W[bk];B[oo];W[no];B[nn];W[lj];B[hh];W[oj];B[pj];W[ni];B[nh]
+
+;W[cs];B[js];W[hs];B[ks];W[br];B[bq];W[hr];B[hn];W[ho];B[li];W[ki];B[kj];W[lk]
+
+;B[kk];W[ll];B[km];W[kl];B[jl];W[ii];B[jk];W[lm];B[jn];W[jo];B[io];W[hf];B[gf]
+
+;W[fh];B[eh];W[fi];B[fg];W[ip];B[ih];W[jh];B[mn];W[jm];B[ia];W[ja];B[km];W[dm]
+
+;B[dn];W[jm];B[in];W[ik];B[il];W[se];B[nk];W[mj];B[je];W[nl];B[ok];W[nm];B[jf]
+
+;W[jg];B[jj];W[ji];B[hi];W[lh];B[mi];W[ij];B[ei];W[nc];B[oe];W[gm];B[ej];W[fj]
+
+;B[ln];W[km];B[ee];W[kf];B[ep];W[fp];B[ar];W[bs];B[ka];W[ga];B[ia];W[eb];B[nb]
+
+;W[mb];B[ma];W[pa];B[oa];W[qa];B[mm];W[ml];B[ja];W[mo];B[on];W[mq];B[he]C[;])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

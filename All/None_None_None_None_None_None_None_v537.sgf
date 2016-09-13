@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;C[欢迎光临 敲玉余韵 围棋棋谱库
+
+http://www.psc-a.org/go]SZ[19]FF[3]PB[李昌镐]PW[曹薰铉]PC[釜山]DT[1991.01.19]KM[5.5]RE[W+3.5]EV[第30期最高位战挑战赛第二局];B[pd];W[dd];B[pq];W[dp];B[fq];W[qo];B[cn];W[fp];B[gp];W[fo];B[dq];W[eq];B[er];W[ep];B[gr];W[cq];B[dr];W[go];B[hp];W[op];B[oq];W[np];B[mq];W[nq];B[nr];W[mr];B[lr];W[mp];B[lq];W[or];B[ms];W[qq];B[pr];W[ck];B[qj];W[nc];B[pf];W[pb];B[qc];W[kc];B[dl];W[dk];B[el];W[ek];B[fl];W[ho];B[fk];W[fj];B[gj];W[fi];B[gi];W[fh];B[cc];W[cd];B[dc];W[ec];B[eb];W[fb];B[fc];W[ed];B[gb];W[db];B[fa];W[cb];B[jc];W[jb];B[ib];W[kb];B[pp];W[po];B[qm];W[cl];B[en];W[hl];B[hk];W[il];B[fd];W[fe];B[ge];W[ff];B[jj];W[kl];B[om];W[qr];B[rn];W[lk];B[nn];W[ro];B[li];W[ip];B[jo];W[io];B[jn];W[bp];B[bn];W[hr];B[iq];W[hq];B[gq];W[gs];B[fr];W[ir];B[jq];W[jr];B[cr];W[br];B[aq];W[ap];B[bs];W[jp];B[kq];W[cm];B[dm];W[bm];B[nd];W[oc];B[mk];W[ml];B[nk];W[ic];B[hc];W[jd];B[lm];W[gl];B[gk];W[qb];B[rb];W[lg];B[jk];W[km];B[ln];W[ar];B[kr];W[in];B[hg];W[gf];B[am];W[al];B[an];W[gm];B[mg];W[mf];B[ng];W[gd];B[hd];W[he];B[ia];W[lh];B[mi];W[da];B[ea];W[ll];B[lf];W[ki];B[kj];W[kf];B[le];W[jg];B[md];W[on];B[mc];W[mb];B[nb];W[na];B[nm];W[ra];B[sb];W[od];B[oe];W[ji];B[lj];W[gh];B[ii];W[ih];B[hi];W[hh];B[jm];W[jl];B[rr];W[rs];B[rq];W[qs];B[os];W[sr];B[pn];W[oo];B[qp];W[rp];B[qn];W[pc];B[rd];W[qe];B[pe];W[lc];B[ke];W[je];B[id];W[cs];B[ds];W[ld];B[me];W[nl];B[ol];W[ik];B[ij];W[sn];B[sm];W[so];B[ie];W[if];B[mh];W[kh];B[co];W[cp];B[ja];W[im];B[ka];W[la];B[fn];W[gn];B[fm];W[])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

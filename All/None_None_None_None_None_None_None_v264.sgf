@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第十七届日本碁圣战]RO[4]PB[小林觉]BR[九段]PW[小林光一,棋圣,名人,碁圣]KM[5.5]DT[1992-08-26]PC[日本]RE[W+R];B[pd];W[dd];B[pq];W[cp];B[eq];W[qo];B[qk];W[pp];B[oq];W[qq];B[qr];W[rq];B[lq];W[do];B[ci];W[ck];B[cf];W[ce];B[df];W[fc];B[gp];W[dq];B[ep];W[ek];B[nc];W[op];B[np];W[no];B[mp];W[ei];B[gf];W[gd];B[qe];W[gh];B[fe];W[bf];B[bg];W[be];B[ed];W[ec];B[de];W[dc];B[hg];W[jd];B[fm];W[dr];B[dm];W[gk];B[hm];W[ii];B[jg];W[pj];B[qj];W[pi];B[ol];W[mj];B[rr];W[mo];B[lo];W[mm];B[pn];W[qn];B[nm];W[mn];B[qi];W[ph];B[pm];W[rl];B[rg];W[pk];B[ql];W[qm];B[pl];W[kn];B[bm];W[cl];B[cm];W[er];B[kj];W[jh];B[kh];W[kg];B[lh];W[ig];B[jf];W[if];B[hh];W[ih];B[hi];W[hj];B[ij];W[ik];B[jj];W[jl];B[ie];W[je];B[kf];W[he];B[gi];W[lk];B[fj];W[fk];B[hf];W[id];B[ji];W[ie];B[ej];W[mf];B[mi];W[mg];B[nj];W[nk];B[lj];W[mk];B[nh];W[ng];B[lg];W[lf];B[ke];W[ld];B[og];W[oh];B[pg];W[ni];B[oi];W[oj])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,16 @@
+(;SZ[19]EV[第16届富士通杯世界围棋锦标赛第二轮]DT[2003-04-14]KM[6.5]US[棋圣道场]SO[http://weiqi.tom.com]PC[日本东京]C[http://weiqi.tom.com
+棋圣道场-->大赛直播]PB[羽根直树]BR[九段]PW[李世石]WR[六段]RE[W+R];B[qd];W[dp];B[pp];W[dd];B[oc]
+;W[qj];B[cj];W[cl];B[cf];W[ch];B[bh]LB[ef:a]C[黑11的下法近来已不多见，一般是在a位跳];W[bg]LB[fc:a]C[白12直接动出是较为激烈的下法，如a位小飞则属稳健];B[cg];W[bi];B[bf]LB[dh:a][ci:b][di:c][bj:d][bd:e]C[黑15如a位打、白b、黑c、白d、黑15、白e，黑棋不满]
+;W[ci];B[cc];W[cd];B[dc];W[bc];B[ed]LB[bb:a][bd:b]C[黑21是好次序，如先作黑a、白b的交换则是利敌行为];W[de]LB[ee:a][fd:b][df:c][bd:d]TR[ed]C[白22如a位扳，则黑b退，白棋仍需22位接，如走c位虎，则黑棋有d位断的手段，白棋不行，这也是当初黑△单扳的原因]
+;B[fd];W[eg];B[dg]LB[ef:a][ee:b]C[黑25如a位跨，则白b单冲，黑棋不行];W[ef]LB[eh:a][df:b][bd:c][be:d][ad:e]C[白26如a位退，则黑26、白b、黑c、白d、黑e，白棋不行];B[dh];W[fi]
+;B[eh];W[fh];B[ej];W[bj];B[fj];W[hd];B[gg]LB[he:a]C[黑35可考虑在a位靠出];W[gf];B[hf];W[ge];B[fg];W[hg]
+;B[gh];W[ff];B[bb];W[bd];B[hc];W[gi];B[hh];W[gc]C[白48好手];B[gd];W[he];B[ih];W[gj];B[gk]
+;W[ij];B[fl];W[hb]C[白56凶狠];B[ic];W[gb];B[ib];W[ec];B[fc];W[eb];B[fb];W[cb]C[至64形成转换，从实地看是白有所得，但黑棋获先手，胜负尚不明朗];B[il]
+;W[kj];B[kh];W[ke];B[je];W[jd];B[kc];W[jl];B[jm];W[im];B[hl];W[jk];B[km]LB[in:a][hm:b][hn:c][gm:d][fo:e]C[黑77的下法风险不小，在a位吃是正着，白如b位跑，则黑c、白d、黑e，白棋被吃]
+;W[in]C[白78后，黑棋难下];B[mi]C[79后，双方形成混战];W[mj];B[nj];W[mk];B[ni];W[mm];B[ko];W[mo];B[io]C[黑87是胜负手];W[gn];B[gm]
+;W[jn];B[kn];W[jo];B[jp];W[ip];B[iq];W[ho];B[gp];W[fn];B[kq]C[至99的结果，黑棋成功地处理好了下边，白如不能对左边黑棋实施有效的攻击则将是黑棋有利的局面];W[ek];B[fk];W[ah]
+;B[dl];W[dk]LB[dm:a][em:b][dn:c][ck:d][bk:e][en:f]C[白104强硬，在a位扳是普通的想法，以下黑b、白c、黑d、白e、黑104作活后，尚留有f位冲的手段，白棋不行];B[el];W[ck];B[dn];W[eo];B[cp]LB[cm:a][co:b]C[黑109如a位虎，则白b尖，黑棋不行]
+;W[cq];B[co];W[cm];B[en];W[bq];B[hm];W[hn];B[eq];W[dq];B[ep];W[fo];B[do]C[至121，白棋看似陷入困境];W[fp]
+;B[fq];W[hq];B[gq];W[ir];B[dr];W[cr];B[er];W[bp];B[bo];W[ap]LB[gr:a][ar:b]C[白132绝妙，白棋如简单地在a位扳，则黑b位点，杀气白棋不行];B[ar]
+;W[ao];B[bn];W[an];B[bm];W[am];B[bl];W[al];B[bk];W[ak]C[白142后，黑棋左边或下边已不能两全，李世石的算路之深令人惊叹];B[jq];W[hp];B[gr];W[hr]
+;B[fs];W[lp];B[kp];W[ds];B[hs];W[jr];B[kr];W[js]LB[dj:a][mq:b]C[白154后，a位和b位白棋必得其一，黑棋只得投了])

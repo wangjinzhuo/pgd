@@ -1,0 +1,134 @@
+(;SZ[19]PB[曹薰铉]BR[九段]PW[李昌镐]
+WR[四段]PC[韩国棋院]DT[1991-04-21]KM[5.5]
+RE[白中盘胜]EV[第25期王位战七番胜负决胜局]GN[第25期王位战七番胜负决胜局]C[第25期王位战七番胜负决胜局
+黑：曹熏铉（王位）
+白：李昌镐（挑战者）
+
+《围棋天地》2004年第1期
+金成龙九段《一线上的玄机》]
+
+;B[pd]	;W[dp]	;B[pp]	;W[dd]	;B[fq]	;W[dn]	;B[ip]	;W[nq]	;B[oq]	;W[np]
+;B[pn]	;W[kq]	;B[jr]	;W[kr]	;B[cl]	;W[ci]	;B[el]	;W[fn]	;B[fp]	;W[cm]
+;B[cj]	;W[di]	;B[eo]	;W[en]	;B[cq]	;W[dq]	;B[do]	;W[cp]	;B[co]	;W[bm]
+;B[bp]	;W[bq]	;B[bo]	;W[cr]	;B[ej]	;W[jq]	;B[iq]	;W[fo]	;B[ep]	;W[gm]
+;B[jn]	;W[fh]	;B[hk]	;W[im]	;B[er]	;W[dr]	;B[ir]	;W[mm]	;B[ln]	;W[mn]
+;B[kl]	;W[fk]	;B[fi]	;W[gi]	;B[gj]	;W[fj]	;B[ei]	;W[eh]	;B[dj]	;W[gk]
+;B[gh]	;W[hj]	;B[hi]	;W[gj]	;B[dh]	;W[gg]	;B[ch]	;W[hh](;B[jc]LB[kc:A]C[黑69还是应A位稍拆一路，比较平稳。]
+;W[lc]	;B[gc]	;W[fb]
+;B[le]LB[ec:A]C[白棋还有A位的弱点]
+;W[kd]	;B[jf]	;W[jd]	;B[id]	;W[ie]	;B[hd]	;W[je]	;B[ec]	;W[fc]	;B[fd]
+;W[ed](;B[db](;W[fe]
+;B[gd]C[实战对局者和研究室的观战者对这里进行了很多复杂的计算。]
+(;W[bg]C[白88试应手。]
+
+;B[cf]C[黑89当然反击]
+;W[eb]	;B[dc]	;W[cc]	;B[cb]	;W[bb]	;B[bc]	;W[cd]	;B[ba]	;W[bd]	;B[ab](;W[bk]C[白100瞄着黑棋整个大龙]
+(;B[bj]	;W[bf]	;B[bl]	;W[al]	;B[ck]	;W[ak]	;B[dm]	;W[dl]	;B[aj]	;W[am]
+;B[em]	;W[ek](;B[eg]	;W[ef]	;B[fg]	;W[gh]	;B[lp]	;W[ko]	;B[kp]	;W[lo]	;B[jp]	;W[kn]
+;B[jm]	;W[mp]	;B[ok]	;W[mk]	;B[ni]	;W[lj]	;B[lh]	;W[qo]	;B[po]	;W[qn]
+;B[qm]	;W[rm]	;B[ql]	;W[qq]	;B[or]	;W[rl]	;B[rk]	;W[rj]	;B[qk]	;W[rr]
+;B[ll]	;W[ki]	;B[ml]	;W[nl]	;B[nk]	;W[nn]	;B[gf]	;W[ge]	;B[he]	;W[hf]
+;B[if]	;W[hg]	;B[jb]	;W[hb]	;B[gb]	;W[kf]	;B[jg]	;W[kh]	;B[mj]	;W[lm]
+;B[kg]	;W[lg]	;B[ke]	;W[qc]	;B[pc]	;W[qd]	;B[qe]	;W[re]	;B[rf]
+;W[lf]C[白中盘胜]
+)
+(;B[dk]MN[1]	;W[fl]	;B[cn]	;W[fm]	;B[dl]
+;W[bi]C[黑棋被吃]
+)
+)
+(;B[ef]MN[1]	;W[bi]	;B[bh]	;W[bj]	;B[ee]
+;W[qf]C[形成转换，黑棋成功。
+白棋得到6位挂角，胜负还早。
+以后白如果试图A渡过......]LB[ah:A]
+;B[qh]
+;W[ah]C[白棋渡过的话......]
+;B[bf]	;W[af]	;B[ae]	;W[be]	;B[cg]	;W[ad]	;B[ai]	;W[aj]	;B[ce]	;W[ag]
+;B[ac]	;W[ai]	;B[de]	;W[ae]
+;B[bl]C[白棋接不归。]
+)
+(;B[ef]MN[1]	;W[ee]	;B[bl]	;W[al]
+;B[aj]C[黑5点妙手]
+;W[ak]
+;B[bf]C[黑7挡后，黑活棋。
+如果以后白棋A位冲......]LB[bj:A]
+;W[bj]	;B[bi]	;W[ai]	;B[bh]	;W[ah]	;B[cg]	;W[ag]	;B[af]	;W[aj]
+;B[ad]C[黑棋可以渡过]
+)
+(;B[ef]MN[1]	;W[ee]	;B[bl]	;W[al]
+;B[aj]C[黑5妙手]
+;W[bi]	;B[bj]	;W[bf]	;B[bh]	;W[ak]	;B[ck]	;W[am]	;B[dm]	;W[dl]	;B[em]
+;W[ek]	;B[dk]	;W[fl]
+;B[ai]LB[cn:A][ci:B]C[黑棋A，B见合，活棋]
+)
+(;B[ef]MN[1]	;W[ee]	;B[bl]	;W[al]	;B[aj]	;W[bi]	;B[bj]
+;W[bh]C[白8顽强，试图杀气]
+;B[bf]	;W[af]	;B[ae]	;W[ag]
+;B[be]LB[cg:A]C[黑1正好起到作用，否则白A冲吃。白棋不行。]
+)
+)
+(;W[bf]MN[1]C[研究室里面一直在研究白1爬回的手段，变化相当复杂。]
+
+;B[dm]C[黑2挤是意外的强手。
+白A接显然不好，黑B挡住简单活棋。]LB[cn:A][bl:B]
+;W[bk]	;B[bl]	;W[al]	;B[aj]	;W[ck]	;B[dl]	;W[ak]
+;B[cn]C[白棋似乎难下]
+;W[bj]	;B[bi]
+;W[ai]C[但白棋有渡过的手段]
+;B[bh]	;W[ah]
+;B[be]C[然而黑棋还有黑16挖的好手。]
+;W[ce]	;B[ag]	;W[af]	;B[bn]	;W[am]	;B[dk]	;W[aj]	;B[an]	;W[ag]	;B[cg]
+;W[ae]
+;B[ad]LB[be:A][ee:B]C[白棋不能A位接，否则黑B。]
+
+;W[ac]C[形成天下大劫。
+但是个三手劫。]
+)
+(;W[bf]MN[1]
+;B[ak]LB[bi:A][bh:B][ah:C][ai:D]C[黑2是妙手。
+白A跑的话，黑B，白C，黑D，白棋接不归]
+;W[bk]	;B[bl]
+;W[bi]C[白棋先跨再立，顽强]
+;B[bh]	;W[ah]	;B[ai]	;W[aj]	;B[al]	;W[cg]	;B[dm]	;W[cn]
+;B[am]C[黑棋连回。]
+)
+(;W[bf]MN[1]	;B[ak]	;W[bk]	;B[bl]	;W[bi]	;B[bh]	;W[ah]	;B[ai]	;W[aj]
+;B[bj]C[黑10恶手]
+;W[al]	;B[ai]	;W[bi]	;B[ci]	;W[ai]	;B[ck]	;W[ak]	;B[dm]
+;W[dl]C[黑棋净死]
+)
+)
+(;W[bk]MN[1]C[白1直接点好手，严厉。
+不给黑棋转身的机会。]
+;B[bj]	;W[eb]	;B[dc]	;W[cc]	;B[cb]	;W[bb]	;B[bc]	;W[cd]	;B[ba]	;W[bd]
+;B[ab]	;W[bg]	;B[cf]
+;W[bf]C[黑棋净死，连转身的机会都没有。]
+)
+(;W[eb]MN[1]C[局后研究出来的最简明的走法就是白1先打吃......]
+;B[dc]
+;W[ce]C[白3妙手。
+瞄着A，B位。]LB[cc:A][bi:B]
+()
+(;B[bl]MN[1]	;W[cc]	;B[cb]	;W[bb]	;B[bc]	;W[ca]	;B[cd]
+;W[da]C[黑棋左上角被吃。]
+)
+(;B[cc]MN[1]	;W[bk]	;B[bl]	;W[al]	;B[aj]	;W[bi]	;B[bj]	;W[bh]	;B[bg]
+;W[cg]	;B[dg]
+;W[df]C[黑大龙被吃。]
+)
+)
+)
+(;W[dc]MN[1]	;B[eb]	;W[fe]	;B[gd]	;W[cb]	;B[gb]
+;W[cf]C[普通定型]
+)
+)
+(;B[eb]MN[1]C[黑棋如果1位定型]
+;W[fe]	;B[gd]	;W[db]	;B[gb]	;W[dc]	;B[fa]
+;W[bg]C[白8点是有诱惑力的一手。]
+;B[cf]	;W[bf]	;B[bl]	;W[ce]
+;B[bh]C[双方相安无事，胜负很漫长]
+)
+)
+(;B[kc]MN[1]	;W[ic]	;B[nc]	;W[dg]	;B[bg]
+;W[qi]C[普通一盘棋，双方可下。]
+)
+)

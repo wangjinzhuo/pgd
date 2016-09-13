@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届富士通杯半决赛]DT[2002-07-06]US[棋圣道场]SO[http://weiqi.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本大阪]KM[5.5]BR[九段]WR[九段]PB[刘昌赫]PW[王铭琬]RE[B+4.5];B[pd]C[本局是刘昌赫与王铭琬首次在世界大赛中相遇];W[dd];B[qp];W[np]
+
+;B[oq];W[dp];B[op];W[no];B[oo];W[nn];B[mr];W[nc];B[kd];W[qf];B[nd];W[qc]LB[md:a]C[白16不多见，一般是直接在a位扳]
+
+;B[qd];W[md];B[oc]C[黑19反击是当然的];W[ne]LB[mb:a]C[白20也有单于a位虎的下法];B[od];W[mb];B[me];W[le];B[mf];W[ld];B[nb]
+
+;W[of];B[mh];W[oh];B[kg];W[ke];B[pg]C[黑33意在补强右上角];W[mg]LB[pf:a]C[白34是手筋，要优于单在a位接];B[lg]LB[ng:a][og:b]C[黑35如a，则白b，黑需后手防白在35位的长出];W[ng]
+
+;B[lf];W[pf];B[nf];W[ph];B[ok]LB[pk:a][nk:b][ba:c]C[黑41如a，担心白在b位镇];W[mj]LB[qk:a]C[白42似有不妥，在a位大飞较为实惠];B[pj]C[黑43好手，白顿感不适];W[ml]
+
+;B[lk];W[mk];B[ni]C[黑47分断逼白做活，顺势补强自己];W[re]LB[rd:a]C[白48与a的交换非白所愿];B[rd];W[qi];B[qj];W[sd];B[rc]C[黑53是本手];W[li];B[om]C[至55，黑布局成功]
+
+;W[ie];B[ri];W[rh];B[rj]C[黑57、59似小实大];W[lh];B[jh];W[jj];B[oe];W[lq];B[rg];W[sh];B[qg];W[qh]
+
+;B[qe];W[nh];B[rf];W[mi]C[至72，黑又有所得，实地明显占优];B[fq];W[hp];B[fo];W[dn];B[fm];W[gn];B[eo]LB[fn:a][hl:b]C[黑79随机应变，如a接，则白b飞，黑不满]
+
+;W[do];B[em];W[cl];B[hl];W[nr]LB[ek:a]C[白84有迟缓之感，此时极想在a位飞看黑如何应付];B[nq];W[mq];B[lr];W[kr];B[or];W[eq];B[fr]
+
+;W[jp]C[至92，白落后手，不能满意];B[ej]C[黑93后，黑的优势明朗化了];W[gj];B[ck]C[黑95是好次序];W[dl];B[fk];W[ci];B[ij]C[黑99严厉];W[jk]LB[ii:a][hi:b]C[白100如在a位，则黑b位反扳，白不行]
+
+;B[ik];W[ec];B[dh]LB[ge:a]C[黑103是稳健策，如在a位侵消也是可行的];W[ef];B[ch];W[cf];B[hf];W[he];B[cq]C[黑109给白最后一击];W[dk]LB[er:a][bo:b][bn:c][bp:d][br:e][cn:f][bk:g]C[白110如在a位阻渡，则黑b，白c，黑d，以下黑e、f必得其一，白不行，但实战的下法不如在g位扳]
+
+;B[bo];W[bn];B[bp];W[bh];B[bg];W[bi];B[cg];W[eh];B[di];W[cn];B[er]C[黑121渡过后，白已无胜机];W[im];B[dj]
+
+;W[cj];B[bk];W[bl];B[jf];W[je];B[mc];W[lb];B[gf];W[dq];B[dr];W[if];B[ig];W[cr]
+
+;B[br];W[gh];B[hg];W[cp];B[cs];W[fg];B[ah];W[ak];B[bd];W[be];B[ae];W[bc];B[ce]
+
+;W[cd];B[bf];W[df];B[ac];W[bb];B[ge];W[gd];B[lc];W[kc];B[nc];W[kb];B[iq];W[hq]
+
+;B[hr];W[ip];B[ji];W[il];B[gk];W[ir];B[is];W[jq];B[og];W[ki];B[ee];W[de];B[fd]
+
+;W[fc];B[on];W[gr];B[ab];W[be];B[nm];W[mm];B[ai];W[bj];B[ce];W[oj];B[oi];W[be]
+
+;B[mp];W[lp];B[ce];W[nj];B[pi];W[be];B[ad];W[sf];B[se];W[ls];B[ns];W[re];B[pe]
+
+;W[sg];B[se];W[fj];B[ek];W[re];B[jl];W[jm];B[se];W[ff];B[fe];W[re];B[kl];W[kj]
+
+;B[se];W[hj];B[hk];W[re];B[ba];W[pk];B[pl];W[cb];B[se];W[qk];B[rk];W[re];B[go]
+
+;W[ho];B[se];W[ql];B[rl];W[re];B[mn];W[mo];B[se];W[qm];B[rm];W[re];B[hd];W[gc]
+
+;B[se];W[qn];B[rn];W[re];B[jd];W[id];B[se];W[hh];B[gs];W[hs];B[si];W[mh];B[hr]
+
+;W[bq];B[aq];W[hs];B[an];W[am];B[hr];W[nk];B[ol];W[hs];B[kf];W[jc];B[hr];W[gq]
+
+;B[hs];W[re];B[sc];W[fs];B[es];W[js];B[fs];W[ii];B[ih];W[hi];B[fp];W[se];B[ce]
+
+;W[ca];B[gm];W[hm];B[ei];W[fi];B[ma];W[la];B[na];W[el];B[ms];W[ks];B[ao];W[fl]
+
+;B[gl];W[dg];B[dm];W[cm];B[be];W[kh];B[fn];W[hn];B[aa]C[刘昌赫、李世石将于8月3日在日本棋院进行最后的决赛])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

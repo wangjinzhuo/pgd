@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届富士通杯三四名决定战]DT[2002-08-03]US[棋圣道场]SO[http://weiqi.tom.com]PC[日本]KM[5.5]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PB[王铭琬]BR[九段]PW[李昌镐]WR[九段]RE[B+0.5];B[pd];W[dd];B[pq];W[dp];B[fq]
+
+;W[po];B[np];W[qq];B[qr];W[qp];B[cn]LB[or:a][qk:b][pl:c]C[黑11不在a位虎和白b拆边交换，是想保留今后在c位逼的可能];W[dn];B[dm];W[en];B[cp]
+
+;W[cq]LB[co:a]C[白16在a位挖也是一局棋];B[co];W[eq];B[fp];W[ep];B[bq];W[hq]C[白22紧凑];B[jq]LB[kq:a]C[黑23是不愿被白在a位拆二];W[oq]
+
+;B[op]C[白24实惠];W[pr];B[pp];W[rr]C[至28，白棋在右下角有所得];B[hp];W[fr];B[gr];W[dr];B[fs];W[br];B[er]LB[cj:a]C[黑35在a位拆边是一般分寸]
+
+;W[cj];B[em];W[gn];B[gm];W[hm];B[fm];W[go];B[hl];W[gp];B[hr];W[iq];B[ir];W[im]
+
+;B[dg];W[ch]C[白50是随机应变的处置];B[cg];W[bl];B[cl];W[bm];B[cm];W[dh];B[eg];W[fi];B[il];W[jp];B[kq]
+
+;W[fc]C[至此中午休息
+
+黑方剩余2小时16分钟
+
+白方剩余1小时56分钟];B[gg];W[hi];B[jm];W[io]C[至66，感觉上是白棋有利];B[gj];W[fh]LB[gi:a][bh:b][bi:c][eh:d][ei:e][di:f]C[白68如走a位接，则黑b扳、白c挡、黑d冲、白e挡、黑f断，白不利]
+
+;B[fg];W[hh];B[if];W[kh];B[jh];W[ji];B[jg];W[ki];B[ij];W[ii];B[hc];W[bd];B[lf]
+
+;W[nh];B[pf];W[pc];B[oc];W[qd];B[od];W[qf];B[qc];W[rc];B[pb];W[qe];B[ph];W[pe]
+
+;B[of];W[qg];B[oh];W[ek]LB[bh:a][bi:b][eh:c][ei:d][di:e][jl:f]C[白98在防黑a、白b、黑c、白d、黑e断的同时，还瞄着f位的断];B[dj]C[黑99以下是争先的手筋];W[dk];B[ck]
+
+;W[bk];B[ci];W[bj];B[bh];W[di];B[kk];W[bf];B[bg];W[bp];B[bo];W[bi];B[rb];W[qi]
+
+;B[qk]C[黑115紧凑];W[rj];B[or];W[qs];B[ce];W[cd];B[fb];W[gb];B[gc];W[eb];B[fd];W[fa];B[ec]
+
+;W[fb];B[ed];W[db];B[hb];W[ha];B[ib];W[km]C[白134是好手];B[jn];W[kl];B[jl];W[lk]C[至138，白棋可以满意];B[ap]
+
+;W[ar];B[in];W[hn];B[ln];W[hg];B[hf];W[nn]C[白146的下法值得研究];B[on]C[黑147毫不退缩];W[pn];B[om];W[oo];B[no]
+
+;W[pm];B[qj]C[黑153好手];W[ol]LB[ri:a]C[白154如于a位接，则黑154，白不满];B[rh];W[qh];B[ri];W[rl];B[rk];W[sj]C[白160巧妙];B[ql];W[rm]
+
+;B[qm];W[rn];B[qn];W[ro];B[si]C[黑167是好次序];W[rg];B[pi];W[sh];B[nm];W[qo];B[mm]C[至173，白棋不便宜];W[fk]
+
+;B[gk];W[nq];B[mq];W[pj]LB[jk:a]C[白178似应先于a位断吃];B[pk];W[oe];B[ne];W[nf];B[ng];W[mf];B[me];W[oj]
+
+;B[ok];W[nj];B[nk];W[mg];B[mj];W[ni];B[lj]C[至193的转换，白棋未见便宜];W[nr];B[mr];W[os];B[rd]C[黑197占得最后一个大官子，成为细棋黑有望的局面];W[kj]
+
+;B[jk];W[kp];B[lp];W[ko];B[kn];W[re];B[be];W[ae];B[gq];W[ip];B[sc];W[mo];B[mp]
+
+;W[lg];B[kg];W[de];B[cf];W[lo];B[af];W[ad];B[mn];W[ee];B[fe];W[ia];B[ja];W[ga]
+
+;B[jb];W[mk];B[ml];W[pl];B[ll];W[mh];B[dc];W[cc];B[eh];W[ei];B[fj];W[ej];B[ms]
+
+;W[hj];B[ns];W[or];B[sk];W[nl];B[ai];W[ef];B[ff];W[se];B[ds];W[cs];B[es];W[sd]
+
+;B[rc];W[aj];B[ah];W[sl];B[mk];W[ig];B[kf];W[an];B[li];W[bn];B[lh];W[og];B[gl]C[至263，黑棋幸运的半目胜]
+
+)
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

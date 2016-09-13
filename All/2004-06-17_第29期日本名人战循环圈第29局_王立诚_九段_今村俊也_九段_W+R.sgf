@@ -1,0 +1,27 @@
+(;SZ[19]EV[第29期日本名人战循环圈第29局]KM[6.5]DT[2004-06-17]PB[王立诚]BR[九段]PW[今村俊也]WR[九段]C[http://weiqi.tom.com
+棋圣道场-->精彩时局]US[棋圣道场]SO[http://weiqi.tom.com]RE[W+R];B[qd];W[dp];B[ec];W[qp];B[cf]C[至黑5是王铭琬九段爱用的布局]
+;W[nc];B[lc];W[ne];B[le]LB[pf:a][kd:b]C[黑9如a，则白b，黑不满];W[pf];B[qf];W[qg];B[pg]LB[qe:a][rf:b][ph:c][og:d][re:e][pe:f][of:g][rd:h][ng:i][ep:j][oh:k][do:l]C[黑13后，白如a，则黑b，白c，黑d，白e，黑f，白g，黑h，白i，黑j，白k，黑l，白不利]
+;W[of];B[qh];W[qe]LB[rg:a][rf:b][rh:c][qi:d][ph:e][og:f][pi:g][ng:h][qj:i][pc:j][mf:k][nf:l][me:m][oe:n][mg:o]C[白16不如在a位立，黑如b，白c，黑d，白e，黑f，白g，黑h，白i，黑j，白k，黑l，白m，黑n，白o，白可战]
+;B[rg];W[rf];B[oc]C[黑19为打劫做准备];W[od];B[re]LB[nb:a][ob:b][pc:c][mb:d][qg:e][mc:f][na:g][lb:h][pe:i][kc:j]TR[qf]C[黑21应a，白如b，则黑c，白d，黑21，白e，黑f，白g，黑▲，白h，黑i，白j，这个结果，黑有利]
+;W[qg];B[pc];W[qf];B[nb]C[至25，白作战成功];W[cm];B[nq];W[dd];B[dc];W[df]LB[dg:a][ce:b][ef:c][de:d][cg:e][cc:f][cb:g][bd:h][bb:i][fd:j]C[白30后，黑如a，则白b，黑c，白d，黑e，白f，黑g，白h，黑i，白j，白可战]
+;B[de]LB[cd:a]C[黑31过分，在a位扳过方为本手];W[ce];B[ee];W[cd];B[ef];W[dg];B[bf];W[be]C[白38好手，黑显然忽略了这一手];B[ch];W[ed];B[fd]
+;W[cc];B[fc];W[dh];B[ci];W[di]LB[cj:a][dj:b][cl:c][cg:d][bg:e][dk:f][bl:g][dl:h][bm:i][jp:j]C[白46后，黑如a，则白b，黑c，白d，黑e，白f，黑g，白h，黑i，白j，黑不利]
+;B[dj];W[cj];B[ck];W[bj];B[bk];W[cg];B[bi];W[bg];B[ej];W[fq]C[至56的结果，黑明显亏损];B[qn]C[黑57以下对白发起猛攻];W[op]
+;B[np];W[pn];B[ql];W[oq];B[or];W[pr];B[nr];W[kq];B[pm];W[on];B[qr];W[qq];B[ps]
+;W[om];B[ko]LB[pq:a][pp:b][mn:c][pk:d][qk:e][pj:f][qj:g]C[黑73难以理解，当然应a，白b，黑c，白d，黑e，白f，黑g];W[pl];B[qm];W[lo]C[白76的反击令黑难以招架];B[pq]
+;W[pp];B[lp];W[kp];B[jo];W[mo];B[iq];W[mp];B[lr];W[ip];B[jp];W[lq];B[kr];W[jq]
+;B[jr];W[hq];B[ir];W[mq];B[hp];W[io];B[gq];W[ho];B[gp];W[jn];B[pk];W[gr];B[hr]
+;W[er];B[gs];W[fr];B[go]LB[rr:a][in:b][hn:c][kn:d]C[黑107应a位活棋，实战明显是错觉，以为黑可b位，白c，黑d逃三子];W[ge];B[fe];W[hg]LB[ie:a]C[白110当然应a]
+;B[ie];W[bn]LB[bm:a]C[白112应a];B[rh];W[rd];B[rc];W[se];B[mm];W[kn];B[rr];W[ol];B[hi];W[ji]
+;B[nj];W[he];B[id];W[gj];B[mk];W[no];B[hj];W[gi];B[gk];W[fk];B[fj];W[fl];B[hk]
+;W[gh];B[dl];W[fn];B[ek];W[if];B[gn];W[gm]LB[kd:a][ld:b][hd:c][hc:d][ic:e][jc:f][ib:g][hb:h][je:i][jd:j][kc:k][jb:l][kb:m][ia:n][ke:o]C[白142错过一举获胜的机会，应a，黑b，白c，黑d，白e，黑f，白g，黑h，白i，黑j，白k，黑l，白m，黑n，白o]
+;B[ep]LB[jk:a]C[黑143是致命败着，应单于a位跳，如此黑尚留有胜机];W[eo];B[fo];W[en];B[jk];W[fp]C[白148后，黑棋气紧，明显亏损];B[gf];W[gg];B[jf];W[jg];B[kf]
+;W[mb];B[mc];W[md];B[nd];W[mr];B[ms];W[nc];B[lb];W[rb];B[sc];W[kg]LB[ob:a][nd:b][qb:c][qc:d][ma:e][pb:f]TR[nc]C[白164应a，黑b，白c，黑d，白▲，黑e，白f，劫材白有利]
+;B[nd];W[ls];B[ks];W[nc];B[qc];W[kk];B[kj];W[jj];B[kl];W[ik];B[jl];W[il]C[白176后，仍是白形势占优];B[ki]
+;W[kh];B[hm];W[im];B[hn];W[hl];B[og];W[pd]LB[sd:a]C[白184应a位活净];B[sd];W[ng];B[mf];W[nf];B[lh]
+;W[lg];B[mg];W[mh];B[li];W[ld]LB[lf:a][me:b][ke:c][kd:d][je:e][nd:f][ma:g][ic:h][jc:i]C[白194如a，则黑b，白194，黑c，白d，黑e，白f，黑g，白h，黑i，白被吃]
+;B[lf];W[kd];B[je];W[kb]C[白198以下下的十分精确];B[ib];W[nh];B[oi];W[kc];B[nd];W[hc];B[hd];W[nc];B[ma]
+;W[ic];B[hb];W[gc];B[gd];W[gb];B[hf];W[ig];B[jc];W[jb];B[ga];W[jd];B[fb];W[jc]
+;B[ha];W[db];B[ja];W[ka];B[nd];W[me];B[fg];W[eg];B[fh];W[fi];B[pe];W[oe]C[白232后，黑已无法杀白])<script language="JavaScript" src="http:--www.tom.com-nnselect.js"><-script>
+  <noscript> <img src='http:--ping.nnselect.com-ping.gif?c=115' height='1' width='1'>
+     <-noscript>

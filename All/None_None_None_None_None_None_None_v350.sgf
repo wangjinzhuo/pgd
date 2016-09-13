@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GN[日本第22届十段战]
+
+RO[4]
+
+US[xuyang]
+
+SO[http://xuyang.yeah.net]
+
+PW[加藤正夫]
+
+BR[九段]
+
+PB[小林光一]
+
+WR[九段]
+
+KM[5.5]
+
+DT[1984-04-04]
+
+PC[Matsuyama City, Japan]
+
+RE[B+R]
+
+;B[qd];W[dd];B[pq];W[dp];B[oc];W[qo];B[qm];W[oo];B[np];W[pl]
+
+;B[qp];W[ql];B[ro];W[qn];B[cf];W[ch];B[cc];W[cd];B[dc];W[ed]
+
+;B[bd];W[be];B[bc];W[ce];B[fc];W[qf];B[cn];W[cl];B[cq];W[cp]
+
+;B[dq];W[ep];B[bp];W[bo];B[bq];W[co];B[fq];W[oe];B[fp];W[fo]
+
+;B[go];W[fn];B[gn];W[gm];B[fm];W[dn];B[hm];W[gl];B[hl];W[gk]
+
+;B[hk];W[gj];B[hp];W[mn];B[lo];W[ln];B[ko];W[nc];B[nb];W[ob]
+
+;B[pb];W[od];B[pc];W[mb];B[oa];W[mc];B[hj];W[gi];B[fd];W[fe]
+
+;B[ge];W[gf];B[he];W[ff];B[pf];W[pe];B[qe];W[qg];B[pg];W[ph]
+
+;B[nf];W[ng];B[of];W[mf];B[ne];W[nd];B[me];W[le];B[mg];W[lf]
+
+;B[nh];W[qh];B[lg];W[kg];B[kh];W[lh];B[og];W[mh];B[ng];W[ld]
+
+;B[ni];W[lj];B[li];W[ki];B[jh];W[mi];B[mj];W[li];B[lk];W[kk]
+
+;B[ji];W[kj];B[nj];W[ll];B[kf];W[jg];B[ig];W[jf];B[je];W[ke]
+
+;B[if];W[kf];B[pj];W[qj];B[nl];W[mk];B[nk];W[ec];B[jd];W[nm]
+
+;B[kc]
+
+)
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

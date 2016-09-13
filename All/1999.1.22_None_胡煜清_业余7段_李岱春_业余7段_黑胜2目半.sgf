@@ -1,0 +1,99 @@
+(;SZ[19]AP[MultiGo:3.6.0]C[首届美罗杯全国业余围棋锦标赛
+黑：胡煜清    业余7段
+白：李岱春    业余7段
+
+《围棋天地》2003年第22期
+《我下棋  我快乐》
+]GN[1999年晚报杯全国业余围棋锦标赛]
+DT[1999.1.22]PC[辽宁大连]PB[胡煜清]BR[业余7段]
+PW[李岱春]WR[业余7段]KM[7.5]RE[黑胜2目半]
+
+;B[qd]	;W[dp]	;B[cd]	;W[pp]	;B[oc]	;W[ed]	;B[ec]	;W[fc]	;B[dc]	;W[gd]
+;B[cf]	;W[kc]	;B[nq]	;W[qn]	;B[pr]	;W[mq]	;B[mp]	;W[lq]	;B[nr]	;W[qq]
+;B[lp]	;W[kq]	;B[op]	;W[kp]	;B[po]	;W[qo]	;B[pq]	;W[qp]	;B[fq]	;W[eq]
+;B[fp]	;W[dn]	;B[ip]
+;W[kn]C[布局平稳]
+(;B[in]	;W[no]	;B[np]	;W[mn]	;B[oo]	;W[iq]	;B[hq]	;W[jp]
+;B[ho]C[白40，42与黑41，43交换，是为了防止A位的挖断，交换本身大损]
+;W[om]
+;B[qr]C[白棋先手封住黑棋，但外势并不厚实。
+全局大致两分。]
+;W[rr]	;B[rs]	;W[sr]	;B[mr]
+;W[er]C[白50大棋。
+实地大，而且间接支援下方白棋，同时瞄着黑棋。
+]
+;B[cl]	;W[bn]	;B[qi]	;W[qk]
+;B[pg]LB[mc:A]C[黑55稍缓，不如A位拆]
+
+;W[mc]C[黑棋右边还是有打入的余地，黑53，55显得效率不高。]
+
+;B[fg]LB[cj:A][hc:B][jc:C]C[黑57的目的是引诱白棋A位打入，然后黑棋B位打入C位造劫，通过转换来切断A位一子。
+实战就是如此进行的。]
+;W[cj]	;B[el]	;W[bl]	;B[hc]	;W[gb]	;B[jc]	;W[jd]	;B[id]	;W[jb]	;B[ib]
+;W[ie]	;B[bk]	;W[hd]
+;B[bm]C[但是转换的结果是白棋上面变得厚实无比，黑棋不便宜，]
+(;W[cn]C[白72不好，过于求稳，当然如前图走A位]LB[ej:A]
+;B[ej]	;W[qc]	;B[pc]
+;W[rd]C[白74，76破空好手。]
+;B[rc]	;W[qe]
+;B[qb]C[白棋上面厚实，黑棋不得不忍耐]
+;W[qg]	;B[pf]	;W[qh]	;B[ph]	;W[ri]	;B[pi]	;W[rj]	;B[re]
+;W[ir]LB[eb:A]C[白88大缓手，想把下边不厚，但是下边不补黑棋也没有什么特别了不起的手段。
+当然应该走A位扳，这样不但实地大，而且味道好]
+;B[fe]	;W[fd]	;B[eb]	;W[de]	;B[df]	;W[gi]	;B[fi]	;W[fk]	;B[ek]	;W[dl]
+;B[ck]	;W[rf]	;B[sd]	;W[lr]	;B[nn]	;W[on]	;B[nm]	;W[mm]	;B[nl]	;W[mo]
+;B[ms]	;W[ml]	;B[ol]	;W[pl]	;B[pm]	;W[pn]	;B[pk]
+;W[ql]C[黑111到115虽然是大俗手，但是为了抢先手不得不如此]
+;B[ik]	;W[gh]	;B[ic]	;W[je]	;B[ha](;W[ga]C[白122不好。应如前图A位忍耐。]LB[ja:A]
+;B[kb]	;W[lb]	;B[ja]
+;W[hb]C[实战成缓气劫，虽然黑棋没有明显的劫材，但是这个劫却意外的十分严厉，而且每收一步外气都不是单官，都带有一定的目数。]
+;B[kd]	;W[lc]	;B[he]	;W[ig]	;B[hf]	;W[jh]	;B[ee]	;W[ia]
+;B[ii]LB[kg:A]C[黑135不够细致，应先走A位点，正是时机。点到这手，对将来有百利而无一害]
+;W[ih]	;B[ha]	;W[dm]	;B[dk]	;W[ia]	;B[an]	;W[ao]	;B[ha](;W[am]C[百144败招。这手棋虽然有一定的目数，并且解消了黑棋在左下角的劫材，但是这手棋对黑棋没有任何威胁。
+白应如前图走A位冲。]
+;B[dd]	;W[gc]
+;B[lo]C[黑147冲好手。直接打劫黑棋没有两个劫材，黑冲后，白棋下面出现头绪。]
+;W[ia](;B[hg]C[黑149冷静]
+;W[hh]	;B[ha]
+;W[fh]C[实战152位冲已经来不及了。]
+;B[ko]	;W[jo]
+;B[jn]C[黑棋冲断白棋后，下面有两个宝贵的劫材了。]
+;W[io]	;B[hp]	;W[jr]	;B[ge]	;W[ia]	;B[ks]	;W[ls]	;B[ha]	;W[hn]	;B[ia]
+;W[gm]C[大转换的结果，黑棋便宜。]
+;B[ke]	;W[kf]	;B[jf]	;W[if]	;B[lf]	;W[kg]	;B[le]	;W[mg]	;B[nf]	;W[jm]
+;B[gl]C[黑棋优势]
+;W[hl]	;B[fm]	;W[fn]	;B[gj]	;W[dh]	;B[eh]	;W[fj]	;B[ei]	;W[hk]	;B[li]
+;W[lg]
+;B[hj]C[黑189是对白棋的最后一击]
+;W[gk]	;B[kj]	;W[ng]
+;B[ni]LB[nj:A]C[黑193恶手，应走A位跳回，非但白棋中腹大龙在劫难逃，而且白棋下边断点也更明显。]
+;W[mf]	;B[me]	;W[ne]	;B[nd]	;W[of]	;B[md]	;W[mj]	;B[mi]	;W[oj]	;B[nj]
+;W[nk]	;B[oi]	;W[pe]	;B[qf]	;W[sf]	;B[og]	;W[oe]	;B[lj]	;W[mk]	;B[nh]
+;W[ji]	;B[jj]
+;W[il]C[实战中腹出现大龙双活。但还是黑棋稍优。]
+;B[al]	;W[jk]	;B[ij]	;W[gg]	;B[ln]	;W[km]
+;B[an]C[黑胜2目半]
+)
+(;B[ko]MN[1]C[黑棋如果直接1位冲]
+;W[jb]	;B[nj]	;W[mj]	;B[ki]
+;W[ni]C[黑棋没有成算]
+)
+)
+(;W[fh]MN[1]	;B[dd]	;W[gc]	;B[lo]
+;W[eh]C[这样全局形势还复杂]
+)
+)
+(;W[ja]MN[1]C[白棋1位立下较好]
+;B[ga]	;W[fa]	;B[fb]
+;W[gc]C[白棋目数亏损，但是全局加厚了。]
+)
+)
+(;W[ej]MN[1]	;B[bo]	;W[cn]	;B[an]
+;W[bp]C[白棋不错]
+)
+)
+(;B[mn]MN[1]C[黑可以1位跳]
+;W[in]	;B[fn]	;W[hq]
+;B[fl]C[黑棋3，5跳出也是一盘棋]
+)
+)

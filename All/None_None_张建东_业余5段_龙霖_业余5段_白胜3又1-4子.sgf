@@ -1,0 +1,363 @@
+(;SZ[19]AP[MultiGo:3.6.0]C[第三届晚报杯业余围棋赛
+黑：张建东
+白：龙霖]GN[第三届晚报杯业余围棋赛]
+PC[杭州]PB[张建东]BR[业余5段]BT[新民晚报]
+PW[龙霖]WR[业余5段]WT[沈阳晚报]KM[1990]
+RE[白胜3又1/4子]
+;B[pd]	;W[dp]	;B[pq]
+;W[dd]C[对于黑棋1、3的星小目布局，白棋采用2、4是为了争取布局的速度。]
+;B[qo]	;W[kq](;B[cn]
+;W[fp]C[白棋如果夹击的话，黑点三三，这样就是另外一盘棋了。]
+;B[bp]	;W[cq]	;B[ck]
+;W[nq]C[白棋拆在此处，是不愿意被黑棋A位拆逼。
+如果黑棋走到A位，不但实空差别很大，而且还有B位打入的手段。
+白12同时还给自己留下了C位的好点。]LB[mq:A][iq:B][oo:C]
+
+;B[fc]C[目前最大的大场。]
+;W[jd](;B[df]	;W[fd]	;B[gd]	;W[fe]	;B[ec]	;W[de]	;B[cb]	;W[ge](;B[hd]
+;W[he]C[黑15反夹到白24是星定式变化的一形。
+黑棋大概是想避开图四的战斗局面，但留有白A位点的手筋，黑棋多少有些难受。]LB[hb:A]
+;B[qg]
+;W[hb]C[手筋]
+;B[gb]
+;W[oo]C[双方形势消长的要点。]
+(;B[en]C[黑棋直接A位肩冲为好。]LB[jp:A]
+
+;W[gn]C[飞镇是好点]
+
+;B[oc]C[黑棋守角，瞄着A位扳出。]LB[ie:A]
+
+;W[id]C[本手]
+
+;B[jn]C[黑33似乎应走在A位。如果白棋仍在D位应的话，则黑棋将来有B位的尖。如果白棋在改在C位应的话，则经过黑D，白F，黑E，白G的变化，先手压缩了白空。]LB[in:A][ho:B][hp:C][ip:D][jp:E][iq:F][jq:G]
+;W[ip]	;B[nr](;W[mr]
+;B[or]C[黑棋的托退，防止了白棋A位的靠，同时还给白棋制造了B的断点。]LB[qp:A][mq:B]
+
+;W[om]C[双方的要点。
+如果黑棋占到此处，则A位的夹严厉，且B位的断点具有威胁。]LB[np:A][ie:B]
+(;B[gl]C[欠妥。
+此时应该走A位大场，此处实空出入很大，而且给自己留下了B位的好点。
+一旦黑走到B位，白棋已经不能脱先。否则接下去就有黑C，白D，黑E的手段，白棋大块处于不安定状态。]LB[ld:A][cg:B][if:C][ie:D][kf:E]
+
+;W[mc]C[盘上最后一个大场。]
+(;B[np]C[坏棋。失去A位断的变化。]LB[mq:A]
+;W[mp]	;B[oq]	;W[mq]	;B[qm]	;W[ok]	;B[il]
+;W[ci]C[大棋。留有实战A位的官子。]LB[bc:A]
+(;B[di]C[黑这手棋不好。
+应该A位尖，待白B挡后再走这手压。
+如果白B不挡，则见变化图]LB[bc:A][bd:B]
+;W[dh]	;B[dj]	;W[bc]	;B[cc]	;W[bd]	;B[bb]	;W[ab](;B[ba]C[正着。]
+
+;W[eh]C[白棋角上便宜了]
+(;B[bf]C[黑59坏棋，与白C交换大损。
+此处动手太早，不如下子A位实惠。
+即使黑棋要在这里下子，也应该于B位点，变化如图。]LB[qk:A][bh:B][cg:C]
+;W[cg]
+;B[cd]C[随手。
+应该不走，保留将来A位的点]LB[bh:A]
+;W[be]	;B[bj]	;W[bi]	;B[fi]	;W[fh]
+;B[gi]C[65，67黑棋走厚自己]
+;W[gh]	;B[md]	;W[ld]	;B[nd]
+;W[ql]C[大棋]
+;B[rl]	;W[qk]
+;B[rh]C[缓手。
+黑应该走A位顶，待白B接后，再走C位长。不但厚实，而且限制了白棋中腹的发展。]LB[pm:A][ol:B][hi:C]
+
+;W[ob]C[76不好。
+应走A位尖，待黑走在76位挡后，白棋得先手走到B位扳。
+如果黑棋脱先，那么还留有C位跳的大官子，显然比实战好]LB[nb:A][hi:B][pb:C]
+;B[pb]	;W[nb]	;B[le]	;W[kd]
+;B[bq]C[这手爬目数虽大，但是还是应该在A位挺。]LB[hi:A]
+(;W[hc]C[白棋实战从82开始定型是权利，但是并不好。应该如前图定型，便宜2目。]
+;B[gc]	;W[ga]	;B[fa]	;W[ha]	;B[eb]	;W[hi]
+;B[ng]C[疑问手，应该走A位点。]LB[eq:A]
+;W[cj]	;B[bk]
+;W[ei]C[白90，92次序好]
+;B[ej]	;W[fj]
+;B[fk]C[由于味道很坏，黑棋不得不舍弃2子。]
+;W[gj]	;B[eq]	;W[fq]
+;B[gm]C[黑棋为了消除味道而补强。]
+
+;W[br]C[大棋]
+;B[ep](;W[cp]C[白这手棋莫名其妙，显然应该A位扳。]LB[er:A]
+(;B[eo]C[黑棋这手接不好，应该抓住机会赶紧走A位尖。]LB[dr:A]
+;W[bo]	;B[bn]	;W[aq]	;B[fr]
+;W[gr]C[108坏棋。
+白棋应走A位觑断，黑棋走108位长，白棋就B位跳，黑棋还得C位补断。]LB[dr:A][hq:B][er:C]
+
+;B[dr]C[黑棋虎，瞄着A位杀白棋]LB[bs:A]
+;W[fs]	;B[bs]
+;W[cr]C[白棋112无奈抛劫。
+实战次序正确，如果白走A位，黑112，白B，黑C，白D。这样也是打劫，但是黑棋比实战轻很多。]LB[cs:A][as:B][ds:C][ap:D]
+;B[cs]	;W[er]	;B[dq]	;W[ds]	;B[es]
+;W[dc]C[从18到41打劫，必然。]
+;B[db]	;W[ds]	;B[ce]	;W[cf]	;B[es]	;W[ek]	;B[dk]	;W[ds]	;B[ic]	;W[ib]
+;B[es]	;W[qc]	;B[qb]	;W[ds]	;B[bg]	;W[bh]	;B[es]	;W[qp](;B[po]	;W[ds]	;B[dg]	;W[ch]	;B[es]
+;W[pc]C[这手棋寻劫不当。黑棋应该消劫。
+黑脱先后，白棋无非走A，B，C，D四点。黑棋应付得当，都安然无恙。如变化图所示。]LB[rc:A][rb:B][qd:C][rd:D]
+(;B[qd]	;W[ds]	;B[jb]	;W[jc]	;B[es]	;W[rc]	;B[fr]	;W[rd]	;B[re]	;W[er]
+;B[rb]	;W[ds]	;B[ed]	;W[as]
+;B[ee]C[打劫的结果，黑棋后手得到15目左右，而白棋不但消劫，而且得到先手，开始收官。]
+
+;W[nc]C[白这手棋不好。
+表面上看是双先官子，但是黑棋D粘住后，将来黑棋A位立下时候，有B位的官子。
+白棋不走158，黑棋也不会在158位挤，那样会留下C位断的味道。]LB[pa:A][na:B][me:C][od:D]
+;B[od]
+;W[rn]C[官子好手]
+(;B[ro]C[无奈只有挡在这里]
+;W[rm]	;B[qn]	;W[rk]
+;B[sn]C[黑棋这手棋没有必要，应走A位。]LB[lg:A]
+;W[hn]	;B[no]
+;W[lg]C[好手，中腹白棋围出一些空。]
+;B[lf]	;W[mg]	;B[nf]	;W[nn]	;B[op]	;W[im]	;B[mo]	;W[gk]	;B[el]	;W[jl]
+;B[ni]	;W[kg]	;B[sm]	;W[mj]	;B[hk]	;W[ik]	;B[hl]	;W[jk]	;B[mi]	;W[li]
+;B[nj]	;W[mk]	;B[mn]	;W[mm]	;B[pa]	;W[ko]	;B[kn]
+;W[lm]C[白棋194、196次序好]
+;B[ln]	;W[pi]	;B[ph]
+;W[qi]C[至此，白棋盘面都不差。胜定。]
+;B[ff]	;W[gf]	;B[na]	;W[lb]	;B[oa]	;W[ma]	;B[ri]	;W[oi]	;B[oh]	;W[mh]
+;B[nh]	;W[on]	;B[jo]	;W[jp]	;B[ms]	;W[ls]	;B[ns]	;W[lq]
+;B[ae]C[黑这手棋损，应直接在A位扑]LB[ac:A]
+;W[ag]	;B[ac]	;W[af]	;B[fn]	;W[fo]	;B[co]	;W[ap]	;B[nk]	;W[nl]	;B[pm]
+;W[pl]C[白胜3又1/4子]
+)
+(;B[rm]MN[1]	;W[ro]	;B[qq]	;W[qn]	;B[pn]	;W[pm]	;B[rp]	;W[on]	;B[pp]
+;W[rk]C[白棋先手封住黑棋，便宜。]
+)
+(;B[rm]MN[1]	;W[ro]	;B[pm]	;W[qr]	;B[qq]	;W[rq]	;B[pp]	;W[rp]	;B[sr]
+;W[sq]C[白棋净活。]
+)
+(;B[rm]MN[1]	;W[ro]	;B[qn]	;W[qr]	;B[qq]	;W[rq]	;B[rp]	;W[sp]	;B[pp]
+;W[sr]	;B[rs]	;W[qs]
+;B[rp]C[白打劫活，黑棋不好]
+)
+(;B[rm]MN[1]	;W[ro]	;B[qn]	;W[qr]	;B[qq]	;W[rq]	;B[pp]
+;W[rp]LB[rk:A][sr:B]C[黑棋只好A位爬回，白B做活。
+如果黑棋B点杀黑棋，则如下：]
+;B[sr]	;W[rr]	;B[sn]	;W[so]	;B[sq]	;W[ps]	;B[pr]	;W[qs]	;B[ss]	;W[rk]
+;B[on]	;W[nn]	;B[pm]	;W[pl]	;B[no]
+;W[pn]C[白棋先手提劫，A位和B位的劫才见合，黑大败。
+黑棋如果C位拐出，则.....]LB[sl:A][ns:B][mo:C]
+;B[mo]	;W[on]	;B[op]	;W[ln]	;B[lo]	;W[ko]	;B[kn]	;W[mn]	;B[kp]	;W[jo]
+;B[jp]	;W[io]	;B[jq]
+;W[lp]C[下一手黑棋如果A位打吃，则白棋走B位简单杀黑]LB[kr:A][ns:B]
+;B[jr]
+;W[kr]C[黑棋气不够]
+)
+(;B[rm]MN[1]	;W[ro]	;B[qn]	;W[qr]	;B[qq]	;W[rq]	;B[pp]	;W[rp]	;B[sr]
+;W[rr]	;B[sn]	;W[so]	;B[sq]	;W[ps]	;B[pr]	;W[qs]	;B[ss]	;W[rk]	;B[on]
+;W[nn]	;B[no]	;W[pn]	;B[mo]	;W[on]	;B[op]	;W[ln]	;B[lo]	;W[ko]	;B[mn]
+;W[mm]	;B[pl]	;W[ol]	;B[pk]	;W[pj]	;B[pm]	;W[lm]	;B[qj]	;W[ns]	;B[os]
+;W[rj]	;B[qi]
+;W[sl]C[黑不行]
+)
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[re]
+;B[sc]C[好手]
+;W[rd]	;B[rf]	;W[sb]	;B[sa]	;W[sd]
+;B[qe]C[打劫]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[re]	;B[sc]	;W[qe]	;B[pe]	;W[sb]
+;B[sd]C[黑9好手]
+;W[se]	;B[sa]	;W[ra]	;B[qa]	;W[rd]	;B[rf]	;W[sb]	;B[sc]	;W[sd]
+;B[qf]C[打劫]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[re]	;B[sc]	;W[qe]	;B[pe]	;W[sb]	;B[sd]
+;W[se]	;B[sa]	;W[rd]	;B[rf]	;W[sb]	;B[sc]	;W[sd]	;B[sf]	;W[sb]	;B[qf]
+;W[ra]
+;B[qd]C[白棋接不归]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[re]	;B[sb]	;W[rd]	;B[rf]	;W[pe]	;B[qe]
+;W[qd]	;B[od]	;W[qf]	;B[pf]	;W[of]	;B[pg]	;W[sf]	;B[rg]	;W[oe]	;B[nf]
+;W[pa]	;B[sc]
+;W[sd]C[白棋缓气劫]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[re]	;B[sb]	;W[rf]	;B[rd]	;W[qd]	;B[qe]
+;W[sd]	;B[sc]	;W[rd]
+;B[qf]C[白棋气短]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[re]	;B[sb]	;W[rd]	;B[rf]	;W[qe]	;B[sd]
+;W[se]	;B[pe]	;W[sc]	;B[qf]	;W[pa]
+;B[sf]C[白棋被吃]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[re]
+;B[sb]C[以上几个变化中看似黑立到A位是好手，其实不然。请看白棋的对付方法。]
+
+;W[pe]C[好手]
+;B[sc]	;W[qe]	;B[se]	;W[sf]	;B[sd]	;W[rf]	;B[oe]	;W[pa]	;B[pf]
+;W[qa]C[快一气吃黑]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[re]	;B[sb]	;W[pe]	;B[oe]
+;W[qe]LB[sc:A][sd:B]C[对于黑棋的虎，白棋接住沉着。以后黑A，白B，黑棋被吃]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[re]	;B[sb]	;W[pe]	;B[qd]	;W[rd]	;B[qe]
+;W[qf]	;B[od]	;W[rf]	;B[pf]	;W[pg]	;B[of]	;W[qh]	;B[rg]	;W[ri]	;B[qi]
+;W[sh]	;B[ph]	;W[sg]	;B[og]
+;W[rj]C[白棋连通]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[qe]	;B[pe]	;W[sb]	;B[qd]	;W[rd]	;B[re]
+;W[se]	;B[rf]	;W[sc]	;B[sf]	;W[ra]
+;B[sd]C[打劫]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[qe]	;B[pe]	;W[rf]	;B[qd]	;W[rd]	;B[sb]
+;W[pa]	;B[qf]	;W[re]	;B[rg]	;W[qa]	;B[sf]	;W[ra]
+;B[se]C[黑棋金鸡独立杀白]
+)
+(;B[fr]MN[1]	;W[rc]	;B[rb]	;W[qe]	;B[pe]	;W[re]	;B[qd]	;W[rd]	;B[sb]
+;W[qf]
+;B[rf]C[11是紧气的好手]
+;W[pf]
+;B[og]C[白棋长不出气，净死。]
+)
+(;B[fr]MN[1]	;W[qd]	;B[rb]	;W[pe]	;B[nc]	;W[mb]	;B[rd]	;W[re]	;B[rc]
+;W[qe]	;B[oe]	;W[od]	;B[of])
+(;B[fr]MN[1]	;W[qd]	;B[rb]	;W[pe]	;B[nc]	;W[od]	;B[of]	;W[mb]	;B[qe]
+;W[re]	;B[qf]	;W[rc]	;B[sc]	;W[sd]	;B[sb]	;W[pa]	;B[oe]	;W[qa]	;B[pd])
+(;B[fr]MN[1]	;W[qd]	;B[rb]	;W[pe]	;B[nc]	;W[od]	;B[of]	;W[mb]	;B[qe]
+;W[re]	;B[qf]	;W[rc]	;B[sc]	;W[sb]	;B[sd]	;W[ra])
+(;B[fr]MN[1]	;W[qd]	;B[rb]	;W[pe]	;B[nc]	;W[od]	;B[of]	;W[mb]	;B[qe]
+;W[qf]	;B[re]	;W[pf]	;B[pg]	;W[rf]	;B[rd]	;W[rc]	;B[sc]	;W[pd]	;B[sd]
+;W[sb]	;B[sa]	;W[sf]	;B[oe]	;W[pa]	;B[rg])
+(;B[fr]MN[1]	;W[qd]	;B[rb]	;W[pe]	;B[nc]	;W[od]	;B[of]	;W[rc]	;B[mb]
+;W[oe]	;B[ne]	;W[rf]	;B[qf]	;W[qe]	;B[kb]	;W[lc]	;B[lb]
+;W[jb]C[白棋虽然活出，但是边空被破，损失惨重。]
+)
+(;B[fr]MN[1]	;W[qd]	;B[rb]	;W[rc]	;B[nc]	;W[mb]	;B[qe]	;W[re]	;B[sc]
+;W[rd]	;B[rf]	;W[pe]	;B[qf])
+(;B[fr]MN[1]	;W[qd]	;B[rb]	;W[qe]	;B[pe]	;W[rc]	;B[sb]	;W[sc]	;B[qf]
+;W[rf]	;B[rg]	;W[se]	;B[rd]	;W[sg]	;B[re]	;W[sd]	;B[re]	;W[rd]	;B[sh])
+(;B[fr]MN[1]	;W[qd]	;B[rb]	;W[qe]	;B[pe]	;W[rc]	;B[sb]	;W[qf]	;B[pf]
+;W[rf]	;B[sc]	;W[rg]	;B[qi]	;W[sd]	;B[re]	;W[sh]	;B[si]	;W[sf]	;B[se]
+;W[pa])
+(;B[fr]MN[1]	;W[rb]	;B[rc]	;W[qd]	;B[ra]	;W[sb]	;B[sc]	;W[pa]	;B[sa]
+;W[rb]	;B[sb]	;W[qe]
+;B[re]C[手筋]
+;W[rd]	;B[pe]	;W[qf]	;B[rf]	;W[pf]	;B[sd])
+(;B[fr]MN[1]	;W[rb]	;B[rc]	;W[qd]	;B[ra]	;W[sb]	;B[sc]	;W[pa]	;B[sa]
+;W[rb]	;B[sb]	;W[qe]	;B[re]	;W[pe]	;B[nc]	;W[mb]	;B[rd])
+(;B[fr]MN[1]	;W[rb]	;B[rc]	;W[qd]	;B[ra]	;W[sb]	;B[sc]	;W[pa]	;B[sa]
+;W[rb]	;B[sb]	;W[qe]	;B[re]	;W[pe]	;B[nc]	;W[rd]
+;B[rf]C[冷静。
+A、B必得其一]LB[mb:A][sd:B]
+;W[of]	;B[nf])
+(;B[fr]MN[1]	;W[rb]	;B[rc]	;W[qd]	;B[ra]	;W[sb]	;B[sc]	;W[pa]	;B[sa]
+;W[rb]	;B[sb]	;W[pe]	;B[qe]	;W[od]	;B[nc]	;W[rd]	;B[re])
+)
+(;B[fr]MN[1]C[如果黑棋消劫，则.....]
+;W[pp]	;B[rq]	;W[rp]
+;B[rr]C[黑棋不好]
+)
+)
+(;B[dr]MN[1]	;W[bo]	;B[fo]	;W[bn]	;B[bm]	;W[cr]	;B[hq]	;W[iq]
+;B[gp]C[如果白棋简单吃2子，则黑棋虎住，简明。这个变化黑方便宜不少。
+如果白6贪官子便宜走A位，变化如图。]LB[co:A]
+)
+(;B[dr]MN[1]	;W[bo]	;B[fo]	;W[bn]	;B[bm]	;W[co]	;B[bs]	;W[cm]	;B[dm]
+;W[dn]	;B[cl]	;W[eo]	;B[do]	;W[dc]	;B[cn]	;W[db]
+;B[hq]C[白棋全盘无大劫才，转换后，黑棋一举胜势。]
+)
+(;B[dr]MN[1]	;W[eo]	;B[do]	;W[fo]	;B[cr]	;W[co]	;B[dn]	;W[bo]	;B[fr]
+;W[bs]	;B[bn]	;W[aq]	;B[hq]	;W[iq]	;B[gq]	;W[ho]	;B[ir]	;W[jr]
+;B[hr]C[黑棋做活下边，白棋不行。]
+)
+(;B[dr]MN[1]	;W[eo]	;B[do]	;W[fo]	;B[cr]	;W[co]	;B[dn]	;W[bo]	;B[bs]
+;W[ar]	;B[bn]	;W[ap]	;B[fr]	;W[gr]	;B[es]	;W[gs]	;B[fs]	;W[cs]
+;B[an]C[黑9不好，形成后手双活。
+黑棋19立下不能省略，否则白棋A位提吃，快一气吃黑。]LB[aq:A]
+)
+(;B[dr]MN[1]	;W[eo]	;B[do]	;W[fo]	;B[cr]	;W[co]	;B[dn]	;W[bo]	;B[fr]
+;W[bs]	;B[bn]	;W[aq]	;B[hq]	;W[iq]	;B[gq]	;W[ho]	;B[hr]	;W[ir]
+;B[hs]C[黑17不好，无法先手做活。
+黑19不能少，否则经过白A，黑19，白B，黑C，白D，黑E，白F，黑G，白F，黑棋净死。]LB[gs:A][ap:B][cs:C][es:D][fs:E][er:F][ds:G]
+)
+)
+(;W[er]MN[1]	;B[eo]
+;W[dr]C[白棋扳过连回后，盘面胜负的棋，白棋全局厚实，简明优势。]
+)
+)
+(;W[eb]MN[1]C[此处定型手段如图。]
+;B[da]	;W[dc]	;B[db]	;W[ga]	;B[fa]	;W[ha]
+;B[fb]C[这样定型比实战便宜2目]
+)
+)
+(;B[bh]C[此处留有手段]MN[1]
+;W[ch]	;B[bf]	;W[be]	;B[bi]	;W[cj]	;B[bj]	;W[dk]	;B[dl]	;W[ek]	;B[el]
+;W[fk]
+;B[gk]C[这个变化黑棋不但获得实地，还加强了中腹。
+黑13若改在A位接，则留下了B位的觑断。如图应接，白棋B位觑断的时候，黑棋可以走在C位，确保连接。]LB[fl:A][hm:B][jk:C]
+)
+(;B[bh]MN[1]	;W[bi]	;B[bf]	;W[cg]
+;B[bg]LB[cd:A][ch:B]C[白A、B两个断点无法两全。]
+)
+)
+(;B[ea]MN[1]C[如果黑棋补在1位.....]
+;W[hc]	;B[gc]	;W[ga]	;B[db]	;W[fa]	;B[fb]	;W[ha]
+;B[dc]C[官子比实战损1目强。]
+)
+(;B[dc]MN[1]C[黑如果补在此处.....]
+;W[eb]	;B[ba]	;W[fa]	;B[ga]
+;W[da]C[黑棋净死]
+)
+(;B[eb]MN[1]C[黑棋补在此处......]
+;W[dc]	;B[db]
+;W[fa]C[简单死亡]
+)
+)
+(;B[bc]MN[1]	;W[ei]	;B[fn]	;W[go]	;B[dj]	;W[di]
+;B[be]C[黑棋如图次序井然，较实战为优。
+如果黑棋3顶的时候，白棋不应在4位而是A位挡的话，见变化图。]
+)
+(;B[bc]MN[1]	;W[ei]	;B[fn]	;W[bd]
+;B[go]C[中腹厚薄差别很大，白棋不好]
+)
+)
+(;B[mq]MN[1]C[将来1位断很大。]
+;W[mp]	;B[lq]	;W[lp]	;B[lr]	;W[kr]
+;B[ms]LB[jl:A][jp:B][kp:C][io:D][iq:E][go:F]C[黑棋断吃一子，实地出入大。
+而且一旦黑棋A位得到强化，黑B，白C，黑D，白E，黑F就封住了白棋。]
+)
+)
+(;B[jl]MN[1]	;W[gl]
+;B[jj]C[如果黑棋打算消中腹白棋的形势的同时支援黑X一子的话，则黑棋中腹连跳，这样不但消去了黑棋下边的大模样，还是上面的厚势大为失色。]MA[jn]
+)
+)
+(;W[or]MN[1]	;B[oq]	;W[pr]	;B[qr]	;W[mr]	;B[np]	;W[mq]
+;B[op]C[白棋不好]
+)
+)
+(;B[jp]MN[1]
+;W[jn]C[凶狠]
+;B[kp]	;W[lq]	;B[hp]	;W[hn]	;B[jq]	;W[gq]
+;B[kn]LB[km:A][ln:B]C[白棋2位镇在外面虽然是强手，但是黑棋如图应接到9从容靠出，白棋A则黑棋B。白棋的大本营遭到破坏。]
+)
+(;B[jp]MN[1]	;W[jq]	;B[ip]	;W[lo]
+;B[im]C[对于黑棋肩冲，白棋爬的话，形成这个变化。黑棋满意。]
+)
+)
+(;B[he]MN[1]	;W[hd]	;B[gc]	;W[hc]	;B[hf]	;W[bc]	;B[cc]	;W[bd]	;B[bf]
+;W[be]	;B[hb]	;W[ib]
+;B[ga]C[这个将形成双方在左上角战斗的局面。]
+)
+(;B[he]MN[1]	;W[hd]	;B[gc]	;W[hf]	;B[ie]	;W[id]	;B[if]	;W[hg]	;B[ig]
+;W[hh]	;B[ih]	;W[hi]	;B[ii]	;W[hj]
+;B[ld]C[这个变化，黑方主动。]
+)
+)
+(;B[hd]MN[1]	;W[ec]	;B[fd]	;W[cf]
+;B[lc]C[黑棋小飞，白2尖顶，黑3立起，白4小飞守角，是正常的应接。
+黑5逼攻上面白星位一子有力。
+黑方全局主动，而且左上黑棋还有A，B点伺机选择。同时白角还有被C位点的后顾之忧。如此比实战为优。]LB[ef:A][ch:B][cc:C]
+)
+)
+(;B[cj]MN[1]	;W[cl]	;B[cg]	;W[ce]	;B[ej]	;W[el]	;B[fc]	;W[fd]	;B[gd]
+;W[fe]	;B[eb]	;W[db]	;B[dc]	;W[cc]	;B[ec]	;W[cb]	;B[jc]
+;W[qf]C[黑棋分投，白棋逼住，至黑棋17是一般应接。这样白棋争得先手，从容挂角。
+黑棋不满。]
+)
+(;B[cj]MN[1]	;W[cl]	;B[cg]	;W[ce]	;B[fc]	;W[fd]	;B[gd]	;W[fe]	;B[eb]
+;W[db]	;B[dc]	;W[cc]	;B[ec]	;W[cb]	;B[jc]
+;W[ek]C[如果图一黑棋不作黑5与白6的交换，直接挂角，那么形成本变化。
+白棋在下边形成大模样。而黑棋的拆二薄弱受攻。
+黑棋显然不好]
+)
+)

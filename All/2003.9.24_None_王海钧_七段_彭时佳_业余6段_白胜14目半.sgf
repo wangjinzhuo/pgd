@@ -1,0 +1,58 @@
+(;SZ[19]AP[MultiGo:3.6.0]C[湖北省第11届省运会冠军争夺战
+黑：王海钧    七段
+白：彭时佳    业余6段
+
+《围棋天地》2004年第8期
+《不见冠军很多年》]GN[湖北省第11届省运会冠军争夺战]
+DT[2003.9.24]PC[湖北武汉]PB[王海钧]BR[七段]
+PW[彭时佳]WR[业余6段]KM[7.5]RE[白胜14目半]
+
+;B[dp]	;W[pd]	;B[cd]	;W[pp]	;B[nc]	;W[qf]	;B[ic]	;W[cj]
+;B[ci]C[韩国流的碰]
+;W[di]	;B[ch]	;W[dj]	;B[dh]	;W[cn]	;B[ei]	;W[ie]
+;B[ej]LB[cl:A]C[黑17压应保留，失去了A位的打入]
+;W[dl]	;B[he](;W[cc]C[白20好时机]
+
+;B[bc]C[黑21过于强硬，还是应该走A位扳，给白棋留下活角的余味。]LB[dc:A]
+;W[dd]	;B[ce]	;W[bb]	;B[cb]	;W[dc]	;B[ab]
+;W[hd]C[实战白28扳后，黑空中活出一块很容易]
+;B[id]	;W[hc]	;B[hb]	;W[gb]	;B[ib]	;W[ge]	;B[hf]	;W[gf]	;B[gg]	;W[hg]
+;B[if]	;W[fg]	;B[gh]	;W[ef]	;B[de]	;W[ee]	;B[ba]
+;W[fh]C[白46以下乱战局面]
+;B[gi]	;W[fi]	;B[gj]	;W[fj]	;B[ek]	;W[fk]	;B[el]	;W[dm]	;B[en]	;W[em]
+;B[fl]	;W[gk]	;B[fm]	;W[bp]	;B[ij]	;W[fn]	;B[dn]	;W[bm]	;B[hk]	;W[gl]
+;B[fo]	;W[gn]	;B[gm]	;W[hm]	;B[hn]	;W[go]	;B[hl]	;W[im]	;B[eh]	;W[fd]
+;B[gp]	;W[ho]	;B[hp]	;W[io]	;B[ip]	;W[fp]
+;B[fq]LB[do:A]C[白棋可下A位吃通黑棋筋]
+;W[eo]	;B[jp]	;W[eq]	;B[ep]
+;W[do]C[白88吃掉黑棋筋后厚实]
+;B[je]	;W[fr]	;B[fo]	;W[df]	;B[cf]	;W[fp]	;B[eb]	;W[fb]	;B[fo]	;W[nd]
+;B[od]	;W[oc]	;B[oe](;W[mc]C[白102不好，几乎损失一手棋。应如前图走A位单粘]LB[pc:A]
+;B[nb]	;W[pc]	;B[mb]	;W[fp]	;B[ec]	;W[fc]	;B[fo]	;W[md]	;B[nf]	;W[fp]
+;B[gq]	;W[dq]	;B[mq]	;W[lb]	;B[kb]
+;W[gr]LB[pi:A]C[白118也可以走A位拆边，静观其变]
+;B[pg]	;W[pf]	;B[of]	;W[ph]
+;B[oh]LB[qg:A]C[目前黑棋形势不利，黑棋123可能A位冲下，制造混乱为好]
+;W[qg]	;B[oi]	;W[kj]	;B[jl]	;W[ob]	;B[lc]	;W[og]	;B[ng]	;W[ok]	;B[pi]
+;W[lo]	;B[lp]	;W[mp]	;B[np]	;W[mo]	;B[nq]	;W[kp]	;B[kq]	;W[lq]	;B[lr]
+;W[qk]	;B[no]	;W[il]	;B[ik]	;W[jk]	;B[ji]	;W[jm]	;B[ko]	;W[ki]	;B[kh]
+;W[lh]	;B[kg]
+;W[pn]C[白棋明显领先]
+;B[qq]	;W[pq]	;B[pr]	;W[qp]	;B[qr]
+;W[qi]C[共214手，162手以下略。
+白胜14目半]
+)
+(;W[pc]MN[1]LB[md:A][mc:B][of:C]C[白1粘，黑棋难办。
+黑如果A位征吃，白棋有D位打吃的手段，官子差别很大。
+黑如果B位退，白棋有C位顶的利用。]
+
+
+;B[nb]C[黑2如果立]
+
+;W[md]LB[nf:A][lb:B][mc:C]C[以后黑棋走A位想吃白2子时，白棋可以B位飞下吃掉黑2子，而不是实战的C位拐了。]
+)
+)
+(;W[hf]MN[1]	;B[ge]	;W[id]	;B[hc]
+;W[cc]C[如果白1，3与黑2，4交换后，白再5位托，黑棋肯定A位强杀了。]LB[bc:A]
+)
+)

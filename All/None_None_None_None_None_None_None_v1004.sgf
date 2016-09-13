@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第三届中国棋圣战决赛第二局]DT[2001-05-23]PC[中国棋院]PB[俞斌]BR[九段]PW[张文东]WR[九段]KM[5.5]RE[W+R]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播];B[qd];W[pp]C[白2的占角方向很少见，大概是为了避开一些非白所好的布局];B[dc];W[cp]
+
+;B[ep];W[eq];B[dp];W[dq];B[co];W[cq];B[fp];W[gq];B[ci]C[黑5至13的下法最近很常见];W[jc]LB[kc:a][nc:b][hc:c][fc:d]C[白14在a位分投的较多，接下来大致是黑b、白c、黑d]
+
+;B[nc];W[gc];B[id];W[ic];B[fd]C[至19，与“迷你中国流”的下法差不多];W[bo]LB[dn:a][bp:b]C[白20先捞实地，防黑在a位虎或b位扳];B[cn];W[bn];B[cm];W[dh]LB[fc:a]C[白24深入侵削是防黑脱先在a位挡]
+
+;B[di];W[eh];B[ch];W[fc];B[de]LB[ec:a]C[黑29是随机应变的好手，普通是在a位顶住，但此时并不恰当];W[gg];B[qn];W[ql];B[qq];W[qp];B[pq];W[op]
+
+;B[oq]C[黑37是抢先手的下法，照普通定式黑将落后手];W[np];B[nq];W[mq];B[mr];W[qi]C[白42脱先拆二，针锋相对地破坏黑的意图];B[pm]C[黑43动出严厉，白下边顿显重滞];W[pl];B[nm];W[ol];B[rn];W[rp]
+
+;B[mn];W[lq];B[lr];W[mo];B[ln];W[kq];B[kr]C[至55的结果，白棋不舒服];W[mk]LB[nn:a]C[白56是双方好点，但风险不小。白之所以敢脱先，是瞄着a位的虎，黑也有顾忌。至此中午封盘];B[ml];W[lk]C[黑57和白58的交换非黑所愿，是为了争先手才出此下策。];B[jq]C[黑59，很愉快。]
+
+;W[lo]C[白60，是型的要点，可确保活棋。];B[jn];W[jp];B[gp];W[iq];B[jr];W[in]LB[ip:a]C[白66，意在先手补a位的断点。];B[im];W[km];B[kn];W[io]
+
+;B[jm];W[qf]C[白72，脱先抢占大场，力保实地均衡。];B[fq];W[on];B[om];W[nn];B[pf]C[黑77，想通过靠压补掉角上的薄味。];W[pg];B[pe];W[og];B[rf];W[qg]C[至白82的结果，黑可满意。]
+
+;B[ec]C[黑83，似小实大，否则白在角上有种种手段。];W[gd];B[fe];W[cg];B[cf];W[lc];B[nf];W[bm];B[bl];W[nb]C[白92，时机绝好，黑不舒服。];B[ob];W[mb]
+
+;B[ge]C[黑95，已无在右上角再补一手的心情。];W[ei];B[gi]C[黑97，对白发起猛攻，目前黑实地并不占优，此处的攻防将关系本局胜负。];W[cl]C[白98断，冲击黑的薄味。];B[bk]LB[dl:a][ck:b][dk:c]C[黑99似有不妥，应于a位打吃，白b、黑c，这样方可一争胜负];W[dl];B[fl]LB[en:a][hm:b]C[黑101，本手是在a位补，实战是为防白在b位扳]
+
+;W[en];B[do];W[dj];B[cj];W[gl]C[白104、106的下法十分紧凑，令黑难以招架，黑左右两块棋都不活];B[gm];W[fm];B[fn]C[黑109以下明显无理，但黑已别无他法];W[hm];B[em];W[gn];B[kp]
+
+;W[il];B[jl];W[ko];B[ik];W[fm];B[jo];W[ip];B[gm];W[hl];B[fk];W[fm];B[kk];W[fj]C[白126好手，不给黑棋拚命的机会]
+
+;B[gm];W[gj];B[fm];W[hj]C[至130，白棋先手连回，黑痛苦];B[ll];W[pb]C[白132后，黑已无斗志];B[oa];W[dg];B[bg];W[oc];B[pc];W[od]
+
+;B[qb];W[nd];B[nk];W[mi];B[ki];W[pd];B[qc];W[qe];B[mh];W[re];B[rd];W[ni];B[li]
+
+;W[mj];B[nh];W[oi];B[ih];W[dk];B[go];W[hn];B[fr];W[er];B[gh];W[bf];B[be];W[ii]
+
+;B[ji];W[fg];B[ne];W[hr];B[gr];W[hq];B[eo];W[lf];B[md];W[mc];B[oe];W[nc];B[mf]
+
+;W[lg];B[lh];W[ij];B[oh];W[jj];B[kj];W[jg];B[rl];W[rk];B[qm];W[sl];B[sm];W[rm]
+
+;B[gk];W[hk];B[rl];W[dm];B[sk];W[dn];B[rj];W[ri];B[ph];W[qk];B[rg];W[qj];B[sj]
+
+;W[ok])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

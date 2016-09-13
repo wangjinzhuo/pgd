@@ -1,0 +1,16 @@
+(;SZ[19]EV[第16届富士通杯世界围棋锦标赛第二轮]DT[2003-04-14]KM[6.5]US[棋圣道场]SO[http://weiqi.tom.com]PC[日本东京]C[http://weiqi.tom.com
+棋圣道场-->大赛直播]PB[周俊勋]BR[九段]PW[高尾绅路]WR[八段]RE[W+R];B[pd];W[dd];B[pq];W[dp];B[cf]
+;W[fc];B[bd]LB[ci:a]C[黑7如不愿被白棋反夹可于a位拆二];W[ch];B[cc];W[ce];B[be];W[df];B[dg];W[cg];B[bf];W[ef]LB[eg:a]C[白16在a位征吃则属普通，实战是不愿被黑棋引征]
+;B[mc]C[黑17有疑问，不如在右边或下边拆];W[dn];B[iq];W[po];B[oo]LB[pl:a]C[黑21不如在a位高夹];W[on];B[op];W[pm];B[nn];W[nm];B[mm]
+;W[mn];B[no];W[nl];B[ml];W[mk];B[ln]LB[kl:a][lk:b][km:c][nk:d]C[黑33应于a位跳，以下白b、黑c后，还瞄着d位道断];W[lk]LB[nk:a][lm:b]C[白34是绝好点，黑棋如a位断，则白可b位先手滚打，黑棋不能忍受]
+;B[qi];W[jp]C[白36的引征很严厉];B[ip];W[mo];B[lm];W[jo];B[io];W[jn];B[lp]LB[in:a][lo:b][jm:c][km:d]C[黑43如a位继续压，则白b、黑c、白d挖，黑棋不行]
+;W[in]C[至44，白棋形势占优];B[kr];W[kq];B[lr];W[ho]LB[jr:a]C[白48好手，不仅使中腹变厚，还瞄着a位扳的手段];B[cj];W[dh];B[cl];W[bn];B[dq]LB[ej:a]C[黑53应于a位跳出]
+;W[eq];B[er];W[dr];B[cq];W[fr];B[ep];W[fq];B[cr];W[es];B[hn];W[go];B[bo];W[co]
+;B[cp];W[do];B[ao]LB[aq:a][ar:b][br:c][bs:d][as:e]C[黑69后，白a、黑b、白c、黑d、白e，黑棋角上是劫活，此处的作战黑棋不便宜];W[ej]C[白70抢先攻击，黑棋陷入苦战];B[el];W[jr];B[jq]LB[ir:a][js:b][lq:c][mq:d][mr:e]C[黑73如a位夹，则白73、黑b、白c、黑d、白e后，黑不行]
+;W[kp];B[lo];W[ir];B[jc]LB[fn:a][fo:b][fj:c]C[黑77应a位飞、白b、黑c补强左边];W[qf];B[qd];W[og];B[oi];W[pj]C[白82恰到好处]
+;B[qj];W[pk];B[oh];W[qh];B[pi];W[ng];B[mi];W[ne];B[nd];W[ld];B[lc];W[qk];B[lh]
+;W[lf];B[qo];W[jh];B[kg];W[jd];B[jg];W[ic];B[kc];W[je];B[ih];W[ki]C[白106好手];B[nj]LB[ji:a][li:b]C[黑107如a位打，则白b，黑不行]
+;W[nk];B[nh];W[ii]C[白110后，黑棋左右难以兼顾];B[rg];W[qg];B[rh];W[rf];B[rj];W[mg];B[mh];W[dk];B[bm];W[an]
+;B[bq];W[bi];B[fj];W[dj];B[fn];W[fo];B[gl];W[hh];B[en];W[eo];B[dl];W[gn];B[hj]
+;W[fk];B[fl];W[gj];B[jj];W[gk];B[kj];W[il];B[jl];W[kl];B[ik];W[hl];B[km];W[qn]
+;B[ro];W[jm];B[ig];W[hi]LB[jk:a][rn:b]C[白150后，黑如a位接，则白b活棋，至此黑棋只得投了])

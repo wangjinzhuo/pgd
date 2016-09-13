@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届中国名人战本赛第二轮]DT[2002-03-11]PC[中国棋院]PB[古力]BR[五段]PW[罗洗河]WR[八段]KM[7.5]RE[W+R]US[棋圣道场]SO[http://weiqi.cn.tom.com/]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局];B[qd];W[dc];B[dq];W[pp];B[ce];W[od];B[oc];W[nc];B[pc];W[md];B[qf];W[dg];B[ee];W[fd];B[di];W[fg];B[cg];W[df];B[cf];W[de];B[cd];W[dd];B[cc];W[ke];B[do];W[jp];B[fi];W[cm];B[ck];W[dh];B[ci];W[fm];B[hp];W[in];B[hh];W[cp];B[co];W[gp];B[ie];W[ig];B[gf];W[fq];B[hc];W[gi];B[ih];W[gh];B[jg];W[dp];B[ep];W[eq];B[lc];W[bp];B[ld];W[le];B[me];W[kg];B[jf];W[jc];B[nb];W[mf];B[ne];W[of];B[nd];W[ch];B[bh];W[bj];B[gj];W[bi];B[bg];W[bk];B[cl];W[cj];B[ei];W[ek];B[fk];W[ej];B[dm];W[dj];B[fj];W[hj];B[hk];W[ik];B[gm];W[fl];B[gl];W[fn];B[il];W[hi];B[jk];W[ji];B[fo];W[gn];B[cq];W[bq];B[br];W[bo];B[go];W[ho];B[bn];W[en];B[bl];W[eo];B[el];W[an];B[bm];W[hd];B[id];W[ic];B[gd];W[gc];B[he];W[hb];B[kf];W[hd];B[lg];W[ij];B[kl];W[al];B[ao];W[ap];B[am];W[lm];B[pq];W[qq];B[qp];W[qr];B[qo];W[op];B[pm];W[qk];B[ok];W[pi];B[pk];W[ll];B[ni];W[qg];B[qj];W[rf];B[pg];W[qe];B[pf];W[pe];B[rg];W[og];B[ph];W[qh];B[oh];W[rh];B[re];W[sg];B[sd];W[rj];B[mp];W[kh];B[lf];W[kk];B[jl];W[jj];B[lk];W[kj];B[ak];W[hm];B[hl];W[km];B[ai];W[no];B[mo];W[oq];B[rk];W[ql];B[ri];W[pj];B[sj];W[qi];B[rl];W[rj];B[nr];W[or];B[qj];W[mh];B[mi];W[rj];B[mn];W[si];B[lh];W[nm];B[kq];W[qm];B[ir];W[mr];B[lr];W[mq];B[lq];W[nq];B[ip];W[hq];B[hr];W[gr];B[io];W[jo])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

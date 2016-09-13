@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本]KM[5.5]EV[第14届富士通杯第二轮]DT[2001-04-16]PB[周鹤洋]BR[八段]PW[河野临]WR[五段]RE[W+R];B[qd];W[dc];B[dp]C[黑3选择了较易形成战斗的对角布局];W[pq]
+
+;B[ce];W[dg]C[白6一间高夹，近来不多见];B[ef]LB[ee:a]C[黑7在a位跳也是一策];W[fd];B[eg];W[di]LB[cd:a]C[白10也有在a位尖顶的下法];B[eh];W[cm];B[hc]C[黑13立即紧逼，争取主动]
+
+;W[cd]LB[ge:a]C[白14，稳健，如在a位尖出则较复杂];B[ge];W[nc]LB[od:a][mc:b]C[白16是恰当的选点，如在a位挂，则黑b位夹];B[lc]LB[pc:a][kc:b]C[黑17如在a位夹，则白b位拆二，黑不满];W[pd]LB[qc:a][pc:b][qb:c][rc:d][od:e][pe:f][oc:g]C[白18如a位，则黑b、白18、黑c、白d、黑e、白f、黑g，白不满]
+
+;B[pc]LB[pe:a][qc:b]C[黑19如在a位，则白b位扳角];W[qe];B[qc];W[od];B[qf]LB[re:a]C[黑23强硬，如在a位扳，则白23退，黑无趣];W[re]C[白24是当然的反击];B[pe]C[黑25以下形成混战];W[rf]
+
+;B[pf];W[qg];B[pg];W[rd]C[白30机敏，时机绝好];B[nb];W[mb];B[ob];W[mc];B[lb];W[na];B[rc]C[黑31至37双方必然];W[qh]
+
+;B[ld];W[nf];B[ph];W[oc];B[pb]C[黑43后，角上留有打劫活];W[mg];B[nh];W[mh];B[mi];W[li];B[pi]C[黑49好手，白不易应付];W[ri]LB[qi:a]C[白50不在a位长，是不想被黑连扳利用]
+
+;B[lh]C[黑51凶狠，战斗进入白热化];W[ni];B[mj];W[nj]C[白52、54以攻为守，只有咬住黑棋，白棋才有生机];B[ng];W[mf];B[rj]C[黑57想先手便宜];W[rb];B[sb];W[sd]C[白58、60虽是先手活，但也丧失了劫杀黑角的机会];B[la]
+
+;W[kh];B[nk];W[ma];B[ra];W[kj];B[mk]C[至67，双方各有所得];W[ke]LB[ne:a]C[白68防黑在a位跨断];B[qo];W[fq]C[黑69、白70，双方都想抢先发言，争取主动];B[nq];W[qp]C[白72是此时恰当的选择]
+
+;B[qr]C[黑73出人意料地凶狠，感觉周鹤洋与平日大异其趣];W[pr];B[rp];W[mq]C[白76是腾挪的手筋];B[mr];W[np];B[lq];W[mp];B[nr];W[ro];B[rn];W[po]C[白84是好次序，黑不舒服]
+
+;B[qn];W[rq];B[so];W[rr]C[至88的结果，黑不便宜];B[iq];W[dr];B[cq];W[cr]C[白90、92步步紧逼，白棋形势有利];B[be];W[gc];B[hb];W[bd]
+
+;B[ck]C[黑97是胜负手];W[dl];B[dk];W[ek]C[白98、100毫不手软];B[el];W[em];B[fl];W[ej];B[ci];W[dh];B[bh];W[bg]C[白108后，黑棋陷入困境]
+
+;B[fk];W[fj];B[gj];W[gi];B[fi]C[黑113寻找认输的台阶];W[gk];B[hj];W[hk]C[白116后，黑棋崩溃。本局是周鹤洋极不发挥的一局];B[ij];W[gm];B[ik];W[ji]
+
+;B[le];W[jg])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

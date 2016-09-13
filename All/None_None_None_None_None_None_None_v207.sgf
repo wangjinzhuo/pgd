@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第14届中国名人战本赛第二轮]PC[中国棋院]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局]DT[2001-03-22]PB[邵炜刚]BR[九段]PW[刘小光]WR[九段]RE[B+R];B[pd];W[dc];B[pp];W[dq];B[de]
+
+;W[co];B[fd];W[qn];B[pk];W[fc];B[gd];W[ce];B[dd];W[cd];B[cc];W[cf];B[ec];W[db]
+
+;B[eb];W[cb];B[mc];W[qi];B[qj];W[pi];B[nk];W[qf];B[re];W[ne];B[od];W[mi];B[qo]
+
+;W[pn];B[np];W[mn];B[lk];W[lo];B[lq];W[jp];B[pg];W[kj];B[ni];W[oj];B[nj];W[ok]
+
+;B[ol];W[pl];B[om];W[qk];B[pm];W[pj];B[qm];W[ro];B[rl];W[qq];B[rn];W[sn];B[rm]
+
+;W[oq];B[pq];W[pr];B[op];W[nq];B[qg];W[ld];B[md];W[lf];B[qr];W[rr];B[or];W[qs]
+
+;B[nr];W[qp];B[le];W[oh];B[nh];W[og];B[kf];W[mf];B[ng];W[kg];B[nf];W[ke];B[me]
+
+;W[jf];B[rj];W[eg];B[jc];W[id];B[ic];W[rk];B[rg];W[dk];B[hp];W[kq];B[lp];W[in]
+
+;B[eq];W[dp];B[hn];W[hm];B[gn];W[gm];B[iq];W[lr];B[po];W[gq];B[gr];W[er];B[io]
+
+;W[jo];B[im];W[jn];B[fm];W[fn];B[fo];W[en];B[eo];W[go];B[ho];W[gp];B[hq];W[ep]
+
+;B[dn];W[em];B[fl];W[hl];B[dl];W[do];B[ck];W[dj];B[cj];W[di];B[ci];W[bm];B[dh]
+
+;W[eh];B[dg];W[fj];B[df];W[bg];B[bh];W[cg];B[ch];W[cl];B[mr];W[kr];B[gg];W[ea]
+
+;B[gk];W[hi];B[el];W[fp];B[hj];W[il];B[gi];W[gj];B[fi];W[ei];B[fk];W[ej];B[hk]
+
+)
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

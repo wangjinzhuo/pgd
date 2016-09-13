@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届中国围棋天元赛第一轮]DT[2001-02-16]PC[中国棋院]PB[王檄]BR[四段]PW[周鹤洋]WR[八段]KM[5.5]RE[W+R]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局];B[qe];W[pp];B[dd];W[pc];B[dq]
+
+;W[ph];B[od];W[oc];B[nd];W[nc];B[md];W[lc];B[qj];W[oi];B[pl];W[pj];B[qi];W[qh]
+
+;B[qn];W[qk];B[nq];W[rk];B[qq];W[qp];B[pq];W[op];B[oq];W[on];B[np];W[no];B[mo]
+
+;W[mn];B[ln];W[lo];B[mp];W[mm];B[lm];W[ml];B[ll];W[lk];B[ko];W[kk];B[qc];W[pd]
+
+;B[pe];W[qd];B[mc];W[mb];B[rd];W[rc];B[ld];W[kc];B[rf];W[sd];B[rh];W[qg];B[se]
+
+;W[re];B[nb];W[sf];B[lb];W[kb];B[ma];W[je];B[kd];W[ic];B[jd];W[id];B[ie];W[jf]
+
+;B[he];W[gc];B[gd];W[hb];B[kg];W[jg];B[jh];W[hg];B[lh];W[ih];B[ji];W[lf];B[mg]
+
+;W[mf];B[nf];W[lg];B[nh];W[mi];B[mh];W[ii];B[jj];W[hk];B[jk];W[eg];B[pk];W[pi]
+
+;B[fc];W[fb];B[ec];W[hd];B[dg];W[df];B[ef];W[cf];B[cg];W[bg];B[bh];W[be];B[ff]
+
+;W[eh];B[di];W[ei];B[ag];W[bf];B[dj];W[cc])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

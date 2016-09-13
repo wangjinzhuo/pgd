@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;DT[2001-05-19]PC[中国棋院]PB[张文东]BR[九段]PW[俞斌]WR[九段]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]SZ[19]EV[第三届中国棋圣战决赛第一局]C[本谱由华学明七段解说
+
+http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]RE[黑胜3/4子];B[qd]C[本届棋圣战的第一局。从本届比赛开始，棋圣战不再采用挑战制，所以上届棋圣周鹤洋也只得参加循环赛，在半决赛被张文东击败];W[dd]C[俞斌九段是在半决赛中击败聂卫平九段杀入决赛的];B[fc];W[cf]
+
+;B[pp];W[dq];B[kc];W[qj];B[pi]C[至第9手，双方对此型的变化很有研究。];W[qi];B[qh];W[rh];B[qg]LB[pj:a]C[黑13，也有在a位压的下法。];W[pj];B[oi]
+
+;W[qn];B[oj]LB[rg:a][qf:b][ke:c][ok:d]TR[qn]C[黑17，白16(白▲)如果在a位爬，则黑在b位长，白再在16位挂角，则黑17会在c位跳。实战因为没有a,b的交换，则将来黑在d位长是先手。];W[pm];B[nq];W[oc]C[白20，比较少见。];B[pc];W[pe];B[rg]LB[qe:a][pb:b][qb:c][pd:d][qc:e][mc:f]C[黑23强硬，如在a位挡，则白在b位扳，黑c位挡住，白d位打吃，黑e位接，白f位跳就地做活。]
+
+;W[qe];B[ob];W[rd];B[rc];W[rf];B[ok]LB[sd:a][se:b][re:c]C[黑29是很含蓄的一手，在a位打吃似乎可行。白如在b位打劫，黑c位提劫，黑不惧。];W[qb];B[qc];W[nc]LB[ri:a][sg:b][pb:c][nb:d][rb:e][sd:f][se:g]C[白32，可考虑先在a位接，黑如按实战在b位立，白则在c位断，黑d位长，白e，白做活不成问题。黑如不走b,改于f位打，白再在g位打吃，此劫白已轻。]
+
+;B[nb];W[ri];B[sh];W[og];B[pg]LB[ql:a][rl:b][rm:c][qm:d]C[黑将来可以在a位飞下，白b位，黑c，白d顽强抵抗，白可暂渡难关。];W[mc];B[of]LB[ne:a][lc:b]C[黑39如在a位点，则白b位顶，白可战。]
+
+;W[oe];B[nf]C[至黑41，中午封盘。];W[lc]LB[kd:a][jc:b][ne:c][mf:d]C[白42有种种下法，如在a位靠，或在b位靠，最简明的下法就是在c位帖，黑如在d位长，则白在a靠出。];B[kb];W[rb];B[ql];W[rl];B[sd]C[黑47的下法，令人难以置信，损失太大。黑对白右边并无有效打击。]
+
+;W[pb];B[re];W[sb];B[qf];W[lb];B[rm];W[ro]LB[qm:a][rk:b][pl:c][sl:d][pk:e][rn:f][rp:g][sn:h]C[白54可以在a位断，黑b，白c，黑d，白e，黑54，白f，黑g，白h，虽然白是梅花五，但活棋没有问题。实战白54是有优势意识的一步。]
+
+;B[qm];W[qq];B[pq];W[pl];B[pk];W[qr];B[rn];W[qo];B[pr];W[sr]C[至白64，转换的结果黑颇有收获，局势呈均势，白实地稍占上风，但黑厚实。];B[cn];W[cp];B[ck]
+
+;W[kq]LB[iq:a]C[白68一般分寸在a位拆。];B[gp]C[黑69打入是当然的一手。];W[dl];B[cl];W[dn];B[gn]LB[ch:a]C[黑73也可考虑在a位拆。];W[dm];B[cm];W[ci]
+
+;B[di];W[dh];B[dj];W[fo];B[go];W[eh];B[db];W[cc];B[hd]LB[ko:a]C[黑83，85有缓的嫌疑，应在a位镇住，这是双方的要点。];W[ko];B[lp];W[lq]
+
+;B[mn]LB[on:a]C[黑87，89，令人不解，普通在a位点。实战黑的形状不好。];W[mp];B[on];W[pn]LB[bj:a]C[白92，应在a位尖，优势会大一些。];B[bi];W[bh]LB[ch:a]C[白94，如想走先手，可在a位接。];B[cj];W[mo]
+
+;B[oo];W[ln];B[mm];W[ch]LB[gl:a][kl:b]C[实战至白100，有被黑便宜的感觉，白100也可考虑在a位镇，因为白在b位一带有先手。这样行棋似乎较有连贯性。];B[jp];W[kp];B[fq];W[co];B[jq];W[lm]LB[kl:a]C[白106下在a位可能会好点。]
+
+;B[jr]C[黑107，是好手。];W[fj];B[ai];W[ah];B[bk];W[bn];B[bm];W[bo];B[am];W[cb]LB[er:a]C[白116只能如此，如在a位尖，黑会在116爬，];B[er]LB[ne:a]C[黑117，在a位拐头更大一些。]
+
+;W[dr];B[kd];W[ne];B[ds];W[cs];B[es];W[br];B[ec];W[mf];B[mg];W[lf];B[lg];W[sc]
+
+;B[sf]C[现在局势是细棋，白可能略微好一点。];W[jo];B[ml];W[kr];B[io];W[in];B[mr]LB[ip:a]C[黑137见小，应在a位接。];W[kk];B[im]LB[kf:a]C[黑139，见小，应在a位扳。]
+
+;W[js]LB[ip:a][ho:b][ir:c][sm:d]C[白140，勺子，应在a位吃，则黑b位接，白c位夹，黑就亏了。将来白棋收官在d位扳，可便宜2目。];B[is];W[ks];B[hr];W[ho];B[ip];W[hn];B[hm];W[jm]
+
+;B[jn]C[黑149，好棋。使白这块棋没活干净。];W[kn];B[hp];W[jn];B[ik]LB[gl:a][kf:b]C[黑153是拼搏的态度，如果在a位补，则白棋b位长，黑将小败。];W[gm];B[gk];W[gl];B[hl];W[fk]
+
+;B[fn];W[gj];B[hk];W[em];B[jj];W[ll];B[kj];W[lj];B[li];W[ge];B[he];W[gf];B[gd]
+
+;W[ka];B[ja];W[la];B[ib];W[mk]LB[mi:a][no:b]C[白176，如果白棋胜，则白176是奠定胜利的一步，白下一步在a位扳，b位团各得其一。];B[mj];W[lk];B[om];W[ed];B[ld];W[md]
+
+;B[hh];W[mi]LB[kf:a]C[白184，如输了就是败招。此手应在a位长，约有10目的价值而实战白184花了两手，只得到了7目的价值。];B[kh];W[nj];B[kf];W[hf];B[if];W[hg];B[ig];W[eq];B[fr];W[gh]
+
+;B[hi];W[pd];B[rd];W[hj];B[ij];W[ng];B[pf];W[mh];B[lh];W[np];B[qp];W[rp];B[ol]
+
+;W[aj];B[bj];W[dc];B[eb];W[nh];B[ca];W[ba];B[da];W[sm];B[rk];W[sn];B[sl];W[so]
+
+;B[qk];W[bb];B[gi];W[fh];B[fd];W[fe];B[le];W[me];B[mq];W[eo];B[jl];W[nk];B[ni]
+
+;W[kl];B[oh];W[mj];B[qs];W[rs];B[ps];W[op];B[po];W[rq];B[oq];W[nl];B[fp];W[nm]
+
+;B[nn];W[ep];B[an];W[ao];B[no];W[lo];B[jk];W[dk];B[ej];W[ek];B[fm];W[fl];B[ls]
+
+;W[lr];B[ms])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

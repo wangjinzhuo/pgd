@@ -1,0 +1,38 @@
+(;AB[pd][dp]C[白：太田雄藏 六段
+让两子
+黑： 桑原秀策 二段
+日期：1842年7月8日
+ 共194手，白中盘负
+
+点评：濑越宪作 九段]
+AP[MultiGo:3.9.2]SZ[19]
+;W[cn]C[现在的人会将白1下在空角。]N[第一谱 开局不利];B[gq];W[dc];B[qp];W[oq];B[mq]
+C[黑6在当时很流行];W[nc];B[qg];W[no]C[白9可能是雄藏的个人研究成果。这种下法在20世纪20年代再次出现。]
+;B[qm]LB[po:A][pm:B]C[黑10对白没有任何压力。可能下在A位或者B 位更好些，特别是黑8也在低位上的时候。]
+;W[lp];B[kq];W[ce];B[jc];W[qc];B[pc];W[qd];B[pe];W[qe];B[qf];W[pb];B[ob];W[qb];B[oc]
+;W[hc];B[je];W[ne];B[of];W[lc];B[he];W[mg];B[kp]LB[jg:A]C[黑32是好点，但是目前下在A位加强上方的弱子更重要。]
+;W[pn];B[qn];W[qq];B[rq];W[pp];B[qo];W[jg]C[白没让机会溜走，在33至37加强自己以后，立刻抢占39位，对黑进行攻击。]
+;B[ec]LB[ig:A]C[黑40好像过分了。如果没有白39，这招是可行的。但是现在，黑应该下的保守一些，比如下在A位。]
+;W[ed];B[fc];W[fd];B[db];W[gd];B[cc];W[dd];B[bb]C[至黑48，角里的黑棋活了。但是代价是中央三子被削弱了。在让两子棋中，不推荐这种下法。]
+;W[if]C[白49看上去牢牢抓住了黑中央三子，雄藏一定对自己的开局感到满意。];B[le]MN[50]
+N[第二谱 保持压力];W[me];B[lf];W[ng];B[ld];W[nb];B[lb];W[mc];B[kc];W[qi];B[pi];W[pj]
+;B[oi];W[qk];B[og];W[lg];B[hd];W[gc];B[hf];W[hg];B[gg];W[gf];B[hh];W[ig];B[ib];W[nj]
+;B[oj];W[ok];B[ri];W[rj];B[qh];W[id];B[ie];W[ic];B[jd];W[si];B[qj];W[hb];B[ja];W[qi]
+;B[mf];W[nf];B[qj];W[ma];B[la];W[qi];B[md];W[nd];B[qj];W[jb];B[kb]C[黑从50开始做活，可能秀策觉得这块棋不能弃。黑能活，代价是白中央获得了厚势。白也进行了一次佯攻，从59到85造劫。白在上方有足够的劫材。]
+;W[qi]MN[1]C[1代表101，以下类同。]N[第三谱 黑获得了主动权];B[re];W[rh];B[rd];W[rr]
+C[至黑4白满意。];B[qr];W[pr]LB[oa:A]C[白5至7造劫有些多余。比较悠闲的一手比如下在A位把上方的子救回来就足够好了。]
+;B[pq];W[rg];B[pa];W[qq];B[kh];W[qs];B[kg]C[白虽然劫胜，但是黑12、14把白中腹的厚势全破坏了。现在是黑好下的局面。]
+;W[mk];B[fg];W[fb];B[eb];W[bd];B[bc];W[eg]LB[ch:A]C[白21通常走在A位，但是白觉得这样对黑压力不够。]
+;B[eh];W[dh];B[ei];W[di];B[dj];W[dg];B[ek];W[ki]C[这一步不能省，详见变化图。]
+(;B[ji];W[cp];B[cq];W[dq];B[ep];W[eq]C[白没有遵循通常的定式，因为他打算利用这个角造一些劫材为白41开劫作准备。]
+(;B[co];W[bp];B[fq];W[rc];B[rf];W[oa];B[na];W[cr];B[mb];W[bo]C[白45最后还是上拐了，因为右上角对黑来说实在是太大了，黑不会去打这个劫。]
+;B[ni];W[mi];B[li];W[lh];B[kj];W[ko]MN[51]N[第四谱 惩罚无理手];B[jo];W[jn];B[io]
+;W[kn];B[nh];W[mh];B[lk];W[mj];B[in];W[ll];B[kl];W[jl]LB[km:A][lm:B]C[白63无理。白应该在A或B防守。]
+(;B[lm];W[ml];B[km];W[jm];B[rl];W[rp];B[ro];W[sq];B[pl];W[pk];B[mm];W[nm];B[mo]
+;W[lo];B[nn];W[on];B[mn];W[lq];B[nl];W[om];B[oo];W[po];B[mr]C[从黑68开始，黑对白进行了严厉的进攻。至黑86，白被一分两断。简而言之，白63导致白突然崩溃。也许雄藏没有预料到秀策能够如此熟练而精确的攻击自己的薄弱点。]
+;W[hm];B[fm];W[fn];B[en];W[em];B[gn];W[fl];B[gm]C[濑越宪作最后的评论是：难以置信这棋是一个十三岁的人下出来的。
+
+至黑194手，白中盘负。])
+(;AE[jl];W[km];B[jl];W[en];B[fm]C[如此进行，白不行，因此雄藏决定按实战白63进行。但是，这实际上加速了白的败亡。]))
+(;AE[eq];W[bq];B[cr];W[bo]C[这是通常的定式]))
+(;AE[ki];B[mh];W[lh];B[mi];W[li];B[lj]C[白被吃]))

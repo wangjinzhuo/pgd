@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]GN[中国围棋天元战]DT[1989/01/22]PB[钱宇平]BR[]PW[王群]WR[]RO[]PC[北京]US[棋迷大本营melody]SO[]C[]RE[B+R]GM[5.5];B[pd];W[dp];B[pp];W[cc];B[pj];W[nq];B[lq];W[qq];B[qp];W[pq];B[op];W[nr];B[mo];W[jc];B[dd];W[dc];B[fd];W[de];B[ee];W[cd];B[df];W[ed];B[ef];W[fc];B[gd];W[gc];B[hd];W[mc];B[dm];W[fp];B[gm];W[qf];B[qe];W[pf];B[nd];W[qi];B[qj];W[pi];B[oi];W[oh];B[nh];W[rj];B[rk];W[qk];B[pk];W[ri];B[ql];W[ni];B[oj];W[og];B[mh];W[md];B[rf];W[rg];B[re];W[ip];B[cp];W[cq];B[do];W[ep];B[bo];W[bp];B[co];W[bf];B[nc];W[mf];B[be];W[bh];B[ce];W[cj];B[bk];W[bj];B[bq];W[br];B[ap];W[ei];B[dd];W[ec];B[hc];W[gf];B[fh];W[eh];B[fg];W[ie];B[fi];W[fj];B[gj];W[gk];B[fk];W[ej];B[hi];W[ki];B[mi];W[hk];B[jh];W[fl];B[kd];W[kc];B[kf];W[jd];B[ne];W[me];B[nf];W[sg];B[if];W[he];B[je];W[id];B[fe];W[ld];B[ke];W[nb];B[ob];W[lb];B[na];W[hb];B[ib];W[gb];B[ic];W[jb];B[go];W[hq];B[ek];W[gl];B[ck];W[cg];B[hm];W[jl];B[il];W[ik];B[jm];W[km];B[kl];W[jk];B[kn];W[lm];B[ll];W[jn];B[im];W[ml];B[lk];W[em];B[el];W[fm];B[ln];W[kh];B[ji];W[mm];B[jo];W[kg];B[kj];W[jj];B[li];W[ii];B[ih];W[hh];B[hg];W[jg];B[ig])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

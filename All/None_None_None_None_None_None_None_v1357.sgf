@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]PC[中国棋院]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局]DT[2001-02-18]EV[第15届中国围棋天元赛第二轮]PB[董彦]BR[七段]PW[张文东]WR[九段]RE[B+R];B[qd];W[dc];B[dp];W[pp];B[ce]
+
+;W[fd];B[hc];W[cg];B[oc];W[cn];B[fq];W[bp];B[qn];W[ql];B[nq];W[pn];B[qq];W[qp]
+
+;B[pq];W[op];B[oq];W[qi];B[cq];W[ck];B[np];W[jc];B[oo];W[rn];B[cc];W[cb];B[bb]
+
+;W[cd];B[bc];W[dd];B[bd];W[db];B[bf];W[id];B[bg];W[mc];B[dn];W[dm];B[en];W[iq]
+
+;B[co];W[bn];B[ge];W[gd];B[pj];W[qj];B[qm];W[pm];B[pl];W[ol];B[pk];W[rm];B[qk]
+
+;W[rl];B[rk];W[qf];B[nm];W[om];B[pi];W[of];B[md];W[nd];B[pg];W[pf];B[nc];W[lc]
+
+;B[qh];W[ne];B[nb];W[gq];B[gr];W[hr];B[gp];W[hq];B[fr];W[lq];B[lr];W[kr];B[mr]
+
+;W[ko];B[kd];W[kc];B[la];W[nh];B[rp];W[ro];B[nk];W[nl];B[mi];W[qc];B[rd];W[pd]
+
+;B[pc];W[rb];B[od];W[rc];B[pe];W[pb];B[rg];W[rf];B[sd];W[se];B[ra];W[sc];B[qa]
+
+;W[sa];B[sb];W[qb];B[pa];W[mh];B[li];W[lh];B[ki];W[jh];B[ig];W[jg];B[if];W[hd]
+
+;B[hi];W[qg];B[rh];W[gg];B[gh];W[ih];B[fg];W[hh];B[hg];W[gi];B[fh];W[ci];B[jf]
+
+;W[rq];B[rr];W[bh];B[dh];W[ch];B[kf];W[ii];B[mf];W[og];B[hj];W[ij];B[gj];W[ni]
+
+;B[nj];W[ik];B[ml];W[bq];B[em];W[dl];B[ka];W[cr];B[hb];W[ef];B[jd];W[me];B[ld]
+
+;W[lf];B[ic];W[ba];B[ae])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

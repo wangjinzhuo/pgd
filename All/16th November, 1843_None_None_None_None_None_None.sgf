@@ -1,0 +1,66 @@
+(;BS[Kuwahara Shusaku, 4e dan ]WS[Kishimoto Saichiro, 4e dan ]S[19]C[白：岸本左一郎 四段
+黑：桑原秀策     四段
+日期：1843年11月16日
+
+共237手，白胜1目。
+
+点评：久保胜喜代 八段
+]
+AP[MultiGo:3.9.2]DT[16th November, 1843 ]PC[]
+;B[qd]N[第一谱 不寻常的变化];W[oc];B[ed];W[qf];B[pf];W[pg];B[of];W[og]
+(;B[od]C[黑9要点。]
+(;W[pc];B[qg]LB[pd:A][mc:B][ng:C]C[黑A，白B，黑C的走法更平和一些。];W[qh];B[rg]
+;W[qc];B[pd]
+(;W[rf];B[rh]C[白16如走17挡，黑走16应，黑的结果比变化图4好很多。];W[rd];B[qi];W[qe]
+C[白20是防止黑做劫的需要，同时紧黑的气，因此至黑27，是白的先手利。]
+(;B[nf];W[oi];B[nc];W[nb];B[mc];W[mb];B[lc];W[qk]MN[28]N[第二谱 诱招];B[pj];W[ng]
+C[白28引诱出黑29，这样白可以走30位。];B[oj];W[lg];B[jd];W[pp]C[白34走星位，当时很少见。]
+;B[pn];W[pl];B[mj]LB[qn:A]C[黑35、37是很自然的顺序。如果黑不走35，直接跳到37，白走A。与此相比，显然黑35和白36的交换更好。]
+;W[nl];B[nn];W[np];B[jg]C[黑41诱招。];W[li];B[ml]C[白42使得黑43非常自然。];W[jh]
+C[白44是必要的。]
+(;B[nm]C[黑45防变化图6中白的手段。黑棋第一次有了一个坚实的形。];W[qn]MN[46]N[第三谱 中腹的厚势]
+;B[qm];W[rn];B[pm];W[rm];B[ig]LB[ih:A][ji:B]C[如果黑A，白B，那就是帮白整形，自己还留下一个断点。]
+;W[mf];B[kh];W[me]C[白54除了先手迫使黑走55之外，还有变化图7中1、3的攻击手段。]
+(;B[nd];W[mi];B[ji]C[与防守相比，黑倾向于53、57建立中央的势力，迫使白56出逃。];W[lj]
+;B[mk];W[kk];B[cd];W[ik]LB[km:B]C[看到白62，似乎黑61应该先走62和白B交换以后再转到角上。但是，黑不愿意做这个交换是可以理解的。]
+;B[dj];W[co];B[lb]C[黑65是防变化图7的走法。];W[dc]LB[ec:C]C[白66试应手的时机非常好。如果黑在C位应，白就活在角上。倘若，白在走66之前，进行了实战中黑68和白69的交换，黑C位应，白在角上无法做活。这个地方，时机是最重要的。]
+;B[cc];W[ch];B[cf];W[eh];B[fj];W[bj];B[ck];W[bk];B[cm];W[bl]C[白70、76必要。];B[ep]
+MN[77]N[第四谱 成功的打入];W[id]C[白在下52、54时，就已经瞄上78这个手段了。现在，黑很难处理这个打入。
+]
+;B[ie];W[jc];B[kd];W[hc];B[gd];W[gc];B[ec]
+(;W[hd];B[ib];W[he];B[gf]C[黑87、89竭尽全力技工，但是已经没有办法杀白了。];W[ge]
+;B[ff];W[jb];B[fb];W[fd];B[ha];W[ga];B[gb];W[hb];B[fa];W[ja];B[ma]MN[1]C[1代表101，以下类同。]
+N[第五谱 缠绕攻击];W[fc];B[db];W[ia]C[白2、4次序不对。如果白先走4，黑很可能不会注意到白2的手段。]
+;B[ob];W[pb];B[na];W[rb];B[cq]C[黑5、7先手提两子，黑9占角，是对黑上方损失的补偿。现在黑可对两块白的弱棋进行缠绕攻击。]
+;W[eo];B[fp];W[fo];B[go];W[dp];B[dq];W[gp];B[dn];W[do];B[jl];W[jk];B[bm];W[em];B[cl]
+;W[gi];B[fi];W[fh];B[hj];W[ii];B[ij]C[白28和黑29的交换，机敏。它的效果在白36至40的时候可以看到。]
+;W[gj];B[gk];W[je];B[ke];W[if];B[kf];W[hi]C[现在可以参考变化图9，看看白28和黑29交换的作用。]
+(;B[gh];W[hk];B[hh];W[jj];B[di]MN[41]N[第六谱 弃子];W[dh];B[ci];W[bi];B[bg];W[bh]
+;B[gl];W[gn];B[bp];W[bo];B[en];W[fr]C[白52是诱招。];B[gq];W[ho]C[黑53上当，白54提吃显得非常自然。]
+;B[fm];W[hq];B[br]LB[ao:A][bn:B]C[白A是先手，黑必须B应。因此黑57正确。];W[ef];B[df]
+;W[ee]C[白58、60准备弃子，];B[fe];W[hf]LB[ih:C][kg:D]C[由于白58、60多送了一点，白62成为先手，而且将来白C、D都是先手得利。]
+;B[gg];W[mo]C[白64足以使局面非常接近。];B[qo]MN[65]N[第七谱 接近的一局];W[ro];B[ih]
+C[黑67防前面提到的白的先手，非常大。];W[ql];B[ol];W[lm];B[hm];W[im];B[gr]LB[eq:A]
+[er:B]C[黑73是防白走A，而且本身是先手。如果黑走A，白走73，黑B，黑丢掉了先手。];W[fq]
+;B[eq];W[hr];B[er];W[gs];B[oo]LB[po:A]C[如果黑先下在A，黑79很可能就不是先手了。]
+;W[op];B[po];W[qp];B[hl];W[il];B[pe]LB[eg:A]C[为了防白走A位迫使黑补几手去吃白棋，黑85提供了一个后手眼。目前为止，白没有机会走A。举个例子，如果白70走A位，黑就在下方行棋，因为黑不需要立即应白A。]
+;W[ap];B[aq];W[ao];B[bn];W[es];B[ds];W[cp];B[bq];W[cs];B[bs];W[fs];B[cr];W[fn];B[el]
+;W[rj];B[sf]MN[1]C[1代表201，以下类同。]N[第八谱 岸本的好局];W[re];B[hn];W[in];B[ne]
+;W[ph];B[ri];W[nj];B[nk];W[ni];B[qj];W[rk];B[sb]C[和变化图10相比，黑13多占一目。]
+(;W[sc]C[如果白14按变化图11进行，会形成双活。]
+(;B[se];W[ki];B[jf];W[jh];B[kg];W[an];B[am];W[cn];B[dm];W[si];B[lh];W[mh];B[ll]
+;W[kl];B[mn];W[ln];B[ga];W[pa];B[oa];W[sa];B[ie];W[ji];B[je]C[尽管白在上方的打入很难说哪一手是胜着，哪一手是败着，但这个打入非常成功。这很可能是白胜利主要原因。另外，白良好的形势判断，作出弃左边一块白棋的选择，也是一个很大的胜因。在以后，秀策将岸本降级到定先，不过现在这个阶段，岸本还是可以和秀策抗衡的。
+
+白最终胜1目。])
+(;AE[sc]N[变化图11];W[se];B[sc];W[rc];B[qa]))
+(;AE[sb]N[变化图10];B[se];W[sd];B[sg];W[pa]))
+(;AE[ii][ij][hi]N[变化图9];W[hi];B[gh];W[hk];B[hh];W[ii];B[ih];W[ij]C[如果没有实战白28和黑29的交换，黑6提吃一子是先手。]))
+(;AE[ec]N[变化图8];B[fc];W[fb]TR[dc]LB[hd:A]C[由于有开始试应手的白三角一子，而且白A是先手，白轻松做活。]))
+(;AB[nd]N[变化图7];W[kc];B[kd];W[jc]))
+(;AE[jh]N[变化图6];W[nk];B[nj];W[mk];B[lj]LB[jh:A]C[白1、3攻击是白的后续手段，如果A位没有白子，这攻击就没什么作用。]))
+(;AE[qe]N[变化图5];B[re];W[qe];B[rc];W[se];B[rb];W[qb];B[sg];W[sf];B[sd];W[sc];B[sb]
+C[黑得到劫争的机会。]))
+(;AE[pd]N[变化图4];B[rf];W[rd];B[re];W[pd]C[白2、4先手，好手。]))
+(;AE[od]N[变化图3];B[nf];W[qg];B[od];W[pc];B[pd];W[mc]C[黑1变成恶形。]))
+(;AE[og]N[变化图1];W[qe];B[pd];W[od];B[pe];W[qh];B[kd]C[如此进行，黑获得6位夹的好点。])
+(;AE[og]N[变化图2];W[qg];B[od];W[pc];B[pd];W[mc];B[qj]C[白3、5好点。但是当黑6攻击时，白边上三子有点重。]))

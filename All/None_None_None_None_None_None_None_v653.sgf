@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]DT[2001-06-02]EV[第14届富士通杯第三轮]PC[中国深圳]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PB[周俊勋]BR[一品]PW[河野临]WR[六段]RE[B+0.5];B[qd];W[dd];B[pq];W[dp];B[fc]
+
+;W[hc]C[白6有防黑下成“迷你中国流”的意味];B[oc];W[ec]LB[fd:a]C[白8在a位压也是一策];B[po]C[至黑9形成双保角的局面，传统的理论认为黑有利，但是现代大贴目的情况下，看法有所改变];W[jq]LB[cj:a]C[白10位是双方好点，要优于下在a位];B[cj]C[黑11分投是稳健策];W[qj]LB[fd:a]C[白12如在a位扳，也是一策]
+
+;B[cm];W[fp];B[fd];W[df];B[jc];W[he];B[je];W[gf];B[qh]C[黑17至21的构思很大胆，黑在左上角尚留有种种余味];W[qm];B[pl]C[黑23要露骨地扩张右上角];W[ql]
+
+;B[pj]C[黑25的压，很严厉，白棋暂无好的反击手段];W[lg]C[白26脱先侵削，有试黑应手的意味];B[ro]C[黑27一着两用，既守角，又攻白棋三子，看白如何表态];W[qi];B[pi];W[rh];B[rg];W[ri];B[qg];W[rn]C[白28至34很老实地后手作活，黑应可满意];B[if]C[黑35防白一手连回]
+
+;W[li];B[lq]C[黑37不急于攻白中腹两子，先抢占实地，是稳健策];W[co]LB[bp:a]C[白38防黑在a位大飞进角];B[hq];W[hp];B[iq];W[ip];B[jr];W[jp];B[gq];W[fq]
+
+;B[kq]C[黑39至47的结果，黑虽获取了一定的实地，但落后手，形势尚不明朗];W[ch]TR[cj][cm]C[白48不仅守角，还有攻黑▲二子之意];B[cc];W[cd];B[kh];W[lh];B[kk]LB[gp:a]C[黑53对白发动攻击，并瞄着a位的冲断];W[jj];B[gg]
+
+;W[ff]C[至此中午封盘];B[hf]LB[kj:a][ki:b][ji:c]C[黑57露骨地准备黑a、白b、黑c冲断];W[mk]C[白58脱先不理是胜负手];B[eb]C[黑59以下双方开始了计算力的大比拼];W[dc];B[gb];W[hb];B[db]
+
+;W[cb];B[ge];W[fe];B[gd];W[hd];B[bb]LB[ib:a][ga:b]C[黑69似应先a位夹，待白b位扳时，在走69];W[bc];B[ca];W[jb];B[kb];W[kc]C[白72、74机敏]
+
+;B[kd];W[ib];B[lc];W[cc];B[ha];W[ia];B[fb];W[ga];B[ie];W[ed];B[id]C[至85，黑已无法净吃白棋];W[dl];B[cl]
+
+;W[dk]C[白86、88抢先攻击，占据主动];B[dj];W[fj]C[白90摆出了通吃的架势];B[bn]LB[ck:a]C[黑91防白a位冲断];W[bj]C[白92不改初衷];B[bi];W[bk];B[ck];W[ci];B[bh]
+
+;W[bg];B[fi];W[fk]C[白100是好手];B[gi];W[hj];B[dm];W[fm];B[gj];W[gk];B[cg];W[ai];B[di];W[ah]
+
+;B[hi];W[ii];B[hk];W[ij]C[至114，白在中腹渐成气候];B[em];W[ab];B[ba];W[ea]C[白118的时机值得研究];B[fa];W[gc];B[da];W[ac]
+
+;B[ic]C[至123，白缓一气劫杀，黑并不惧怕];W[fn];B[ha];W[hh];B[fg];W[ga];B[ef];W[ee];B[ha];W[jh];B[hg];W[ga];B[lo]C[黑135是双方好点]
+
+;W[aa];B[ha];W[ei];B[dh];W[ga];B[bh];W[bi];B[ha];W[dg];B[eh];W[ga];B[qk];W[rk]
+
+;B[ha];W[kr];B[ja]C[黑151消劫后，黑实地占优];W[lr]LB[ir:a]C[白152要优于在a位吃];B[js]C[黑153的反击是当然的];W[mq];B[mp];W[nq];B[fr];W[er];B[fs]
+
+;W[hs];B[hr];W[np];B[no];W[es];B[is];W[oo];B[on];W[op];B[pn];W[nn];B[nm];W[mn]
+
+;B[mm];W[ln];B[lm];W[kn];B[km];W[pk];B[ok];W[pm];B[om];W[ol];B[pp];W[or]C[至184，白有所得，呈细棋局面];B[pr]
+
+;W[og];B[jn];W[ko];B[of];W[nf];B[oe];W[so];B[rp];W[bo];B[il]C[白194和黑195哪个大，难以判断];W[pg]C[白196味道不好];B[pf]
+
+;W[sg];B[sf];W[ne];B[nd];W[ps];B[qs];W[os];B[rr];W[qr];B[qq];W[md];B[me];W[le]
+
+;B[mc]C[黑209、211的次序极佳];W[sh];B[rf];W[mf];B[kg]C[黑215抢先拉回，白中腹整体薄弱];W[oj];B[ph];W[nj]LB[nh:a]C[白218似有误算，应a位虎];B[ng];W[lk];B[nh]C[至221，白明显亏损，黑幸运地以半目胜出]
+
+;W[jl];B[jm];W[ik];B[eq];W[dq];B[hl];W[kl];B[hn];W[el];B[qn];W[rm];B[ki];W[kj]
+
+;B[ao];W[ap];B[an];W[bp];B[bl];W[ej];B[gl];W[fl];B[ak];W[eg];B[en];W[eo];B[go]
+
+;W[fo];B[kf];W[ks];B[gs];W[mr];B[ll];W[jk];B[nl];W[nk];B[sp];W[sn];B[mi];W[gm]
+
+;B[hm];W[gp];B[ld];W[me])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本]KM[5.5]EV[第14届富士通杯第二轮]DT[2001-04-16]PB[林海峰]BR[九段]PW[刘昌赫]WR[九段]RE[B+R];B[pd];W[dd];B[qp];W[op];B[dp]
+
+;W[qq];B[kq];W[rp];B[qo];W[ro];B[pq];W[pp];B[qn];W[qr];B[on];W[pi];B[qg];W[ni]C[白16、18的下法有过于潇洒之嫌]
+
+;B[np];W[nq];B[mp]C[黑19、21非常厚实];W[li]C[白22再跳一手，刘昌赫似乎在尝试一种“二十一世纪的围棋”];B[cf];W[fc];B[bd];W[cc];B[ci];W[fq];B[eq];W[fp]
+
+;B[dn];W[ip];B[gm];W[im];B[km]C[黑33、35好手，白不舒服];W[jq];B[kp];W[ho];B[er];W[fr]C[白36至40的棋形有委屈之感];B[oc];W[ml]
+
+;B[lk];W[mk];B[lm];W[co]C[白46还要回到现实中来];B[do];W[cn];B[cp];W[cl];B[dm];W[bk];B[bj];W[dj];B[cj]
+
+;W[dl];B[fj]C[黑57上形的急所];W[el];B[gk];W[ej];B[eh];W[fn];B[ck];W[em];B[oh];W[oi];B[kc]C[黑67拆边后，黑形势领先]
+
+;W[ic];B[id];W[hc];B[lf];W[qe];B[qd];W[rd];B[rc];W[nf];B[pe];W[qh];B[rg];W[pg]
+
+;B[rh];W[dg];B[cg];W[nn];B[nm];W[mm];B[mn];W[ll];B[kl];W[kk];B[jk];W[kj];B[jj]
+
+;W[ji];B[il]C[至95，黑顺利连回，白棋形势不乐观了];W[es];B[ds];W[fs];B[cr];W[nd];B[nc];W[md];B[lc];W[ke];B[le]C[黑105似有误算]
+
+;W[ld];B[kd];W[je];B[ph];W[jg];B[qi];W[ng];B[ne];W[me]C[至114的结果，白有所得];B[bl];W[bm];B[ak];W[cm]
+
+;B[bc];W[bo];B[bp];W[pf];B[qf];W[hm];B[hl];W[ln];B[no];W[kn];B[jn];W[jm];B[jl]
+
+;W[jo];B[lo];W[in];B[gh];W[hi];B[hh];W[ih];B[ee];W[ff];B[gf];W[fg];B[fh];W[fe]
+
+;B[df];W[bb];B[fd];W[ed];B[gd];W[ge];B[hd];W[jd];B[he];W[hf];B[if];W[gg];B[hg]C[至157形成打劫，但白棋劫材不利]
+
+;W[gc];B[gf];W[ap];B[bq];W[hf];B[gn];W[go];B[gf];W[be];B[ig]C[黑167的消劫有先手意味];W[ce];B[jf];W[kf]
+
+;B[kg];W[lg];B[jh];W[ii];B[lh];W[mf];B[ki]C[黑177再度打劫，白棋苦不堪言];W[kh];B[eo];W[fo];B[ki];W[lj];B[kh]C[黑183消劫，白已无胜机]
+
+;W[mh];B[jg];W[bg];B[bf];W[hf];B[ie];W[ef];B[ae];W[de];B[eg];W[jb];B[ab];W[cb]
+
+;B[jr];W[ir];B[jp];W[iq];B[ql])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第40期日本十段战决赛第一局]DT[2002-03-01]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]BR[九段]PB[武宫正树]PW[王立诚]WR[九段]PC[日本新泻]RE[W+2.5];B[pd];W[dd];B[pp];W[dp];B[fq]
+
+;W[cn];B[pj];W[nc];B[jp]C[至黑9的布局并没有什么新意，尽管此种下法近来已不多见，但对武宫正树九段来说则是以不变应万变，这也是武宫正树九段异于常人的地方];W[qq]C[白10有多种选择，实战是最简明的下法];B[pq];W[qp];B[qo];W[ro];B[qn];W[rn];B[qm]
+
+;W[pr];B[or];W[qr];B[nq]C[至21，双方均无不满，但多数职业棋手都会倾向于执白棋];W[ne]C[白22是双方好点];B[pf];W[qc]C[白24再度进角，使黑外势白实地的格局更加清晰了];B[pc];W[pb];B[ob];W[qb];B[oc]
+
+;W[re];B[le]C[黑31的选点也是武宫正树九段的专利];W[qe];B[nf]C[白32和黑33的交换，利弊难以判断];W[jm]C[白34的侵消已刻不容缓];B[fo];W[io]C[白36想先手压缩黑地];B[jo];W[jn];B[hn];W[in]
+
+;B[hm]LB[hq:a]C[黑41的下法十分大胆，在a位飞补是一般分寸];W[ip];B[jq];W[iq]C[至44的结果，感觉上是白可战];B[dm];W[cm];B[dl];W[dn];B[en];W[jk]C[白50出头是正着];B[cl]
+
+;W[dr]C[至52，白虽占据了三个角，但点一下目白地并不算多，胜负的道路依然很漫长];B[cf];W[fd];B[id];W[eg]LB[di:a]C[白56是有大局观的一手，如在a位一带打入就显得有些贪得无厌了];B[dh];W[eh];B[di];W[nb]C[白60是早就残存的手段];B[oe];W[kc]
+
+;B[je];W[oa]C[至64，白棋可以满意];B[cc]C[黑65进角当然];W[cd];B[bd];W[dc]LB[be:a]C[白68要优于在a位扳];B[bb];W[cb];B[bc]C[至71，黑在实地上有收获，但白获先手];W[ko]C[白72紧凑]
+
+;B[jr]LB[lp:a]C[黑73要优于在a位跳];W[lm]C[白74整形是本手];B[er]C[黑75是好时机];W[dq];B[lk]C[黑77是好手，白不舒服];W[ji];B[li];W[gp];B[fp];W[lp]C[白82的下法风险不小]
+
+;B[ds];W[cs];B[es];W[br];B[mo]LB[kl:a]C[黑87直击白的要害，并瞄着a位尖刺的严厉手段];W[mp];B[no]C[至此中午休息];W[mr];B[hr];W[kl]C[白92被迫补棋];B[mm]C[黑93能先手封锁，明显得利]
+
+;W[ir];B[is];W[ln]C[96后，白已无生死之忧];B[qg];W[rm]C[黑97、白98双方各得其一];B[ml];W[gr];B[gq];W[hq];B[hs];W[ql];B[pl]
+
+;W[qk]C[白104、106的先手便宜很愉快];B[pk];W[kd];B[gf]LB[gc:a]C[黑109的下法值得研究，似不如在a位飞来得实惠];W[df];B[ce];W[hc]C[白112抢得这个大官子，黑不乐观了];B[ic];W[ib];B[hi];W[ij]
+
+;B[ke];W[gb]C[至118，白收获不小];B[lr];W[mq];B[il]C[黑121尝试屠龙似有误算];W[hj];B[gi];W[gj];B[gl];W[fj];B[fi];W[kr]C[白128以下是白早就残存的手段]
+
+;B[kq];W[os];B[ns];W[ps];B[nr];W[np];B[oo];W[ms];B[oq];W[ks];B[js];W[ls];B[ei]
+
+;W[lq];B[gs];W[ki]C[白144是好手];B[kj];W[kk];B[lo];W[kp];B[fr];W[kn]C[至150，白棋彻底活净，黑棋不成功。从全局看，呈白稍优的局面];B[bm];W[bn];B[al]LB[an:a]C[黑153是收官的手筋，以后黑在a位扳对白将是一个考验]
+
+;W[dg];B[cg];W[kg];B[lh];W[rg];B[rh];W[qf];B[sg];W[nd];B[of]C[白162与黑163的交换对白棋有利];W[jg]C[白164极大，且有先手意味];B[me]
+
+;W[rf];B[qh];W[db]C[白168是最后的大官子];B[an];W[bo]C[白170防黑拚命];B[lc];W[lb]LB[ld:a][md:b][mc:c][jb:d][kb:e][ia:f][hb:g]C[白172如a，则黑b、白c、黑d、白e、黑f、白g、黑172成劫，白不行]
+
+;B[mc];W[mb];B[rj];W[ej];B[dj];W[el];B[qj];W[sl];B[gd];W[gc];B[fl];W[ek];B[ao]
+
+;W[ap];B[am];W[do];B[em];W[lg];B[mg];W[jc]C[白192逆收两目是胜利宣言，白小胜的局面已难改变];B[ba];W[go];B[gn];W[sf];B[fe];W[ee]
+
+;B[hd];W[ff];B[ge];W[gg];B[hg];W[de];B[gh];W[fg];B[ig];W[sh];B[qd];W[rd];B[sk]
+
+;W[rl];B[ho];W[hp];B[si];W[mn];B[nn];W[jj];B[lj];W[op];B[po];W[jf];B[if];W[lf]
+
+;B[mf];W[dk];B[ck];W[ca];B[rk];W[sg];B[ih]C[王立诚九段1：0领先。五番胜负的第二局将于3月22日在日本爱知进行，请关注TOM.COM棋圣道场的大赛直播])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

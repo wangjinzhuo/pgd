@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]DT[1980-08-24]EV[中国围棋全国个人赛]RE[B+R]PC[四川乐山]PB[刘小光]BR[]PW[陈祖德]WR[]KM[5.5];B[qd];W[dp];B[dc];W[ce];B[pq];W[od];B[po];W[qc];B[fq];W[dn];B[ci];W[ck];B[jp];W[rd];B[pc];W[pd];B[qe];W[re];B[qf];W[qb];B[of];W[qk];B[ed];W[dh];B[dk];W[cl];B[di];W[eh];B[ei];W[fh];B[gj];W[hh];B[ij];W[ji];B[ii];W[ih];B[jh];W[ki];B[jg];W[he];B[lg];W[kk];B[ok];W[mh];B[mg];W[oh];B[lh];W[nj];B[qj];W[pj];B[pk];W[qi];B[rj];W[ri];B[oj];W[pi];B[ql];W[ng];B[nf];W[rk];B[rl];W[sj];B[mc];W[nc];B[mj];W[il];B[jl];W[jk];B[ik];W[nk];B[ni];W[mk];B[mi];W[om];B[jm];W[mm];B[nn];W[nm];B[oi];W[lo];B[lp];W[jo];B[ko];W[kn];B[kp];W[jn];B[im];W[ho];B[ln];W[km];B[ip];W[hl];B[gi];W[hm];B[gh];W[ff];B[gg];W[bc];B[de];W[cf];B[fg];W[hc];B[eg];W[cb];B[rg];W[pg];B[nd];W[md];B[ld];W[ne];B[me];W[nd];B[ke];W[lc];B[kc];W[mb];B[pf];W[rh];B[kb];W[jd];B[kd];W[eb];B[db];W[gb];B[da];W[ib];B[gd];W[fc];B[fd];W[jb];B[ha];W[ka];B[la];W[ia];B[lb];W[jc];B[id];W[hd];B[])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

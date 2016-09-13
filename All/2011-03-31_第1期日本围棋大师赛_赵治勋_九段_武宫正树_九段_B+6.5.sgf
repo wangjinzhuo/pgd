@@ -1,0 +1,15 @@
+(;SZ[19]EV[第1期日本围棋大师赛]DT[2011-03-31]PC[]KM[6.5]US[棋圣道场]SO[]BR[九段]WR[九段]PB[赵治勋]PW[武宫正树]C[
+]RE[B+6.5];B[qd];W[dp];B[cd];W[pp];B[cn]
+;W[cl];B[ec];W[nd];B[oc];W[dn];B[od];W[nf];B[nq];W[kp];B[qn];W[np];B[qq];W[oq]
+;B[qp];W[cm];B[mq];W[mp];B[lq];W[lp];B[or];W[kq];B[dh];W[oe];B[pe];W[nc];B[nb]LB[dq:a]C[黑31有问题，应a位]
+;W[mb];B[ob]LB[eq:a][og:b][pm:c]C[黑33后，白a位是正着，黑如b，则白c];W[pf]C[白34有问题];B[qf];W[pg];B[qg];W[ph];B[dq];W[eq]
+;B[cq];W[er];B[co];W[do];B[br]C[至45成为黑简明易下的局面];W[ei];B[eh]LB[ii:a]C[黑47也可考虑下在a位];W[fi];B[fh];W[gi];B[hg]C[至51，黑形势占优]
+;W[ih];B[ig];W[jh];B[mc];W[md];B[lc];W[ld];B[kc];W[kd];B[jc];W[dr];B[cr];W[pm]
+;B[jf]LB[jg:a][kg:b]C[黑65好手，如改走a位，则白b，黑反而难应];W[kf];B[qm];W[dc];B[cc];W[di];B[pl];W[ol];B[om];W[pk];B[pn]
+;W[nl];B[nm];W[mm];B[ch]C[黑79后，黑胜定];W[qk];B[hh];W[hi];B[jg];W[kg];B[lr];W[kr];B[ks];W[nr]
+;B[pq];W[ms];B[op];W[ls];B[qi];W[pi];B[bj];W[cj];B[bk];W[bn];B[bo];W[bl];B[an]
+;W[qh];B[ck];W[dk];B[rh];W[ri];B[rg];W[bi];B[ci];W[dj];B[bh];W[am];B[bm];W[ak]
+;B[ai];W[bn];B[ao];W[jd];B[id];W[je];B[ie];W[oo];B[po];W[nn];B[on];W[no];B[rl]
+;W[rk];B[si];W[rj];B[os];W[js];B[ns];W[sl];B[sm];W[ql];B[sk];W[sj];B[sh];W[sl]
+;B[rm];W[cp];B[bp];W[gh];B[gg];W[cs];B[bs];W[ds];B[mr];W[ks];B[pm];W[bm];B[aj]
+;W[al];B[sk])

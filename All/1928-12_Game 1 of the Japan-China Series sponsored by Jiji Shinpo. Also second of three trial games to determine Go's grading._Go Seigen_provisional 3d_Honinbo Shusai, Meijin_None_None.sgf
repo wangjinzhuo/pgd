@@ -1,0 +1,277 @@
+(;
+EV[Game 1 of the Japan-China Series sponsored by Jiji Shinpo. Also second of three trial games to determine Go's grading.]
+PB[Go Seigen]
+BR[provisional 3d]
+PW[Honinbo Shusai, Meijin]
+TM[9h each]
+DT[1928-12]
+PC[Nihon Kiin]
+DTX[Published 1-18 Jan 1929]
+SZ[19]
+OH[-2- of 2-3-2]
+HA[2]
+AB[dp][pd]
+
+;W[ce];B[pp]
+C[Black lets White enclose one corner. This is still regarded as one of the most straightforward strategies for two-stone games. ]
+;W[dc];B[jc];W[hc];B[je];W[qf]
+C[The point of exchanging 5 for 6 before playing White 7 is that if Black answers in the usual way, at `a', the exchange will have worked well for White. ]
+(;B[qj]
+C[Black therefore pincers here, though various other pincers are possible, such as `a', `b' and `c'. ]
+;W[qc];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc];B[cj]
+C[It was safer to push on at `a' then `b'. And, in any event, if Black insists on leaving the top right corner, the big point we would choose nowadays would be `c'. But this game was played in 1928, just before the advent of the New Fuseki. It is interesting to see that the idea of the triple star-point formation at `c', which was part of the New Fuseki, had not yet formulated itself in the mind of the young Go. ]
+(;W[he]
+C[A splendid move. But insofar as one dare criticise it, I feel that White may be missing an opportunity - given that it is a two-stone game. For example, `a', `b' or `c'... ]
+;B[nd]
+C[With \\t in place the sequences just looked at for White become even more threatening, so Black has to push here. ]
+;W[mc];B[md]
+C[Ensures connection with and produces undeniable thickness. ]
+;W[cl]
+C[A strong move typical of Shusai's style. While attacking \\t he is seeking a close-quarters' fight. Shusai often engineers fights from places that at first sight seem unreasonable, relying on his penetrating analytical ability to crush the opponent. ]
+;B[ej]
+C[But Black is quite unruffled. ]
+;W[el];B[gj]
+C[And again. The proverb says: "The one-spave jump is never bad." Looking at the game overall, Black has thickness in the upper right and is set up for a "centre game." Black is quite correctly keeping one step ahead of White in the centre. Had he played `a' instead he would have slipped back in the struggle for dominance. ]
+(;W[fq]
+C[The proper move is at `b' but then Black plays `c'. White therefore tries high-handed tactics. But `a' seems even better.  (HS) The idea behind 27 is somewhat unreasonable and I therefore ended up under pressure facing a road strewn with many difficulties. ]
+;B[fp]
+C[Natural but severe. In his original commentary Shusai said: "The idea behind White \\t was unreasonable, and so the position became critical. I now had to move forward on a path strewn with many difficulties." ]
+;W[gp];B[fo];W[eq];B[dq];W[gl];B[dm];W[dl];B[hn]
+C[34 was played to give Black the momentum to move out to 36. White is in trouble because he has weak groups above and below. ]
+;W[hj]
+C[Sheer desperation. ]
+(;B[gk]
+C[Severe counterattack. If Black obliges by answering at `a', White gets sente to settle himself above and below. ]
+;W[hl]
+C[Blocking at `a' is unreasonable - Black will cut at 39. ]
+;B[hk];W[ik]
+C[Feels unreasonable from the point of view of good shape, but White now has to go with the flow. ]
+;B[ij]
+C[Full of spirit, Black cuts. ]
+;W[hi];B[il];W[jk];B[fl]
+C[But this is premature. He should first push at `a' since the ladder at `b' does not work for White. Black 46 after that would put White in a spot.  (HS) If Black had pushed at `a', White would have been in trouble. ]
+;W[di]
+C[Perfect timing. ]
+(;B[gm]
+C[If `a' instead... ]
+;W[dj]
+C[These moves constitute a trade, but it seems that White has escaped from his predicament with an equal result after starting from an unreasonable position.  (HS) By effecting a trade with 47 and 49, White has won a breathing space. ]
+(;B[ii]
+C[`a' is big too, but then White can settle himself in the centre. Incidentally, `a' is correct, not `b'. ]
+(;W[jq]
+C[With this it seems as if White has settled himself above and below. but in his commentary Shusai said: "Instead of White 51 I should have extended one point further, to `a'. But having erred again, I was subject to Black's attack at `b' and the area that White should have dominated was considerably reduced."  We can interpret this as follows - see `a'. ]
+;B[lq];W[jl];B[hm];W[ok]
+C[An important point for reducing Black's area. ]
+(;B[pl]
+C[Solid. If Black, intending to be consistent with the policy of playing \\t, tries to invade at `a', he will fail. ]
+;W[ol];B[pm](;W[nq]
+C[Normally White would invade `a' but in this case he cannot win that way. Nor can he win with ordinary moves such as the exchange of `b' for `c'. ]
+;B[nn]
+C[Locally, bad shape. But a good flexible move which tells us something about the rich talent of the young Go Seigen. The usual move here would be `a', but then White could give himself everything to play for by responding at `b'. Black `c' instead lets White settle himself too easily. ]
+;W[pq];B[qq];W[qp];B[po];W[pj]
+C[White has slipped in the crosscut of 61 and 63 before reinforcing his centre group at 65. He has to keep very busy! ]
+;B[qi];W[pi](;B[hh]
+C[A solid move, but I would have wanted to defend the corner with `a'.  Nevertheless, this move ties up the white stones and shows that he expects not to lose, even if the result is going to be close. He is taking no chances. ]
+;W[qr];B[rq];W[or];B[rr];W[mo]
+C[Has serious implications. The point is that White has no chance of winning so long as his stones around here are cause for concern. We can imagine that Shusai was cudgelling his brains. ]
+;B[ml];W[mk];B[lk];W[mj];B[kp]
+C[Black forces with 74 and 76 and then turns to 78, giving White no peace to left or right. ]
+;W[jp]
+C[Finally eliminates Black's invasion at `a'. ]
+;B[ko];W[kq];B[lp];W[jo];B[kn];W[rs];B[qo];W[mr];B[lr]
+C[White has lived, but only at the cost of letting Black thrust down here. ]
+;W[ms];B[op];W[oq];B[ll]
+C[A solid point. By playing so securely, he gives White no opportunity for clever moves. ]
+;W[qh]
+C[Ever since Black invaded at \\t we have had the feeling that White has had to dodge hither and thither to defend his groups. Yet he has coped skilfully and to some extent led Black by the nose. ]
+(;B[pk]
+C[Black would love to cut at `a', but White has a tesuji and the cut comes to naught. ]
+;W[rj]
+C[A common tesuji.  (HS) Defending at `a' is more reasonable. ]
+(;B[rh]
+C[Strong retaliation. `a' is what White wants. ]
+;W[ri];B[qk];W[qg]
+C[White gets this but has to leave a cut at `a'. ]
+;B[ph](;W[oh]
+C[`a' fails. ]
+;B[pg];W[pf]
+C[White builds up a head of steam... ]
+;B[og];W[of];B[ng];W[nf];B[mg];W[mf];B[lg];W[lf];B[lc]
+C[but now Black's group is out of danger.]
+;W[kg];B[li];W[jh];B[lj](;W[ib]
+C[The proper move is at `a', but White judged this to lose and was seeking profit by making Black answer on a neutral point. ]
+;B[if];W[hf];B[ih]
+C[Apparently Black disliked `a' instead because it gives White the potential of pushing in at 20. But there doesn't seem to be anything to worry about. ]
+;W[sh]
+C[White lives all right, but he has thin positions and there is room for Black to find something. ]
+;B[lb];W[nb];B[ig]
+C[I would want to play at `a'. But 24, even though it is bad shape, ensures his victory and so cannot be criticised. All the same, the game is fairly close. ]
+;W[ke];B[kd];W[id];B[jd];W[eg]
+C[This makes the game close. ]
+;B[bm];W[bl];B[hp];W[hq];B[go];W[gq];B[kr];W[jr];B[er];W[fr]
+;B[dr];W[ip];B[ho];W[fs];B[gg];W[gf];B[fg];W[ff];B[eh];W[dh](
+;B[kh]
+C[`a' is clearly more profitable, but... ]
+;W[jn];B[jm];W[bn]
+C[The biggest point. ]
+;B[cm];W[am];B[bo];W[cn];B[co];W[dn];B[em];W[en];B[fm];W[ao]
+;B[ap];W[an](;B[bq]
+C[Black should force at `a' now.  (HS) gives the same comment and variation. ]
+;W[rg];B[rk];W[sj];B[np];W[mq];B[mp];W[sk]
+C[Large. ]
+;B[ei];W[ek];B[rm];W[sm];B[sn];W[sl];B[ir];W[hs];B[js];W[is]
+;B[ks];W[iq];B[ma];W[na];B[oc];W[ob];B[jb];W[rl];B[qm];W[jg]
+;B[ji];W[kf];B[ic];W[hb];B[ie];W[hd];B[sd];W[sc];B[sf];W[sg]
+;B[mb];W[pa];B[ia];W[ha];B[ja];W[se];B[rf];W[es];B[ds];W[fk]
+;B[fj];W[in];B[im];W[rn];B[so];W[ro];B[sp];W[sr];B[fn];W[sd]
+C[Black (Go) wins by 4 points.  W: 6h 53; B: 4h 19  Shusai's commentary concluded: "Black's attitude was extremely impressive and he well maintained the edge until the very end. He did not give White any room to try anything. It was an excellent example of a two-stone game." ]
+)
+                (;B[rk];W[rf]
+C[Necessary, rather than `a', otherwise `b' makes ko.]
+;B[sj];W[se]
+C[Now Black will switch elsewhere, regarding this as a sente forcing play.]
+)
+               )
+               (;B[al];W[lh];B[mh];W[ki]
+C[And White threatens a ko.]
+)
+              )
+              (;W[ke];B[kd];W[jf])
+             )
+             (;W[og];B[oj];W[oh];B[oi];W[mh];B[sg]
+C[White is cast adrift.]
+)
+            )
+            (;B[ri];W[rh];B[rk];W[ng]
+C[White settles his shape with an active connection.]
+)
+           )
+           (;B[ph];W[qk];B[rk];W[rj];B[ri];W[rh];B[sj];W[og])
+          )
+          (;B[pr];W[oq];B[qr];W[ih];B[hh];W[gi];B[jh];W[ig];B[ji]
+C[Good enough for Black.]
+)
+         )
+         (;W[qq];B[qp];W[pq];B[oq];W[or];B[nq];W[nr];B[mr];W[rp];B[ro]
+         ;W[rq];B[ns];W[pr])
+        )
+        (;B[hq];W[hr];B[gr];W[hp];B[gq];W[iq];B[ir];W[fr];B[hs];W[fs]
+        ;B[gs];W[jr];B[ep];W[nq]
+C[White can happily invade at 14 to cause confusion because he has a forcing   move at `a' or `b'.]
+)
+       )
+       (;W[kq]
+C[This is normally overextended...]
+;B[iq]
+C[because this invasion is severe.]
+;W[ip]
+C[But in this case this attachment etc gives White sente.]
+;B[hq];W[hp];B[gq];W[jq];B[gr];W[nq]
+C[And White uses sente to get this point, which is important from the   standpoint of the overall game.]
+)
+      )
+      (;B[hq];W[jl];B[hm];W[ji]
+C[White has `a' to follow and also has potential at `b'.]
+)
+      (;B[iq]
+C[This leaves White room to manoeuvre.]
+;W[hq](;B[ip]
+C[Or `a'.]
+;W[ir];B[jr];W[gr];B[is];W[hs]
+C[Ko is enough for White.]
+)
+       (;B[ir];W[ip];B[jp];W[hr];B[kq];W[dr];B[cr];W[er]
+C[And White cannot be captured.]
+)
+      )
+     )
+     (;B[dj];W[fk];B[fm];W[fj];B[gi];W[fi];B[gh];W[ei]
+C[The \\t exchange has thus proved effective.      (HS) gives the same variation.]
+)
+    )
+    (;B[hi];W[hk];B[gi];W[jq])
+   )
+   (;W[fp](;B[fo]
+C[It is dangerous for Black to mix it. `a' is better.]
+;W[eo];B[ep];W[fq]
+C[White can happily fight like this, knowing that Black cannot play `a'.]
+)
+    (;B[dm](;W[dl]
+C[If White obliges... Actually he would play `a'.]
+;B[fo]
+C[Now this move is possible.]
+)
+     (;W[em];B[dn];W[dl];B[fo];W[eo](;B[ep]
+C[Or `a'.]
+;W[go];B[fn];W[en]
+C[Good enough for White.]
+)
+      (;B[en];W[fn];B[go];W[do];B[co]
+C[Black's strongest resistance.]
+;W[ep];B[cn];W[cp];B[bp];W[dq](;B[bq]
+C[Or `a'.]
+;W[gm]
+C[But this result is bad for Black. On top of which White is still         threatening `a', Black `b', White `c'.]
+)
+       (;B[cq];W[cr];B[dp];W[gm];B[dr];W[cp];B[gn](;W[bq]
+C[Or `a'.]
+;B[fm];W[fl]
+C[Bad for Black.]
+)
+        (;W[fm];B[dp];W[gp];B[io];W[cp]
+C[Still bad for Black.]
+)
+       )
+      )
+     )
+    )
+   )
+  )
+  (;W[of];B[nd];W[mc];B[md];W[mf]
+C[And White tries to start hostilities.]
+)
+  (;W[nd](;B[pf]
+C[`a' is better.]
+;W[nf]
+C[If Black obliges with 2, White is happy to jump to 3.]
+)
+   (;B[ne];W[me](;B[nf]
+C[But not if Black proposes to play here. He should press at `a'.]
+;W[ld])
+    (;B[mf](;W[oe]
+C[Rash. `a' is necessary.]
+;B[nf];W[pf];B[rg]
+C[Now White is stuck for a follow-up.]
+)
+     (;W[nf];B[oe];W[ld];B[le];W[md];B[mg];W[ke];B[kf];W[lf];B[lg]
+     ;W[jd];B[le];W[kd];B[jp]
+C[White gets a big profit and has potential at \\t, but Black can be         satisfied with his thickness and the chance to play 14 first.]
+)
+    )
+   )
+  )
+  (;W[mc];B[me]
+C[The proper move for Black is `a', but if he plays that he will not seal   White in. But with this 2 his shape is distorted.]
+)
+ )
+ (;B[pj]
+C[If White invades at `d' as in the game, Black 1 will end up in an even   more favourable position. So...]
+;W[rd]
+C[White will just stabilise himself like this.]
+;B[qc];W[qh])
+ (;B[pi]
+C[This modern (1956) pincer can be considered.]
+;W[qc];B[pc];W[qd];B[pe](;W[pf]
+C[Or `a'.]
+;B[qe];W[re];B[rd];W[rc];B[rf];W[sd];B[of];W[og];B[pg];W[qg]
+  ;B[rg];W[qh];B[ph];W[ri];B[rj];W[rh];B[si];W[sf];B[nf]
+C[The position has been somewhat played out, which is desirable for Black in   a two-stone game.]
+)
+  (;W[qg]
+C[If White tries to create potential with this, Black's attitude should be     to settle the shapes.]
+;B[qe];W[re];B[rf];W[rd];B[pf];W[pg];B[og];W[rg];B[oh])
+ )
+ (;B[qh];W[qc];B[pc];W[qd];B[pe];W[rf];B[og]
+C[The \\t stones are well placed here, so Black has no reason to be   dissatisfied.]
+)
+)

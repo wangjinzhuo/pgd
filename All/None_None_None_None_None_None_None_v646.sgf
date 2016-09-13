@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第二届富士通杯四分之一决赛]RO[quarterfinal]PB[徐奉洙]BR[九段]PW[王铭琬]WR[八段]KM[5.5]DT[1989-06-03]PC[日本东京]RE[B+R]TM[10800];B[pd];W[dp];B[pq];W[dd];B[po];W[jq];B[cn];W[fp];B[bp];W[cl];B[cq];W[co];B[bo];W[dn];B[dm];W[cm];B[bn];W[dr];B[dl];W[ck];B[dk];W[cj];B[dq];W[dj];B[en];W[do];B[fq];W[gq];B[eq];W[fn];B[fl];W[fj];B[gp];W[eo];B[hq];W[gk];B[gm];W[hn];B[hm];W[fm];B[gl];W[el];B[gn];W[go];B[hp];W[fk];B[ho];W[ec];B[fo];W[em];B[jd];W[qj];B[ql];W[mq];B[qg];W[hc];B[ie];W[nc];B[ne];W[ld];B[le];W[oe];B[md];W[od];B[qe];W[pc];B[qc];W[lc];B[mc];W[mb];B[kd];W[kb];B[og];W[ph];B[of];W[qh];B[pb];W[ic];B[kr];W[in];B[im];W[kq];B[lr];W[oq];B[op];W[jn];B[jm];W[ln];B[kn];W[ko];B[km];W[jr];B[nq];W[mr];B[mp];W[lq];B[mo];W[lo];B[rg];W[rl];B[rk];W[qk];B[rm];W[pl];B[qm];W[ni];B[nr];W[ms];B[ce];W[cd];B[bd];W[bc];B[nk];W[ok];B[nl];W[rj];B[sl];W[mh];B[kh];W[ki];B[jh];W[lh];B[ji];W[ol];B[fg];W[dg];B[gd];W[fe];B[ef];W[gg];B[gh];W[gf];B[fi];W[ig];B[hh];W[if];B[jf];W[ei];B[fh];W[he];B[df];W[cg];B[kj];W[cf];B[nj];W[oj];B[oh];W[oi];B[pj];W[nm];B[mm];W[mn];B[om];W[nn];B[pm];W[mf];B[me];W[lk];B[ml];W[kk];B[li];W[mi];B[kl];W[jk];B[ik];W[ij];B[lf];W[hj];B[mj];W[lj];B[ki];W[ih];B[ob];W[jp];B[ep];W[nb];B[id];W[hd];B[oc];W[gs];B[gr];W[is];B[ak];W[aj];B[fs];W[nd];B[pe];W[jg];B[kg];W[on];B[pn];W[rh];B[pi];W[bm];B[am])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

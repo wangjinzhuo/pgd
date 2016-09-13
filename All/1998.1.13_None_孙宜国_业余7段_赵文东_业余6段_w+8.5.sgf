@@ -1,0 +1,58 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[第11届全国晚报杯业余围棋锦标赛]DT[1998.1.13]
+PC[湖北武汉]PB[孙宜国]BR[业余7段]BT[北京晚报]
+PW[赵文东]WR[业余6段]WT[太原晚报]KM[5.5]
+RE[w+8.5]C[《围棋天地》2005年第8期
+赵文东7段 《乾坤逆转》]
+;B[pd]	;W[dp]	;B[pp]	;W[dd]	;B[fq]	;W[cn]	;B[dr]	;W[cq]	;B[fc]	;W[hc]
+;B[hp]C[黑11可以考虑A位关出。]LB[fe:A]
+;W[ec]	;B[fd]
+;W[df]C[实战白12立即攻击，黑棋并无成算。]
+;B[kd]	;W[he]	;B[ff]	;W[hg]	;B[fh]	;W[di]	;B[gi]	;W[hi]	;B[hj]	;W[ii]
+;B[ij]	;W[jj]	;B[ej]
+;W[nd]C[白28不好，应走A位虎补，以下28位和A位守空必得其一。]LB[ck:A]
+;B[if]	;W[hf]
+;B[ji]C[黑29，31严厉。]
+
+;W[jh]C[白32不好，但是一时也看不到什么好下法。]
+;B[ki]	;W[kh]	;B[lh]	;W[li]	;B[kj]	;W[lg]	;B[mh]	;W[mg]	;B[ng]	;W[nh]
+;B[mi]	;W[nf]	;B[og]	;W[kf]	;B[of]	;W[ne]
+;B[jk]C[黑49提子后，黑棋大优。]
+;W[qk]
+;B[ni]C[黑51补棋，是看重A位侵消的价值。
+其实直接B位肩冲，很有利，积极发挥中央和下边的潜力。]LB[nb:A][pl:B]
+;W[qh]	;B[pi]	;W[qi]	;B[nb]	;W[nc]	;B[pl]	;W[qf]	;B[qe]	;W[re]	;B[rd]
+;W[pe]	;B[qd]
+;W[ob]C[白64吃住一子很大。
+但是白棋形势还是落后。]
+;B[ql]	;W[rf]	;B[oe]
+;W[nq]C[白68胜负手，不能再让黑棋先在下边补一手。]
+
+;B[rj]C[黑69点杀强手。]
+;W[od]	;B[pf]
+;W[oh]C[白70，72是苦心的应手。]
+;B[ph]	;W[rk]	;B[qj]	;W[pj]	;B[pk]	;W[oj]	;B[ri]	;W[oi]	;B[pg]	;W[qg]
+;B[pe]	;W[mj]	;B[lj]	;W[nj]	;B[li]	;W[rh]	;B[rl]	;W[ml]
+;B[qb]C[黑91恶手，以为吃掉右边白棋了。]
+;W[lk]	;B[kk]	;W[mn]	;B[mo]	;W[se]	;B[sg]	;W[si]	;B[sk]
+;W[rb]C[白100好手，黑棋已经无法净吃白棋了。]
+
+;B[rc]C[黑101恶手。
+局部正确的应手是黑A，白B，形成白棋的先手劫，但是黑棋也不行。]LB[sd:A][qc:B]
+
+;W[ra]C[白102好手，黑棋北净吃。]
+;B[pb]	;W[pc]	;B[qc]	;W[oc]	;B[ln]
+;W[sd]C[白108太过于妥协，显然应走A位虎或者B位长延气。]
+;B[ll]	;W[mk]	;B[mm]
+;W[sc]C[黑棋先手封住白棋，白棋亏损。
+但是由于前面黑棋损失太大，还是白棋优势]
+;B[pq]
+;W[dj]C[白棋走到114挡住，胜势不可动摇。]
+;B[cc]	;W[cd]	;B[eb]	;W[dc]	;B[hb]	;W[ib]	;B[gb]	;W[ic]	;B[dh]	;W[eg]
+;B[cb]	;W[db]	;B[da]	;W[eh]	;B[dk]	;W[ck]	;B[dl]	;W[cl]	;B[dm]	;W[dn]
+;B[ei]	;W[fg]	;B[bd]	;W[be]	;B[ac]	;W[fn]	;B[gn]	;W[go]	;B[nl]	;W[pa]
+;B[ho]	;W[gm]	;B[hn]	;W[fl]	;B[ia]	;W[ja]	;B[ha]	;W[jb]	;B[cj]	;W[ci]
+;B[bj]	;W[bk]	;B[fk]	;W[cr]	;B[ae]	;W[bf]	;B[bg]	;W[bi]	;B[af]	;W[kl]
+;B[lm]	;W[il]	;B[hl]	;W[hm]	;B[im]	;W[hk]	;B[jl]	;W[gl]	;B[eq]	;W[gh]
+;B[fi]
+;W[cg]C[176手以下略，白胜4又1/4子]
+)

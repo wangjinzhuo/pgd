@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第十三届富士通杯资格赛]RO[4,qualification]PB[王立诚]BR[九段]PW[麦克雷蒙]WR[八段]KM[5.5]DT[2000-02-07]PC[日本]RE[W+R];B[qd];W[dd];B[pq];W[od];B[dp];W[pn];B[mc];W[ne];B[pc];W[qq];B[qp];W[pp];B[rp];W[rq];B[rr];W[qr];B[po];W[op];B[oo];W[qo];B[ro];W[qn];B[pr];W[no];B[qs];W[on];B[dj];W[dg];B[cn];W[ld];B[qg];W[oc];B[jd];W[lc];B[fc];W[eb];B[jb];W[fb];B[lb];W[kc];B[kb];W[md];B[gc];W[gb];B[hb];W[fq];B[cd];W[de];B[bf];W[ce];B[ch];W[be];B[fo];W[dq];B[cq];W[ep];B[eo];W[cp];B[do];W[cr];B[bq];W[br];B[bp];W[hq];B[qi];W[ph];B[qf];W[pe];B[qe];W[or];B[io];W[ho];B[hn];W[hp];B[im];W[fk];B[fj];W[gj];B[fi];W[gk];B[gi];W[ij];B[el];W[hi];B[hh];W[ih];B[ig];W[hg];B[gh];W[jh];B[if];W[ek];B[dk];W[kf];B[jp];W[jn];B[in];W[hd];B[ge];W[he];B[hf];W[hc];B[ic];W[ha];B[ib];W[gd];B[fd];W[fe];B[gf];W[ed];B[og];W[ob];B[ni];W[qb];B[ir];W[kr];B[kq];W[jr];B[iq];W[hr];B[lp];W[lr];B[bg];W[ec];B[je];W[fg];B[gg];W[ko];B[jq];W[lq];B[ae];W[ad];B[af];W[bd];B[kp];W[oq];B[sq];W[pj];B[pi];W[qj];B[ri];W[rc];B[qc];W[sb];B[ar];W[er];B[oj];W[lo];B[mp];W[fl];B[jm];W[li];B[lm];W[mo];B[lj];W[kj];B[lk];W[kk];B[fm];W[gm];B[fn];W[mi];B[pl];W[mj];B[ml];W[ok];B[pk];W[nj];B[oi];W[ol])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

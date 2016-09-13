@@ -1,0 +1,63 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[全国有线电视杯业余围棋赛]DT[2000年10月]
+PC[石家庄]PB[冯勇]BR[业余6段]PW[佟云]
+WR[业余6段]KM[5.5]C[全国有线电视杯业余围棋赛
+黑：冯勇    业余6段
+白：佟云    业余6段
+
+《围棋天地》2005年第一期
+《行云流水谈何易》]RE[白中盘胜]
+
+;B[dp]	;W[pp]	;B[cd]	;W[pc]	;B[ec]
+;W[cj]C[常见的布局]
+;B[ch]	;W[cn]	;B[cl]
+;W[bl]LB[en:A][qe:B]C[白10一般是A位跳起。
+实战是尽快定型，意图得先手于B位守角]
+;B[bm]	;W[cm]	;B[bk]	;W[bn]	;B[ck]	;W[cq]	;B[cp]	;W[bp]	;B[dq]	;W[br]
+;B[cr]	;W[bq]	;B[hq]	;W[qe]
+;B[jc]C[黑25疑问手，模样显得扁平。也许在A位高拆更好。]LB[jd:A]
+;W[jq]	;B[qn]	;W[ro]
+;B[nq]C[黑27，29双飞燕攻白角过强，因为白下面有26一子。]
+;W[oq]	;B[np]	;W[on]	;B[ko]	;W[hp]	;B[gq]	;W[ip](;B[fo]C[黑37无奈]
+;W[mn]	;B[lp]	;W[gn]	;B[jn]	;W[im]	;B[kl]	;W[ik]	;B[kj]	;W[lk]	;B[jl]
+;W[gk]C[至白48，白棋形工整，出头顺畅，黑棋攻击没有取得效果。]
+
+;B[po]C[黑棋49开始发力]
+;W[oo]	;B[qp](;W[op]C[白52简明]
+(;B[rp]C[黑53不好，应如前图走A位]LB[qo:A]
+;W[qm]	;B[rm]
+;W[rn]C[白54，56靠断好手，]
+;B[ql]	;W[qo]	;B[pm]	;W[pn]
+;B[em]C[黑61只得飞断白棋，寻找头绪]
+
+;W[ej]C[白62先手便宜]
+;B[bj]
+;W[hh]C[白64顺势进入上边模样]
+;B[jj]	;W[fg]	;B[qi]	;W[lc]
+;B[eh]C[因为无法继续攻击，黑69只好定型围地。]
+;W[fh]	;B[eg]	;W[fe]	;B[ff]	;W[gf]	;B[ef]	;W[ge]	;B[gc]	;W[ee]	;B[de]
+;W[dd]C[白80送吃一子，是为了先手得到A位顶]LB[ei:A]
+;B[ed]	;W[ei]	;B[cf]	;W[qg]
+;B[oc]C[黑85用强]
+;W[pb]	;B[il]	;W[hl]	;B[hj]	;W[gj]	;B[hi]	;W[ih]	;B[hk]	;W[gl]	;B[gi]
+;W[fi]	;B[oe]	;W[le]	;B[mf]	;W[je]	;B[lb]	;W[mb]	;B[kb]	;W[nd]	;B[od]
+;W[ob]	;B[mi]	;W[hd]	;B[hc]	;W[og]	;B[lf]	;W[ne]	;B[nf]
+;W[of]C[白114吃掉黑棋三子，黑败局已定。]
+;B[ke]	;W[kd]	;B[kf]	;W[jd]	;B[dr]	;W[ji]	;B[ij]	;W[rh]	;B[al]	;W[bs]
+;B[or]	;W[pr]	;B[nr]	;W[qq]	;B[ri]	;W[oi]	;B[rk]	;W[pk]	;B[qh]	;W[rg]
+;B[oj]	;W[pj]	;B[oh]	;W[ph]	;B[pi]	;W[nh]	;B[ni]	;W[oh]	;B[ki]	;W[ok]
+;B[sl]	;W[qm]	;B[qk]	;W[ci]	;B[bi]
+;W[ir]C[白中盘胜]
+)
+(;B[qo]MN[1]	;W[qq]	;B[rp]	;W[rq]
+;B[qk]C[黑棋虽然略感委屈，但是压缩了白空，而且自身基本安定。]
+)
+)
+(;W[qo]MN[1]	;B[pn]	;W[rn]	;B[op]	;W[pq]	;B[ql]	;W[pl]	;B[rm]	;W[rp]
+;B[qj]C[白棋虽然得到大角，但中腹被断开，形势不明朗]
+)
+)
+(;B[in]MN[1]C[黑1很想飞攻白棋]
+;W[gp]	;B[fp]
+;W[fo]C[白2，4连压，黑不堪忍受。]
+)
+)

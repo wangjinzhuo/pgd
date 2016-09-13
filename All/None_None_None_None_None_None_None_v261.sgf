@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届富士通杯第一轮]DT[2001-04-13]US[棋圣道场]SO[http://weiqi.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.tom.com
+
+棋圣道场-->大赛转播]PC[日本棋院]KM[5.5]BR[四段]WR[业余6段]PB[车敏洙]PW[罗布·扎伊斯特]RE[B+R]
+
+;B[pd];W[dc];B[qp];W[dp];B[nq];W[qj];B[ql];W[qg];B[mc];W[rd];B[ce];W[dg];B[ee]
+
+;W[fd];B[di];W[fg];B[cg];W[pc];B[oc];W[qc];B[jc];W[df];B[cf];W[de];B[dd];W[cd]
+
+;B[ed];W[ec];B[fe];W[ge];B[fc];W[ff];B[gd];W[ef];B[fd];W[cc];B[dh];W[hd];B[gb]
+
+;W[fb];B[gc];W[hb];B[he];W[ga];B[gf];W[hc];B[ge];W[ie];B[gg];W[fh];B[id];W[if]
+
+;B[gh];W[fi];B[ih];W[ck];B[ej];W[hi];B[ig];W[bi];B[bh];W[ci];B[ch];W[dl];B[el]
+
+;W[em];B[dm];W[cm];B[ek];W[gi];B[dn];W[en];B[cn];W[bn];B[bm];W[cl];B[bo];W[co]
+
+;B[an];W[do];B[bn];W[bp];B[cq];W[cp];B[bl];W[bk];B[cj];W[bj];B[ai];W[al];B[aj]
+
+;W[ap];B[dk];W[dj];B[eb];W[fa];B[cj];W[ii];B[ak];W[hh];B[hg];W[kh];B[kg];W[jp]
+
+;B[hq];W[fq];B[fr];W[er];B[jq];W[kq];B[kp];W[jr];B[iq];W[lp];B[ko];W[lr];B[fp]
+
+;W[gq];B[gr];W[gp];B[eq];W[dq];B[io];W[ir];B[hr];W[mq];B[nr];W[km];B[no];W[lo]
+
+;B[jo];W[ln];B[jm];W[im];B[jl];W[hm];B[hk];W[jn];B[go];W[ep];B[gm];W[gl];B[fm]
+
+;W[fl];B[fo];W[eo];B[ho];W[hl];B[kn];W[kl];B[cr];W[es];B[jk];W[kk];B[fn];W[jj]
+
+;B[jf];W[ik];B[bq];W[bs];B[ol];W[lg];B[ib];W[db];B[lf];W[mf];B[mg];W[lh];B[le]
+
+;W[ob];B[cs];W[jh];B[jg];W[aq];B[nb];W[od];B[nc];W[rl];B[rk];W[qk];B[rm];W[pl]
+
+;B[qm];W[pm];B[pn];W[om];B[rj];W[qi];B[nm];W[on];B[nn];W[nl];B[oo];W[ok];B[mm]
+
+;W[mr];B[nf];W[mh];B[ng];W[pe];B[ri];W[ns];B[os];W[po];B[qn])
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>第15届富士通杯第一轮 车敏洙执黑中盘胜罗布·扎伊斯特<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

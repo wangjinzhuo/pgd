@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第九届碁圣战]RO[2]PB[加藤正夫]BR[九段]PW[大竹英雄]WR[九段]KM[5.5]DT[1984-07-19]PC[日本]RE[B+R];B[qd];W[dd];B[pq];W[dp];B[oc];W[qo];B[qk];W[pp];B[qq];W[oq];B[op];W[or];B[oo];W[qp];B[rq];W[qm];B[pn];W[qn];B[pr];W[mq];B[pl];W[pm];B[om];W[rp];B[rr];W[rk];B[rj];W[rl];B[qj];W[ol];B[nm];W[ok];B[mk];W[oi];B[qg];W[pe];B[og];W[mj];B[lk];W[mh];B[lj];W[nj];B[lh];W[lg];B[mi];W[nh];B[qe];W[mf];B[kq];W[lp];B[kp];W[ln];B[jn];W[km];B[mm];W[jm];B[kh];W[lq];B[lo];W[mo];B[ko];W[mn];B[np];W[mp];B[im];W[il];B[hm];W[ll];B[nk];W[jf];B[hl];W[ik];B[jg];W[if];B[ig];W[hk];B[hf];W[kg];B[hg];W[nc];B[ps];W[hi];B[ii];W[hd];B[rn];W[gp];B[ho];W[ob];B[pc];W[pf];B[nd];W[md];B[kk];W[jk];B[fd];W[qh];B[rh];W[rg];B[ph];W[qf];B[qi];W[pg];B[rf];W[qh];B[sg];W[qg];B[sj];W[pi];B[rd];W[df];B[ff];W[dh];B[ie];W[od];B[dc];W[cc];B[ec];W[cb];B[jc];W[ji];B[jh];W[fl];B[em];W[dk];B[fm];W[hp];B[cm];W[cl];B[bl];W[bk];B[dl];W[ck];B[dq];W[eq];B[cq];W[cp];B[er];W[fq];B[fr];W[gr];B[bp];W[bo];B[bq];W[cn];B[io];W[dn];B[gk];W[gj];B[fk];W[ek];B[fj];W[fi];B[el];W[ej];B[gl];W[jb];B[nb];W[ne];B[kb];W[kc];B[kd];W[lc];B[ic];W[je];B[jd];W[le];B[ib];W[fa];B[bn])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

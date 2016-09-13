@@ -1,0 +1,31 @@
+(;AP[MultiGo:3.8.6]SZ[19]GN[30期日本名人战循环赛]DT[2005.01.06.]PB[小林觉 九段]
+PW[赵善津 九段]KM[6.5]RE[黑中押胜]
+;B[qd];W[dd];B[pp];W[dp];B[fc];W[hc];B[nc];W[qj]C[白8如a，则黑b]LB[fd:A][ed:B];B[cn]
+;W[fq];B[bp]LB[ck:A];W[qn]C[白12为在a位压做准备]LB[fd:A];B[nq];W[fd];B[cq]C[黑15如a，则白b，黑c，白d，黑e位的征子不成立]
+LB[ed:A][ec:B][ee:C][dc:D][gd:E];W[iq];B[ql];W[ec];B[qp];W[qg]C[至20的布局，白可满意]
+;B[kq]C[黑21要优于在a位拆]LB[ci:A];W[cm];B[dm];W[cl];B[bn];W[dj]C[白26也有疑问，应a]
+LB[di:A];B[ce];W[cd];B[dh]C[黑27、29好手，白难应];W[fi];B[bd];W[bc];B[fg];W[hh]
+;B[bf];W[dn];B[em];W[di];B[ch]C[至39，黑可满意];W[en];B[fm];W[go]C[白42是本局的败因，应a位压，黑b，白c，黑d，白e，如此胜负难料]
+LB[kp:A][lq:B][hm:C][fn:D][dq:E];B[hm]C[黑43后，白左边反显薄弱];W[co];B[bo];W[bi]
+C[白46意在防黑a位飞]LB[bj:A];B[gd]C[黑47时机绝好，白如a，则黑b，白c，黑d，白不满
+]
+LB[gc:A][fe:B][fb:C][hf:D];W[fe];B[ci];W[cj];B[bh]C[至51，黑已活净，黑虽落后手，但留有a位的接，白十分难受]
+LB[gc:A];W[kp];B[lp];W[ko];B[jq];W[ip];B[hj]C[黑57后，白也有顾忌];W[fh];B[gg];W[hi]
+;B[jj];W[eg];B[in];W[jp];B[eh];W[gj];B[fk]C[黑67是冷静的好手];W[gk];B[gl];W[fj]
+;B[ef];W[il];B[gn];W[ho];B[hl];W[hk];B[ek]C[至77，黑的优势明朗化了];W[lc]C[白78是非常手段，如在a位断，白无争胜机会
+]
+LB[gc:A];B[gc];W[pc];B[qc]C[
+黑81如a，则白b，黑c，白d，黑e，白f，黑不利]LB[pd:A]
+[oc:B][od:C][nb:D][nd:E][pb:F];W[oc];B[nd];W[nb];B[qf]C[
+黑85如a，则白b，黑c，白d，黑e，白f，黑g，白h，黑不行]
+LB[mb:A][pe:B][pd:C][od:D][oe:E][ne:F][of:G][md:H];W[pe];B[pf];W[oe];B[rg]C[
+至89的结果，白所得不够
+]
+;W[ge];B[hd];W[ic];B[id];W[jd];B[if];W[rh];B[pg];W[qh];B[rf];W[rl];B[kd]C[黑101后，白如a，则黑b，白c，黑d，白e，黑f，此后g位和h位，黑必得其一，白不行]
+LB[je:A][jc:B][jb:C][kc:D][kb:E][ld:F][lb:G][kf:H];W[jc];B[je];W[kc];B[rk];W[qk]
+;B[rm];W[pl];B[qm];W[pm];B[rn];W[rj]C[白112如脱先，则黑112，白难以忍受
+];B[jh]
+C[黑113后，黑还留有a位夹的手段，白只得认负
+
+
+共113手。黑中盘胜。]LB[bb:A])

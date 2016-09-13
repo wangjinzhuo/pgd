@@ -1,0 +1,20 @@
+(;AP[StoneBase:SGFParser.1.8]SZ[19]GN[2002年全国段位赛]GC[胡耀宇获胜后升段]C[2002年段位赛
+解说:常昊九段
+整理:飞扬围棋网
+来源:体坛周报]HA[0]KM[7.5]EV[2002年全国段位赛]PB[胡耀宇]BR[六段]PW[古力]WR[七段]RE[B+R]DT[2002-07-15]
+;B[pd];W[dd];B[pq];W[cp];B[eq];W[po];B[pl];W[lp]LB[np:a][mp:b]C[ 白８超大飞少见，一般在a或b位飞];B[nq];W[np]C[
+];B[mp]LB[qq:a][qr:b][pp:c]C[白１０如防止黑１１位挖可先作aＡ位托与黑b位扳交换，这样黑１１改在c３位顶，黑亦可战。
+];W[mq]C[实战黑１１挖，白只能从１２位打作战，白棋勉强];B[mo]
+(;W[oq]LB[no:a]N[实战]C[白１４如２０位贴，见参考图1];B[nr];W[or];B[mr];W[lq];B[op];W[no];B[oo];W[nn];B[pp];W[on]LB[ln:a][mn:b]C[白２４只能拐，如a枷吃黑两子被黑２４贴，实地损失太大。尽管黑b贴出白棋也不见得好，但这是遗留问题];B[mn];W[mm];B[ko];W[ol];B[lm];W[ml];B[io]C[黑３１跳本手，因为自身气比较紧，无法对白三子进行很严厉的攻击。];W[lr];B[pr];W[iq];B[do]LB[hq:a][qo:b]C[黑３５飞看似必然，其实还是在a靠更好，这样黑棋先手定型，能抢到b位打这步大棋];W[gq];B[co];W[go]C[实战白３６、３８机敏，虽然损失了白４一子，但黑中腹明显变薄
+
+];B[ll];W[lk];B[kk];W[pm];B[lj];W[mk];B[jl];W[qo]C[白棋争到４６位立，局势有所缓和。];B[cf];W[fc];B[qg];W[di]LB[ci:a]C[白５０二间高夹疑问，在a位低夹较好];B[ck];W[bi]LB[cd:a]C[白５２也不该再花一手阻渡，因为白棋要攻击黑４７一子不太可能，不如直接a位守角，拼实空。];B[ef];W[ce];B[bf]C[黑５５之后角部仍然有棋。];W[ek];B[cm];W[fh];B[gf];W[fe];B[ff];W[hh];B[hd];W[hc];B[gd];W[gc];B[jd];W[id];B[ie];W[ic];B[cc];W[be];B[dc];W[fd];B[jf]C[黑６３至７５非常厚实];W[ke];B[je];W[kc]LB[jc:a]C[白７８跳必然，否则被黑a挡住受不了。];B[fj]C[黑７９严厉，攻守完全逆转。
+
+];W[gk];B[de];W[cd];B[gj];W[ej];B[hj];W[dg];B[df];W[bc]LB[fi:a]C[白８６、８８太过分！在a位补是本手，黑活角无所谓];B[bb];W[ab];B[ch]C[黑９１点严厉];W[cj]LB[dh:a][ci:b][cg:c]C[白９２败着！无论如何也要在a位接，黑b位冲，白c位倒冲，这样还很复杂。];B[eh]C[实战黑９３跨，吃掉白两子目数既大，全局也厚，白要翻盘已很难。
+
+];W[bk];B[pj];W[cr];B[dq];W[fr];B[cq]C[白９６、９８是白棋权利。];W[qc];B[qd];W[pc];B[oc];W[ob];B[nb];W[nc];B[od];W[pb]LB[mb:a]C[白１０８按理只能在a位打吃，让黑吃掉角上两子];B[mc]C[实战黑１０９打，白棋明显无理。];W[nd];B[md];W[ne];B[lb];W[rd];B[re];W[rc];B[mj]C[白１１４后手做活，被黑１１７贴，白棋差距拉得更大了。];W[oh]C[白１１８以下是不是已的动出，不过怎么看都不像有活路];B[pi];W[pf];B[qe];W[me];B[kd];W[lh];B[ni];W[pg];B[ph];W[nh];B[kf];W[kj];B[jj];W[ki];B[mg];W[mh];B[lf];W[ji];B[ij]C[黑１１９至１３７准确，白棋无机可乘。];W[ng];B[jh]LB[ql:a]C[但就在双方都意识到棋局快结束时，黑１３９匪夷所思！这里白不能做出眼位，这时只要在a位立，白已无棋可下。];W[ri];B[rh];W[nj]C[白１４０、１４２好手！];B[nk];W[oj];B[oi];W[ok];B[mi];W[qj]C[至１４８，黑幸运地仍长一气，但优势明显缩小。
+];B[of];W[oe];B[kh];W[li];B[ii];W[pk];B[qh];W[os];B[ps];W[rr];B[ns];W[qp];B[or];W[cl];B[bl];W[dk];B[er];W[sh];B[qf];W[kb];B[le];W[dh];B[eg];W[bm];B[bn];W[al];B[sg];W[si];B[hp]LB[se:a]C[黑１７７当然在a位立大];W[gp];B[hr];W[hq];B[ir];W[es];B[ds];W[fs];B[kr];W[jo];B[nm];W[nl];B[jq];W[jp];B[kn];W[kp];B[ls];W[im];B[jm];W[in];B[br]C[黑１７７至１９７明显亏损，落了后手，没走到目，好在黑本钱实在大，还是稍优。
+
+];W[se];B[ae];W[ad]C[白２００挡也是因形势落后拼一下，但此劫白棋太重，];B[ed];W[af];B[ec];W[la];B[mb]C[但黑２０５为何不消劫不可理解];W[ee];B[ag];W[bg];B[ae];W[nf];B[pe];W[af];B[qk];W[rk];B[ae];W[kl];B[jk];W[af];B[jc];W[ah];B[jb];W[ib];B[ja]C[至２２３，黑还是胜定。 
+
+];W[og];B[rf];W[sd];B[lg];W[fa];B[ia];W[ha];B[dm];W[lo];B[ln];W[jn];B[km];W[cg];B[gm];W[en];B[fb];W[eb];B[fn];W[em];B[fo];W[eo];B[fp];W[hl];B[gb])
+(;W[no];B[lq];W[mr];B[lr];W[nr];B[oq];W[kp];B[mn];W[kr];B[nn]))

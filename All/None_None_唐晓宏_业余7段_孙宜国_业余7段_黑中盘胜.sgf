@@ -1,0 +1,73 @@
+(;SZ[19]AP[MultiGo:3.6.0]C[网络对局
+黑：唐晓宏    业余7段
+白：孙宜国    业余7段
+
+《围棋天地》2003年第16期
+《致命的败招》]GN[网络对局]
+PB[唐晓宏]BR[业余7段]PW[孙宜国]WR[业余7段]
+KM[7.5]RE[黑中盘胜]
+;B[pd]	;W[pp]	;B[cd]	;W[cp]	;B[eq]	;W[iq]	;B[do]	;W[co]	;B[dn]	;W[cm]
+;B[cq]	;W[cn]	;B[dq]	;W[cj]	;B[qn]	;W[nq]	;B[rp]	;W[qq]	;B[qk]
+;W[ec]LB[fc:A]C[白20可以考虑A位大飞挂，比较平稳]
+;B[hd](;W[dd]C[在左边白棋坚实的情况下，白22不好，还是应A位简单跳出。]LB[ee:A]
+;B[cc]	;W[ce]	;B[de]	;W[be]	;B[ee]	;W[dc]	;B[cb]	;W[bd]	;B[fb]	;W[fc]
+;B[gc]	;W[db]	;B[fd]
+;W[bb]C[实战变化也是定式一形，但是白棋左边子力重复。]
+
+;B[nd]C[黑37好点，模样壮阔。]
+
+;W[lc]C[白38立即打入是对黑方的考验]
+(;B[le]C[黑39封锁，放白棋做活，注重中腹潜力]
+;W[hb]	;B[gb]	;W[nb]	;B[kc]	;W[kb]
+;B[jb]C[黑45连扳紧凑]
+;W[qc]	;B[qd]	;W[pc]	;B[lb]	;W[rd]	;B[re]	;W[rc]
+;B[qf]C[右上和平解决。黑棋可以满意]
+
+;W[pj]C[白54侵消中腹，当务之急]
+;B[qj]	;W[mj]
+;B[kq]C[黑57打入好点，保持实地平衡。]
+;W[gq]	;B[dk]
+;W[ck]C[黑59和白60交换时机合理，但得失不明]
+;B[go]	;W[ho]	;B[hn]	;W[io]	;B[ko]
+;W[gn]C[白66断强烈，进入双方都没有成算的激战]
+;B[gm]	;W[fn]	;B[fo]	;W[kn]	;B[ln]	;W[hm]	;B[in]	;W[jo]	;B[im](;W[lo]C[实战白76打吃，虽然吃掉黑棋几子，但是味道很坏，有种种利用，白棋并不便宜]
+;B[kp]	;W[lp]	;B[lq]	;W[mq]	;B[mn]	;W[no]	;B[jn]	;W[km]	;B[ll]	;W[jl]
+;B[ik]	;W[il]	;B[hl]	;W[jm]	;B[hm]	;W[jk]	;B[lj]	;W[hk]	;B[fm]	;W[nn]
+;B[nl]
+;W[ij]C[白棋中腹拔花收获不小，但是黑棋制住中腹两个白子，收获也很大。]
+
+;B[hr]C[黑99死子利用]
+(;W[hq]C[白100致命的败招]
+;B[ir]	;W[gr]	;B[jr]	;W[lr]	;B[kr]	;W[mr]	;B[fr]	;W[gs]	;B[gp]	;W[fq]
+;B[hp]	;W[ip]	;B[er]	;W[hs]	;B[is]	;W[ks]	;B[ls]	;W[ms]	;B[fs]
+;W[ls]C[实战下面双活，目数损失并不大。但是中腹拔花的一团白子缺面临眼位之忧，白棋大势已去。]
+;B[mk]	;W[fk]	;B[fp]	;W[js]	;B[dm]	;W[pm]	;B[qm]	;W[ep]	;B[en]	;W[dp]
+;B[dj]	;W[di]	;B[ei]	;W[ej]	;B[cl]	;W[bl]	;B[dl]	;W[dh]	;B[ek]	;W[fj]
+;B[ji]	;W[bq]	;B[br]	;W[bp]	;B[ar]	;W[mc]	;B[hh]	;W[fl]	;B[el]	;W[gh]
+;B[kd]	;W[hg]	;B[ih]	;W[kj]	;B[li]	;W[jg]	;B[ki]	;W[ge]	;B[gd]	;W[gg]
+;B[ig]	;W[if]	;B[jf]	;W[ie]	;B[ff]	;W[he]	;B[cf]	;W[rq]	;B[om]	;W[cg]
+;B[dg]	;W[eg]	;B[df]	;W[bf]	;B[eh]	;W[ch]	;B[fg]	;W[fh]	;B[gf]	;W[hf]
+;B[ef]	;W[hi]	;B[je]	;W[ro]	;B[qo]	;W[qp]	;B[rn]	;W[pn]	;B[pl]	;W[sp]
+;B[jj]C[黑中盘胜]
+)
+(;W[ir]MN[1]C[白1挡住为好（也可A位双住，但是目数较损）]LB[jq:A]
+
+;B[hq]	;W[ip]	;B[gr]	;W[kr]	;B[lr]	;W[jr]
+;B[mk]C[白快一气杀掉黑棋，黑棋抢到了8位的虎，全局黑优，但是胜负还早，中腹定型中白棋将有很多机会。]
+)
+)
+(;W[kp]MN[1]	;B[lp]	;W[lo]	;B[mo]	;W[lq]
+;B[ko]C[白棋找不到劫才，不行。]
+)
+)
+(;B[mc]MN[1]	;W[le]	;B[mf]
+;W[kg]LB[qd:A][pj:B]C[白棋飞出后，左边黑棋不安定，而且白棋还有A，B等入侵点。]
+)
+)
+(;W[ee]MN[1]	;B[cg]	;W[df]	;B[cf]	;W[cc]	;B[bc]	;W[dd]	;B[ce]
+;W[cb]C[白棋满意]
+)
+(;W[ee]MN[1]	;B[df]	;W[cc]	;B[bc]	;W[cb]	;B[dd]	;W[ed]	;B[ch]
+;W[hb]C[白棋满意]
+)
+)

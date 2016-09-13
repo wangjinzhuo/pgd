@@ -1,0 +1,15 @@
+(;SZ[19]EV[第16届富士通杯世界围棋锦标赛第一轮]DT[2003-04-12]KM[6.5]US[棋圣道场]SO[http://weiqi.tom.com]PC[日本东京]C[http://weiqi.tom.com
+棋圣道场-->大赛直播]PB[周鹤洋]BR[九段]PW[宋泰坤]WR[四段]RE[W+R];B[pd];W[dd];B[pq];W[dp];B[fq]
+;W[cn];B[fc];W[hc];B[pk];W[kc];B[jp];W[po];B[qp]LB[np:a][qq:b]C[黑13是攻击的要点，如在a位飞，则黑b位托可立即获得安定];W[op]LB[qo:a][np:b]C[白14如a，则黑b后，白棋受攻。此外白14如b位飞，则黑14尖断很严厉，白棋难应]
+;B[mp]LB[oq:a][nq:b][mn:c]C[黑15凶狠，以往这手棋都是在a位长，以下白15跳、黑b、白c];W[oq];B[qo];W[pm];B[pn];W[on];B[qn];W[mm];B[no];W[oo]
+;B[om];W[nn];B[ol];W[cf]LB[jm:a]C[白28有疑问，应下在a位才是要点];B[jm];W[mk];B[ll];W[ml];B[jj]C[33后，黑棋掌握主动];W[qf]LB[mi:a]C[白34如a位出头，则黑棋可顺势在右边围空，白不行]
+;B[mi];W[pi];B[oi];W[oh];B[oj]C[39后，白棋陷入困境];W[kn];B[lq]C[黑41是攻守兼备的好手];W[jn];B[mn];W[jl];B[im]LB[nm:a]C[黑45并无成算，在a位断吃白棋已很充分，白还需在45位补棋，黑棋简明优势]
+;W[km];B[il];W[jk];B[ik];W[kj];B[ki];W[ij];B[ji];W[in];B[hj];W[nm]C[白56后，形势变得复杂了];B[lk];W[lj]
+;B[mj];W[kl];B[li];W[lo];B[qe];W[rf];B[mc];W[re];B[rd];W[qj];B[rk];W[rj];B[hp]
+;W[mr];B[lr];W[dc]LB[kk:a]C[白74有些贪婪，在a吃住黑棋将大龙活净方为本手];B[dn]C[黑75以下的攻击令白棋陷入险境];W[cm];B[do];W[co];B[ep];W[dq];B[mo];W[kk]
+;B[or];W[nr];B[pr]C[黑85后，白棋已经九死一生];W[gn];B[fm];W[fn];B[ln];W[lm];B[em];W[eo];B[gp]LB[hm:a][hn:b][en:c][fo:d][fp:e][gm:f][fk:g][gl:h][fj:i][gj:j][gi:k][gk:l][ei:m]C[黑93是致命败着，错过一举获胜的机会，应走a位弯，以下白b、黑c、白d、黑e、白f、黑g、白h、黑i、白j、黑k、白l、黑m，白棋无后续手段]
+;W[hm]C[白94后，黑棋已无好的封锁手段];B[gl]LB[fk:a][hk:b][ii:c][hl:d][gj:e][gk:f][fj:g]C[黑95如a位跳，则白b、黑c、白d、黑接、白e、黑f、白g后，黑不行];W[hl];B[hk];W[gk];B[fk]
+;W[gj];B[hi];W[gi];B[dj];W[gm];B[fl];W[ei];B[ej];W[di];B[ci];W[ch];B[cl];W[bl]
+;B[bk];W[ck];B[cj];W[dl];B[dk];W[bh]C[至118，白棋胜定];B[cl];W[hh];B[ii];W[ck];B[cp];W[cq];B[cl]
+;W[kp];B[jq];W[ck];B[fi];W[fh];B[cl];W[dm];B[en];W[fo];B[fj];W[gh];B[bp];W[bq]C[宋泰坤四段杀入十六强，第二轮比赛将于4月14日进行，敬请关注TOM.COM棋圣道场的大赛直播]
+)

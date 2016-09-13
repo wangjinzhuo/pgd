@@ -1,0 +1,27 @@
+(;C[本因坊元丈（第十一世，1775－1832）是丈和的老师，他们二位都具有当名人的资格，但都没有去取得这个崇高的地位。元丈、知得和后来的幻庵因硕与本因坊秀
+和，合称“围棋四哲”。
+　　元丈和丈和的师徒对局，从1909年至1920年的十一年共下了十七局，从让二子到先二，最后是让先，丈和九局获胜八局打挂，一局也没有输，这是第一流棋手在青年时代常有的现象，其实力比段位要强得多。假如徒弟无法击败老师，恐怕就无法取得继承权。
+]
+AP[StoneBase:SGFParser.1.8]SZ[19]GN[丈和的真髓之三：柔软的处理]DT[1815-09-12]PB[葛野丈和]
+PW[本因坊元丈]HA[0]RE[打掛]SO[日本围棋历史名局精选]CP[蜀蓉棋艺出版社　吴玉林　韩念文]
+AN[由wind_blade@tom.com录入]
+;B[qd];W[dc];B[oc];W[qp];B[cp];W[eq];B[hq];W[hp];B[ip];W[gq];B[iq];W[cm];B[do];W[en]
+;B[dq];W[eo];B[oq];W[cf];B[qn];W[pn];B[pm];W[on];B[qo];W[pp];B[mq];W[qj];B[om];W[op]
+;B[qh];W[ql];B[qm];W[ph];B[pg];W[pi];B[mm];W[lp];B[lq];W[nm];B[nl];W[nn];B[ok];W[qg]
+;B[qf];W[rg];B[og];W[rf];B[re];W[pf];B[qe];W[kp];B[kq];W[ml];B[mk];W[ll];B[rh];W[nj]
+;B[nk];W[ng];B[sf];W[lk];B[mj];W[oh];B[sg];W[li];B[mi];W[mh];B[lj];W[kj];B[ni];W[nh]
+;B[ki];W[lh];B[rk];W[jj];B[ji];W[jg];B[ii];W[jl];B[ig];W[if];B[hg];W[jf]C[白棋粘后，黑棋中央五子成为孤棋，怎样处理是目前的焦点。]
+CR[ki][ji][ii][ig][hg]
+(;B[df]C[黑棋碰是积极的好手。即使是现代的一流职业高手见到这一手也会赞赏。那时已经有了“处理要从碰开始”的谚语。]
+;W[de]C[白棋扳，只此一手。];B[hf];W[he];B[ge];W[gd];B[ee]C[黑棋处理得非常巧妙。]
+(;W[fe]C[白棋打，强行反击。
+元丈不肯选择明显不利的变化，故进地反击，出现了意想不到的变化。
+]
+;B[dd];W[ce];B[ed];W[cd];B[ec];W[gf];B[ef];W[fh];B[cc];W[bc];B[db];W[bb];B[cg];W[bg]
+;B[bh];W[ch];B[dg];W[bi];B[ci];W[ah];B[dh];W[cj];B[bh]C[黑棋舍弃中央六子后，行至此处的提劫，不能不说是黑棋处理成功。]
+;W[rl];B[qk];W[ch];B[di];W[fj];B[bh];W[rj];B[pk];W[ch];B[gg];W[fg];B[bh];W[sk];B[ro]
+;W[ch];B[ff];W[ge];B[bh];W[sn];B[pl];W[ch];B[kk];W[jk];B[bh]C[打掛])
+(;W[ef]C[白棋如果断打...];B[hd];W[ie];B[fd];W[gc];B[dg]C[黑棋长出，大好。])
+(;W[dd]C[白棋粘是本手，但...];B[hd];W[ie];B[fd];W[gc];B[fc];W[hc];B[dg]C[仍是黑棋有利。]))
+(;B[hf]C[黑棋若直接行动...];W[he];B[ge];W[gd];B[fe];W[fd];B[ee];W[dd];B[eh]C[黑棋马上安全，虽说是按部就班，却是拙劣的下法。]
+;W[mc]C[白棋占据大场，黑棋明显不利。]))

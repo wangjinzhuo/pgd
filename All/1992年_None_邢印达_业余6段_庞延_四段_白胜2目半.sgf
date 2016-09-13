@@ -1,0 +1,80 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[1992年全国围棋乙级队团体赛]DT[1992年]
+PB[邢印达]BR[业余6段]BT[石化体协队]PW[庞延]
+WR[四段]WT[安徽队]KM[5.5]RE[白胜2目半]
+C[1992年全国围棋乙级队团体赛
+黑：郉印达    业余6段
+白：庞    延    四段    
+
+《围棋天地》2004年第18期
+《鬼使神差的漏着》]
+;B[pd]	;W[dc]	;B[pp]	;W[dp]	;B[de]	;W[ce]	;B[cf]	;W[cd]	;B[df]	;W[fc]
+;B[dj]	;W[cl]	;B[el]	;W[cn]	;B[pj]
+;W[jp]C[白16含蓄的一手。有利于中央的作战，又保留右边的种种选择。]
+;B[lq]	;W[ko]	;B[mc]	;W[qn]	;B[qp]	;W[nq]	;B[np]	;W[mp]	;B[mq]	;W[op]
+;B[no]	;W[oo]	;B[oq]	;W[nr]	;B[or]	;W[nn]	;B[mo]	;W[mn]	;B[lo]	;W[ln]
+;B[lp]	;W[qh]	;B[qe]	;W[qj]	;B[qk]	;W[pk]	;B[pl]	;W[ok]	;B[rj]	;W[qi]
+;B[rl]	;W[oj]	;B[ol]	;W[nl]
+;B[pn]C[黑棋实地收获不少。
+但白棋的方向也很好，潜力比较达，又是先手。
+目前形势相当。]
+
+;W[dk]C[白52尖断凶狠]
+;B[ej]	;W[ek]	;B[fj]	;W[fk]
+;B[gj]C[黑棋看似委屈，但由于头在外面，而且走厚了左上黑棋，又限制右边白势，虽然被割下一子，局面还是均衡的。]
+;W[jr]	;B[dq]	;W[eq](;B[er]C[黑61危险。应如前图走A位断。]LB[ep:A]
+;W[cq]	;B[dr]	;W[ep]	;B[gk]	;W[gl]	;B[hl]	;W[hm]	;B[ck]	;W[fl]
+;B[bl]C[黑69，71手筋。]
+;W[cj]	;B[bk]	;W[bm]	;B[dl]	;W[cm]
+;B[nk]C[黑77好手，利用白右边的弱点]
+;W[ni]	;B[oh]	;W[nh]	;B[og]	;W[ng]
+;B[of]C[黑83平庸，应走A位挤吃，白棋形不佳，整体有顾虑。]LB[oi:A]
+;W[oi]	;B[cr]	;W[bq]
+;B[hq]C[黑87好手，考验白棋，局部变化复杂。]
+;W[gq]	;B[gr]
+;W[fr]C[白88，90疑问手。]
+
+;B[gm]C[黑91先断好手，如果单在A位扳，白91位接，利用就少了。]LB[im:A]
+;W[fm]	;B[im]
+;W[hn]LB[gn:A]C[白94还是A位提为好]
+
+;B[io]C[黑95好手，白棋很为难了]
+;W[il]	;B[hk]	;W[in]	;B[jo]	;W[kp]	;B[jn]	;W[po]	;B[on]
+;W[qo]C[黑105随手，显然应该A位贴紧气。]LB[qm:A]
+;B[rp]	;W[rm]	;B[om]	;W[qm]	;B[ql]	;W[nm]	;B[ro]	;W[jm]	;B[kn]	;W[lr](;B[mr]C[黑115大随手，应如前图走A位。]LB[ip:A]
+;W[hr]
+;B[ir]LB[iq:A]C[黑117如走A位，黑棋仍然有B位的手段。]
+;W[hp]	;B[hs]	;W[ip]
+;B[ls]LB[kr:A]C[至黑121，白棋已经吃不净左下黑棋了。
+但黑121还是走A位好，官子不少。]
+;W[ci]
+;B[di]C[黑123缓，失掉先手，棋就输掉了。应走A位顶，得到先手后，再B位飞，胜负还可一争。]LB[ch:A][jj:B]
+;W[ch]	;B[dh]	;W[cg]	;B[bg]	;W[bj]
+;B[be]C[黑129最后的败招。
+黑必须A位飞，或许还有机会，至少还有更多不确定的因素。]LB[jj:A]
+
+;W[jj]C[白棋占到130好点后，下得稳稳的，白胜局已定。]
+;B[bh]	;W[bd]	;B[ad]	;W[ac]	;B[ae]	;W[ic]	;B[fs]	;W[fq]	;B[iq]	;W[lb]
+;B[mb]	;W[lc]	;B[ld]	;W[kd]	;B[le]	;W[rf]	;B[re]	;W[kr]	;B[br]	;W[ar]
+;B[bs]	;W[ks]	;B[is]	;W[bb]	;B[ki]	;W[kj]	;B[li]	;W[lj]	;B[hd]	;W[hc]
+;B[fd]	;W[gd]	;B[ge]	;W[gc]	;B[ji]	;W[he]	;B[hf]	;W[ie]	;B[ij]	;W[mj]
+;B[ed]	;W[if]	;B[ec]	;W[eb]	;B[dd]	;W[db]	;B[hg]	;W[ma]	;B[na]	;W[la]
+;B[nb]	;W[qf]	;B[ri]	;W[rh]	;B[si]	;W[nf]	;B[ne]	;W[pf]	;B[oe]	;W[se]
+;B[sd]	;W[sf]	;B[rd]	;W[ig]	;B[ih]	;W[jh]	;B[ii]	;W[ke]	;B[kf]	;W[kg]
+;B[lf]	;W[jf]	;B[kh]	;W[jg]	;B[lg]	;W[kc]	;B[ik]	;W[jk]	;B[ho]	;W[gp]
+;B[ai]	;W[al]	;B[sh]	;W[sg]	;B[pg]	;W[qg]	;B[ph]	;W[pi]	;B[dg]	;W[ak]
+;B[bi]	;W[mf]	;B[me]	;W[ms]	;B[ns]
+;W[ls]C[白胜2目半]
+)
+(;B[ip]MN[1]C[黑1紧气好手]
+;W[jq]	;B[mr]	;W[hr]	;B[gp]	;W[gs]
+;B[mk]C[黑7长是关键]
+;W[ll]	;B[lm]	;W[ml]	;B[kl]	;W[lk]
+;B[gn]C[白棋崩溃。]
+)
+)
+(;B[ep]MN[1]	;W[er]
+;B[gk]LB[gl:A][hl:B][gm:C][hm:D][gn:E][hn:F]C[以下，白棋如果A位扳，黑B，白C，黑D压后，白棋难受。如果白E，下边味道不好，如果白F，黑E断，味道更坏。]
+;W[fp]
+;B[gm]C[黑不坏。]
+)
+)

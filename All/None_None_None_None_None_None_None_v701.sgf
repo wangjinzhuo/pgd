@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://www.flygo.net]KM[5.5]WR[五段]BR[九段]EV[中国第七届名人赛决赛第四局]RO[4]DT[1994-11-07]PC[中国]RE[B+R]SZ[19]PB[马晓春]PW[罗洗河]US[xuyang@990.net http://xuyang.yeah.net];B[qd];W[dd];B[pq];W[dp];B[fc]
+
+;W[df];B[db];W[nd];B[oc];W[od];B[nc];W[pd];B[pc];W[qe];B[md];W[qc];B[rd];W[qb]
+
+;B[re];W[mc];B[me];W[pf];B[qf];W[pe];B[pg];W[nf];B[mb];W[lc];B[lb];W[kc];B[pb]
+
+;W[qg];B[rf];W[qh];B[ph];W[pi];B[nh];W[qj];B[oi];W[mf];B[rg];W[og];B[oh];W[rh]
+
+;B[ke];W[lf];B[pk];W[qk];B[kd];W[nb];B[na];W[pa];B[ob];W[rc];B[kf];W[sd];B[lg]
+
+;W[pl];B[fe];W[di];B[cn];W[cl];B[eg];W[dg];B[ei];W[ec];B[eb];W[ff];B[dj];W[ci]
+
+;B[gf];W[fg];B[dl];W[bk];B[fq];W[dn];B[cq];W[dq];B[dr];W[cp];B[br];W[bq];B[cr]
+
+;W[gg];B[ge];W[dm];B[hg];W[hh];B[gh];W[fh];B[gi];W[hi];B[hj];W[ij];B[hk];W[ig]
+
+;B[hf];W[ji];B[il];W[kk];B[km];W[ee];B[kh];W[fp];B[eh];W[ef];B[gn];W[gq];B[ol]
+
+;W[pm];B[fr];W[gr];B[bp];W[bo];B[aq];W[jl];B[jm];W[im];B[gj];W[in];B[ml];W[ko]
+
+;B[of];W[ne];B[ng];W[sg];B[jo];W[io];B[kl];W[jk];B[ik];W[nq];B[qp];W[jn];B[mg]
+
+;W[se];B[cc];W[ro];B[qn];W[rn];B[np];W[mq];B[rp];W[gl];B[el];W[op];B[rm];W[qm]
+
+;B[oq];W[nk];B[mk];W[mm];B[lm];W[ok];B[pn];W[nl];B[mj];W[fm];B[bf];W[fd];B[gd]
+
+;W[gc];B[ed];W[qa];B[oa];W[fd];B[fb];W[if];B[ie];W[jh];B[kj];W[hd];B[ed];W[fi]
+
+;B[fj];W[fd];B[he];W[je];B[id];W[jd];B[ic];W[jf];B[kg];W[jc];B[kb])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

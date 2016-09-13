@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]DT[1991/09/13]EV[中国围棋全国个人赛]RE[B+R]PC[北京市]PB[马晓春]BR[]PW[俞斌]WR[]KM[5.5];B[qd];W[dc];B[dq];W[pp];B[de];W[cn]
+
+;B[dk];W[cq];B[cp];W[dp];B[bq];W[cr];B[do];W[ep];B[co];W[br];B[gp];W[fo];B[dn]
+
+;W[go];B[ip];W[gq];B[gd];W[ce];B[cd];W[dd];B[cc];W[cf];B[db];W[ee];B[ec];W[ed]
+
+;B[fc];W[ci];B[dh];W[ch];B[bk];W[nc];B[pc];W[kc];B[mq];W[oq];B[qm];W[qo];B[qj]
+
+;W[hq];B[mo];W[kq];B[kp];W[jq];B[pn];W[lp];B[mp];W[ko];B[jp];W[lo];B[lq];W[lm]
+
+;B[jn];W[iq];B[qq];W[pr];B[ro];W[rp];B[qp];W[rn];B[po];W[so];B[qr];W[pq];B[qn]
+
+;W[ro];B[rq];W[rs];B[qs];W[sq];B[sr];W[ps];B[sp];W[rm];B[rl];W[sq];B[nn];W[km]
+
+;B[sp];W[em];B[dm];W[sq];B[lc];W[lb];B[sp];W[ld];B[dg];W[df];B[cg];W[cl];B[dl]
+
+;W[bg];B[bh];W[cb];B[bb];W[bi];B[sm];W[sq];B[bf];W[bc];B[ca];W[ah];B[sp];W[ck]
+
+;B[sn];W[cm];B[gl];W[gm];B[hl];W[fl];B[fk];W[gk];B[fj];W[hk];B[cj];W[bj];B[dj]
+
+;W[bo];B[bp];W[an];B[fg];W[hi];B[bd];W[di];B[gi];W[ei];B[hh];W[ii];B[ih];W[fh]
+
+;B[gh];W[ji];B[lk];W[il];B[og];W[gf];B[ff];W[ni];B[oi];W[pe];B[od];W[oe];B[qe]
+
+;W[nh];B[oh];W[fe];B[ge];W[hf];B[if];W[he];B[gg]C[;])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

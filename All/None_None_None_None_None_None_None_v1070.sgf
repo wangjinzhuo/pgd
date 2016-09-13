@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]DT[2001-12-26]EV[第14届中国名人战决赛五番胜负第四局]KM[5.5]US[棋圣道场]PC[中国北京]PW[马晓春]BR[九段]PB[常昊]WR[九段]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]RE[B+R];B[pd]C[Black is Chang Hao 9P];W[dd]C[White is Ma Xiaochun 9P];B[qp]C[前三局常昊九段1：2落后，此局再负，将成就马晓春九段名人战十三连霸的伟业];W[dq]
+
+;B[do];W[co];B[dp];W[cp];B[eq];W[cn];B[dn];W[dm];B[cq];W[dr];B[bq];W[cr];B[cm]
+
+;W[cl];B[br];W[er];B[bm];W[bn];B[bl];W[bp];B[fq];W[en];B[em];W[dl];B[fn];W[el]
+
+;B[eo];W[bk];B[fr]C[至此与双方第三局的进行一模一样，不过黑白颠倒一下];W[bs]LB[nq:a][gm:b]C[白34马晓春开始变着，上一局常昊下在a位，三星杯决赛与曹薰铉的对局中常昊下在b位。因为棋风的差异，双方对这一局部的理解还是有出入的];B[fl]C[黑35好点，黑棋这一带很厚实];W[pq];B[qq];W[mq]C[白36、38是马晓春一流的腾挪手法];B[kq]C[黑39从这么厚的地方拆逼过来，感觉上有些重复，不过也没什么更好的选择]
+
+;W[or];B[pp];W[mo];B[lp];W[mp];B[ek];W[dj];B[ej];W[lo]LB[di:a][ln:b]C[白48如a位退，则黑会走b位一边攻白一边扩张模样];B[cj]LB[ck:a][dk:b][di:c][bj:d][ak:e]C[黑49是正着，如走a，则白b、黑49、白c、黑d、白e，黑不行]
+
+;W[ck];B[bj];W[am];B[di]C[至53的结果，黑棋可以满意];W[gm];B[fm];W[jp];B[fc]C[黑57脱先挂角是积极的下法];W[ec]C[白58在敌强我弱的情况下也只得如此];B[fd];W[ce];B[ql]C[黑61后，是黑棋较易把握的局面]
+
+;W[kd];B[mc];W[le];B[pf];W[lh]C[白62至66是双方虚与实的交换，感觉上是黑可战];B[jq];W[ip];B[iq]C[黑67、69的连回很实惠，且保留以后攻白的可能];W[ff];B[id];W[if]C[白70、72有破黑外势之意];B[fb]
+
+;W[db];B[jc];W[kc];B[kb];W[qj]C[白78的打入已迫在眉睫];B[pr];W[oq];B[ol]C[至81，黑棋较为主动];W[rf];B[rd]C[至此中午休息];W[lb]LB[qh:a]C[白84和a位双方只能各得其一]
+
+;B[jb];W[lc];B[qh];W[oj];B[ri];W[rl];B[rm];W[qk];B[pm];W[oc];B[od];W[nc];B[pc]
+
+;W[pg]C[白98要最大限度地压缩黑空];B[ph];W[og];B[oh];W[ng];B[qg];W[mj];B[nh];W[mh]C[至106的结果，白棋可以满意];B[ml]LB[qr:a]C[黑107在a位粘也是很大的一手棋，实战是对白中腹的势力有所顾忌];W[qr]C[白108是当然的一手，其价值在10目以上]
+
+;B[rr];W[ps];B[bf];W[be];B[kp];W[ko];B[jo];W[jn];B[io];W[in];B[ho]C[113至119是黑棋应得的补偿];W[rs];B[sr]
+
+;W[lr];B[pb];W[md];B[hj]LB[hn:a]C[黑125露骨地瞄着a位的冲断];W[hn];B[kr];W[ge];B[gd];W[rj];B[oo]C[黑131是优势意识下的稳健策];W[qf]
+
+;B[of];W[si];B[sh];W[sm];B[rn];W[sj]C[白132至138落后手，未见便宜];B[ni];W[nj];B[gn]C[黑141后，黑棋的优势明朗化了];W[cg];B[bg];W[ch]
+
+;B[bh];W[gk]C[白146拼死一搏];B[gj];W[fk];B[gl]LB[il:a]C[黑149下在a位似乎更为有力];W[hk];B[fj];W[hl];B[hm];W[im];B[cf]
+
+;W[df];B[dk];W[al];B[eh];W[dg];B[ae];W[ad];B[af];W[bc];B[he];W[hf];B[hh];W[aj]
+
+;B[ai];W[ci];B[bi];W[fh];B[gh];W[fg];B[fi]LB[ii:a]C[黑175下在a位更为稳妥];W[ie];B[hd];W[ii];B[ij];W[hi]
+
+;B[ji];W[go];B[hp];W[fo];B[gp];W[ih];B[jh];W[ig];B[ik];W[gm];B[fp];W[km];B[kj]
+
+;W[qi];B[rg];W[rh];B[sg];W[kk];B[dh];W[jd];B[hb];W[mi]C[至202的结果，白虽略有所得，但已与胜负无关了];B[sf];W[pi];B[se];W[ob]
+
+;B[oa];W[na];B[pa]C[这样前四局双方打成2：2平。第五局也就是决胜局将于12月27日（星期四）进行。])
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>第14届中国名人战决赛第四局 常昊执黑中盘胜马晓春(附解说)<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

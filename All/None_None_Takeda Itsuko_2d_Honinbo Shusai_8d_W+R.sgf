@@ -1,0 +1,141 @@
+(;
+PB[Takeda Itsuko]
+BR[2d]
+PW[Honinbo Shusai]
+WR[8d]
+RE[W+R]
+SZ[19]
+C[Published in Chugai Tekigyo Shinbun, 29.7-12.8.1911  189 moves]
+HA[3]
+AB[dp][pd][pp]
+
+;W[cd];B[ec];W[gc];B[gd];W[hd];B[fd];W[ic](;B[cg]
+C[Better to take advantage of the ladder breaker \\t with `a'. ]
+;W[df];B[dg];W[ef];B[gf];W[eg](;B[di]
+C[Again not the optimum move, which is `a'. ]
+;W[he];B[ff];W[cf](;B[cb]
+C[`a' is better.  Why is this slack? White's next move may surprise you. ]
+;W[ci]
+C[A typical Shusai move. ]
+(;B[dh]
+C[Black has a difficult game already. She probably dug in her heels with 20 to justify her last move \\t, but blocking at `a' may have been easier. ]
+;W[dj];B[ej];W[dk];B[fh]
+C[This at least gives Black some cause for satisfaction. ]
+;W[bb];B[ek];W[dm](;B[dl]
+C[Simply extending to `a' is better. ]
+;W[cl];B[el];W[cn];B[ig];W[fq](;B[eo]
+C[The first really questionable move. Black should probe White's intentions with `a'. ]
+;W[em];B[gp];W[gm]
+C[Allowing White to get these two moves is why 34 was bad. ]
+(;B[gq]
+C[Black still has the opportunity to play `a' - she should take it. ]
+;W[fg];B[gg];W[gh]
+C[But this way it is White who gets some action in the centre, not to mention the initiative. ]
+;B[fi];W[hh];B[ii];W[gj];B[hj]
+C[Black overlooked White's next move. Would you? ]
+(;W[ij]
+C[!!  The predictable move at `a' fails. ]
+;B[bh]
+C[Too late now. ]
+;W[bj];B[bf];W[be];B[gi];W[hi];B[hk];W[ih];B[jh];W[ji];B[hg]
+;W[ii];B[kh]
+C[Shusai said this was very bad. It has to be at `a' to keep \\t in check. ]
+;W[gk]
+C[This leads to a big ko. ]
+;B[bc];W[af](;B[ag]
+C[Inevitable, as `a' loses. ]
+;W[bg];B[ik];W[ki];B[bf];W[cc];B[ba];W[bg];B[li];W[kj];B[bf]
+;W[ab];B[ac];W[bg];B[ck];W[cj];B[bf];W[db];B[aa];W[bg](;B[eb]
+C[Black is the first to blink, but it is not clear why. She should have continued the ko with `a'. ]
+;W[ah]
+C[A big loss for Black, but not fatal in a 3-stone game. ]
+;B[lj];W[kk](;B[lk]
+C[Better at `a'. ]
+;W[kl];B[lc];W[ll](;B[nk]
+C[Should attack at `a'. ]
+;W[ld]
+C[Punishes Black for her slack play. Note that the big Black \\t group only has one eye.  Shusai said that once White lived here, Black had no hope of winning. Sugiuchi was not so sure. ]
+;B[md];W[kd];B[mc];W[lf];B[jf];W[me];B[kc];W[jc];B[of];W[mg]
+;B[lh];W[og];B[pg];W[nf];B[oe];W[oh];B[ph];W[oi];B[pi];W[oj]
+;B[qk];W[qc];B[pc];W[cq];B[dq];W[cp];B[pn];W[iq];B[hr];W[dr]
+;B[er];W[cr];B[fr];W[pq];B[qq];W[oq];B[qr];W[op];B[po];W[dc]
+;B[da];W[pl];B[pk];W[ok];B[ke];W[je];B[ie](;W[nl]
+C[Here we can seen why Sugiuchi thought the game was close. Had White connected at `a', as expected, there is not much in it. So White resorts to an overplay. ]
+;B[jd]
+C[Very big. ]
+;W[ql](;B[rl]
+C[Not the best. Compare `a'. ]
+;W[rh]
+C[Good move. ]
+;B[ri];W[pb];B[rb];W[qb];B[rd];W[le]
+C[Secures White's victory, despite Black's resolute defence in the corner. ]
+;B[kf]
+C[Black would like to play at `a' but eye shape comes first. White `b' would cause too much trouble. ]
+;W[pj];B[rg];W[rj];B[sh];W[rm];B[ro];W[hb];B[fb];W[kb];B[lb]
+;W[la];B[ma];W[ja];B[ka];W[id];B[je];W[la];B[fm]
+C[A ko threat, but one that loses points. ]
+;W[fn];B[ka];W[qd];B[re];W[la];B[fl];W[gl];B[ka];W[fo];B[fp]
+;W[la];B[gn];W[go];B[ka];W[ho]
+C[Ready to cede the ko. ]
+;B[jb];W[nn]
+C[And this is why. Black could resign now. ]
+;B[ir];W[kq]
+C[Black resigns. ]
+)
+              (;B[le];W[ri];B[rg];W[ho];B[mq]
+C[Black's capture at 1 is much bigger than it looks because it eliminates   all aji (potential) in the corner. Black has chances here.]
+)
+             )
+             (;W[jd];B[kf];W[le];B[ql])
+            )
+            (;B[jd];W[fb];B[ea];W[jb]
+C[Black probably desisted from this attack as White cannot be killed   unconditionally. But the alternative of not attacking was painful.]
+)
+           )
+           (;B[ll];W[kl];B[km];W[lk];B[mk];W[jm];B[lm];W[il];B[kc])
+          )
+          (;B[bl];W[bk];B[bf];W[bb];B[ab];W[bg];B[lj];W[kk];B[bf];W[eh]
+          ;B[ei];W[bg];B[ll];W[kl];B[bf];W[ae];B[dc];W[bg];B[km]
+C[White has run out of ko threats.]
+)
+         )
+         (;B[bg];W[cc];B[ba];W[ab];B[db];W[ac]
+C[Now Black loses the capturing race.]
+)
+        )
+        (;W[gi];B[gk](;W[hk];B[hl];W[fk];B[gl];W[fl];B[fj];W[fm];B[bg])
+         (;W[fk];B[gl])
+         (;W[ih];B[jh];W[ji];B[hg])
+        )
+       )
+       (;B[bh];W[bj];B[cc];W[bc];B[hk];W[bf];B[gq]
+C[This way Black gets some centre thickness.]
+)
+      )
+      (;B[cc];W[bc];B[bh]
+C[The second part of the probe.]
+;W[bj]
+C[If White uses 4 to live in the corner, Black cuts at `a' and the capture   of the two stones \\t gives her tremendous thickness.]
+;B[be];W[bf];B[bd];W[ce];B[ba];W[bg];B[bi];W[ag];B[ck]
+C[But if White insists on doing something in the corner, it looks as if he   has to give up his two \\t stones anyway.]
+;W[cj];B[bk];W[bl];B[ab]
+C[Trying to save them breaks the connection at `a'.]
+)
+     )
+     (;B[el];W[cn];B[en];W[em];B[fm]
+C[The extra liberty at `a' is important in this kind of position.]
+)
+    )
+    (;B[cj];W[bg]
+C[And Black lets White connect underneath.]
+)
+   )
+   (;B[cc];W[bc];B[dd];W[cb];B[db];W[dc];B[fh];W[eh];B[ei];W[dh]
+   ;B[ci])
+  )
+  (;B[he];W[di];B[jd])
+ )
+ (;B[df];W[cf];B[cg];W[dg];B[ce];W[bf];B[ef];W[be];B[dh]
+C[This is thicker for Black.]
+)
+)

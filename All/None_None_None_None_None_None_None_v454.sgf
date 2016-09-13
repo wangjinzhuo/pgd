@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GN[日本第04届棋圣战挑战者决定赛]
+
+RO[3]
+
+PB[林海峰]
+
+BR[九段]
+
+PW[桥本昌二]
+
+WR[九段]
+
+SO[http://xuyang.yeah.net]
+
+US[xuyang]
+
+KM[5.5]
+
+DT[1979-12-20]
+
+RE[B+R]
+
+TM[21600]
+
+;B[qd];W[dc];B[pq];W[cq];B[oc];W[po];B[qo];W[qn];B[qp];W[pm]
+
+;B[nq];W[qi];B[ce];W[ch];B[fe];W[gc];B[co];W[cm];B[ep];W[do]
+
+;B[dp];W[cp];B[dn];W[bo];B[eo];W[cn];B[qg];W[dm];B[ip];W[oi]
+
+;B[eh];W[fn];B[en];W[em];B[fm];W[gn];B[gp];W[ei];B[bn];W[do]
+
+;B[fi];W[di];B[co];W[bm];B[cc];W[cb];B[bc];W[dd];B[de];W[fd]
+
+;B[ge];W[ic];B[nl];W[rd];B[re];W[nm];B[mm];W[ml];B[nk];W[np]
+
+;B[mq];W[ll];B[ql];W[rm];B[pj];W[qj];B[pl];W[rl];B[pi];W[ro]
+
+;B[mn];W[om];B[ph];W[mp];B[km];W[lp];B[kl];W[op];B[oq];W[lq]
+
+;B[rp];W[sp];B[sq];W[so];B[rr];W[qc];B[pd];W[lc];B[fl];W[fj]
+
+;B[hm];W[gi];B[fh];W[hj];B[ek];W[ej];B[bb];W[er];B[bp];W[do]
+
+;B[qk];W[rk];B[co];W[an];B[dr];W[dq];B[eq];W[cr];B[fr];W[ds]
+
+;B[nb];W[mb];B[md];W[mc];B[nc];W[ld];B[me];W[le];B[mf];W[kj]
+
+;B[dk];W[ck];B[ko];W[cd];B[bd];W[bf];B[be];W[db];B[bg];W[cg]
+
+;B[cf];W[mj];B[bh];W[bi];B[hd];W[hc];B[ik];W[mh];B[li];W[lh]
+
+;B[ki];W[kh];B[ji];W[mi];B[lj];W[og];B[pf];W[mk];B[rh];W[gr]
+
+;B[fs];W[ir];B[jq];W[kr];B[hk];W[ah];B[af];W[mr];B[nr];W[ns]
+
+;B[os];W[ms];B[je];W[lf];B[jd];W[jc];B[gk];W[gj];B[jr];W[js]
+
+;B[gq];W[ps];B[qs];W[hr];B[pr];W[kq];B[jp];W[lk];B[kk];W[ii]
+
+;B[jh];W[jg];B[ih];W[ig];B[hh];W[gh];B[dg];W[hg];B[ij];W[fg]
+
+;B[eg];W[hi];B[jj];W[pb];B[rc];W[na];B[oa];W[ma];B[ob];W[ri]
+
+;B[si];W[sj];B[sh];W[ee];B[ef];W[ed];B[ff];W[gg];B[of];W[ng]
+
+;B[nf];W[ol];B[ok];W[hq];B[hp];W[nn];B[ca];W[da];B[ba];W[he]
+
+;B[id];W[ie];B[gd];W[jf];B[oh]C[time used:
+
+
+
+W 5h 59m
+
+B 5h 29m])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

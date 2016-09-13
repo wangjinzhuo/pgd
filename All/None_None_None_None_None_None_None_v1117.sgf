@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;C[欢迎光临 敲玉余韵 围棋棋谱库
+
+http://www.psc-a.org/go]SZ[19]DT[1994-03-26]EV[韩国王位战]RE[W+R]PC[韩国棋院]PB[曹薰铉]BR[九段]PW[李昌镐]WR[六段]KM[5.5];B[pd];W[dp];B[pp];W[dd];B[fq];W[ip];B[cn];W[fp];B[gp];W[fo];B[eq];W[dq];B[go];W[dn];B[dm];W[gn];B[do];W[ep];B[hq];W[en];B[cl];W[cj];B[dj];W[bm];B[cm];W[di];B[ej];W[ei];B[ci];W[ch];B[bi];W[fj];B[bj];W[iq];B[ho];W[dk];B[ek];W[el];B[fk];W[gk];B[fl];W[fm];B[gl];W[hl];B[ck];W[gm];B[dl];W[jn];B[ir];W[jr];B[hr];W[dr];B[kr];W[js];B[hn];W[im];B[hm];W[kq];B[er];W[br];B[is];W[gs];B[es];W[gr];B[gq];W[co];B[jo];W[io];B[in];W[jm];B[ko];W[mq];B[mo];W[oq];B[il];W[hk];B[ik];W[lm];B[kl];W[ln];B[lp];W[lq];B[ml];W[ll];B[mk];W[ij];B[kk];W[lo];B[fi];W[hj];B[lk];W[fh];B[gi];W[ih];B[gh];W[if];B[mn];W[mp];B[qi];W[rp];B[qn];W[rn];B[qp];W[qm];B[ro];W[so];B[qo];W[rl];B[rq];W[rj];B[ri];W[qj];B[pl];W[pi];B[qg];W[ql];B[pj];W[pk];B[oj];W[ok];B[ol];W[sm];B[nk];W[jd];B[qk];W[rk];B[ld];W[nb];B[hd];W[kg];B[cc];W[dc];B[cd];W[de];B[hf];W[hg];B[gg];W[he];B[gf];W[ie];B[ge];W[eb];B[gc];W[ce];B[jc];W[lf];B[lh];W[ic];B[id];W[kd];B[kc];W[lc];B[em];W[fn];B[mc];W[lb];B[le];W[ke];B[ib];W[])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

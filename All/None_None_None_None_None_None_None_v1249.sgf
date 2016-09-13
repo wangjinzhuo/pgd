@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[棋圣道场]SO[http://weiqi.cn.tom.com]PC[日本]WR[九段]KM[5.5]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]BR[九段]PB[王立诚]DT[2001-03-03]EV[第39期日本十段战决赛第一局]PW[小林光一]RE[W+2.5];B[pd]C[本届十段战的第一局，王立诚向老棋手的最后阵地发起进攻];W[dd];B[pp];W[dp]C[二连星对二连星，双方力求简明]
+
+;B[fq];W[cn];B[dr];W[cq];B[iq];W[qn];B[np];W[qk]LB[rp:a][ql:b]C[白12如在a位飞，担心黑在b位一带反夹];B[qi]LB[qo:a][ro:b][rp:c][qh:d]C[黑13如在a位尖顶，白b、黑c、白d]
+
+;W[rp];B[fc];W[cf];B[db];W[nc]LB[gc:a]C[白18先挂，为在a位碰作准备];B[qf];W[gc];B[gd];W[hc];B[fd]LB[ed:a][cc:b]C[黑23较少见，一般是在a位或b位点角]
+
+;W[kc];B[cc];W[ci];B[qq]C[至27双方都在很平淡地“铺地板”];W[jo]C[白28时是作战的分歧点，实战白棋选择了侵削黑势并在左边构筑模样的下法];B[kp];W[hp];B[hq];W[fp];B[eq];W[jp];B[jq]
+
+;W[ko];B[lp];W[fj]C[至白38，黑下边形成确定地，但白棋的模样也很可观];B[fl]C[黑39利用下边白棋外势的缺陷，单骑突入];W[hk];B[hm];W[fn]C[白42一着两用，既补强自身，又瞄着分断黑棋];B[go]C[黑43试白应手];W[gn];B[hn];W[ho]C[白44、46强硬]
+
+;B[jm]C[黑47先出头是正着];W[gm]C[白48很实惠];B[di]C[黑49试白应手，时机绝佳];W[ei]LB[dj:a][ch:b]C[白50寸土不让，如在a位扳，黑b位反扳，白棋反而难应];B[hl];W[gl];B[gp]C[黑53切断，当然];W[fo];B[gq]
+
+;W[il]C[白56机敏];B[jl];W[ik];B[im];W[lm];B[jk];W[on];B[pm];W[pn];B[ln];W[mn]C[白60至66弃子作战，是贤明之策];B[lo]
+
+;W[cd]C[白68先手挡，很愉快];B[fb]C[黑69不得不补];W[pb]C[白70是盘上最后大场，黑形势不容乐观];B[ep];W[eo];B[rq]C[黑73不仅是大官子，还瞄着白棋的薄味];W[ok]C[白74补强是本手];B[do];W[dn];B[qc];W[bc]
+
+;B[bb];W[dc];B[cb];W[od]LB[mc:a]C[白82防黑在a位碰];B[eh];W[dh];B[dg];W[ch];B[fi];W[dj]LB[jc:a]C[黑83至87为在a位碰作准备]
+
+;B[jc];W[jd]LB[jb:a]C[白90凶狠，但风险不小，如在a位扳则较安全];B[ic];W[id];B[kb]LB[hb:a]C[黑93是胜负手，如在a位扳过则属稳健];W[hb]C[白94反击必然，双方都已无退路];B[md]C[黑95是出人意料的好着，白棋极难应付];W[kd]C[白96稳健]
+
+;B[mc];W[pe];B[qe];W[pc];B[qd];W[me];B[le];W[ne];B[ld];W[lf];B[ke];W[lb];B[mb]
+
+;W[jb];B[je];W[mg];B[kg];W[qb];B[rj];W[rk]C[至白116，白棋虽渡过难关，但实地受损，形成细棋局面];B[pj];W[pk];B[rb];W[ra];B[sb];W[ni]
+
+;B[cr]C[黑123是目前最大的官子];W[ff]C[白124好手];B[ee];W[fh];B[ie];W[hf];B[gg];W[fg]C[至130，白有所得];B[he];W[ph];B[qh];W[pf]C[白132、134不仅厚实，实地也不小]
+
+;B[cp];W[bp];B[dq];W[bq];B[lk];W[ml]LB[pi:a]C[白140应先走a位];B[oh]C[黑141时机绝好];W[pg];B[oi];W[qg];B[rg]
+
+;W[rh];B[ri];W[rf];B[sh];W[rc];B[rd];W[nj];B[pi];W[li]C[至154，黑成功];B[ro]LB[ih:a]C[黑155应走a位];W[rn]
+
+;B[sp];W[ih]C[白158后黑已无胜机];B[bd];W[be];B[ac];W[df];B[br];W[co];B[og];W[ng];B[of];W[oe];B[dp]
+
+;W[km];B[kn];W[fe];B[bo];W[bn];B[aq];W[ao];B[ed];W[ig];B[mk];W[sd];B[sc];W[nk]
+
+;B[jj];W[ij];B[mo];W[se];B[sg];W[ji];B[kj];W[nn];B[ae];W[af];B[de];W[ce];B[ef]
+
+;W[eg];B[ad];W[ki];B[lg];W[sn];B[ge];W[gf];B[nb];W[qo];B[qp];W[ap];B[ar];W[ll]
+
+;B[ec];W[bg];B[ga];W[ha];B[ob];W[oc];B[sk];W[sl];B[sj];W[gb];B[fa];W[oo];B[op]
+
+;W[qa];B[sf];W[lj];B[kf];W[mf];B[hd];W[ka];B[lc];W[kb];B[so];W[mj];B[kk];W[nh]
+
+;B[lh];W[mh])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

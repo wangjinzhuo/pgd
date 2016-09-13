@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本]KM[5.5]EV[第14届富士通杯第二轮]DT[2001-04-16]PB[小林光一]BR[九段]PW[常昊]WR[九段]RE[B+4.5];B[pd];W[dd];B[pq];W[dq];B[qk]
+
+;W[kq];B[cn];W[nq];B[po];W[cp];B[dj];W[ch];B[en];W[nc]LB[gp:a]C[白14不在a位应的原因是对白棋下边的结构不满意];B[pf];W[pb];B[fp]
+
+;W[ec];B[eh];W[ld]C[白18、20是针对酷爱实地的小林光一采取的作战方针];B[bo];W[fr];B[gq];W[bp];B[ce];W[cd];B[qc];W[no];B[lo];W[pr]
+
+;B[qq];W[oq];B[qr];W[ko];B[jc];W[kc];B[jd];W[qb]LB[lf:a]C[白38一般是在a位出头];B[kd];W[lc];B[le];W[me]
+
+;B[mf];W[lf];B[ke];W[ne];B[nf];W[of];B[og];W[oe];B[pg]C[黑39至51露骨地封锁白棋];W[kn]C[白52挺头，很厚实，对黑外势也有一定的牵制作用];B[de];W[ee]
+
+;B[ef];W[fe];B[dg];W[lg];B[mh];W[fg]TR[ch]C[白60为动出白▲一子作准备];B[jg]C[黑61只得如此];W[cg]C[白62凶狠];B[be]C[黑63后，白角地受损];W[ei]
+
+;B[fh];W[di];B[cj];W[gh];B[fi];W[ej];B[gi];W[dl];B[cl];W[dm];B[dn];W[fm];B[em]
+
+;W[el];B[ci];W[dh];B[ff];W[gf];B[gk];W[ck];B[bl];W[ek];B[bi];W[bk];B[dk];W[bh]
+
+;B[ak];W[ih]C[白92是胜负手，黑上边也处于不活状态];B[ig];W[hh];B[ij];W[hj];B[hk];W[lh];B[jh];W[ji];B[ki];W[jj]C[棋谱不全。]
+
+)
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

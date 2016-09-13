@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]GN[东洋证券杯世界围棋锦标赛]DT[1994/11/14]PB[钱宇平 九段]BR[]PW[曹薰铉 九段]WR[]RO[]PC[韩国棋院]US[棋迷大本营melody]SO[]C[]RE[W+R]GM[5.5];B[pd];W[dd];B[qp];W[dp];B[fq];W[op];B[cn];W[dn];B[dm];W[en];B[cq];W[co];B[dq];W[cm];B[pn];W[qq];B[rq];W[pq];B[ro];W[lp];B[jq];W[cf];B[jc];W[qf];B[pf];W[pg];B[qe];W[of];B[pe];W[og];B[nd];W[hc];B[pi];W[lg];B[lr];W[jo];B[hp];W[nn];B[ol];W[gp];B[gq];W[ho];B[di];W[qi];B[qj];W[ri];B[cl];W[bn];B[fi];W[rf];B[fc];W[db];B[fe];W[lc];B[ld];W[mc];B[md];W[kc];B[kd];W[jb];B[jd];W[ib];B[nc];W[he];B[ef];W[rj];B[eb];W[cc];B[cg];W[bg];B[bf];W[be];B[df];W[af];B[ce];W[bf];B[go];W[dl];B[io];W[ql];B[on];W[mq];B[mr];W[qn];B[rn];W[qm];B[nm];W[qo];B[qr];W[pr];B[rr];W[lm];B[lq];W[lk];B[mn];W[no];B[mm];W[kn];B[qk];W[pl];B[ml];W[kk];B[mj];W[pk];B[pj];W[oj];B[oi];W[nj];B[mk];W[ni];B[mi];W[nh];B[ki];W[po];B[rm];W[rl];B[mb];W[la];B[jp];W[lo];B[nq];W[ii];B[jj];W[im];B[ij];W[nb];B[ob];W[na];B[oa];W[ma];B[re];W[se];B[sd];W[sf];B[rc];W[ch];B[bp];W[gi];B[hi];W[hh];B[hj];W[fh];B[gj];W[gh];B[hf];W[ei];B[ej];W[fj];B[fk];W[if];B[ie];W[id];B[dh];W[gf];B[eh];W[fi];B[dk];W[em];B[jl];W[gl];B[gk];W[il];B[hl];W[hn];B[jk];W[dg];B[eg];W[cj];B[dj];W[ck];B[ci];W[bi];B[bl];W[bk];B[cg];W[bh];B[el];W[dm];B[ak];W[bj];B[qh];W[ph];B[mo];W[in])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

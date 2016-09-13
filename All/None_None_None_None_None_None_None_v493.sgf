@@ -1,0 +1,48 @@
+(;MN[1]AB[pd][pp][dp]C[白：伊藤松次郎 六段
+让三子
+ 黑：桑原秀策 一段
+日期：1840年3月14日
+共202手，黑四目胜。
+
+点评：石田芳夫 九段
+]
+N[让三子]AP[MultiGo:3.9.2]SZ[19]
+;W[nc]MN[1]N[第一谱 不够严厉];B[qg];W[cd];B[pc];W[cn];B[gq]C[黑2、6大飞是江户时代让子棋黑标准的应法。当时一间跳的应法比较罕见。]
+;W[jc];B[ec];W[ed];B[fd];W[dc];B[ee];W[dd];B[fe];W[fc];B[gc];W[eb];B[cf];W[ch];B[dh]
+;W[ci];B[di];W[dj];B[ej];W[dk];B[ek]C[黑20到26是帮白棋走的下法。这种温和的下法在秀策以后的棋中很快的完全消失了。]
+;W[dl];B[dg];W[nq];B[co];W[bn];B[jq];W[qn];B[pn]C[黑32下在34会更好的利用上星位的黑子。]
+;W[pm];B[on];W[qo];B[qp];W[kq]C[白39是瞄准A点。这是对秀策的力量的第一次真正的考验。]
+LB[po:A];B[kr];W[jr]
+(;B[lq]C[黑42是要作战的意思。];W[kp]C[如果黑40下在43上，白将应在B位，这样的话，白若再走到A位将是一个严重的威胁。]
+LB[po:A][lp:B];B[lr];W[hq];B[jp];W[gp];B[fq];W[fp];B[eq];W[jo]MN[51]N[第二谱 黑强力战斗]
+;B[ko];W[lp];B[ir];W[mp];B[kn];W[iq];B[js];W[ip];B[jr];W[mn];B[oq]C[从51到62可以认为必然。秀策这里的表现和开始在左边怯弱的下法形成鲜明的对比。]
+;W[or]C[白63是疑问手，因为这使得白落了后手。];B[np];W[no];B[op]C[现在看来也许白63下在黑66的位置上更好一些。这样能迫使黑在A位连接和白63两个位置上做出选择。]
+LB[po:A];W[mq];B[io]C[黑68的切断是好手，使得黑得到了主动权。];W[jn];B[ho];W[in]
+;B[km];W[mm];B[hn];W[jl];B[ll];W[om];B[pr];W[il];B[lj];W[hp];B[fo];W[go];B[gn];W[fn]
+;B[hr];W[eo];B[ep];W[fo];B[gl];W[fm];B[hl];W[jj];B[nl]C[从黑68的切断一直到黑94为止，秀策的作战表现很完美。]
+;W[nm];B[pk]C[黑96过分。];W[ok];B[pj];W[gj]C[白99使得黑很痛苦，现在再看黑96是否过分的问题就更清楚了。]
+;B[nk];W[ql]MN[1]C[这里1代表101，以下与此相同。]N[第三谱 黑棋筋被吃];B[rk];W[rl]
+C[至白3，白棋没有两眼，但是毫无疑问是安全的。既然无法吃白，黑应该在中央行棋，防备白三角一子。]
+TR[gj]
+(;B[hj];W[hi];B[gi];W[hk];B[gk];W[ij];B[fj];W[gh];B[hj];W[ih];B[ik];W[kl];B[hg]
+;W[hh];B[fh];W[lm]C[黑来不及在19连接，因为让白走到18将会危险整个黑棋的安全。但是棋筋被吃，仍然损失很大。]
+;B[fb];W[ne];B[og];W[ob];B[pb];W[of];B[pf];W[ng];B[nh];W[oh];B[pg];W[mg];B[mh];W[lh]
+;B[li];W[hd]C[考虑到开始白在上方位置很单薄，白35在上方获利之大真是让人惊讶。现在成为细棋局面了。]
+;B[ec];W[nj];B[mj];W[fc];B[oe];W[nf];B[ec];W[mr];B[os];W[fc];B[be];W[bd];B[ec];W[oj]
+;B[ol];W[fc]MN[51]N[第四谱 白落后];B[bo];W[ao];B[ec];W[oi];B[mi];W[fc];B[ap];W[an]
+;B[ec];W[pl];B[lk]
+(;W[jk]C[如前变化图所示，白63必须要走，不能让黑走到。];B[nd];W[md];B[od];W[lg];B[rj]
+;W[fc];B[hc];W[id];B[ec];W[ml];B[mk];W[fc];B[bp];W[bg];B[ec];W[gg];B[ad];W[ac];B[ae]
+;W[bb];B[fc]C[黑84消劫说明黑已经确信自己将获得胜利。];W[ns];B[nr];W[qk];B[pi];W[or]
+;B[dn];W[do];B[nr];W[cq];B[cp];W[or];B[dm];W[cm];B[nr];W[qj];B[qi];W[or];B[ps]C[棋谱只记到202，但棋局这时实际上已经结束了。 白A是盘面上最大的官子，黑B，白C，黑D，随后白走E。黑最后赢了四目。
+
+总评：考虑到秀策下这盘棋的时候只有11岁，他无须对他和老练的伊藤松次郎下棋时的表现感到任何的羞愧。不可否认，他有时候表现比较怯弱，特别是布局阶段，但是有足够的证据表明他战斗力量的强大。]
+LB[rp:A][rq:B][ro:C][rr:D][pa:E])
+(;AB[jk]C[若63位被黑三角一子占据。]TR[jk];W[kk];B[im]C[白三子被吃。];W[kj];B[jm]
+C[如此进行，黑右边气紧。但是黑有下面的手段。];W[ml];B[kh]C[黑棋有利用];W[lg];B[rj]
+C[白落后手，黑得以占据8这个大官子, 这将确保黑领先，虽然领先并不大。]))
+(;B[rj];W[rp];B[rq];W[so];B[sq];W[qr]C[如果黑试图杀白，白6是抵抗的妙手。]
+(;B[qq];W[ps]C[如果黑7继续坚持，白8做劫。这个劫黑重，若黑劫败，黑整体不活。])
+(;B[nr];W[qq];B[rr];W[rs];B[pq];W[rn]C[黑1打吃，白2切断，黑气紧无法打吃。至白6，白活。])))
+(;B[ir];W[jp];B[iq];W[lr];B[js];W[kp]C[黑这么下，将是白满意的结果。白能够先手下到2和4，并且在6连接。]
+;B[oq]C[黑被迫下黑7防A处的分断]LB[po:A];W[np];B[po];W[qk]C[白8，黑9后，白先手下到白10，棋形舒展。]))

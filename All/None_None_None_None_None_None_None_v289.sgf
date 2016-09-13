@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第十四届日本碁圣战]PB[武宫正树]BR[九段]PW[今村俊也]WR[八段]KM[5.5]DT[1989]PC[日本]RE[W+1.5];B[pd];W[dp];B[pp];W[dc];B[pj];W[de];B[jd];W[jp];B[cj];W[ch];B[dn];W[cl];B[bn];W[fp];B[dk];W[nq];B[pn];W[qf];B[qe];W[pf];B[nd];W[qh];B[qi];W[oi];B[oj];W[ri];B[rj];W[pi];B[qj];W[ni];B[pr];W[co];B[cn];W[dl];B[el];W[ek];B[ej];W[em];B[fk];W[fl];B[fo];W[eo];B[en];W[fn];B[go];W[gk];B[gp];W[fq];B[gq];W[ek];B[do];W[ep];B[cp];W[cq];B[bp];W[gr];B[hr];W[fr];B[el];W[bq];B[ip];W[ek];B[jo];W[fj];B[gm];W[fm];B[bl];W[bk];B[al];W[ap];B[bo];W[kp];B[iq];W[jr];B[ko];W[lo];B[lp];W[lq];B[mp];W[mq];B[ln];W[pq];B[qq];W[oq];B[qp];W[or];B[nf];W[mj];B[og];W[pg];B[kj];W[kh];B[mh];W[oe];B[od];W[rg];B[si];W[re];B[rd];W[sd];B[sc];W[se];B[rc];W[rh];B[gd];W[le];B[ne];W[je];B[ie];W[kd];B[jf];W[jc];B[ke];W[id];B[hd];W[je];B[kf];W[lc];B[dh];W[dg];B[eg];W[df];B[fh];W[ic];B[db];W[eb];B[ec];W[ed];B[fc];W[cb];B[fb];W[nb];B[ea];W[bc];B[ck];W[bj];B[ci];W[bi];B[ei];W[gi];B[hj];W[hi];B[ij];W[gg];B[ff];W[gn];B[hm];W[gf];B[fe];W[if];B[he];W[ig];B[lf];W[hb];B[hc];W[il];B[im];W[li];B[jj];W[lj];B[ob];W[gb];B[gc];W[jm];B[jl];W[in];B[hn];W[hl];B[km];W[nc];B[qr];W[ir];B[jq];W[kq];B[hs];W[hq];B[hp];W[gs];B[ga];W[oc];B[pb];W[pc];B[qb];W[ia];B[bh];W[cg];B[no];W[fg];B[ef];W[nk];B[jn];W[kk];B[ll];W[lk];B[gl];W[hk];B[jk];W[lh];B[ok];W[nl];B[ol];W[mg];B[oa];W[ng];B[jd];W[lb];B[hq];W[ks];B[is];W[ms];B[of];W[pe];B[qd];W[nm];B[oh];W[nh];B[fi];W[gj];B[dm];W[ph];B[na];W[ma];B[md];W[ld];B[mc];W[mb];B[ak];W[bg];B[om];W[nn];B[on];W[sh];B[sj];W[mf];B[je];W[op];B[oo];W[ps];B[qs];W[os];B[ao];W[aq];B[js];W[kr];B[ca];W[ba];B[da];W[ah];B[aj];W[ai];B[cm];W[kl];B[nj];W[me];B[ee];W[lg];B[fa];W[ha];B[jh];W[jg];B[ih];W[kg];B[ii];W[ki];B[el];W[dl];B[cl];W[dd];B[el];W[fk];B[dl])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

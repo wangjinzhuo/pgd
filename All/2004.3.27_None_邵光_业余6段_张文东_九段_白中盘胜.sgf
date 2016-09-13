@@ -1,0 +1,54 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[第17届名人战本战]DT[2004.3.27]
+PC[北京]PB[邵光]BR[业余6段]PW[张文东]
+WR[九段]KM[7.5]RE[白中盘胜]C[第17届名人战本战
+黑：邵   光    业余6段
+白：张文东    九段
+
+《围棋天地》2004年第12期
+《受益匪浅》]
+
+;B[dp]	;W[pp]	;B[dc]	;W[qd]	;B[od]	;W[cf]	;B[cd]	;W[ci]	;B[pf]	;W[fq]
+;B[cn]	;W[qf](;B[pg]C[黑13问题手，应走A位扳住。]LB[qg:A]
+;W[oc]	;B[nc]	;W[pc]	;B[nd]	;W[qg]	;B[ph]	;W[fc]
+;B[ee]LB[hc:A]C[黑21问题手，应该走A位夹击，发挥右边厚势的作用。]
+;W[ic]	;B[ck]	;W[ef]	;B[ff]	;W[eg]	;B[ge]	;W[de]	;B[ed]
+;W[kc]C[黑棋实地不足，且右边厚势无用武之地，黑棋布局失败]
+;B[eq]	;W[er]	;B[dr]	;W[iq]	;B[kq]	;W[fr]	;B[nq]	;W[oq]	;B[np]	;W[pn]
+;B[bg]C[黑41是劣势下的拼争，企图把局面搞混乱。]
+
+;W[dk]C[白42好手，闪开黑棋的纠缠。]
+;B[bf]	;W[cl]	;B[cj]	;W[dj]	;B[bl]	;W[bk]	;B[bj]	;W[bm]	;B[cm]	;W[al]
+;B[dl]
+;W[co]C[白54妙手]
+;B[bl]	;W[do]	;B[fp]	;W[cl]	;B[el]	;W[bl]	;B[bi]	;W[dm]	;B[gp]	;W[kp]
+;B[lp]LB[jq:A][jp:B][ip:C]C[黑65败招，必须走黑A，白B，黑C顶断作战。]
+
+;W[jq]C[白66整形的好手。]
+;B[lr]	;W[kr]	;B[lq]	;W[jo]
+;B[fk]C[黑71攻击中腹，做最后的努力]
+;W[ch]	;B[bh]
+;W[fg]LB[ei:A]C[白74如走A位做活，黑棋没有任何机会。]
+
+;B[ei]C[黑75急所。]
+;W[hf]	;B[he]	;W[di]	;B[cg]	;W[fi]	;B[ej]	;W[eh]
+;B[gh]C[白棋上面的拆二也变薄弱了]
+;W[gf]	;B[ih]	;W[if]	;B[jd]	;W[hi]	;B[hh]	;W[gi]
+;B[ii]LB[fh:A][hk:B][eo:C]C[黑91败招。
+黑应走A位断，以后B位跳和C位虎必得其一，白棋如何处理这几块棋还是个问题。]
+;W[hk]	;B[fh]	;W[fe]	;B[fd]	;W[eo]	;B[hl]	;W[ij]	;B[il]	;W[jj]	;B[dh]
+;W[id]	;B[ep]
+;W[ie]C[黑大势已去，白胜定。]
+;B[kh]	;W[lj]	;B[kn]	;W[mh]	;B[mg]	;W[lg]	;B[mi]	;W[lh]	;B[ki]	;W[li]
+;B[kj]	;W[pe]	;B[ng]	;W[oe]	;B[ne]	;W[of]	;B[lc]	;W[ld]	;B[le]	;W[lb]
+;B[qk]	;W[pj]	;B[kg]	;W[lf]	;B[qj]	;W[pi]	;B[rn]	;W[qi]	;B[qo]	;W[ko]
+;B[ip]	;W[ln]	;B[jp]	;W[km]	;B[lk]	;W[jl]	;B[kk]	;W[gl]	;B[gm]	;W[jk]
+;B[gk]	;W[nn]	;B[nk]	;W[ol]	;B[mm]
+;W[mn]C[白中盘胜]
+)
+(;B[qg]MN[1]C[黑棋1位扳住]
+
+;W[pg]C[白棋征子有利可以断]
+;B[qe]	;W[rf]	;B[pe]
+;W[re]C[黑棋这个变化比实战要好]
+)
+)

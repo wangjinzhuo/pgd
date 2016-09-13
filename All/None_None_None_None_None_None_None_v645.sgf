@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第七届富士通杯四分之一决赛]RO[3,q.b*]PB[张文东]BR[九段]PW[赵治勋]WR[九段]KM[5.5]DT[1994-06-03]PC[韩国]RE[W+R]TM[10800];B[pd];W[dd];B[pp];W[dq];B[pj];W[co];B[jp];W[nc];B[lc];W[qc];B[qd];W[pc];B[od];W[rc];B[nd];W[nb];B[dn];W[cn];B[dm];W[fd];B[kf];W[hq];B[ho];W[nq];B[mp];W[np];B[no];W[mo];B[lo];W[mn];B[nn];W[pq];B[mm];W[ln];B[lp];W[qp];B[po];W[qo];B[pn];W[qq];B[gg];W[gj];B[ij];W[gn];B[ep];W[eq];B[fq];W[fr];B[fp];W[gr];B[cm];W[il];B[dp];W[cp];B[cq];W[cr];B[bq];W[br];B[gl];W[lm];B[jm];W[ml];B[nm];W[jn];B[in];W[im];B[kn];W[km];B[jl];W[ko];B[jo];W[jk];B[kn];W[kk];B[jn];W[kq];B[kp];W[ik];B[hj];W[mj];B[nk];W[ji];B[ih];W[kg];B[jf];W[mg];B[nj];W[mi];B[jh];W[kh];B[jj];W[lf];B[le];W[me];B[nf];W[ke];B[ld];W[mf];B[md];W[kj];B[gk];W[oh];B[mk];W[qh];B[df];W[ic];B[je];W[jc];B[rd];W[lk];B[ec];W[ed];B[dc];W[fc];B[cd];W[ce];B[bd];W[de];B[cg];W[be];B[fb];W[gb];B[bb];W[qm])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

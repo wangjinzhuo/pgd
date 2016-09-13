@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GN[日本第02届天元赛]
+
+RO[2]
+
+PW[杉内雅男]
+
+WR[九段]
+
+PB[小林光一]
+
+BR[七段]
+
+KM[5.5]
+
+SO[http://xuyang.yeah.net]
+
+DT[1976-12-07]
+
+PC[Japan]
+
+RE[B+R]
+
+
+
+;B[pd];W[dp];B[pq];W[po];B[pl];W[mp];B[oo];W[on];B[no];W[pp];B[nq]
+
+;W[nn];B[mo];W[qq];B[oq];W[rp];B[hq];W[fq];B[cd];W[kp];B[ml];W[ip]
+
+;B[mn];W[hp];B[ic];W[di];B[pf];W[ee];B[cf];W[dc];B[cc];W[eg];B[ie]
+
+;W[ob];B[pc];W[jc];B[lc];W[kc];B[ld];W[je];B[id];W[ke];B[ig];W[le]
+
+;B[nc];W[kh];B[ii];W[kj];B[bo];W[cp];B[cl];W[dk];B[dl];W[ek];B[bj]
+
+;W[bi];B[cj];W[ci];B[bp];W[bq];B[cn];W[gc];B[ff];W[ef];B[db];W[ge]
+
+;B[gf];W[gg];B[fe];W[hf];B[fd];W[gd];B[if];W[ec];B[kg];W[lg];B[lh]
+
+;W[mg];B[ki];W[li];B[mh];W[ji];B[jh];W[ki];B[nh];W[ib];B[hb];W[ja]
+
+;B[hc];W[lb];B[me];W[mb];B[ik];W[kl];B[nb];W[na];B[oc];W[kb];B[ga])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

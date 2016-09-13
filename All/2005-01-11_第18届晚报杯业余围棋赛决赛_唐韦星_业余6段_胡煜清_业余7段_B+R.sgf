@@ -1,0 +1,130 @@
+(;C[第18届晚报杯业余围棋赛决赛
+
+黑： 唐韦星    ５段
+白： 胡煜清    ７段
+贴目： 3又4/3子
+
+解说 廖桂永 九段
+录入 江涛
+
+博弈网校－免费课堂
+共207手 黑中盘胜]AP[MultiGo:3.9.4]SZ[19]EV[第18届晚报杯业余围棋赛决赛]
+DT[2005-01-11]PC[中国三亚]PB[唐韦星]BR[业余6段]
+PW[胡煜清]WR[业余7段]KM[5.5]RE[B+R]
+US[棋圣道场]SO[http\://weiqi.tom.com]
+;B[pd]	;W[dc]	;B[dq]	;W[pp]	;B[ce]	;W[ed]	;B[ch]	;W[nc]	;B[lc]	;W[ic]
+;B[qf](;W[cn]	;B[cp]
+;W[ck]C[白１２大飞挂、１４拆二，局面显得过于平淡。
+如图一]
+;B[nq]	;W[qn]	;B[pr]	;W[qq]
+;B[kq]C[黑１９拆边后，成持久战之势，我们可分析一下全局的得失。左边的棋形大致相当，右边亦基本一样。下边黑１９拆二的位置明显比白１０好，黑９打入亦无可非议，故黑方稍有利。]
+
+;W[pc]C[白２０托角是此形常见之着]
+;B[qc]	;W[qb]	;B[oc]	;W[pb]	;B[od]	;W[ob]	;B[rc]	;W[nd]	;B[mb]	;W[nb]
+;B[le]	;W[nf]
+;B[lg]C[至３３，双方向中央出头，局面两分。]
+(;W[nh]C[白３４略显单调。
+如图二]
+;B[og]	;W[ng]
+;B[pi]C[黑３７在Ａ位拆二比较稳健。]LB[qi:A]
+;W[lh]	;B[kh]	;W[li]	;B[ie]	;W[gc](;B[ki]C[黑４３贴次序有误。
+如图三]
+;W[kj]	;B[jj]
+;W[kd]C[实战被白４６刺后，黑棋形显得较薄。]
+;B[ld]	;W[qd]	;B[rd](;W[jk]C[白５０可如图四。]
+;B[ii]	;W[ij]	;B[ji]	;W[kk]
+;B[ik]C[黑５５打断战意过盛，没必要，在A位拆局势就已不错。]LB[ql:A]
+;W[hj]	;B[hi]	;W[il]	;B[hk]	;W[gj]	;B[hl]	;W[im]	;B[fl]	;W[ej]	;B[hm]
+;W[in]	;B[fi]	;W[fj]
+;B[go]C[白７０俗手，有帮黑走厚之嫌。应单于A位跳分断黑棋，之后极有可能抢得B位跳的好点，形势将逆转。]LB[eh:A][ip:B]
+;W[gi]	;B[gh]	;W[fh]	;B[fg]	;W[eh]	;B[gg]	;W[eg]	;B[di]	;W[ei]	;B[bj]
+;W[cj]	;B[bk]	;W[bl]	;B[bi]	;W[dl]
+;B[ip]C[实战至８４，黑左边与中央均获得安定，再争得８５飞的好点，黑方保持优势。]
+;W[be]	;B[bf]	;W[bd]	;B[cd]	;W[cc]	;B[ae]	;W[bc]
+;B[df]C[白８６托手筋，黑８７以下只好忍耐。]
+;W[fo]	;B[gp]	;W[qk]	;B[op]	;W[lo]	;B[po]	;W[qo]	;B[pq]	;W[qp]	;B[ko]
+;W[kn]
+;B[lp]C[黑１０５缓着，应在A位飞，极大。]LB[rj:A]
+;W[jo]	;B[kp]
+;W[ri]C[实战被白１０８飞到后，全局成细棋局面。]
+;B[of]	;W[mf]	;B[jc]	;W[id]	;B[jd]	;W[jb]	;B[je](;W[bo]C[白１６缓。
+如图五]
+;B[pl]	;W[ql]
+;B[lj]C[黑１９断有力，少年棋手的战斗力和计算力不可小视。]
+(;W[ml]	;B[ne]	;W[me]	;B[oe]	;W[md]
+;B[qj]C[黑１２５好手。]
+(;W[kg]	;B[ni]	;W[lf]	;B[jg]	;W[mg]
+;B[rj]C[黑１３１冲下并吞吃白一子，收获甚丰。]
+;W[dg]	;B[cg]	;W[hh]	;B[hg]	;W[jf]	;B[ig]	;W[ih]	;B[jh]	;W[ge]	;B[ef]
+;W[ff]	;B[he]	;W[fe]	;B[dj]	;W[ek]	;B[ak]	;W[kb]
+;B[ke]C[以下至１４９，黑躲过白方的攻击后，优势历然。]
+;W[fn]
+;B[fm]C[黑１５１不够老练，在Ａ位挡即可。]LB[fp:A]
+;W[jp]	;B[jq]
+;W[fp]C[白１５４冲下“胜负手”，]
+;B[el]	;W[dk]	;B[do]	;W[dn]	;B[fq]	;W[eq]	;B[en]	;W[gq]	;B[fr]	;W[gn]
+;B[hn]	;W[eo]	;B[em]	;W[er]	;B[gr]
+;W[dp]C[以下至１７０形成激烈的劫争。]
+;B[ep]	;W[kf]
+;B[lk]C[白１７２寻劫时，黑１７３机敏！劫材变得有利。]
+;W[ll]	;B[kc]	;W[dp]	;B[kl]	;W[jl]	;B[ep]	;W[ag]	;B[bm]	;W[dp]	;B[co]
+;W[bn]
+;B[cq]C[黑１８５消劫后，双方形成你死我活的大对杀。]
+;W[ai]	;B[al]	;W[cl]	;B[bp]	;W[an]	;B[am]	;W[ci]	;B[bh]	;W[af]	;B[dh]
+;W[ah]	;B[ap]	;W[ho]	;B[hp]	;W[io]
+;B[ao]C[黑２０１收气冷静。]
+(;W[gm]C[白２０２不是正确的收气方法如图八]
+;B[ep]	;W[if]	;B[hf]	;W[dp]
+;B[gl]C[实战白成净死，败局遂定。]
+)
+(;W[cm]N[图八]	;B[gk]	;W[ee]	;B[cf]	;W[dd]	;B[fk]	;W[gm]
+;B[ep]C[图八　
+
+白１至５直接收气，待黑６后再７冲，黑８提成劫。遗憾的是，白因劫材不利还是被杀。]
+)
+)
+(;W[rj]N[图七]	;B[ni]	;W[mj]	;B[mh]	;W[mi]
+;B[mg]C[图七　
+
+白如敢在１位挡，则黑２、４搭断白棋，至６，上边白棋被擒，白崩溃。另外，黑▲还起到防断的作用，可谓一子多用。]TR[qj]
+)
+)
+(;W[nj]N[图六]	;B[mj]	;W[mi]	;B[ne]	;W[me]	;B[oe]	;W[md]	;B[ll]	;W[lm]
+;B[kl]	;W[jl]	;B[ml]	;W[nn]	;B[oj]	;W[nk]	;B[nl]	;W[pn]	;B[oi]	;W[ni]
+;B[ol]	;W[kb]	;B[on]	;W[oo]
+;B[no]C[图六　
+
+黑断后，白１跳感觉上是形，黑２顶至８跳出形成激战。白１３飞时，黑１４夹好手，以下至２０，白方连络出现问题。黑２２挖断手筋，白须打劫连回。此处变化甚多，白较难下。]
+)
+)
+(;W[kb]N[图五]	;B[fe]	;W[en]	;B[fp]
+;W[bo]C[图五　
+
+白１长要点！本身价值极大，还加强了右边白棋，间接防了Ａ位的断点，同时对黑棋施加压力。黑２补本手，白３先手连回后再５尖，如此全局形势不明。]LB[lj:A]
+)
+)
+(;W[oe]N[图四]	;B[qe]	;W[kg]	;B[jg]	;W[kf]	;B[ke]	;W[jf]	;B[if]	;W[jh]
+;B[ji]	;W[ig]	;B[lf]
+;W[hg]C[图四　
+
+白１打、３断将黑棋断开，黑４打、６顺势冲出是行棋次序，以下至１３，双方大致如此，由于黑方出头不畅，白充分可战。]
+)
+)
+(;B[jc]N[图三]	;W[jb]	;B[ib]	;W[hb]	;B[id]	;W[ia]
+;B[ki]C[图三　
+
+黑应于１位搭下、３断整形，５打后再７贴，局势黑优。]
+)
+)
+(;W[pg]N[图二]	;B[qg]	;W[qd]	;B[rd]
+;W[pi]C[图二
+
+白１飞下积极，黑２爬，白３断、５跳，与右下形成配合，行棋步调较快。黑２如在Ａ位贴，则白在Ｂ位跳，黑出头比实战差。]LB[pf:A][nh:B]
+)
+)
+(;W[do]N[图一]	;B[co]	;W[dp]	;B[cp]	;W[eq]	;B[cn]	;W[dr]	;B[cq]
+;W[jq]C[图一　
+
+白１高挂，黑２托，白３、５选择“雪崩”，至８，令黑偏于左边，白９开拆，如此白局面较生动。]
+)
+)

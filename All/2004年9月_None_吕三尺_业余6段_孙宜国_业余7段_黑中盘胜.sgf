@@ -1,0 +1,106 @@
+(;SZ[19]AP[MultiGo:3.6.0]C[2004年美罗杯全国业余围棋大奖赛
+黑：吕三尺  业余6段
+白：孙宜国  业余7段
+
+《围棋天地》2004年第22期
+《沧海变桑田》]GN[2004年美罗杯全国业余围棋大奖赛]
+DT[2004年9月]PC[辽宁鞍山]PB[吕三尺]BR[业余6段]
+PW[孙宜国]WR[业余7段]KM[7.5]RE[黑中盘胜]
+
+;B[pd]	;W[dd]	;B[pq]	;W[dq]	;B[qo]	;W[kq]	;B[cn]	;W[do]
+;B[bp]C[常见布局]
+
+;W[dm]LB[cl:A]C[白10也许在A位夹攻更好。
+大致能获得先手。]
+;B[dn]	;W[en]	;B[cm]	;W[cl]	;B[bl]	;W[dl]	;B[bk]
+;W[fo]C[白棋落后手。]
+
+;B[jp]C[黑19肩冲好点，感觉白棋效率不高。]
+;W[jq]	;B[hp]	;W[jo]	;B[gn]	;W[ip]	;B[in]	;W[hm]	;B[hn]	;W[fl]
+;B[hq]C[黑29似小实大]
+;W[km]
+;B[hl]C[黑31出头，黑棋在这一带处理基本成功，被分断的白棋两边都不是很厚。]
+;W[nc]
+;B[lc]C[黑33一间低夹，是想争得先手于A位挂角。因左边黑17出头在先，白棋在左上角没有太好的应手。]LB[fc:A]
+;W[qc]	;B[pc]	;W[qd]	;B[pe]	;W[pb]	;B[ob]	;W[qb]	;B[oc]	;W[qf]	;B[fc]
+;W[cf]
+;B[mq]C[黑45非常大，强化了右下角，而且威胁了白的根据地。
+黑45也可以走A位托定型，也是一盘棋。]LB[dc:A]
+
+;W[jc]C[白46打入强烈。]
+;B[dc]	;W[cc]
+;B[cb]C[黑47，49一厢情愿。]
+;W[ec]	;B[db](;W[eb]C[白52选择正确]
+;B[ed]	;W[fb]	;B[fd]	;W[gc]	;B[gd]	;W[hc]	;B[cd]	;W[de]
+;B[bd]C[黑棋得角地，但是外围黑棋味道太坏，而且白46一子恰到好处。]
+
+;W[cj]C[白62疑问手，应A位飞攻黑3子，这样黑棋几乎动弹不得]LB[ff:A]
+
+;B[ef]C[黑63跳，白棋无应手]
+;W[nd]	;B[nb]	;W[ld]	;B[kc]	;W[kd]	;B[jb]	;W[ib]	;B[jd]	;W[ic]
+;B[je]C[形成黑白各两块孤棋争相向中腹出头的局面]
+;W[ie]	;B[jf]	;W[pf]	;B[of]	;W[lf]	;B[ne]	;W[md]	;B[kb]	;W[he]	;B[jh]
+;W[lh]	;B[nh]	;W[ig]	;B[jg]	;W[mh]	;B[ni]	;W[lj]	;B[jj]
+;W[il]C[白92强手，黑棋被分段。]
+;B[jl]	;W[im]	;B[jm]	;W[jn]	;B[gm]	;W[ik]	;B[jk]
+;W[hk]C[下边黑棋基本被吃住。]
+;B[hg]	;W[gg]	;B[hh]	;W[gf]
+;B[lk]C[黑105强攻上面白棋大块，如果不能在攻击中获取大利，无法弥补下面的损失。
+黑棋下边并没有完全死透，如果战火引至下边，变数还很多。]
+;W[mj]	;B[ok]	;W[ml]	;B[ll]	;W[lm]	;B[mk]	;W[nj]	;B[oj]	;W[nk]	;B[nl]
+;W[mm]C[白棋已经被分断，但黑棋中腹也没有眼位。]
+(;B[qe]LB[oi:A]C[黑117补A位断点]
+(;W[ii]C[白118败招]
+
+;B[ij]C[黑119反击必然]
+;W[hj]	;B[hi]
+;W[kl]C[黑先手吃掉白118一子，黑棋中腹得到加强，白上边的薄味显露出来了]
+;B[gl]	;W[gj]
+;B[fj]C[黑125手筋]
+;W[gi]	;B[gh]	;W[fi]	;B[fh]	;W[ei](;B[eh](;W[ee]C[白132无奈连回]
+;B[di]	;W[ej]
+;B[ih]C[黑135机敏，先手成活]
+;W[kk]
+;B[re]C[黑137吃净角，巨大。
+全局黑优势]
+
+;W[qk]C[白138拼命]
+;B[qm]	;W[pl]	;B[ol]	;W[pm]	;B[pn]	;W[om]	;B[nm]	;W[on]	;B[nn]	;W[oo]
+;B[pp]	;W[no]	;B[mo]	;W[qi]	;B[rl]	;W[rf]	;B[ph]	;W[qh]	;B[rj]	;W[rk]
+;B[sk]	;W[qj]	;B[rg]	;W[sf]	;B[rd]	;W[ri]	;B[sj]	;W[nq]	;B[nr]	;W[mp]
+;B[lp]	;W[np]	;B[lq]	;W[or]	;B[kp]	;W[mr]	;B[lr]
+;W[lo]C[白棋虽然活棋了，但是下边黑棋死灰复燃，还成了不少空。
+黑棋胜定。]
+;B[io]	;W[mn]
+;B[pr]C[黑中盘胜]
+)
+(;W[re]MN[1]	;B[di]	;W[ej]
+;B[ee]C[黑棋能2位先手扳到，再4位吃掉白棋，味道好多了。]
+)
+)
+(;B[ee]MN[1]C[黑1可以吃住上面白棋]
+;W[eh]	;B[fg]
+;W[re]C[白棋争得4位渡过，价值巨大，全局白棋优势。
+将来白棋A位补棋后，上边就有B位立下的手段，因随之存在C位的扳，黑无法破眼。而且，由于这一带黑吃白棋是收气吃，所得十分有限。]LB[ch:A][ea:B][bb:C]
+)
+)
+(;W[kl]MN[1]C[白1先冲]
+;B[kk]
+;W[ii]C[白3点]
+
+;B[ji]C[黑棋气紧只好粘住]
+;W[ih]	;B[if]
+;W[hi]C[黑棋被封住]
+)
+)
+(;B[hj]MN[1]C[黑1补强中腹，大龙基本安全]
+;W[ol]	;B[nm]
+;W[pl]LB[on:A][oi:B][qe:C]C[白棋A，B两点必得其一，白棋大块安然无恙。
+如果黑C位有子，则白B断不成立。]
+)
+)
+(;W[ed]MN[1]C[白棋如果接的话，正中黑棋下怀]
+;B[eb]	;W[bc]
+;B[hc]C[黑棋满意]
+)
+)

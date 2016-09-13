@@ -1,0 +1,66 @@
+(;SZ[19]AP[MultiGo:3.6.0]C[1999年晚报杯全国业余围棋锦标赛
+黑：孙乃经    业余6段
+白：刘轶一    业余6段
+
+《围棋天地》2004年第10期
+《好运的一局》
+]GN[1999年晚报杯全国业余围棋锦标赛]
+DT[1999.1.22]PC[云南昆明]PB[孙乃经]BR[业余6段]
+PW[刘轶一]WR[业余6段]KM[5.5]RE[黑中盘胜]
+
+;B[qc]	;W[dd]	;B[pq]	;W[dp]	;B[po]	;W[jq]	;B[jd]	;W[qj]	;B[ql]	;W[pf]
+;B[od]	;W[qd]	;B[pd]	;W[qe]	;B[rc]	;W[oj]	;B[fc]	;W[cf]	;B[lq]	;W[fp]
+;B[ck]C[细棋格局]
+
+;W[lc]LB[hc:A]C[白22改于A位打入更积极]
+;B[kc]	;W[le]	;B[nc]	;W[mc]
+;B[oh]C[黑27试应手]
+;W[nb]	;B[ob]	;W[nd]	;B[oc]
+;W[rl]C[白32疑问手。不论是A位关作战，还是B位防守，都比实战好，实战下法太损实地]LB[nf:A][qh:B]
+
+;B[rk]C[黑33当然]
+;W[qk]	;B[rm]	;W[pl]	;B[qm]	;W[nf]
+;B[rj]C[黑39爬，白棋难受]
+
+;W[ri]LB[qi:A]C[白40不好，只能A位退]
+
+;B[dc]C[黑41大棋]
+;W[cc]	;B[cb]	;W[cd]	;B[eb]	;W[ci]	;B[cn]	;W[co]
+;B[dn]C[局面黑棋优势]
+;W[je]
+;B[lj]C[黑51消白势]
+
+;W[qh]C[白52补强，可见白40不好。]
+;B[hq]	;W[lp]	;B[kq]	;W[jp]	;B[kp]	;W[jo]	;B[ko]	;W[jn]	;B[lm]	;W[fq]
+;B[fn]
+;W[jr]C[白62，64抢实地]
+
+;B[bn]C[黑65不好，应直接走A位扳。实战企图先手收官后走A位扳。]LB[ie:A]
+;W[bo]	;B[ao]	;W[ap]	;B[an]
+;W[hc]C[白70抓住机会打入，形势混乱]
+;B[hd]	;W[gd]	;B[ie]	;W[ic]
+;B[ke]C[黑75不好，应走A位打吃]LB[jf:A]
+;W[jf]	;B[id]	;W[kf]	;B[gc]	;W[kb]	;B[jb]	;W[jc]	;B[kd]	;W[ib]	;B[lb]
+;W[ja]	;B[mb]
+;W[if]C[白88好手，黑棋难应。]
+;B[hf]	;W[hg]
+;B[fe]C[黑89，91不得不屈服]
+;W[gf]	;B[ge]	;W[he]	;B[fd]	;W[gb]
+;B[bc]C[黑97不可省。
+白棋先手活棋。]
+;W[bb]	;B[ba]	;W[ll]	;B[kl]	;W[kk]
+;B[nk]C[黑103好手]
+;W[lk]
+;B[nj]C[黑105冲向白空，争取中腹做活是此时正确的选择。]
+;W[nl]	;B[ok]	;W[ol]	;B[pj]	;W[pk]	;B[pi]
+;W[ni]C[白112杀黑棋，进入看不清的乱战，感觉黑不容易死]
+;B[oi]	;W[nh]	;B[ng]	;W[mg]	;B[og]	;W[mh]	;B[kj]	;W[mj]	;B[qi]	;W[rh]
+;B[of]	;W[oe]	;B[mk]
+;W[pg]C[白126不可理解，必须A位接。]LB[ml:A]
+
+;B[pe]C[黑127先打吃，次序正确]
+;W[ne]	;B[ml]	;W[ph]	;B[jk]
+;W[oj]C[黑中腹先手提三子，收获巨大。还能走到最大的A位。]LB[bp:A]
+
+;B[bp]C[黑中盘胜。]
+)

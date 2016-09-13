@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第40期日本十段战决赛第四局]DT[2002-04-18]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.tom.com
+
+棋圣道场-->大赛转播]BR[九段]PW[武宫正树]PB[王立诚]WR[九段]PC[日本爱媛];B[qd];W[dp];B[cd];W[pp];B[cn]
+
+;W[fq]C[白6小飞虽普通，但在武宫正树九段的对局中并不多见];B[bp];W[ed];B[gc];W[cc];B[qn]LB[dc:a][dd:b][ec:c][fc:d][fd:e][fb:f][cb:g][bc:h][eb:i][gb:j][gd:k][ea:l][db:m][bb:n][de:o]C[黑11脱先挂角有引征意味，如直接在a位扳，则白b、黑c、白d、黑e、白f、黑g、白h、黑i、白j、黑k、白l、黑m、白n，此时黑o的征子不成立]
+
+;W[dd]C[白12先下手为强];B[ce];W[df]LB[db:a]C[白14是武宫流的下法，普通是在a位虎];B[bc];W[db];B[cb];W[dc];B[cg]C[黑19轻灵，乍看黑棋断点较多，其实黑棋弹性十足];W[kd]C[白20的选点值得研究];B[mc]C[黑21令白不舒服]
+
+;W[cf]C[白22以下的弃子作战十分大胆];B[bf];W[bg];B[be];W[ch];B[de]C[至此中午休息];W[ef];B[ee];W[fe];B[fd];W[ge];B[bb]
+
+;W[id];B[fb]C[至35形成白外势黑实地的转换，感觉上是黑可战];W[np];B[jp]C[黑37打入兼有引征的意味];W[jn]C[白38恐怕只有武宫正树九段会这样下];B[dl]C[黑39以逸待劳];W[pj]LB[qo:a][pn:b]C[白40单夹也是武宫流的下法，一般是先于a位尖顶、黑b后再40位夹];B[qp]C[黑41以下是常用的腾挪手段]
+
+;W[qq];B[rq];W[qo];B[rp];W[po];B[ro];W[hp]LB[qr:a][pn:b]C[白48脱先抢攻也很有新意，如在a位立或b位压则属普通];B[lq];W[lo];B[nr];W[or]
+
+;B[iq];W[mr];B[lr];W[nq];B[gr];W[qm];B[pn];W[rm];B[rn];W[qr];B[rr];W[gq];B[fr]
+
+;W[er];B[hq];W[fs];B[hs];W[bq];B[cp];W[cq];B[do];W[ep];B[ph];W[nd];B[nc];W[pd]
+
+;B[pc];W[qe];B[qc];W[pf];B[nh];W[nj];B[qg];W[re];B[qi];W[od];B[lc];W[ld];B[lh]
+
+;W[lj];B[rk];W[pl];B[pq];W[pr];B[ok];W[ol];B[rl];W[sm];B[rs];W[kp];B[jr];W[kq]
+
+;B[kr];W[cj];B[ck];W[dk];B[cl];W[md];B[ni];W[kb];B[rb];W[dj];B[ki];W[el];B[em]
+
+;W[fm];B[kj];W[en];B[dm];W[lk];B[ih];W[ii];B[jg];W[hh];B[je];W[kc];B[hg];W[gd]
+
+;B[fc];W[hi];B[fg];W[ff];B[gh];W[mg];B[gj];W[hk];B[mf];W[oc];B[ob];W[mh];B[hj]
+
+;W[ij];B[ik];W[jk];B[il];W[gi];B[kk];W[fj];B[mi];W[li];B[lg];W[ng];B[ll];W[ml]
+
+;B[mm];W[lm];B[kl];W[nl];B[oj];W[nk];B[jj];W[kf];B[ji];W[gk];B[kg];W[if];B[ig]
+
+;W[bm];B[ap];W[bj];B[al];W[on];B[fl];W[rh];B[oh];W[nf];B[ql];W[pm];B[pk];W[bn]
+
+;B[bo];W[aq];B[cm];W[rj];B[ri]C[棋谱不全])
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>第40期日本十段战决赛第四局 王立诚 VS 武宫正树(附解说)<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

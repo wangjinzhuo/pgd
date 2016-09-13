@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第35届韩国王位战决赛第二局]DT[2001-07-19]PC[韩国]PB[曹薰铉]BR[九段]PW[李昌镐]WR[九段]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]
+
+C[欢迎光临 敲玉余韵 围棋棋谱库
+
+http://www.psc-a.org/go
+
+]RE[W+R];B[pd]C[第一局曹薰铉由于比赛过密，很遗憾地“弃权负”，这是第二局];W[dd];B[pq];W[dp]
+
+;B[fq];W[hq]LB[cn:a][jp:b]C[白6如a位小飞应，则黑b位构成曹薰铉擅长的“小林流”];B[qo];W[nc];B[qf];W[pb];B[mc]C[黑11率先挑起战斗];W[md];B[lc];W[qc]
+
+;B[nb];W[oc];B[qd];W[ob]C[至18是常见定式];B[ld];W[mf]C[白20少见];B[fc]LB[pi:a]C[黑21先挂角很积极，如下a位，则属稳健];W[qh]C[白22立即紧逼，不给黑喘息之机];B[og];W[oe]
+
+;B[of];W[pj];B[mg];W[lg];B[me];W[ne];B[nd];W[od];B[lf];W[nf];B[ng];W[kf];B[le]
+
+;W[lh];B[nj]C[黑27至39双方互不相让，形成一场激战];W[hd]TR[qh][pj]C[白40置白▲二子于不顾，抢先夹攻，下得很紧凑];B[ie]C[黑41同样很强烈，双方几块棋纠缠在一起，已无布局可言];W[fd];B[jg];W[ql]C[黑43、白44各自补棋，显然是各有顾忌];B[cc]C[黑45点角，是不可放过的好点];W[dc]
+
+;B[cd];W[ce];B[be];W[bf];B[cf];W[de];B[bg];W[id];B[je];W[bd];B[af];W[bc]C[至58形成转换，白在实地上有所得，但黑获先手，也可满意];B[fo]
+
+;W[cn];B[ip];W[hp];B[ho];W[iq];B[jp];W[jq];B[kp];W[lq];B[dm];W[cm];B[dl];W[ck]
+
+;B[mo]C[黑59至73的构思十分大胆，但风险不小，黑中腹到底能围多少是胜负的关键];W[go]C[白74是好次序];B[gn];W[gp];B[fp];W[mr];B[hn]C[至79，白棋获先手，可以满意];W[hh]C[白80的侵削令黑不舒服];B[ji];W[ii];B[ih]
+
+;W[ig];B[jh];W[eg]LB[nk:a]C[白86似应先于a位靠，争取先手补强自己];B[ci];W[dq]C[白88极大，白实地明显占优，但右边三子略显薄弱];B[rm];W[rl];B[pk]C[黑89、91是最严厉的攻击];W[qj];B[ok];W[rg]
+
+;B[ri]C[黑95破眼，摆出拚命的架势];W[ni]C[白96是脱困的手筋];B[rf]C[黑97是双方要点];W[qg];B[ph]C[黑99是不易想到的好手];W[qi];B[pf];W[oi]LB[mi:a]C[白102稳健，如走a位，则黑102，对杀白棋无成算];B[mi];W[mh]
+
+;B[nh];W[mj];B[li];W[nk];B[oj];W[lj];B[ki];W[ol];B[pi];W[pl];B[oh];W[rn]C[至116的结果，白可满意];B[rb]LB[qk:a][rc:b][sb:c]C[黑117应单于a位冲，保留b、c连扳作劫的手段]
+
+;W[rc];B[mb];W[sb]LB[ra:a][sd:b]C[白120后，黑若a位立企图杀白，则白b位尖是好手];B[qk];W[rj]LB[rk:a][sg:b][ra:c]C[白122如a位，则黑b扳，以下c位和122位黑必得其一，白不行];B[rk];W[sk]
+
+;B[qm]C[黑125以下的追杀明知过分，也只得试试看了];W[qn];B[pm];W[sm];B[pn];W[ro];B[qp];W[rq]C[白132是漂亮的妙手，黑苦不堪言];B[rp];W[sp];B[qr];W[po]C[白136又是好着]
+
+;B[on];W[nn];B[oo];W[ml];B[gr];W[hr];B[nm];W[mm];B[nq];W[kl]C[白146是胜利宣言。李昌镐2：0领先，第三局将于7月24日继续进行，请关注TOM.COM棋圣道场的大赛转播])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

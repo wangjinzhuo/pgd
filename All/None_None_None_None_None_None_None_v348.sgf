@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GN[日本第12届棋圣战]
+
+RO[3]
+
+PB[加藤正夫]
+
+PW[小林光一]
+
+BR[九段]
+
+WR[九段]
+
+US[xuyang]
+
+SO[http://xuyang.yeah.net]
+
+DT[1988-02-03,04]
+
+PC[Japan]
+
+RE[W+R]
+
+KM[5.5]
+
+;
+
+
+
+B[pd];W[dc];B[pq];W[cp];B[ep];W[eq];B[fq];W[dq];B[gp];W[dn];
+
+B[qo];W[hq];B[hp];W[iq];B[gr];W[ip];B[io];W[jo];B[jn];W[in];
+
+B[ho];W[ko];B[im];W[kn];B[hn];W[nq];B[ce];W[ck];B[gc];W[ed];
+
+B[jc];W[cd];B[km];W[lm];B[kl];W[qf];B[nd];W[rd];B[qc];W[qi];
+
+B[de];W[ee];B[ef];W[gd];B[hd];W[ge];B[fc];W[dg];B[df];W[bd];
+
+B[cg];W[he];B[id];W[ci];B[dh];W[oo];B[kq];W[lp];B[po];W[or];
+
+B[pr];W[hr];B[qk];W[qj];B[pf];W[qg];B[rj];W[pk];B[ql];W[ri];
+
+B[jf];W[hg];B[di];W[dj];B[bi];W[bj];B[ej];W[ek];B[fk];W[fj];
+
+B[ei];W[el];B[ch];W[cj];B[er];W[dr];B[rc];W[lf];B[mg];W[lg];
+
+B[lh];W[jg];B[if];W[kh];B[ig];W[li];B[ih];W[eb];B[mh];W[kj];
+
+B[np];W[mp];B[nj];W[mk];B[mj];W[lk];B[pl];W[nm];B[ll];W[ml];
+
+B[no];W[mr];B[on];W[ok];B[mi];W[mf];B[nf];W[ne];B[og];W[oe];
+
+B[pe];W[of];B[ng];W[md];B[od];W[me];B[pg];W[kk];B[pj];W[rk];
+
+B[ln];W[hl];B[il];W[ik];B[ji];W[ki];B[hk];W[ij];B[jp];W[jq];
+
+B[hj];W[mm];B[do];W[co];B[en];W[hi];B[gi];W[gl];B[fi];W[em];
+
+B[cn];W[dm];B[lo];W[kp];B[nn];W[jl];B[jm];W[hm];B[jk];W[jj];
+
+B[fo];W[dp];B[gn];W[gq])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[棋圣道场]SO[http://weiqi.cn.tom.com]WR[九段]KM[5.5]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]BR[九段]PB[王铭琬]DT[2002-01-31]PW[武宫正树]EV[第40期日本十段战挑战者决定赛]PC[日本东京]RE[W+2.5];B[pd]C[本局的胜者将获得向王立诚挑战的资格];W[dp];B[fq];W[pp]
+
+;B[cn];W[eo];B[cq];W[dd];B[dq];W[jd];B[qn];W[pk]C[至12的布局给人以“久违”之感，其实并没有什么新意，只是近来这样下的人不多了];B[np]LB[qq:a][qp:b]C[黑13如a位点角，则白b位挡，黑下边整体处于低位，不能满意];W[pn]LB[qo:a][no:b]C[白14简明，如在a位尖或b位靠则易导致复杂变化]
+
+;B[qq]LB[pm:a][on:b][qo:c][op:d][rq:e][om:f]C[黑15少见，普通是在a位扳，以下白b、黑c、白d、黑e、白f];W[pq]LB[qo:a]C[白16是当然的反击，如在a位挡则黑16，白不满];B[pm];W[po]C[白18是好手];B[pl]
+
+;W[ok];B[nm];W[rp]C[白22是双方根据];B[ml]C[至23，从全局配置来看，黑可满意];W[qf];B[nc];W[of];B[rd]C[黑27不仅守角，还瞄着打入];W[qk];B[nr]C[黑29的下法令白不舒服];W[go]
+
+;B[hp];W[ho];B[ip];W[dj];B[kl];W[ik]C[白30至36是武宫正树擅长的“宇宙流”下法];B[pr];W[rm];B[bo];W[jm];B[cf];W[cd];B[dh]
+
+;W[ef];B[fh];W[fj];B[cj];W[ck];B[ci];W[dl];B[be];W[bd];B[gf];W[gd];B[fe];W[fd]
+
+;B[ee]C[至57，黑并无不满];W[jo];B[rr]C[黑59的下法值得研究];W[no];B[mo];W[mp]C[白60、62的反击很严厉];B[oq];W[mn];B[lo];W[nn];B[ln];W[mm]
+
+;B[lm];W[nl];B[ol];W[nk];B[qp];W[qo];B[ro];W[op];B[nq];W[om];B[jp]C[至79，黑明显亏损];W[gp];B[gq]
+
+;W[lc]C[白82后，成为细棋局面];B[rf];W[rg];B[qe];W[pf];B[sg];W[sh];B[sf];W[qh];B[hj];W[hk];B[kc];W[kd]
+
+;B[lb];W[kb];B[mb];W[jc];B[rn];W[rq];B[qr];W[qm];B[sq];W[od];B[oc];W[hf];B[hg]
+
+;W[he];B[gh];W[ei];B[eh];W[ae]C[白112逆收的价值极大，黑棋形势已不容乐观];B[af];W[ad];B[bi];W[nd];B[mc];W[md];B[jg]LB[lh:a]C[黑119仍有优势意识，至少应深入到a位]
+
+;W[pc];B[qc];W[pb];B[ob];W[pe];B[qd];W[sn];B[sp];W[lh]C[白128后，黑的贴目成为沉重负担];B[jl];W[il];B[mi];W[mh]
+
+;B[lj];W[ni];B[kf];W[lf]C[至136，白的优势明朗化了];B[en];W[em];B[dm]C[黑139是胜负手];W[fn];B[cl];W[dn];B[bk];W[cm]
+
+;B[dk];W[co];B[ek];W[bn];B[fk];W[bp];B[gk];W[bq];B[br];W[ar];B[bs]C[至155形成转换，黑任未能动摇白棋的领先地位];W[ij];B[ii]
+
+;W[hi];B[gj];W[ih];B[ji];W[jh];B[ig];W[kh];B[kj];W[ge];B[ff];W[hh];B[io];W[in]
+
+;B[gm];W[hm];B[mk];W[kg];B[jf];W[bl];B[al]C[黑177后，双方展开复杂的劫争];W[ck];B[ed];W[ec];B[cl];W[qb];B[rb]
+
+;W[ck];B[dc];W[db];B[cl];W[re];B[se];W[ck];B[cc];W[bc];B[cl];W[sc];B[sd];W[ck]
+
+;B[cb];W[bb];B[cl];W[de];B[df];W[ck];B[ie];W[id];B[cl];W[gg];B[fg];W[ck];B[so]
+
+;W[am]C[白210是胜利宣言];B[ak];W[gi];B[fi];W[cl];B[rl];W[ql];B[sm];W[gl];B[fl];W[sk];B[hl];W[bf]
+
+;B[bg];W[gl];B[rh];W[ri];B[hl];W[bj];B[aj];W[gl];B[qg];W[rh];B[hl];W[na];B[qa]
+
+;W[gl];B[le];W[ke];B[nj];W[oj];B[nh];W[mj];B[mf];W[lg];B[nj];W[oi];B[hl];W[sl]
+
+;B[ko];W[gl];B[ki];W[me];B[hl];W[jn];B[jk];W[gl];B[mg];W[ld];B[hl];W[ep];B[eq]
+
+;W[gl];B[li];W[le];B[hl];W[cr];B[jj];W[gl];B[eb];W[ca];B[hl];W[cs];B[im];W[il]
+
+;B[dr];W[as];B[ik];W[ds];B[es];W[la];B[ma];W[ka];B[im];W[hn];B[if];W[ce];B[bf]
+
+;W[fp];B[fm];W[sn];B[il];W[sm];B[mj]C[武宫正树获得了挑战权，决赛第一局将在3月1日举行])
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>第40期日本十段战挑战者决定赛 王铭琬 VS 武宫正树(附解说)<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

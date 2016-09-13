@@ -1,0 +1,33 @@
+(;B[pd]C[乐百氏杯第三局
+常昊 白
+王磊 黑
+
+白胜1目半
+
+
+
+
+xuyang输入]SZ[19];W[dd];B[pq];W[dp];B[cf];W[fc];B[bd];W[qn];B[qp];W[qk];B[cc];W[nc]
+;B[qf];W[pb];B[qi];W[qc];B[fq];W[cn];B[dr];W[cq];B[iq];W[on];B[id];W[kc]C[有疑问，应于L16高位。在低位对黑棋一子威胁不够];B[ef]
+;W[fe];B[gg]C[黑棋好手];W[hf];B[je];W[hg];B[gd]C[黑棋马上冲断，并无不可，但于M16飞压，白M17
+黑N16长，白棋更难受];W[ff];B[fd];W[ee];B[dc];W[df];B[cg]
+;W[ib];B[eh]C[应在K18靠，白K17挡，黑H18夹，这样实空多，黑方数子有安全，黑棋立于不败之地];W[hc];B[hd];W[ec];B[ed];W[gh]C[坏棋，应于F13冲，黑棋不敢跑出，这样白棋以基本安全，只有黑棋一块跑。];B[fg]C[应先在D13打吃，如此便宜一个劫材];W[gf];B[dg];W[eg];B[ic]
+;W[hb];B[ef];W[pg];B[de];W[qg];B[nd];W[md];B[nf];W[pf];B[oc];W[ne]C[坏棋。在应O18下立，黑棋如N15虎，白棋P15尖吃进肥角];B[oe];W[od]
+;B[of];W[qd];B[nd];W[me];B[mf];W[mc];B[lf]C[黑棋处理的如此漂亮，原因在白棋叫吃的坏棋];W[ii];B[oi];W[li];B[ni];W[np];B[cl]C[王磊追悔莫及的一手，应按VAR1下]
+;W[or];B[pr];W[cr];B[lk];W[pj];B[pi];W[nk];B[ji];W[ij];B[jh];W[gj];B[jk]C[疑问手，应于N10吃掉白棋一子先的实惠再说];W[jj]
+;B[kj];W[mj];B[ki];W[ik];B[jl];W[ek];B[cj];W[hm];B[nq];W[mq];B[nr]C[缓手，可能黑棋觉得形势还不错。];W[jq];B[ip]
+;W[op];B[oq];W[jp];B[io];W[jo];B[in]C[白棋先手定型后已优];W[fm];B[ok];W[nl];B[rl];W[ql];B[rm];W[qo]
+;B[qm];W[pm];B[ro];W[rn];B[rk];W[km]C[莫名其妙，只要在先手B7尖（黑棋不应，则白棋有B9位点的好棋），再S4吃掉一子，白棋胜定];B[rh];W[rg];B[lq];W[mp];B[lr];W[ir];B[hr]
+;W[jr];B[il];W[hl];B[jn];W[kn];B[bm]C[极大];W[lh]C[随手，应在S4叫吃，与黑棋交换后在走];B[po]C[好棋，既便宜目数，又破白棋眼位];W[pn]C[白棋如先交换，则可以断进黑棋];B[rp];W[kg]
+;B[ep];W[sm];B[qj];W[er];B[do];W[eq];B[co];W[eo];B[fp];W[en];B[bo];W[kl];B[kk]
+;W[kf];B[ds];W[es];B[fr];W[bp];B[jf];W[jg];B[ih];W[hh];B[ig];W[if];B[ap];W[bq]
+;B[go];W[ke];B[og];W[pk];B[oj];W[pl];B[sg];W[rf];B[mh];W[hs];B[fs];W[dq];B[gq]
+;W[db];B[cb];W[ob];B[gc];W[gb];B[da];W[eb];B[ea];W[fb];B[dn];W[dm];B[dl];W[el]
+;B[ll];W[mm];B[lm];W[ln];B[lp];W[lo];B[pp];W[dj];B[di];W[cm];B[bn];W[em];B[ej]C[最后的败着，应先于P5位冲掉]
+;W[dk];B[ck];W[oo]C[白棋挡到后黑棋小负已经不可避免。];B[jc];W[jb];B[fj];W[fk];B[fh];W[gi];B[lg];W[mr];B[ms];W[ks]
+;B[ls];W[gs];B[hp];W[ol];B[sf];W[se];B[sh];W[qe];B[ao];W[od];B[le];W[ld];B[nd]
+;W[fi];B[ei];W[od];B[kb];W[lc];B[nd];W[fa];B[ca];W[od];B[aq];W[ar];B[nd];W[rj]
+;B[sj];W[od];B[re];W[rd];B[nd];W[sl];B[ri];W[od];B[sk];W[sn];B[nd];W[so];B[sp]
+;W[od];B[sd];W[sc];B[nd];W[gn];B[ph];W[od];B[br];W[bs];B[nd];W[hn];B[od];W[fo]
+;B[ho];W[is];B[gr];W[kr];B[ml];W[kp];B[mn];W[nm]C[白胜1目半]
+(;B[nq];W[mq];B[mp];W[no];B[nr];W[lp];B[jj]))

@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届富士通杯半决赛]DT[2002-07-06]US[棋圣道场]SO[http://weiqi.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本大阪]KM[5.5]BR[九段]WR[三段]PB[李昌镐]PW[李世石]RE[W+R];B[pd]C[本局之前李昌镐与李世石的对战成绩是李昌镐９胜４败领先，特别是最近李昌镐对李世石取得了４连胜的佳绩];W[dp];B[qp];W[dc]
+
+;B[oq];W[qj];B[de];W[dh];B[cn]C[黑9脱先挂角含有试白应手的意味];W[fd]C[白10是对黑脱先的惩罚，看来李世石并不惧怕黑棋双飞燕];B[fq];W[fp];B[gp];W[fo];B[cq];W[eq]
+
+;B[cp];W[gq]C[至白18是常见定式];B[ck]LB[cl:a]C[黑19防白在a位拆逼，并对左上一子有声援作用];W[nc];B[qf];W[ne]C[白22是大胆的构思];B[pb]C[黑23防白三·三进角];W[ef]C[白24是要点，白在上边形成模样];B[cc];W[cb]
+
+;B[ec]LB[db:a][bb:b]C[黑27的下法少见，一般是在a位断，或b位连扳];W[cd]LB[eb:a][dd:b][db:c][fc:d][ed:e][gc:f]C[白28强硬，如a位扳，则黑b，白c，黑d，白e，黑f，形成复杂的战斗，从全局配置看黑可战];B[dd];W[bc];B[db]
+
+;W[cc];B[hc];W[jc]C[白34是攻防要点];B[ed];W[fe];B[eb];W[cf];B[ic];W[jd];B[he];W[ie]C[白42好手，黑不舒服];B[df]
+
+;W[dg];B[gf]LB[hf:a][hd:b][gd:c][fc:d]C[黑45如a，则白b，黑c，白d，黑不行];W[hf]C[白46紧凑];B[ge];W[eg];B[jb];W[kb];B[ib];W[hg]C[至52白可满意]
+
+;B[ql];W[pg];B[qg];W[ph];B[kq];W[oo]C[白58是侵消的好点];B[pn];W[nq];B[np];W[op];B[pq];W[lq]LB[mp:a][nr:b]C[白64是腾挪的手筋，如a，则黑b渡过，正合黑意]
+
+;B[fr]C[黑65以下采取了弃子战术];W[er];B[gr];W[hq];B[hr];W[iq];B[ir];W[jq];B[kp];W[jr];B[kr];W[js];B[mo]C[至黑77，双方各有所得]
+
+;W[mk]C[白78是双方模样消长的要点];B[dr];W[es];B[mm]LB[kk:a]C[黑81过于求稳了，在a一带侵消方为积极];W[kk]C[白82后，黑对白中腹的侵消变得困难了];B[ci];W[gb];B[gc];W[gd];B[da];W[dj]
+
+;B[dk];W[ek];B[el];W[dm]C[白92凶狠];B[cm];W[dl];B[cl];W[jo]C[白96后，黑已不容乐观];B[jp];W[ip];B[hn]C[黑99是胜负手，但已有慢了一拍之感];W[ko]C[白100紧凑]
+
+;B[lo];W[lr];B[lp];W[ks]C[至104，白不仅获得实惠还使黑变得气紧];B[en];W[fl];B[jl];W[km]C[白108毫不手软];B[fm];W[gm]C[白110强硬，黑竟无有效的反击手段];B[kl];W[no]C[白112是好次序]
+
+;B[ll]LB[mp:a][mn:b][ln:c][lm:d]C[黑113如a，则白b，黑c，白d，黑不行];W[mp]C[至白114形成转换，白有利];B[lk];W[lj];B[mj];W[li];B[nj];W[qo];B[po]LB[qn:a]C[黑121有些过分，下在a位方为本手]
+
+;W[pp];B[qq];W[nm];B[nl];W[mn];B[ln];W[on]C[白128巧妙，黑无好的抵抗手段];B[nn];W[pm];B[qn];W[qm];B[ro];W[mn]
+
+;B[jm];W[rn];B[qo]C[至黑137，白明显得利];W[in];B[ho];W[kn];B[lm];W[io];B[hm];W[gn];B[gl];W[em];B[fn]
+
+;W[go];B[do];W[hp];B[nh];W[rl];B[mg];W[or];B[pr];W[ns];B[sn];W[rm];B[ps];W[hl]
+
+;B[ol];W[om];B[dq];W[ep];B[hd];W[gk];B[jj];W[kh];B[lf]C[黑169做最后一搏];W[jk]C[白170开始屠龙];B[jf];W[if]
+
+;B[kc];W[pe];B[qe];W[lc];B[kd];W[ke];B[ld];W[le];B[md];W[me];B[je];W[id];B[mc]
+
+;W[qd];B[qc];W[od];B[pc];W[mi];B[ni];W[pj];B[ik];W[kj];B[jg];W[ij];B[ih];W[ji]
+
+;B[lg];W[hh]LB[ii:a][hj:b][fh:c][pf:d][og:e][of:f][ng:g]C[白200防黑a，白b，黑c飞吃白的手段，另外白200后，黑如d，则白e，黑f，白g，黑不行。
+
+
+
+刘昌赫、李世石将于8月3日在日本棋院进行最后的决赛])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

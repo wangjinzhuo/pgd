@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第14届富士通杯第一轮]DT[2001-04-14]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本]KM[5.5]PB[李世石]BR[三段]PW[周俊勋]WR[一品]RE[W+R];B[qd];W[dd];B[pq];W[oc];B[dp]
+
+;W[po];B[oo];W[qq];B[pn];W[pp];B[op];W[oq];B[pr];W[qr];B[ro];W[or];B[qp];W[ps]
+
+;B[pq];W[pe];B[qe];W[pf];B[qg];W[pg];B[qh];W[ph];B[pi];W[oi];B[oj];W[qf];B[rf]
+
+;W[re];B[rg];W[qc];B[ni];W[rd];B[oh]C[双方在右上互不相让是气合。];W[lq];B[cf];W[di];B[cc];W[cd];B[dc];W[ed]
+
+;B[bd];W[be];B[bc];W[ce];B[fc];W[cn];B[fq];W[cp];B[cq];W[bq];B[dq];W[bo];B[bf]
+
+;W[df];B[dg];W[af];B[bh];W[eg];B[ef];W[cg];B[de];W[bg];B[eh];W[df];B[cf];W[fd]
+
+;B[gc];W[ei];B[fg];W[gi];B[gd];W[fe];B[hi];W[gh];B[gg];W[hh];B[hg];W[ih];B[lc]
+
+;W[ig];B[ge];W[ch]C[黑方在左边的战斗不成功，白方获得优势。];B[dk]C[黑87胜负手！在白厚势附近冒死散步的唯一目的，是考验对手胆量，引诱白方发动风险很大的强攻。];W[fm]C[白88毫不犹豫地杀棋，周俊勋在围乙联赛刚刚战胜过马晓春、徐奉洙等名手，出手果断信心十足。];B[fj];W[gj];B[dm];W[dn];B[gk];W[gl];B[em]
+
+;W[en];B[fl];W[hl];B[hk];W[ik];B[hj];W[il];B[fk];W[cl];B[ck];W[fi];B[cm];W[bm]
+
+;B[bl];W[bk];B[dl];W[bj];B[am];W[bn];B[ji];W[ii];B[ij];W[jj];B[jk];W[kj];B[gm]
+
+;W[fn];B[jl];W[hm];B[ki];W[li];B[lj];W[kk];B[lh];W[kl];B[jm];W[km];B[jn];W[kn]
+
+;B[jo];W[ko]C[黑棋最终被杀，两位年轻选手血气方刚，早早地结束了战斗，周俊勋进入第二轮。])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第六届富士通杯四分之一决赛]RO[quarterfinal]PB[邵伟刚]BR[五段]PW[加藤正夫]WR[九段]KM[2.75]DT[1993-06-05]PC[中国北京]RE[W+R]TM[10800];B[pd];W[dp];B[pp];W[dd];B[pj];W[nc];B[dj];W[cl];B[jp];W[qf];B[oe];W[qc];B[qd];W[pc];B[md];W[od];B[pe];W[ne];B[nd];W[oc];B[pg];W[nf];B[le];W[mg];B[og];W[kf];B[jd];W[lc];B[ld];W[kc];B[je];W[jh];B[fd];W[df];B[ff];W[ei];B[dl];W[dm];B[el];W[ck];B[ej];W[fi];B[hh];W[hj];B[ii];W[lj];B[ji];W[nk];B[pl];W[kl];B[ik];W[mo];B[mm];W[nm];B[nn];W[mn];B[nl];W[ml];B[om];W[lm];B[cj];W[nm];B[mc];W[mb];B[mm];W[ge];B[fe];W[nm];B[ce];W[de];B[cc];W[dc];B[cd];W[cf];B[cb];W[db];B[fb];W[be];B[bd];W[bg];B[ca];W[gb];B[fa];W[gg];B[gf];W[hg];B[fg];W[gh];B[dh];W[di];B[ci];W[ch];B[dg];W[da];B[ab];W[gd];B[gc];W[hc];B[fc];W[eg];B[eh];W[fh];B[ef];W[hf];B[ib];W[hd];B[hb];W[bi];B[bj];W[aj];B[ak];W[ai];B[bk];W[cg];B[eg];W[af];B[ie];W[gl];B[ig];W[fj];B[cm];W[he];B[kh];W[jc];B[jb];W[lb];B[kb];W[kg];B[jg];W[lh];B[ic];W[em])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

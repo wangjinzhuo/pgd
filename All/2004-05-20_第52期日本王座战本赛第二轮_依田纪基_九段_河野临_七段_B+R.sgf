@@ -1,0 +1,26 @@
+(;SZ[19]EV[第52期日本王座战本赛第二轮]DT[2004-05-20]PC[日本]KM[6.5]US[棋圣道场]SO[http://weiqi.tom.com]C[http://weiqi.tom.com
+棋圣道场-->精彩时局]]PB[依田纪基]BR[九段]PW[河野临]WR[七段]RE[B+R];B[pd];W[dd];B[pp];W[dq];B[do];W[co];B[cn];W[cp]
+;B[dn];W[fq];B[dj];W[qj];B[qh];W[qn];B[ql];W[on];B[nq];W[rp]LB[pk:a]C[白18如单走a位，则黑18，白不满];B[qq]LB[pk:a][kq:b]C[黑19如a，则白19，黑b，黑对左下角的白棋没有影响，黑不满]
+;W[pk];B[cf];W[fc];B[nc];W[lq]LB[ic:a]C[白24的构思有问题，在a位拆二方为急所];B[rq];W[gn];B[hc];W[bd];B[he]LB[lo:a]C[至29，黑右上的模样极大，白已无暇占据a位的好点]
+;W[qf]LB[qd:a][ph:b][pg:c][qg:d][pi:e][oh:f][qi:g][oi:h][rj:i][rk:j][pj:k][qk:l][oj:m][of:n]C[白30后，黑如a，则白b，黑c，白d，黑e，白f，黑g，白h，黑i，白j，黑k，白l，黑m，白n，白可战]
+;B[oh];W[qd]LB[of:a][mf:b][ne:c][nf:d][mh:e]C[白32如a，则黑32，白b，黑c，白d，黑e，白不利];B[qc];W[rc];B[qe];W[rd];B[pe];W[pc]
+;B[qb];W[pb];B[rb];W[sb]C[至42是定式的一型];B[pl]LB[oc:a][re:b]C[黑43直接动出，保留选择走a位或b位的权力];W[ol];B[ok];W[oj];B[nk]LB[om:a][nl:b][pm:c][nm:d][pn:e][ml:f]C[黑47如a，则白47，黑b，白45，黑c，白d，黑e，白f，黑不利]
+;W[nj];B[mk];W[pm];B[nm];W[om];B[mj];W[ni];B[mh]C[黑55是好手，白没有抵抗手段];W[mi];B[li];W[rl];B[oc];W[ra]
+;B[lh]C[至61，是黑简明易下的局面];W[bl]LB[jm:a][kp:b][kj:c]C[白62继续捞空是疑问手，应a位，黑如b位侵消，则白c破黑外势];B[ep]C[黑63严厉];W[bn]LB[eq:a][go:b]C[白64如a，则黑b];B[go]LB[hn:a][eq:b][er:c][dr:d][fr:e][bm:f][bo:g][cm:h][am:i][ho:j]C[黑65后，白如a，则黑b，白c，黑d，白e，黑f，白g，黑h，白i，黑j，白不利]
+;W[cm];B[gq];W[hq];B[gr]LB[gp:a][fr:b][hr:c][eq:d][er:e][fs:f]C[黑69过分，应a，白如69，则黑b，白c，黑d，白e，黑f，白难下];W[gp];B[fp];W[hp]
+;B[eq];W[ho]C[至74，黑作战失败，白挽回了劣势];B[hr];W[ir]LB[jq:a]C[白76过分，应a];B[iq]C[黑77强手，白难应];W[jr];B[jp];W[ko];B[in];W[ip];B[jo]
+;W[jq];B[kp]C[黑85后，白陷入苦战];W[nr]LB[mr:a]C[白86如a，则黑86，白眼形不足];B[mr];W[mq];B[lr];W[kq];B[oq];W[lo];B[dr];W[cr]
+;B[dp];W[cq];B[kn];W[ln];B[km];W[nn]C[至100，黑形势再度占优];B[gb]C[黑101似小实大];W[dg];B[ds]LB[df:a][ef:b][eg:c][ff:d][eh:e]C[黑103有迟缓之感，应a，白b，黑c，白d，黑e]
+;W[cs];B[fr];W[rf];B[pf];W[hg]LB[cg:a][gh:b]C[白108是拼胜负的一手，如改走a，则黑b，白地不足];B[gf];W[gg];B[fg];W[fh];B[ff];W[df]
+;B[eh];W[fi];B[dh];W[fk]LB[cg:a][gk:b][gl:c][hk:d]C[白118形势判断有误，应a，黑如118，则白b，黑c，白d和黑一赌胜负];B[ce];W[de];B[cg];W[fb]C[至122，黑明显有所得];B[hi]
+;W[hh];B[ri];W[rj];B[if];W[jh];B[jg]LB[ob:a]C[黑129应先a];W[ob];B[nb];W[jj];B[kk];W[ci]LB[bj:a][jk:b][cd:c][cc:d][be:e][bc:f][kh:g][ji:h][gm:i]C[白134如改走a，则黑134，白b，黑c，白d，黑e，白f，黑g，白h，黑i，如此也是黑稍优]
+;B[ch];W[cj];B[ej];W[fj];B[cd];W[cc];B[dc];W[cb];B[ed];W[ec];B[ee];W[jk];B[pi]
+;W[pj];B[be];W[ac];B[ck];W[bk];B[bi];W[bj];B[re];W[se];B[kh];W[ji];B[gm];W[gl]
+;B[fm];W[hl];B[ro];W[rn];B[sp];W[fa];B[gc];W[bh];B[bg];W[ai];B[ig];W[ih];B[fd]
+;W[qa];B[oa];W[nh];B[ng];W[qg];B[pg];W[lm];B[il];W[hm];B[kl];W[ik];B[mm]LB[rg:a][sf:b]C[黑185应先做黑a，白b的交换]
+;W[qo];B[qp];W[ga]LB[rh:a][sh:b][sg:c]C[白188失去最后的争胜机会，应立即走a，黑b，白c，和黑打劫，黑劫材不足];B[ha];W[or]C[白190又损失了一个劫材，黑胜定];B[pr];W[sj];B[hn];W[fo]
+;B[dm];W[fn];B[fl];W[dl];B[ek];W[el];B[em];W[db];B[eg];W[im];B[jl];W[mn];B[kj]
+;W[rh];B[sh];W[sg];B[rg];W[er];B[es];W[rh];B[hk];W[hj];B[rg];W[ib];B[hb];W[rh]
+;B[bc];W[bb];B[rg];W[io];B[jn];W[rh];B[bm];W[am];B[rg];W[kr];B[os])<script language="JavaScript" src="http://weiqi.sports.tom.com/java/tomshu.js"></script>
+<noscript> <img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-tom&amp;cg=0" alt=""> 
+  </noscript>

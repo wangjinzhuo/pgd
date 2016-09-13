@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第14届富士通杯第一轮]DT[2001-04-14]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本]KM[5.5]PB[小林光一]BR[九段]PW[马晓春]WR[九段]RE[B+R];B[pd]C[马晓春和小林光一在本届富士通杯中均不是种子，老对手早早地在首轮相遇了。];W[dd];B[pq];W[dp]
+
+;B[fq];W[cn];B[fc];W[hc];B[jp]C[黑9布下得意的“小林流”];W[qn];B[qp];W[qk];B[cc]C[黑13简明点角，小林采取了实地政策，看来他不想过早进入战斗。];W[dc];B[cd];W[de]
+
+;B[db];W[eb];B[cb];W[ec];B[cf];W[on];B[mp];W[dr];B[gp];W[nc];B[qf];W[pb];B[pm]
+
+;W[qm];B[qc];W[qh];B[kd];W[md];B[qb];W[id];B[kf];W[kc]C[至38布局结束，双方都出手从容。或许是相互知根知底的原因，均未打算在序盘就开始冲击对手。];B[pk]LB[pn:a]C[黑39开始借a弱点在右边定型];W[pj]
+
+;B[pl];W[ql];B[oj];W[op];B[oq];W[np];B[mq];W[mo];B[pi];W[qj];B[nk];W[nq];B[nr]
+
+;W[mr];B[lr];W[qo]LB[pn:a][rq:b][qq:c]C[至56白补上a断点，同时留下b、c的官子手段，右边告一段落。];B[lc]C[黑57开始在上边定型。];W[ld];B[jc];W[kb];B[jd];W[jb]
+
+;B[fb]C[至此中午封盘。];W[fa];B[ga];W[ea];B[ib];W[hb];B[ic];W[ia];B[ja];W[ka];B[lb];W[ha];B[hd]
+
+;W[gd];B[ie];W[fd];B[no];W[pp];B[qq];W[lo];B[kp];W[lm];B[mm];W[ll];B[lj];W[kj]
+
+;B[ki];W[ji];B[kk];W[jj];B[lk];W[oo];B[kh];W[ck];B[ci];W[ei];B[cg];W[er];B[cm]
+
+;W[bm];B[dn];W[co];B[fr];W[ce];B[be];W[bd];B[bc];W[bh];B[ch];W[bi];B[bg];W[fl]
+
+;B[fn];W[rg];B[il];W[gj];B[ln];W[mn];B[nm];W[nn];B[kn];W[ko];B[jn];W[jo];B[io]
+
+;W[in];B[jm];W[ro];B[rp];W[oc];B[rf];W[go];B[ho];W[hp];B[ip];W[fp];B[hq];W[em]
+
+;B[en];W[dm];B[bj];W[cj];B[bk];W[bl];B[ah];W[fs];B[gs];W[es];B[gr];W[sp];B[sq]
+
+;W[so];B[or];W[jh];B[eq];W[dq];B[gl];W[fm];B[gm];W[jk];B[jl];W[nh];B[oi];W[mf]
+
+;B[jg];W[sf];B[se];W[sg];B[qe];W[qa];B[ra];W[pa];B[pc];W[na];B[hh];W[hi];B[gh];W[lg];B[kg];W[rb];B[rc];W[sa];B[og];W[hf];B[he];W[ih];B[ig];W[gf];B[fg];W[fi];B[di];W[eg];B[ff];W[ge];B[ef];W[fh];B[df];W[dj];B[gk];W[fk];B[hj];W[gi];B[ik];W[gg];B[hg];W[ii];B[ng];W[lh];B[li];W[sd];B[ne];W[lf];B[re];W[mi];B[ep];W[om];B[ol];W[nf];B[of];W[mj];B[mk];W[oe];B[od];W[nd];B[ee];W[ed];B[pe];W[sc];B[pn];W[po];B[qi];W[ri];B[qg];W[rh];B[ph];W[ak];B[ai];W[lp];B[lq];W[ij];B[hk];W[do];B[eo];W[da];B[ca];W[ke];B[je];W[if];B[le];W[me];B[ke];W[oe];B[rd])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

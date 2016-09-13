@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第十届富士通杯第二轮]RO[2]PB[常昊]BR[八段]PW[结城聪]WR[八段]KM[5.5]DT[1997-04-14]PC[日本东京]RE[B+R]TM[10800];B[pd];W[dc];B[pp];W[cp];B[de];W[ce];B[dd];W[cd];B[ec];W[cf];B[df];W[dg];B[cc];W[db];B[bc];W[eb];B[cg];W[eg];B[fd];W[fc];B[ed];W[gd];B[ff];W[bg];B[ch];W[bh];B[ci];W[bd];B[gc];W[fb];B[hc];W[bb];B[ei];W[hd];B[id];W[hf];B[jd];W[fh];B[fg];W[eh];B[hg];W[fi];B[ig];W[ej];B[dk];W[em];B[ek];W[fk];B[dj];W[di];B[cm];W[el];B[bi];W[bm];B[bn];W[cl];B[bl];W[bk];B[dl];W[al];B[dm];W[en];B[ck];W[bo];B[bl];W[qd];B[pc];W[cl];B[bf];W[af];B[bl];W[qc];B[pe];W[cl];B[gj];W[fj];B[bl];W[qe];B[pf];W[cl];B[ad];W[be];B[bl];W[fe];B[am];W[ef];B[qf];W[kq];B[pm];W[rf];B[rg];W[re];B[qb];W[rb];B[pb];W[rh];B[sg];W[ra];B[qh];W[lm];B[iq];W[eq];B[fq];W[ep];B[er];W[dr];B[gr];W[lk];B[lo];W[jp];B[ip];W[io];B[ds];W[cs];B[es];W[cr];B[gp];W[lh];B[if];W[qi];B[ph];W[ok];B[he];W[ee];B[oq];W[qk];B[qm];W[lf];B[mg];W[lg];B[nj];W[mh];B[nk];W[ol];B[oj];W[pj];B[mm];W[ml];B[nl];W[nm];B[mn];W[om];B[nh];W[ng];B[rl];W[no];B[lp];W[po];B[qo];W[op];B[pq];W[qp];B[qq];W[nq];B[lq];W[rp];B[pn];W[oo];B[rq];W[rk];B[pl];W[pk];B[nr];W[mq];B[mp];W[ri];B[ro];W[sh];B[sj])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

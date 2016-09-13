@@ -1,0 +1,160 @@
+(;GM[1]AP[StoneBase(弈典):SGFParser.2.3]SZ[19]HA[0]KM[6.5]EV[第30期日本棋圣战决赛第三局]PB[山下敬吾]BR[九段]PW[羽根直树]WR[九段]RE[B+1.5]DT[2006-02-08]PC[日本京都]SO[http://weiqi.tom.com]US[棋圣道场]C[http://weiqi.tom.com
+棋圣道场-->大赛直播
+
+]
+;B[pd];W[dd]C[第30期日本棋圣战，冠军奖金4200万日元，约合35万美元，冠军奖金仅次于四年一届的应氏杯];B[pq];W[dp]LB[fq:a][qk:b][pk:c]C[黑棋星·小目，白棋以简明的二连星相应，接下来黑棋a位挂形成“小林流”或者在b位、c位构成中国流，都是常见的布局];B[qk]C[黑5构成“中国流”，这一布局流行已有四十多年，长盛不衰]
+(;W[mq]C[白6二间低挂是最近两年开始流行的新变化]
+(;B[jp];W[pp]C[白8碰是和白6相关联的手段]
+(;B[op]LB[qp:a]C[黑7远夹就是为了黑9扳，此时如果再a位扳就不太合适了]
+(;W[qq]C[白10必须扳]
+(;B[oq]C[黑11粘正着];W[qp];B[on]
+(;W[qm]
+(;B[fq]
+(;W[ko]C[白16象步，是出头的形]
+(;B[jo]C[黑17长必然];W[kn]
+(;B[im]C[黑19飞是好点];W[mo]LB[oo:a]C[白20补强自身，还瞄着a位挖断]
+(;B[ol]C[黑21单跳]
+(;W[oo]LB[lk:a]C[白22是一种“气合”的实战心理：既然你不补，我就挖
+但感觉白22还是有点太心急了，在a位飞出白棋没有什么不满意的];B[no];W[po]
+(;B[mp];W[nn];B[np]
+(;W[kp];B[kq]C[黑29是棋形的要点];W[lq];B[jq];W[lp];B[mn];W[nm];B[mm];W[nl];B[lo];W[kl]C[至白38双方“一本道”]
+(;B[ml];W[nk];B[mk];W[nj]C[白42必须长出来];B[mj]
+(;W[ni];B[jm];W[km]
+(;B[kj]C[被黑47镇，白棋棋形有些苦，但是白棋在右边获利不小，也是没办法的事];W[jk];B[ii];W[hk];B[eo]C[黑51借调攻击];W[cn]
+(;B[gi];W[gj]C[白54好棋];B[fi];W[fj]
+(;B[dm];W[ei]C[黑57再飞压时，白58脱先扳，黑棋不舒服];B[cm];W[eh]C[白60挺头时，羽根九段一定心情大爽
+中间就算白棋直接走也走不出这样的好形，黑53、55攻了两手后，反而吃亏了];B[jj]C[黑61是棋形的要点];W[ij];B[hi];W[ej]C[白64非常厚实];B[dr]C[黑65补一手，角上白棋还有手段
+从白22挖断至此的战斗，白棋成功
+问题出在黑53至57]
+(;W[pf]C[白66按参考图下比较好
+白66说不上是坏棋，但羽根九段对左下出现误判，从这个角度来说，说66是败着也不过分]
+(;B[rm]
+(;W[rn]C[白68正着];B[ph]C[黑67、69要在右边活棋];W[nf];B[ql];W[pm];B[mh]C[黑73顺手补强一下中腹黑棋]
+(;W[og]
+(;B[rf]C[黑75是活棋的好手]
+(;W[qe];B[re];W[qd];B[qf];W[pe];B[rd]C[黑77至81是特殊的活棋手法，一般情况下星位一子被这样碰伤是不可取的，实战黑棋也是没有办法，否则白棋右边实地太大了];W[jh]C[白82先手便宜，如果白棋就此对黑棋展开攻击，通过攻击在上边形成大空，则白棋全局主动，但没想到羽根九段一心一意想在左下出棋];B[ji]
+(;W[bm]C[白84可能有误算];B[bl];W[bn];B[el]C[黑87好手，白棋必须补断
+照理说，羽根九段不应该是看漏了这一手]
+(;W[gl];B[cq]C[黑89一尖，白棋角部净死，一点儿余味都没了，白棋损失惨重
+走完这一局部后，原本白棋不错的局面，变得形势不明了];W[bk];B[al];W[ec]LB[jc:a][kc:b][qc:c][cc:d]C[右下即使白棋不走，黑棋也需要补一手，现在黑棋省了一手棋
+白92如果在a位或b位拆，则右上有c位扳，左上有d位点，白棋可能啥也捞不着，a位和b位的下法有中途半端之感];B[gf]C[黑93好点，在上边分投，黑棋有被白棋缠绕攻击的危险];W[he]C[白94硬围大空];B[ge];W[hf];B[gg];W[hd];B[df]C[黑99先向左突围];W[ef];B[ee];W[de];B[eg];W[cf]
+(;B[ff];W[cg]C[至106，白棋好歹护住了左边];B[fc]C[但黑107一靠，上边又出现了漏洞];W[ck]C[白108是先手便宜];B[cl];W[kh]LB[qc:a][lf:b]C[白110如a位长，则黑b飞];B[gc]C[黑111先手];W[hc];B[qc]C[黑113和白棋在此长相比，有先手20目以上的价值，抢到这一手，黑棋看到胜利的曙光];W[fm]C[白114也是先手便宜];B[en];W[pc]C[白116没办法];B[pb];W[oc];B[kk]C[黑119先手];W[jl];B[ob];W[nc];B[nb];W[mb];B[mc];W[lb];B[ig]C[黑127继续钻空，白棋很难受。白棋本来看起来挺大的空，现在没多少了];W[kf]LB[jf:a][lh:b]C[白128如a位跳，黑还有b位的顶，白棋也难受，实战白128是想高效地围空];B[jf]C[黑129继续钻]
+(;W[ke]C[白130痛苦];B[nd];W[od];B[oe];W[pd];B[pg]C[白130退后，黑131至135已经没必要保留];W[of];B[gn]C[黑137大极];W[qb];B[rc];W[mi];B[hb];W[ib];B[eb];W[db];B[fb];W[ha];B[dg];W[dh];B[fh]
+(;W[da]C[白150必须补，否则黑棋有手段];B[ak]C[黑151大，如果白棋走这里，有逆收7目的价值];W[bi];B[ed];W[dc]
+(;B[rb]C[黑155如不走，角上白棋有打劫的手段，见参考图
+黑155有胜利宣言的意味];W[pj];B[qj];W[rl];B[rk];W[sm]C[白158、160是后手10目的大官子];B[ai];W[bh];B[jg];W[kg];B[je];W[jd];B[ok];W[pi];B[qi];W[kr];B[jr];W[ls];B[js]C[黑173已经数清目了];W[pr];B[or];W[qr];B[ga];W[gb];B[li];W[lh];B[hb];W[em];B[dn];W[gb];B[oh];W[nh];B[hb];W[ia];B[jc];W[gb];B[kb];W[ka];B[hb];W[kc];B[id];W[kd];B[ie];W[ic];B[gm];W[fl];B[il];W[ik];B[sk];W[om];B[na];W[dk];B[dl];W[gb];B[fa];W[fn];B[fo];W[ah];B[aj];W[jn];B[in];W[hl];B[hm];W[bj];B[sl];W[gd];B[fd];W[ma];B[rm];W[hg];B[ih];W[rl];B[nr];W[ki];B[mr];W[lr];B[lj];W[rm];B[ps];W[qs];B[os];W[ek];B[ms];W[ln];B[mo];W[hh];B[ll];W[hb]C[后边小官子没有大的出入，解说从略
+
+纵观全局，白棋22是强手，由于黑53、55的失误，白棋取得了成功。
+但左下白84、86“突然短路”，损失惨重，被黑棋吃净角部，一举挽回局势。
+后面山下破空的手法非常值得欣赏，白棋被搜刮得有点惨不忍睹，后边黑棋官子有所退让，最后虽然仅赢了1目半，实际上白棋已经没有机会。
+对于山下敬吾九段在上边的破空手段，值得爱好者反复玩味])
+(;B[rl];W[pa];B[rb];W[ra]))
+(;W[ak];B[cc];W[dc];B[cb];W[da];B[be];W[ce];B[bd];W[bb];B[ba];W[ca];B[ab]C[白1脱先，黑2点以下形成劫争，白棋吃不消]))
+(;W[je];B[ke];W[lf];B[jd];W[ie];B[md];W[od];B[kc]C[白1扳住味道极坏，至黑8白棋空中出棋]))
+(;B[dg]LB[fc:a]C[黑105如1位接，则黑a位靠就不成立了]))
+(;W[cq];B[hj];W[ik];B[gk]C[白88如不补，白棋简单被断]))
+(;W[cq]C[白棋直接尖，黑棋角上味道很差]))
+(;W[qg];B[rg];W[qh];B[rh];W[qi];B[ri]C[这个变化，白棋不便宜]))
+(;B[rg];W[rf];B[qg];W[qf];B[pj];W[nc]C[黑棋如果1位飞求活，以下至白6，黑棋生不如死]))
+(;W[nh]LB[og:a]C[白棋如长，则还有a位被尖断的余味]))
+(;W[qi];B[qn];W[pn];B[pm];W[rn];B[ql];W[ro];B[pi]C[白1如果硬吃黑棋，至黑8，白棋太薄，没有吃棋的把握]))
+(;B[nd];W[nf]C[黑棋如果1位跳，白2跳，白棋右边比参考图还大，黑棋不行]))
+(;W[qg];B[nc];W[og]LB[bm:a]C[白棋也可以选择1、3吃住黑三子的下法，这样右边实地非常大
+实战白棋可能是想在此争先手，再转到a位扳，但羽根对左下的变化可能出现了误算]))
+(;B[ei];W[dk]C[黑57如果长，白2一飞，白棋基本联络，黑棋攻击落空]))
+(;B[dm];W[gj];B[jj];W[ik];B[gh];W[ej];B[cm]C[黑53可以直接飞压，至黑7，黑棋不错]))
+(;B[jk];W[jl];B[il];W[kk];B[kj];W[lj];B[jj];W[li];B[lk];W[mi]C[黑棋直接封不行，至白10里面是双活，黑棋不满]))
+(;W[jk];B[ni];W[pj];B[oi];W[pk];B[pi];W[qj];B[ji]C[白1如果先跑这边，则黑2扳后，黑棋争得黑8的好点，白棋不满]))
+(;B[km];W[jm];B[lm];W[jn];B[nk];W[ml];B[ll];W[mk];B[jl];W[in]C[黑棋这种强硬的手段不成立]))
+(;W[lp];B[mn];W[nm];B[mm];W[nl];B[ml];W[nk];B[lo];W[kp];B[jq]LB[kq:a][lq:b]C[和实战相比等于作了黑a白b的交换，这一交换白棋便宜]))
+(;B[np];W[nn];B[mp]C[黑25如接，白2断、黑3冲，还原成实战]))
+(;W[lk]C[白22这样跳出是平稳的下法]))
+(;B[po];W[qo];B[ol];W[lk]C[黑1和白2的交换比较俗，黑棋不肯走]))
+(;B[kq];W[lq];B[mo];W[no];B[oo];W[kp];B[jq];W[pl];B[nl];W[mn];B[nn];W[mm];B[nm];W[pk];B[pj];W[oj];B[pi];W[oi];B[ph];W[nk];B[ml];W[jn];B[kl];W[jl];B[jk];W[kk];B[ln];W[lm];B[kj];W[lk];B[ll];W[lo];B[mk];W[lj];B[mj];W[li];B[mi];W[oh];B[rm];W[rn];B[rl];W[pg];B[qn];W[pn];B[qo];W[po];B[ro];W[og];B[nd]C[黑棋也可以在1位尖，白4好手，以下至49的结果白棋不错，这是韩国棋手李相勋和洪旼杓的实战
+
+黑棋:李相勋 _白棋:洪旼杓]))
+(;B[lp];W[kp];B[lq];W[kq];B[kr];W[jq]C[黑棋直接穿象眼，至白6，白棋大乐]))
+(;W[mo];B[lp];W[mp];B[po];W[qo];B[nm]C[这样白棋重])
+(;W[cn];B[ol];W[qf];B[qe];W[pf];B[nd];W[qi];B[ph];W[qh];B[oj];W[nf];B[nh];W[rk];B[qn];W[ql];B[fo];W[po];B[oo];W[pn];B[cq];W[dq];B[dr];W[cp];B[br];W[bq];B[cr];W[ck]TR[mq]C[黑棋不错，白▲一子不太敢跑，非常可能无疾而终]))
+(;B[gp];W[ko];B[in];W[pk];B[km];W[mn];B[mp];W[qj];B[lq];W[fq];B[gq];W[gr];B[fp];W[eq];B[hr];W[cn]C[黑15桂角也可以直接在黑1拆二，以下至16是刘昌赫和刘世振的实战，这一变化白棋可下
+
+黑棋:刘昌赫 _白棋:刘世振])
+(;B[lp];W[fq]C[黑棋如果这样尖冲小吃，则白2守角，白棋简明]))
+(;W[qn];B[fq];W[ko];B[jo];W[kn];B[jn];W[km];B[kq];W[mo];B[ol];W[cn]C[白10小跳也是一法，这是赵惠 和陈诗渊的实战
+
+黑棋:赵惠莲 _白棋:陈诗渊]))
+(;B[or];W[oo];B[qp];W[po];B[qr];W[rq];B[rp];W[np];B[oq];W[ro];B[rr];W[qo];B[sq];W[mn]C[黑棋如果不粘而改在本图1位虎，则白棋趁机整形，以下至14，白棋大为满意]))
+(;W[oq];B[qq];W[qp];B[rp]TR[qk][jp]C[白棋在1位断不好
+如果没有黑△二子，角上至黑4是定式的一型（白小目、黑高挂、白一间低夹、黑托角、白顶断），但是在黑△二子存在的情况下，白棋作战不利]))
+(;B[qp];W[qq];B[oq];W[qo];B[rp];W[qr];B[ro];W[op];B[np];W[qn];B[nq];W[rn];B[on];W[po];B[fq];W[cn]C[黑棋在1位扳，以下至14，白角很大，白棋好
+
+黑棋:金秀俊 _白棋:小林光一]))
+(;B[po];W[jq]LB[mp:a][jp:b]C[黑棋如果简单地在1位跳，白棋就在2位拆，与白a位挂、黑1位跳、白b拆相比，白棋在实地上更踏实
+
+黑棋:郑寿铉 _白棋:崔哲瀚 
+黑棋:胡耀宇 _白棋:王磊 
+黑棋:周波 _白棋:张维
+黑棋:李世石 _白棋:周鶴洋
+黑棋:李世石 _白棋:俞斌
+黑棋:檀啸 _白棋:楊一 ])
+(;B[np];W[mp]
+(;B[mo]
+(;W[lo]C[白4扳不太好];B[nq]C[被黑5挡，白棋形不是很好];W[ln];B[lp];W[kp];B[lq];W[mr];B[kr];W[qq];B[qp];W[nr];B[or];W[no];B[mn];W[oo];B[po];W[op];B[oq];W[mm];B[nn];W[on];B[nm];W[pp];B[qr];W[rq];B[rr];W[rp];B[qo];W[qn];B[lm];W[om];B[nl];W[pk];B[pj];W[ok];B[ql];W[qj];B[qi];W[rj];B[ri];W[pi];B[oj];W[nk];B[mk];W[ni];B[oi];W[oh];B[ph];W[nj];B[pi];W[og];B[pg];W[of];B[nd];W[km];B[ml];W[kl];B[lj];W[pn];B[jq]C[对于白棋二间低挂，黑棋可以在1位飞，白4直接扳不好，黑5抢到形的要点，这个图是叶桂和黄佳的实战
+
+黑棋:黃佳 _白棋:叶桂])
+(;W[nq]C[拐一个比较多];B[op];W[lo];B[mn]
+(;W[ln];B[mm];W[lm]
+(;B[ll];W[ml]C[白9肯定断，这是气势];B[kl];W[mk];B[on];W[in];B[lj];W[ok];B[jj];W[pi];B[pg];W[ql];B[rl];W[qm]C[混战];B[pk];W[pl];B[oj];W[om];B[oi];W[qp];B[qq];W[mj];B[li];W[rq];B[rm];W[po];B[rr];W[nm];B[rp];W[ro];B[sq];W[no];B[fq];W[dq];B[fo];W[en];B[iq]C[白棋先在1位拐，然后再扳是次序，白9肯定要断，这是气势，至白21双方形成混战。
+这个图是日本加藤正夫和结城聪的实战，结果白棋满意
+
+黑棋:加藤正夫(57) _白棋:结城聪])
+(;B[ml];W[gp]LB[kk:A]C[白2在a位飞更大];B[kk];W[pr];B[qr]C[黑3飞到，黑棋满意];W[qj];B[rj];W[qi];B[ri];W[qg];B[qh];W[ph];B[rh];W[nd];B[pf];W[pg];B[nf];W[nh];B[lg];W[pk];B[pl];W[ql];B[rk];W[ok];B[qe];W[ll];B[lk];W[mk];B[pm];W[mj];B[ki];W[nl];B[nm];W[kd];B[id];W[mf];B[mg];W[ng];B[of];W[lf];B[kg];W[oc];B[pc];W[ol];B[om];W[nj];B[mc];W[md];B[lc];W[pb]C[黑1不扳而退，也可下，白2应该在3位飞，黑3非常大。
+这是聂卫平和王尧的实战对局
+
+黑棋:聂卫平 _白棋:王尧]))
+(;W[pr];B[qr];W[ln];B[mm];W[or];B[qp];W[ip];B[cn]C[白棋也可不压，改在1位托，以下至黑8，双方可下
+
+黑棋:胡耀宇 _白棋:谢赫])))
+(;B[jp];W[no];B[op];W[ln];B[fq];W[hq];B[hp];W[iq];B[ip];W[jq];B[kq];W[kr];B[fo];W[kp];B[dn];W[pn];B[qn];W[cn];B[cm];W[co];B[dm];W[dr];B[pm]C[白棋挺头时，黑棋不扳而在1位夹击，余平六段特别喜欢，这一结果双方可下
+
+
+黑棋:余平(29) _白棋:周鹤洋 ]))
+(;B[fq];W[ip];B[cn];W[fp];B[cq];W[eq];B[cp];W[po];B[qo];W[qn];B[qp];W[pm];B[gq];W[er];B[gp];W[fo];B[go];W[fn];B[gn];W[fm];B[cl];W[or];B[oo];W[nn];B[oq];W[nq];B[in];W[pr];B[qr];W[on];B[ps];W[nr];B[ro];W[hr];B[hl];W[fk];B[hj];W[rn];B[rq]C[日本赵治勋和山田规三生的对局中，曾走出过黑1脱先挂角的变化，以下至38，白棋可战。
+
+
+黑棋:赵治勋 _白棋:山田规三生])
+(;B[kq]
+(;W[lo]
+(;B[fq];W[pp];B[qp];W[qo];B[qq];W[po];B[nq];W[np];B[oq];W[lq];B[jp];W[qi];B[ok];W[pl];B[ol];W[pm];B[pk];W[qf]C[黑1也有紧夹的下法，白2飞是形，以下至20，白棋把局面打散，可下
+这是芮乃伟九段和赵惠莲的实战进行
+
+黑棋:赵惠莲 _白棋:芮乃伟])
+(;B[po];W[jp];B[iq];W[hp]C[白棋可战];B[ip];W[io];B[jo];W[jq];B[ho];W[in];B[hq];W[jr];B[gp];W[jn]C[黑1如果守角，白棋2、4封锁，至14，白棋可战]))
+(;W[po];B[oo];W[on];B[op];W[nn];B[mp];W[lp];B[mo];W[lq];B[pn];W[pm];B[qn];W[qm];B[rn];W[rm];B[ol];W[qp];B[qo];W[sn];B[pp];W[ro];B[po];W[om];B[nl];W[rq];B[qq];W[mm];B[rp];W[qi];B[kn];W[jq];B[pk];W[ml];B[ph];W[pi];B[nj];W[oh];B[pg];W[ni];B[oj];W[oi];B[mi];W[mh];B[lh];W[mj];B[mk];W[li];B[lj];W[ki];B[ll];W[nc]C[黑棋紧夹，白棋高挂黑小目，黑1靠，以下形成乱战
+这是王雷和张维的实战
+
+黑棋:王雷 _白棋:张维])
+(;W[pp]C[比较多];B[qp];W[qq];B[oq];W[qo];B[rp];W[qr]
+(;B[ro]
+(;W[rn];B[qn];W[po];B[rm];W[pn];B[qm]
+(;W[mo]
+(;B[rr];W[nq];B[op];W[oo];B[pr];W[np];B[qs];W[jp];B[jq];W[ip];B[iq];W[hp];B[gq];W[fo];B[hq];W[eq]C[白棋大为有利];B[kp];W[kn];B[ln];W[lo];B[ko];W[jn];B[lm];W[nm];B[go];W[hn];B[fp];W[eo];B[gn];W[gp];B[fq];W[hm];B[ep];W[do];B[dq];W[cq];B[er];W[dr];B[cj]C[白1靠比较常见，常昊（白）和结城的对局中进行如下，白棋大占便宜
+
+黑棋:结城聪 _白棋:常昊])
+(;B[mr]C[黑棋应该先托一个];W[lr];B[op]C[黑棋先托再拐是好次序];W[oo];B[lq]C[常昊和结城聪的对局中黑16不好，这手棋黑棋应该先在1位托一个，再于3位拐才是好次序，这一变化白棋不行])
+(;B[op]C[次序错误];W[oo];B[mr];W[nr];B[mp];W[np];B[nq];W[lp];B[lq];W[mp];B[or];W[lr];B[ns];W[kr];B[jr];W[jq];B[kp];W[ir];B[ko];W[ps]C[上图黑1如果不先托直接拐则是次序错误，白20一尖，黑棋崩溃]))
+(;W[np]LB[mo:a]C[先说说上图白棋的问题出在哪里。
+白15不能在a位跳，白棋只有在本图的1位尖];B[rr];W[op];B[pr];W[nq];B[rq];W[jp]LB[mo:a]C[先说说上图白棋的问题出在哪里。
+白15不能在a位跳，白棋只有在本图的1位尖，至白7这一变化白棋简明]))
+(;W[op];B[nq];W[np];B[mr]C[常结城对局中黑8拐后，白在1位压不好，至黑4白棋角部两子被大吃，不行]))
+(;B[np]
+(;W[op];B[ro];W[qn];B[nq];W[rn];B[nn];W[po]C[常昊和结城实战中的黑8拐如果在本图的1位先尖，则白2挤，黑7跳时，白8冷静地粘上，白棋实地大])
+(;W[po];B[ro];W[rn];B[rm]C[白棋如果不挤而在1位单粘，则黑2拐后再4夹，白棋难办])
+(;W[pn];B[rn];W[ro];B[so];W[no]
+(;B[oo];W[po];B[rl]C[白棋不粘在1位尖怎样呢？黑2跳、4渡，白5靠时，黑6可挖一手，白7无奈，黑8跳后，白棋不好处理])
+(;B[mp];W[op];B[nq];W[rq];B[sp];W[sq];B[sn];W[rm];B[qn];W[qm];B[po];W[oo]C[前图白5靠时，黑切不可随手在1位退，以下至12，黑棋崩溃]))))))
+(;W[nc];B[pf];W[pb];B[qc];W[kc];B[jp]C[很久以前白棋都是在1位小飞挂星，以下至黑6的型比较常见
+这个型最近少见了，显然现在的棋手都认为在中国流的小目方向更大])
+(;W[mp];B[jp]
+(;W[pp];B[qp];W[qq];B[qo];W[rr];B[oq];W[op];B[nq];W[np];B[mq];W[pn];B[qn];W[lq];B[lp];W[kp];B[kq];W[lo];B[lr];W[qm];B[rm];W[rl];B[ql];W[kr];B[lp];W[pm];B[rn];W[lq];B[jq];W[rk];B[rj];W[mr];B[lp];W[qj];B[ko];W[pk];B[rq];W[cn]C[白棋在1位二间高挂也是常见的下法，以下至39是小林光一（黑）和依田纪基的实战，这个结果黑棋不错])
+(;W[oo];B[qo];W[gp];B[jn];W[mm]C[黑棋夹的时候，白棋也可在1位简单飞，以下至白5，因为大贴目的原因，白棋比较简明])))

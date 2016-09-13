@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本]KM[5.5]EV[第14届富士通杯第二轮]DT[2001-04-16]PB[芮乃伟]BR[九段]PW[赵治勋]WR[九段]RE[W+2.5];B[pd];W[dc];B[dq];W[pq];B[df]
+
+;W[ce];B[pn];W[qo];B[de];W[dd];B[cf];W[be];B[po];W[pp];B[qn];W[ro]C[至白16形成了很有趣的棋形，也由此决定了这盘棋外势与实地对抗的格局];B[cn];W[qf]
+
+;B[qh];W[qc]C[白20是“气合”，也体现了赵治勋强烈的自信心];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc];B[mp]C[黑29位是双方好点];W[rn]C[白30似小实大，如被黑走到，白棋角部即显薄弱]
+
+;B[jp];W[ee];B[ef];W[fe];B[ff];W[gf];B[ge]C[白36、黑37双方各不相让，战斗由此拉开序幕];W[gg];B[he];W[fc]C[白40是形的要点，不得不补];B[ei];W[gi]
+
+;B[if];W[ih];B[kg];W[dn];B[cm];W[dp];B[cp];W[eq]C[白46、48、50均含试黑应手之意，并为今后侵削黑模样作准备];B[cq];W[nd];B[ne];W[me];B[nf]
+
+;W[mf];B[mg];W[ld]C[白52至58有先手意味];B[lf]LB[jg:a]C[黑59防白在a位尖断];W[ng];B[og];W[nh];B[mh];W[oh];B[pf];W[fk]
+
+;B[dj]C[黑67先补强自己，再伺机反扑];W[pl]C[白68强硬，在中腹一带补棋是普通的想法];B[gj]C[黑69忍无可忍了];W[ij]C[白70是轻灵的下法，黑上边也有不安定因素];B[fj];W[ph];B[qg];W[mi];B[li];W[lh];B[lg]
+
+;W[kh]C[白74至78下得十分强硬];B[jh]C[黑79有多种选择，对局时大概难以算清，实战的下法比较简明];W[ki];B[ji];W[kj];B[jg];W[jj];B[ii]C[至85的转换，黑虽获得了一定的实地，但白棋也形成了一道厚势];W[hq]C[白86反而有攻击黑棋的味道];B[gk]C[黑87防白封锁，但有迟缓之感];W[jr]C[白88搜根攻击]
+
+;B[hp];W[gp];B[ho];W[ep]C[至白92，白棋当初的残子居然都派上了用场];B[mm]C[黑93过于保守，实在不像芮乃伟九段下的棋];W[nj]C[白94一手补净，应该对黑棋的“友好”表示感谢];B[mk];W[lj];B[bf]C[黑97的价值极大];W[iq]LB[kr:a]C[白98防黑在a位靠]
+
+;B[pj];W[pg];B[rf];W[of];B[oe];W[km]C[白104在作活的同时不忘威胁黑棋];B[jm];W[kl];B[ql];W[qk];B[pk];W[qm];B[rl]
+
+;W[pm];B[ok]C[黑107至113的下法未见便宜];W[ko];B[nn];W[rk]C[至116，黑棋明显亏损];B[kn]C[黑117强硬，但效果不大];W[ln];B[jn];W[lm];B[lo];W[no];B[mn]
+
+;W[mo];B[lp];W[on];B[nl];W[mj];B[rj];W[jl]C[至130，黑棋不能满意];B[np];W[oo];B[nr];W[ic]C[黑133、白134大小近似];B[kd]
+
+;W[kc];B[oc];W[ob];B[nb];W[mb];B[le];W[md];B[gc];W[gb];B[hc];W[hb];B[fb];W[fd]LB[lc:a][jc:b]C[黑147与白148的交换明显亏损，应单走a、b]
+
+;B[lc];W[na];B[jc];W[jb]C[白152巧妙，黑似乎漏算了这一手];B[kb];W[id];B[je]LB[ke:a]C[黑155防白在a位断];W[af]C[白156抢先扳粘，其价值为双先6目];B[ag];W[ae];B[bg]
+
+;W[lr]C[白160为双方根据，黑已凶多吉少];B[go];W[im];B[in];W[hm];B[fp];W[gq];B[fn];W[dm];B[dl];W[fm];B[gm];W[gl]
+
+;B[em];W[gn];B[en];W[ip];B[io];W[fq];B[fo]C[黑179后手连回，很痛苦];W[rm]C[白180是最后的大官子，黑已无胜机];B[qj];W[do];B[er];W[fr]
+
+;B[dr];W[co];B[bo];W[bn];B[bm];W[or];B[eb];W[db];B[sk];W[hk];B[el];W[fl];B[oq]
+
+;W[ek];B[hj];W[op];B[nq];W[bp];B[an];W[bq];B[br];W[ds];B[fs];W[bs];B[ap];W[kq]
+
+;B[kp];W[gs];B[pr];W[qr];B[os];W[es];B[aq];W[qs];B[ja];W[ib];B[mc];W[nb];B[ia]
+
+;W[dk];B[ck];W[cs];B[hn];W[lk];B[nk];W[mr];B[pi];W[ej];B[hi];W[ms];B[ka];W[ha]
+
+;B[jd];W[ec];B[lb];W[se];B[pa];W[qa];B[qb];W[rb];B[ra];W[pb];B[sd];W[sc];B[sm]
+
+;W[sn];B[sf];W[ea];B[ie];W[hl];B[sl];W[og];B[gm];W[sd])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,69 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[弈城风雨会内部比赛]PB[风雨寒江]
+PW[风雨火堂]KM[7.5]RE[白中盘胜]DT[2003年5月]
+C[弈城风雨会内部比赛
+黑：风雨寒江
+白：风雨火堂（皇甫伟）
+
+《围棋天地》2005年第3期
+《弈城风雨一盘棋》]
+
+;B[qd]C[弈城风雨会内部比赛对局
+黑：风雨寒江
+白：风雨火堂
+
+黑棋据说是职业四段。
+白棋是皇甫伟业余6段。
+
+来自《围棋天地》2005年第3期《弈城风雨一盘棋》]
+;W[dc]	;B[dq]
+;W[co]C[白4挂角积极]
+;B[pp]	;W[fq]	;B[ep]	;W[fp]
+;B[en]LB[dn:A]C[黑9在A位飞也很常见。]
+;W[fo]
+;B[cn]C[黑11以下定式很少见，黑棋明显损地。
+黑11还是走A位接住普通。]LB[eo:A]
+;W[bn]	;B[cm]	;W[bm]	;B[ck]	;W[cp]	;B[eo]	;W[cl]	;B[dl]	;W[bl]	;B[dk]
+;W[cq]	;B[dr]	;W[jp]	;B[lq]	;W[gm]	;B[de]	;W[fl]
+;B[fm]LB[gl:A]C[黑29与白A交换也未必好。
+黑棋虽然先手救回11，13两子，但是让白棋走厚了。]
+;W[gl]	;B[fj]	;W[ce]	;B[cf]	;W[cd]	;B[df]	;W[oc]	;B[ec]	;W[eb]	;B[dd]
+;W[cc]	;B[fc]	;W[fb]	;B[hc]	;W[gc]	;B[gd]	;W[gb]	;B[hd]
+;W[qf]C[白48过分，应该A位飞角。]LB[qb:A]
+
+;B[pe]C[黑49尖出后，白棋上面受攻，有些难下。]
+;W[pf]	;B[ne]	;W[of]	;B[oe]	;W[lc]	;B[pc]	;W[rc]	;B[ob]	;W[rd]
+;B[jc]C[白棋面临选择：
+白A位飞，先手弃子。
+实战白B位出逃，其实很危险，因为黑棋左上角厚实。
+]LB[mg:A][le:B]
+;W[le]	;B[nf]	;W[lg]	;B[nh]	;W[li]	;B[qi]	;W[qb]
+;B[mj]C[黑67积极，白棋逃避作战是不可能的，黑棋右下太大。
+明知勉强，白棋也只有A位冲断作战了。]LB[mi:A]
+;W[mi]	;B[ni]	;W[nj]	;B[mk]	;W[oj]	;B[og]	;W[nc]
+;B[pb]LB[md:A]C[黑75很想走A位反击。
+实战黑75稳健。]
+;W[rg]	;B[rh]	;W[mg]	;B[ng]	;W[ol]	;B[nl]	;W[om]	;B[pk]	;W[ok]	;B[kk]
+;W[rk]	;B[md]	;W[ld]	;B[mc]	;W[mb]
+;B[nb]LB[kb:A]C[黑91应该先A位刺，为攻击白棋大龙做准备。]
+;W[jj]	;B[lo]	;W[qn]	;B[kj]	;W[jh]	;B[ji]	;W[ii]	;B[ki]	;W[ih]	;B[kh]
+;W[kg]	;B[jf]	;W[jg]
+;B[hk]C[黑105缠绕攻击，白棋局面已经非常困难了。黑棋可能有一举获胜的良机。]
+;W[il]	;B[ij]	;W[jk]	;B[jl]	;W[ik]
+;B[hj]C[白棋上方大龙是否能做活，看不太清。实战黑棋下法过软，让白棋轻松成活，攻击失败。]
+;W[kb]	;B[jb]	;W[if]	;B[je]	;W[gh]	;B[hi]	;W[gf]	;B[eh]	;W[eg]	;B[fe]
+;W[me]	;B[nd]	;W[hh]	;B[fh]	;W[fg]	;B[dg]	;W[ja]	;B[ma]
+;W[ka]C[白棋做活，黑棋形势不容乐观。]
+;B[im]	;W[em]	;B[fn]	;W[gn]	;B[el]	;W[hl]	;B[jm]	;W[io]	;B[jr]	;W[kr]
+;B[jq]C[黑141胜负手，最后一博。]
+;W[kp]	;B[kq]	;W[lp]	;B[mp]
+;W[mo]C[中腹黑棋被断，攻守逆转。]
+;B[ln]	;W[mn]	;B[mm]	;W[nm]	;B[km]	;W[ll]
+;B[ip]C[黑153苦肉计，为了做活中腹。]
+;W[hp]	;B[jo]	;W[iq]	;B[ko]	;W[ip]	;B[ml]	;W[in]	;B[np]	;W[oo]	;B[jn]
+;W[op]	;B[oq]
+;W[pq]C[黑棋角被穿破，白棋胜定。]
+;B[no]	;W[nn]	;B[nr]	;W[or]	;B[nq]	;W[qq]	;B[hm]	;W[hn]	;B[br]	;W[cr]
+;B[cs]	;W[bk]	;B[bj]	;W[bq]	;B[gr]	;W[gq]	;B[hr]	;W[go]	;B[ql]	;W[pj]
+;B[qo]	;W[qm]	;B[lb]	;W[kc]	;B[pr]	;W[qr]	;B[os]	;W[qs]	;B[pg]
+;W[re]C[白中盘胜。]
+)

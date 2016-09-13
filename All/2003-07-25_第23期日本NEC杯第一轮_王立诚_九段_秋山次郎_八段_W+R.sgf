@@ -1,0 +1,16 @@
+(;SZ[19]EV[第23期日本NEC杯第一轮]DT[2003-07-25]PC[日本]PB[王立诚]BR[九段]PW[秋山次郎]WR[八段]KM[5.5]RE[W+R]US[棋圣道场]SO[http://weiqi.tom.com]C[http://weiqi.tom.com
+棋圣道场-->精彩时局];B[pd];W[dd];B[pq];W[cp];B[eq]
+;W[qo];B[qk];W[nq];B[op];W[np];B[no];W[mo];B[oo];W[mn]C[白14好手];B[nm];W[gq];B[lp];W[mp]
+;B[eo];W[go]LB[dn:a][hp:b]C[白20如a位飞，则黑b，白棋不利];B[cn];W[qr];B[pr]LB[rp:a]C[黑23如a位，则白23位渡过，黑不满];W[qq];B[qm];W[qn];B[rm]
+;W[pm];B[om]LB[ol:a][pl:b][pk:c][pn:d][nn:e][rn:f][qs:g][lq:h]C[黑29有疑问，应a位尖、白b、黑c、白d、黑e、白f活棋时，黑g位扳粘是先手，黑棋即产生了h位立的手段，黑棋有利];W[pl];B[ok]LB[pn:a][pk:b][pj:c][mk:d]C[黑31如a位断，则白b、c连压后，再于d位跳封，黑棋危险]
+;W[pk];B[pj];W[ql];B[rl];W[qj];B[rk];W[pn];B[pi];W[ol];B[mm]LB[nl:a][nk:b][oj:c][qi:d][qh:e][nj:f]C[黑41如a位挡，则白b、黑c、白d、黑e、白f，黑不行]
+;W[nk]C[至42的结果，黑棋明显失败];B[mk];W[mj];B[kn];W[lq];B[lk];W[oj];B[jp];W[jr];B[hp];W[gp];B[ir]LB[jk:a][lj:b]C[黑53过分，在a位跳或b位拐方为本手]
+;W[lm]C[白54严厉];B[ln];W[km];B[jm];W[kl];B[lj];W[jl];B[nl];W[jn];B[kp]LB[ko:a][io:b][kr:c][kq:d][jq:e][im:f][in:g][ip:h][jo:i]C[黑63不可理解，当然应a位弯，白如b位尖，则黑c、白d、黑e，对杀黑棋有利，所以黑a时，白棋只能e位长、黑f、白b、黑g、白h、黑i后，黑棋尚留有打劫的手段]
+;W[lo];B[ko];W[jq];B[im];W[io]TR[kp]C[至68，即可看出当初黑△的不当];B[mi];W[qi];B[qh];W[ph];B[oi];W[ni];B[oh]
+;W[nh];B[og];W[nj];B[il];W[jj];B[ik];W[jk];B[lh];W[ip]C[白84后，黑棋已无胜机];B[ng];W[mh];B[mg];W[li]
+;B[ki];W[rn];B[mi];W[ok];B[ih];W[ic];B[fd];W[rh];B[pg];W[df];B[oc];W[hf];B[hd]
+;W[id];B[ie];W[he];B[hc];W[hb];B[gb];W[ib];B[je];W[fc];B[qs];W[rs];B[ps];W[rq]
+;B[ec];W[fb];B[eb];W[gd];B[cc];W[cd];B[bc];W[bd];B[dc];W[dq];B[dp];W[cq];B[dr]
+;W[do];B[ep];W[co];B[dn];W[cr];B[em];W[bb];B[ab];W[fn];B[en];W[cj];B[dg];W[ej]
+;B[ch];W[fl];B[dk];W[dj];B[fr];W[bo];B[bl];W[ck];B[cs];W[bs];B[cl];W[eh];B[eg]
+;W[fe];B[ds];W[bq];B[gr];W[gh];B[kc];W[qc];B[re];W[rf];B[qd];W[ri])

@@ -1,0 +1,27 @@
+(
+;
+FF[4]
+EV[Lightning game]
+PB[nori]
+BR[4d*]
+PW[pineapple]
+WR[6d*]
+KM[0.5]
+DT[2000-04-27]
+PC[IGS]
+RE[B+T]
+TM[60]
+
+;B[qd];W[dd];B[fc];W[id];B[cf];W[fd];B[gd];W[fe];B[dc];W[ec]
+;B[eb];W[ed];B[gb];W[cc];B[db];W[ge];B[dp];W[cj];B[pp];W[od]
+;B[pf];W[cn];B[fp];W[qh];B[ne];W[nd];B[me];W[md];B[le];W[ld]
+;B[qk];W[oh];B[qg];W[qc];B[rc];W[rg];B[pc];W[qe];B[rf];W[pe]
+;B[ng];W[re];B[rh];W[qf];B[pg];W[sf];B[ph];W[qb];B[np];W[qi]
+;B[pi];W[ri];B[jp];W[pj];B[qj];W[pk];B[rj];W[sh];B[pl];W[nj]
+;B[nk];W[oj];B[mj];W[ql];B[rl];W[qm];B[ni];W[sj];B[rk];W[ol]
+;B[pm];W[mk];B[nl];W[om];B[pn];W[ok];B[qn];W[mm];B[ml];W[ll]
+;B[lk];W[nm];B[mk];W[km];B[kk];W[im];B[hk];W[io];B[ln];W[lm]
+;B[gm];W[ip];B[jn];W[in];B[jm];W[jl];B[il];W[jk];B[kl];W[jj]
+;B[li];W[mp];B[jo];W[no];B[nq];W[lo];B[jq];W[kn];B[lq];W[mq]
+;B[kr];W[mr];B[nr];W[oi];B[nh];W[lp];B[mn];W[ir];B[iq];W[hq]
+;B[jr];)

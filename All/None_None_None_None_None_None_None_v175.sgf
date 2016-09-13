@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]GN[第11期NHK杯争夺战决赛]DT[1964.03.15]PB[藤泽秀行九段]BR[]PW[坂田荣男]WR[]RO[]PC[]US[棋迷大本营melody]SO[]C[]RE[W+R]GM[5.5];B[qd];W[dc];B[pq];W[cq];B[oc];W[qo];B[pl];W[pn];B[qp];W[rp];B[rq];W[pp];B[qq];W[op];B[nq];W[ce];B[ic];W[qh];B[qf];W[pj];B[nl];W[ql];B[co];W[cm];B[ep];W[do];B[dp];W[cp];B[dn];W[bo];B[eo];W[cn];B[fc];W[jd];B[jc];W[kd];B[ee];W[id];B[hd];W[he];B[gd];W[de];B[eg];W[kc];B[jg];W[hg];B[dm];W[dl];B[el];W[ek];B[fk];W[dk];B[fj];W[ed];B[ge];W[ig];B[ff];W[jh];B[eb];W[db];B[dr];W[iq];B[kq];W[io];B[fl];W[cr];B[ko];W[jn];B[hp];W[ip];B[kl];W[kn];B[ln];W[lm];B[mn];W[km];B[qm];W[pm];B[qk];W[pk];B[rl];W[ol];B[om];W[ql];B[kh];W[pl];B[ji];W[ih];B[jf];W[if];B[jl];W[lp];B[lg];W[nc];B[mc];W[md];B[nb];W[nd];B[mb];W[mf];B[ng];W[od];B[pd];W[mg];B[mh];W[lf];B[kp];W[mm];B[np];W[no];B[nn];W[nm];B[on];W[lo])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

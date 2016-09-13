@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第十三届碁圣战]RO[2]PB[林海峰]BR[九段]PW[王铭琬]WR[七段]KM[5.5]DT[1988-02-10]PC[日本]RE[B+R]TM[18000];B[pd];W[dd];B[qp];W[cq];B[oq];W[qk];B[cf];W[fc];B[bd];W[cc];B[ci];W[qf];B[pi];W[qn];B[pf];W[pe];B[oe];W[qe];B[qd];W[rd];B[rc];W[qh];B[od];W[ph];B[pk];W[pl];B[ol];W[pm];B[nk];W[qj];B[kc];W[ep];B[iq];W[ck];B[nn];W[oo];B[mp];W[ic];B[gq];W[fq];B[gp];W[dm];B[en];W[dn];B[bk];W[bj];B[cj];W[bi];B[dk];W[cl];B[bh];W[bl];B[dh];W[gn];B[fr];W[er];B[fp];W[eq];B[hm];W[hn];B[in];W[im];B[jn];W[il];B[gm];W[km];B[jm];W[jl];B[kl];W[mo];B[no];W[op];B[nq];W[pq];B[qq];W[np];B[mq];W[nm];B[mn];W[mm];B[kk];W[ln];B[lo];W[on];B[mo];W[io];B[jo];W[jp];B[ko];W[ij];B[om];W[fn];B[gk];W[fm];B[hk];W[kj];B[lj];W[ki];B[li];W[mk];B[lk];W[ek];B[gi];W[kd];B[lc];W[ip];B[jq];W[jd];B[ii];W[kh];B[jj];W[ld];B[mc];W[bc];B[ji];W[nj];B[mj];W[ml];B[oj];W[ni];B[oi];W[nh];B[lm];W[hp];B[jb];W[kp];B[kq];W[gr];B[hr];W[fs];B[hq];W[re];B[ib];W[sc];B[rb];W[hb];B[ro];W[rn];B[ee];W[de];B[df];W[fe];B[ef];W[be];B[qo];W[oh];B[ll];W[ff];B[ed];W[ec];B[hf];W[gd];B[ce];W[cd];B[bf];W[ad];B[ej];W[dl];B[lh];W[dj];B[ei];W[kg];B[fg];W[sb];B[ha];W[gb];B[sn])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

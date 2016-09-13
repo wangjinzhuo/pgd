@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届中国天元战决赛第二局]DT[2001-03-05]PC[]PW[丁伟]WR[七段]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com/]PB[常昊]BR[九段]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]RE[B+R];B[pd]C[第一局常昊执白中盘胜，这是第二局];W[dp];B[pq];W[dd]
+
+;B[fq];W[cn];B[jp];W[qn];B[qp];W[qk];B[qi]C[至黑11止是常见的布局];W[on]C[白12不愿被黑在此镇头];B[pm]C[黑13试白应手];W[pn]LB[qm:a][fc:b]C[白14如在a位挡，则黑b位挂角，并瞄着14位的冲断]
+
+;B[mp];W[ok]LB[jc:a]C[白16略显迟缓，在a位拆边更为积极];B[fc];W[hc];B[cf];W[fd];B[cc]LB[gd:a][gc:b]C[黑21不作黑a、白b的交换是好手];W[cd]LB[dc:a]C[白22不肯在a位挡]
+
+;B[dc];W[ed];B[fb];W[bd];B[gc]C[黑27是争先的好手，如直接走a位，则白可能走b位，黑不满]LB[bc:a][dg:b];W[gd];B[dj]C[黑29抢先拆边，可以满意];W[hb];B[bc]LB[hd:a]C[黑31后扔瞄着a位的断点，黑可满意]
+
+;W[nc];B[qf];W[pc];B[qc];W[qb];B[qd];W[ch]LB[ob:a]C[白38是争胜负的态度，如按常规在a位补，白布局明显落后];B[dh];W[di];B[ci];W[ei];B[bh]C[黑39至43利用征子有利之机和白作战]
+
+;W[cj];B[bi]LB[cg:a]C[黑45如在a位提，则白45位打吃，黑不利];W[eh]LB[ck:a]C[白46如a位退，黑走46位，白不行];B[ck];W[dg]C[至48的转换，黑获先手，可以满意];B[oc]LB[od:a]C[黑49如不走，担心白棋利用劫材有利在a位虎];W[nd];B[mf]C[黑51好手，防白在a位跳作大模样和黑拚命]LB[ng:a]
+
+;W[pb]LB[le:a]C[白52已没有在a位围地的心情];B[od];W[ob];B[le]C[黑55想先手便宜];W[hq]C[白56打入是胜负手，如继续在上边补棋，无异于坐以待毙];B[lc]C[黑57先手跳，很愉快];W[kd];B[ld];W[rc];B[rd]
+
+;W[rb];B[hp];W[ip];B[io];W[iq];B[gp];W[jq]C[黑63至白68是常形];B[lq]C[黑69凶狠，在以往的快棋赛中出现过，结果获得成功];W[fr]LB[kp:a][jo:b][kq:c][ln:d]C[白70在a位、黑b、白c、黑d罩，白无出路]
+
+;B[er];W[gr];B[eq]LB[dq:a]C[黑73在a位虎似乎更为强劲];W[cr]C[白74出人意料，大概不这样不足以争胜负。黑是否敢硬吃白棋呢？];B[kr]C[黑75毫不手软];W[ho]LB[fs:a][cq:b]C[白76如走a位，则黑b，白不行];B[jo];W[hn]
+
+;B[jr]C[黑79简明];W[ep];B[gq];W[hr];B[fs]C[至黑83，黑大成功];W[bl];B[bk];W[cl];B[ej];W[fj];B[fk];W[gk]
+
+;B[fl];W[jf];B[dl]LB[dk:a]C[黑93是优势下的简明下法，防白在a位破眼和黑拚命];W[lg];B[mg];W[mh];B[lh];W[lf]C[白94至98近乎无理，白只有寄希望于乱中取胜];B[ke];W[jg];B[ne]
+
+;W[nh];B[id];W[hd];B[ie]LB[jm:a]C[黑105缓手。当然应于a位跳出];W[ph];B[qh];W[kn]C[白108好手，白中腹潜力巨大。];B[jm]LB[lo:a][go:b]C[黑109，如单走a位则白b收气，黑不满。];W[jn]
+
+;B[in];W[im];B[hm];W[il]LB[kp:a][ko:b][kq:c][mn:d]C[白114，如在a位打吃，则黑114，白b打吃，黑112接，白c位接，黑d位跳攻，白不行。];B[lo];W[gl]C[白116，好手];B[gn]LB[lm:a]C[黑117的价值比走a位大。]
+
+;W[ln];B[mn];W[mm]C[至120，白中腹成确定地，黑的领先差距缩小了。];B[dn];W[do];B[cm];W[bm];B[dm];W[bo];B[hf];W[hg];B[hl];W[hk]
+
+;B[gm];W[ik];B[ro];W[op];B[oq];W[fa]C[白136是收官的好手。];B[ga];W[gb];B[da];W[rn];B[qj];W[rk];B[oj]
+
+;W[nj];B[oi];W[ni];B[dr];W[cq];B[nn];W[nm];B[gf];W[if];B[he];W[gg];B[pk];W[pl]
+
+;B[pj];W[ol];B[rj];W[np];B[nq];W[mb];B[jb];W[cg];B[bg];W[ff];B[be];W[ac];B[ab]
+
+;W[ad];B[ba];W[sd];B[se];W[sc];B[rf];W[pg];B[df];W[ef];B[sk];W[sl];B[rl];W[ql]
+
+;B[sm];W[sn];B[fo]C[黑185，抢得后手5目，黑小胜的局面难以改变。];W[lb];B[cs];W[bs];B[ds];W[bq];B[ng];W[oh];B[pf];W[rp];B[rq]
+
+;W[sp];B[sq];W[so];B[sj];W[je];B[jd];W[rm];B[sl];W[qo];B[pp];W[oo];B[mo];W[ge]
+
+;B[kc];W[ic];B[jc];W[ha];B[kf];W[kg];B[ko];W[lm];B[qg];W[og];B[of];W[eo];B[en]
+
+;W[ak];B[aj];W[al];B[de];W[ee];B[ae];W[ce];B[bf];W[ka];B[ja])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

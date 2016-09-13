@@ -1,0 +1,67 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[吴氏杯国际城市围棋邀请赛]PB[蔡建鹏]
+PW[杨桥]RE[黑胜7目半]C[吴氏杯国际城市围棋邀请赛
+黑：蔡建鹏  业余6段
+白：杨    桥  业余6段
+
+
+《围棋天地》2004年第16期
+《追忆似水年华》
+]DT[1995年12月5日]
+BR[业余6段]WR[业余6段]KM[5.5]
+;B[pd]	;W[dp]	;B[pp]	;W[dd]	;B[fq]	;W[cn]	;B[ip]	;W[qn]	;B[nq]
+;W[rp]LB[qq:A][qk:B]C[黑如果A位应，白B，乏味。]
+
+;B[ql]C[黑11注重全局]
+;W[qq]	;B[qo]	;W[ro]	;B[pn]	;W[pm]	;B[qm]	;W[rn]	;B[om]	;W[nc]	;B[pf]
+;W[fc]
+;B[pr]C[黑23试应手，机敏。
+以后下的话，白棋可能走A位，然后B位打吃争先手。]LB[pq:A][qp:B]
+;W[qr]
+;B[nj]C[黑25防征子，生动]
+;W[kd]	;B[ci]	;W[cg]	;B[cl]
+;W[fp]LB[dr:A][hm:B][lf:C][fn:D]C[白30如果走A位守角，黑棋将在B位或者C位扩张模样。
+白棋向中腹行棋思路正确，但是白30损实地，不如走D位出头。]
+;B[gp]	;W[fo]
+;B[er]C[黑33走A位托比较好，可以争得先手。]LB[dq:A]
+
+;W[go]C[白34舒服]
+;B[hp]	;W[dk]
+;B[ei]C[黑37灵活。如果黑走A位应，被白B长出，黑棋出头不畅，右边阵势受到影响。
+弃子经营中腹是好思路。]LB[ck:A][dj:B]
+;W[ck]	;B[ek]	;W[dl]	;B[eg]	;W[ce]
+;B[hm]LB[im:A][il:B][in:C]C[黑43不好，过于靠近厚势，应该走在A位或者B位。实战留有白C位飞出的缺陷]
+
+;W[hk]C[白44好手，击中要害。]
+
+;B[hi]C[黑45只能反击]
+;W[jk]
+;B[jm]C[黑47不得不补]
+
+;W[gg]C[白48不好，应走A位，这样B位的靠断非常严厉]LB[hg:A][gi:B]
+;B[hg]	;W[hf]	;B[ig]	;W[gh]	;B[gi]	;W[hh]	;B[ii]	;W[ih]
+;B[jh]C[黑棋顺调走强中腹。
+如果白A位断，黑B位粘，黑充分可战。]LB[ji:A][jg:B]
+;W[jg]	;B[if]	;W[jf]	;B[ie]
+;W[ge]LB[ff:A]C[白62应走A位虎]
+;B[kh]	;W[je]
+;B[fl]C[至黑65形成转换。白上边成实地，黑棋中央吃掉2子成空，得失相当。但是黑棋全盘变厚，由下到右连成一片，黑优势。]
+
+;W[qk]LB[hn:A][im:B][in:C][gm:D][ji:E][mh:F][qh:G]C[白66之前应先走A位尖试应手。如果黑B应，则便宜3目。如果黑C应，则白D位先手虎断，留有E位先手断的借用，白棋可以F位吊，或者G位打入。]
+;B[pk]
+;W[qj]C[白68败招。次序错误，应先走A位试应手，如果黑棋还是应在B位，就少了白68和黑C的交换，白棋右边还有先手大官子可收，形势很接近。]LB[rf:A][qg:B][rl:C]
+
+;B[rl]C[黑69立下，白大损]
+;W[rf]	;B[qg]	;W[qc]	;B[qd]	;W[pc]	;B[rc]	;W[ne]	;B[ng]	;W[od]
+;B[pe]C[至黑79白棋无功而返回]
+;W[dr]	;B[dq]	;W[cq]	;B[eq]	;W[cr]	;B[ch]	;W[rb]	;B[rd]	;W[bg]
+;B[fm]C[黑89胜利宣言]
+;W[lg]	;B[lh]	;W[or]	;B[nr]	;W[pq]	;B[oq]	;W[ps]	;B[kg]	;W[ns]	;B[mr]
+;W[ms]	;B[ls]	;W[os]	;B[lr]	;W[bj]	;B[le]	;W[ld]	;B[sb]	;W[ra]	;B[ep]
+;W[eo]	;B[ds]	;W[cs]	;B[es]	;W[do]	;B[ff]	;W[gf]	;B[fh]	;W[ho]	;B[io]
+;W[hn]	;B[in]	;W[lf]	;B[kf]	;W[ke]	;B[fe]	;W[fd]	;B[mg]	;W[mf]	;B[nf]
+;W[me]	;B[ah]	;W[ag]	;B[dj]	;W[dg]	;B[dm]	;W[cm]	;B[ee]	;W[bh]	;B[bi]
+;W[ai]	;B[cj]	;W[bl]	;B[dh]	;W[ed]	;B[fg]	;W[gd]	;B[el]	;W[dn]	;B[em]
+;W[qp]	;B[po]	;W[df]	;B[sm]	;W[oe]	;B[of]	;W[sn]	;B[gm]	;W[rm]	;B[sl]
+;W[de]	;B[sc]
+;W[qb]C[黑胜7目半]
+)

@@ -1,0 +1,45 @@
+(;C[安井仙知，旧名中野知得，是安井家的第八世传人。他比丈和大十一岁。可谓是丈和的老前辈，晚年仍棋力不衷。
+　　本局由四月十日开始。当天仅下了55手打挂，四月三十日续弈84手打挂，五月十四日夜以继日，一直下到十五日晚6时方告终局。这是一场龙争虎斗，弈得精彩绝伦，双方构思巧妙、算路深远、着法细腻，实属难得的佳作，因而，被日本棋界称为“当世极妙棋”。]
+AP[StoneBase:SGFParser.1.8]SZ[19]GN[丈和的真髓之六：当世极妙棋]GC[丈和经过三小时下黑101,相传他此时已预知终局胜负之数.同样,知得经过三小时下102后,也得出白至少负一目得结论.]
+EV["当世极妙棋"]DT[日本文政三年(1820)四月十日至五月十五日]PB[本因坊丈和]BR[七段]
+PW[安井仙知]WR[八段]HA[0]RE[黑胜2目]SO[日本围棋历史名局精选]CP[蜀蓉棋艺出版社　吴玉林　韩念文]
+AN[由wind_blade@tom.com录入]
+;B[qd];W[dc];B[cp];W[pq];B[ep];W[oc];B[ce];W[ci];B[ck];W[ed];B[df];W[ei];B[dh];W[di]
+;B[bc];W[cg];B[dg];W[bf];B[ch];W[bh];B[cf];W[bg];B[be];W[hc];B[ek];W[bj];B[qo];W[jq]
+;B[op];W[oq];B[np];W[nq];B[mp];W[mq];B[lp];W[lq];B[pe];W[qj];B[nd];W[mc];B[qh];W[bk]
+;B[ql];W[oj];B[bl];W[cl];B[dl];W[cm];B[bm];W[dm];B[em];W[dn];B[bn];W[en];B[fk];W[fm]
+;B[gg];W[gh];B[gj];W[fh];B[fg];W[hg];B[hf];W[hh];B[ge];W[ij];B[hl];W[dq];B[dp];W[gl]
+;B[gk];W[hm];B[ik];W[im];B[gn];W[gm];B[jk];W[cq];B[bq];W[br];B[bp];W[fr];B[fq];W[er]
+;B[hq];W[kl];B[kk];W[ll];B[jh];W[jg];B[kh];W[if];B[ie];W[kg];B[lh];W[ol];B[ar];W[ds]
+;B[gr];W[fs];B[jc]C[　黑棋飞下这手棋，丈和竟长考了三个小时，一子落盘，安井知得神色骤变，接着，白102靠同时也长考了三个小时之久。
+　　传说当初丈和下出这手棋后，就已经得出黑胜两目的结论，对手知得见后“大为惊恐”，他认为：“这盘棋终不可胜，但力争要下成一目之差”。可惜未能如愿。正因为有此传说，本局还留下了“101手预言终局”的美名。
+　　古人的技艺有许多常常是传到后来被神秘化了。如此局面预言终局，难以令人置信。但对局双方处心积虑、精妙绝伦的着法确是让人佩服之至。
+　　日本的高木祥一九段评曰：“我怀疑此局面时是否即能正确地算出白棋二目负，假如进入官子阶段说出这话倒可相信，但此时尚未定型的地方还很多。现在只能说：小输赢，形势白棋不容乐观。二目胜负的数字从何而来呢，我以为都是好事的传言者所为。”
+]
+;W[jd];B[je];W[kd];B[ke];W[ld]
+(;B[ih]C[黑棋先手刺是本手。留下A位切断白三手的权利。]LB[ig:A];W[ai]C[白棋做活是正着，如A位粘则大块危险。]
+LB[ig:A];B[gc]C[黑棋靠，侵入上边，十分严厉。];W[gb]
+(;B[fc]
+(;W[gd]C[白棋挖是妙手！这是此时唯一的处理手筋]
+(;B[fb]C[黑棋拐下是当然之着。];W[fd];B[hb];W[hd];B[ig];W[ib];B[ga]
+(;W[jb]C[白棋此着为本手。];B[db]C[黑棋托过，至此均为必然之着，双方用尽了浑身解数。上边的攻防战非常精彩，称本局为“极妙的一局”是有道理的。]
+;W[on];B[pp];W[rp];B[ro];W[qp];B[pn];W[mn];B[sp];W[rr];B[rk];W[rj];B[pk];W[qk];B[pl]
+;W[rh];B[pj];W[qi];B[pi];W[gp];B[hp];W[go];B[gq];W[qg];B[ho];W[jo];B[ph];W[rl];B[rm]
+;W[sk];B[ko];W[kp];B[jn];W[kn];B[in];W[jm];B[lo];W[hn];B[io];W[fo];B[pc];W[ob];B[pb]
+;W[le];B[lf];W[ec];B[eb];W[re];B[od];W[ok];B[ma];W[mb];B[oa];W[la];B[na];W[id];B[jp]
+;W[kq];B[rd];W[hi];B[mj];W[ln];B[rf];W[qf];B[qe];W[rg];B[se];W[sq];B[ir];W[jr];B[mk]
+;W[oo];B[po];W[he];B[jf];W[fe];B[gf];W[cc];B[cb];W[me];B[nm];W[om];B[nl];W[nn];B[sm]
+;W[sl];B[ak];W[cj];B[dk];W[mm];B[jl];W[el];B[fl];W[km];B[bs];W[cr];B[iq];W[ml];B[nk]
+;W[mg];B[lg];W[ef];B[eg];W[lk];B[lj];W[jj];B[kj];W[cd];B[mf];W[bd];B[ad];W[ni];B[so]
+;W[mi];B[ng];W[mh];B[ne];W[of];B[nf];W[og];B[ha];W[af];B[ae];W[lb];B[ia];W[ja];B[pm]
+;W[co];B[bo];W[sg];B[js];W[ks];B[is];W[sf];B[re];W[gs];B[em];W[hs];B[de])
+(;W[db]C[白棋立下，强行杀黑，显得过份。];B[ic];W[jb];B[kb];W[kc];B[id];W[lb];B[ea]
+;W[eb];B[cb];W[da];B[dd];W[ec];B[ia];W[ka]C[黑虽然是缓气劫，但先手在握，劫材丰富，白棋不利。]))
+(;B[fd]C[黑棋如果走这里....];W[fb]C[白棋可以安然渡过。]))
+(;W[fb]C[白棋如果爬...];B[hb]C[黑棋断是好手。]
+(;W[ib];B[ic];W[ha];B[id]C[白棋明显不利。])
+(;W[ic];B[ib];W[jb];B[id];W[hd];B[gd];W[kc];B[he];W[jc];B[eb]C[白棋两子被吃，显然更不行。])))
+(;B[hb]C[黑棋断也是手筋];W[ic];B[fb];W[gd];B[fc];W[fd];B[ib];W[jb];B[ga];W[hd];B[ig]
+;W[qb]C[至此是可以预见的变化。]))
+(;B[ai]C[黑棋实战如改在这里点眼杀白则过于勉强。];W[hj];B[hk];W[ih]C[以下A、B位见合　。]
+LB[jj:A][lg:B]))

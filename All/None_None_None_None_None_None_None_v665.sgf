@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]GN[中国围棋团体赛]DT[1991/05/07]PB[方天丰]BR[]PW[钱宇平]WR[]RO[]PC[长沙]US[棋迷大本营melody]SO[]C[]RE[W+R]GM[5.5];B[pd];W[dd];B[pq];W[dp];B[qo];W[kq];B[cn];W[fp];B[bp];W[cq];B[ck];W[nq];B[fc];W[cf];B[db];W[cc];B[ic];W[qf];B[qe];W[pf];B[nd];W[qj];B[ql];W[re];B[rd];W[rf];B[ch];W[dl];B[cl];W[dn];B[co];W[jo];B[cb];W[dh];B[di];W[dg];B[ei];W[bh];B[ci];W[bg];B[oc];W[jd];B[jc];W[ld];B[nf];W[kc];B[ke];W[kd];B[he];W[mc];B[lb];W[kb];B[mb];W[kf];B[bc];W[bd];B[ab];W[fe];B[ef];W[ee];B[ge];W[le];B[ff];W[df];B[ho];W[hp];B[ri];W[rj];B[qi];W[pj];B[mf];W[kh];B[be];W[ad];B[bi];W[ah];B[bf];W[cg];B[li];W[oh];B[rk];W[sk];B[jj];W[ig];B[lg];W[ie];B[hf];W[if];B[ii];W[hd];B[gd];W[hc];B[hb];W[ib];B[jb];W[ja];B[ia];W[ka];B[gb];W[nb];B[nc];W[ma];B[lq];W[lr];B[kp];W[lp];B[ko];W[jq];B[ip];W[jp];B[gp];W[hq];B[fo];W[gq];B[ep];W[go];B[eq];W[do];B[eo];W[gn];B[em];W[en];B[fn];W[fm];B[dq];W[cp];B[cr];W[bq];B[br];W[el];B[aq];W[dm];B[cm];W[hl];B[sl];W[sj];B[pm];W[or];B[pr];W[fr];B[oq];W[nr];B[kn];W[mo];B[jm];W[im];B[np];W[no];B[op];W[mp];B[og];W[ph];B[oj];W[ok];B[nk];W[nj];B[oi];W[pi];B[ni];W[sd];B[sc];W[se];B[ob];W[na];B[oa];W[la];B[rc];W[pl];B[qm];W[mj];B[mi];W[mk];B[nl];W[ml];B[om];W[mm];B[jn];W[ec];B[eb];W[jk];B[ik];W[kk];B[il];W[jl];B[hm];W[in];B[gl];W[gm])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

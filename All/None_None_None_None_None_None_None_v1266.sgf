@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GN[日本第04届天元赛]
+
+RO[2]
+
+PW[加藤正夫]
+
+BR[九段]
+
+PB[藤泽秀行]
+
+WR[九段]
+
+SO[http://xuyang.yeah.net]
+
+US[xuyang]
+
+DT[1979-11-22]
+
+PC[Japan]
+
+RE[W+R]
+
+KM[5.5]
+
+
+
+;B[pd];W[cq];B[pq];W[cc];B[pk];W[nc];B[pf];W[pb];B[qc];W[kc]
+
+;B[jp];W[po];B[qp];W[mo];B[op];W[nn];B[mp];W[lp];B[np];W[lo]
+
+;B[lq];W[fq];B[pm];W[kq];B[kp];W[jq];B[iq];W[ir];B[ip];W[lr]
+
+;B[mq];W[hr];B[jm];W[ol];B[pl];W[mk];B[lm];W[ml];B[kk];W[mi]
+
+;B[ki];W[kn];B[km];W[lh];B[jg];W[lf];B[ok];W[jj];B[kj];W[nj]
+
+;B[md];W[mc];B[kd];W[oe];B[je];W[ph];B[of];W[ne];B[nf];W[me]
+
+;B[oi];W[oh];B[nh];W[oj];B[qi];W[pi];B[qh];W[jc];B[dd];W[dc]
+
+;B[ed];W[be];B[dg];W[dj];B[cp];W[dq];B[dn];W[fj];B[ec];W[fn]
+
+;B[cl];W[ck];B[dl];W[fl];B[bq];W[br];B[dp];W[ep];B[gm];W[fm]
+
+;B[bp];W[jh];B[kh];W[kg];B[ig];W[ih];B[hj];W[ij];B[hh];W[hk]
+
+;B[ik];W[hi];B[ji];W[ii];B[gi];W[gj];B[jk];W[hj];B[ln];W[bl]
+
+;B[bm];W[bk];B[am];W[gd];B[hd];W[he];B[id];W[gc];B[kf];W[lg]
+
+;B[ge];W[gf];B[fe];W[hg];B[hb];W[gb];B[hc];W[eb];B[fb];W[fc]
+
+;B[db];W[fa];B[cb];W[bb])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

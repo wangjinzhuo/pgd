@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[中国棋圣赛]DT[2000-11-19]PC[中国棋院]KM[5.5]RE[B+R]US[棋圣道场]SO[http://weiqi.cn.tom.com/]PB[邱峻]BR[六段]PW[林锋]WR[四段];B[pd];W[dd];B[qp];W[cp];B[oq]
+
+;W[eq];B[cj];W[qj];B[cm];W[qm]C[白棋的趣向。];B[fc];W[cf];B[db];W[cc];B[ic]C[至此的布局，黑棋简明易下。];W[qf];B[nc]
+
+;W[rd];B[ch];W[cb];B[pj]C[观白应手，是有趣的一着。];W[qi]LB[pi:a][qk:b][pk:c][om:d]C[有疑问，当于a位扳起为好。以下黑b位扳下、白22位接、黑c位接、白d位跳起。];B[pf];W[qg];B[ph]C[强手，十分有力。白棋难受。]
+
+;W[pg];B[og];W[kc];B[qk]C[严厉];W[pi]C[不得已];B[oi];W[oj]LB[pk:a]C[必然。若是于a位断打，被黑32位接起后，黑棋外势甚好。];B[pk];W[nj];B[ol];W[of]
+
+;B[nf];W[oe];B[ne];W[pe];B[oh];W[qh];B[mg]C[至此，形成分断作战的局面。黑棋隔下白10一子可谓成功。];W[lj];B[ml]C[好点];W[ke];B[mi];W[hd]
+
+;B[hc];W[gd];B[id];W[ie];B[gc];W[je];B[mj]C[吃掉白二子极厚，黑棋优势。];W[rp]C[动出白一子是当务之急。];B[rq];W[pp];B[pq];W[qo]
+
+;B[qq];W[nm];B[nl];W[no];B[np];W[po];B[mo];W[mn];B[lo];W[ln];B[kn];W[om];B[jo]C[稍缓，当于a位拦，黑明显优势。]LB[gq:a]
+
+;W[hq];B[ig]C[是攻守兼顾的好点。];W[hg];B[ed];W[gf];B[de];W[ee];B[dc];W[cd];B[hh];W[gh];B[hf];W[gg]
+
+;B[fe];W[ef];B[he];W[ge];B[if];W[jb];B[ld];W[md];B[le];W[mc];B[nd];W[ih];B[jg]
+
+;W[ib];B[kd]C[吃白三子可以满意。];W[lc];B[hi]C[过分。];W[dk];B[ck];W[ii];B[ij];W[hj];B[gi];W[jj];B[ik]
+
+;W[ji];B[kh];W[hk]LB[il:a][fj:b]C[以下a位吃黑二子与b位夹、两点必得其一，白有所得。];B[fi];W[il];B[jq];W[cn];B[dm];W[fk]LB[ho:a]C[问题手。此时当于a位关补，局面接近。]
+
+;B[dq]LB[dp:a][er:b]C[好时机。白若a位应，黑有b位扳的手段];W[dr];B[fr]C[机敏的好手。至125托渡实利很大。黑保持领先地位。];W[er];B[hr];W[bn];B[ej];W[ek];B[bm];W[dj]
+
+;B[di];W[bg];B[bh];W[am];B[al];W[an];B[bk];W[hb];B[gq];W[fd];B[ec];W[gb];B[jd]LB[lf:a]C[不可省，否则白143位冲后a位打，即可杀黑。]
+
+;W[qb]LB[rc:a]C[胜负手。若在中央补棋，被黑占到a位靠，白空不够。];B[kl];W[kk];B[rk];W[rn];B[sp];W[rl];B[dg];W[df];B[gl];W[fj];B[jl]
+
+;W[jk];B[pn]LB[lk:a][fm:b]C[好手，纠缠攻击。迫白棋苦苦做活并先手占到a位破白眼位，再b位尖，置中腹白棋于死地，黑胜];W[on];B[pm];W[mm];B[lk];W[ro];B[fm])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

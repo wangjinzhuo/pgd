@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第40期日本十段战胜者组半决赛]DT[2001-09-13]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]BR[九段]PB[武宫正树]PW[加藤正夫]WR[九段]PC[日本]RE[B+R]
+
+;B[pd];W[dp];B[pp];W[dd];B[fq];W[dn];B[jp];W[nc];B[pf];W[jd];B[cf];W[ch];B[ef];W[fd];B[di];W[dh];B[eh];W[ci];B[dj];W[bk];B[pk];W[qq];B[pq];W[qp];B[qo];W[ro];B[qn];W[rn];B[qm];W[pr];B[or];W[qr];B[nq];W[go];B[gf];W[ce];B[me];W[fh];B[eg];W[fj];B[fi];W[gi];B[ei];W[hj];B[bf];W[hd];B[gk];W[gj];B[hh];W[gh];B[hg];W[jj];B[kh];W[lj];B[mc];W[qe];B[pe];W[lc];B[cl];W[ck];B[dk];W[dl];B[el];W[dm];B[fk];W[il];B[mb];W[md];B[ld];W[nd];B[kc];W[le];B[kd];W[ke];B[je];W[jf];B[ie];W[id];B[if];W[mf];B[kb];W[ne];B[ib];W[he];B[gg];W[hb];B[gb];W[ic];B[ha];W[jb];B[hc];W[ka];B[lb];W[jc];B[ob];W[eb];B[mh];W[lg];B[ki];W[jg];B[ii];W[ij];B[ih];W[nh];B[mi];W[mg];B[dq];W[cq];B[ep];W[dr];B[do];W[eq];B[cp];W[dq];B[eo];W[bn];B[bo];W[cn];B[co];W[fr];B[en];W[bl];B[gq];W[km];B[gr];W[gs];B[jn];W[kn];B[ko];W[mm];B[mk];W[lk];B[ml];W[mj];B[ng];W[og];B[ni];W[ll];B[oh];W[pg];B[ln];W[lo];B[mo];W[nj];B[ok];W[oj];B[pj];W[hk];B[jm];W[jl];B[lp];W[gm];B[im];W[em];B[hm];W[gl];B[hl];W[fl];B[ek];W[mn];B[kk];W[kj];B[jk];W[pi];B[oi];W[qi];B[om];W[of];B[qd];W[gn];B[gp])
+
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>精彩杀棋 日本十段战胜者组半决赛 武宫正树执黑中盘胜加藤正夫<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

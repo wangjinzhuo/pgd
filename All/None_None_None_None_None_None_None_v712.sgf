@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第14届富士通杯第一轮]DT[2001-04-14]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本]KM[5.5]PW[孔杰]WR[五段]PB[希安·托马斯]BR[6段]RE[W+R];B[pd]C[富士通杯首轮比赛，孔杰的对手是北美选手希安.托马斯6段，一位53岁的大学教授。];W[dd];B[qp];W[cp]
+
+;B[fp];W[nq];B[cq];W[jp];B[dp];W[do];B[ep];W[qn];B[pq];W[oo]C[黑由于左下及右上的配置，并不在意被白封锁。];B[df];W[fc];B[cd]
+
+;W[cc];B[ce];W[bc];B[cj];W[qf];B[nc];W[pi];B[ok]C[黑25开始消白势];W[oq];B[rn];W[ro];B[qo];W[rm]
+
+;B[pn];W[qm];B[rp];W[po];B[so];W[nj]C[白方发动了猛攻，至此中午封盘。];B[qk];W[om];B[qi];W[qh];B[rh];W[ri];B[qj]
+
+;W[rg];B[ph];W[sh];B[oi];W[pg];B[pj];W[og];B[nh];W[lj];B[nn];W[on];B[lh];W[md]
+
+;B[nd];W[me];B[lb];W[mg];B[mh];W[qc];B[pc];W[nk];B[lf];W[ej];B[dh];W[co];B[bq]
+
+;W[ck];B[bk];W[bj];B[bi];W[dj];B[aj];W[ci];B[bj];W[cl];B[fn];W[el];B[qd];W[hp]
+
+;B[mf];W[ne];B[ng];W[nf];B[gr];W[gq];B[fr];W[hr];B[pl];W[pm];B[gc];W[gd];B[hc]
+
+;W[fb];B[hd];W[il];B[ki];W[jk];B[iq];W[hq];B[hn];W[io];B[ge];W[lc];B[kc];W[kd]
+
+;B[jc];W[pr];B[qr];W[pp];B[qq];W[fq];B[eq];W[re];B[rd];W[kf];B[lg];W[bl];B[fd]
+
+;W[ch];B[cg];W[di];B[bh];W[sd];B[gb];W[ec];B[sc];W[se];B[rc];W[or];B[ij];W[jj]
+
+;B[ji];W[eh];B[in];W[jn])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

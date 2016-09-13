@@ -1,0 +1,15 @@
+(;SZ[19]EV[第1届日本围棋大师赛半决赛]DT[2011-06-25]PC[]KM[6.5]US[棋圣道场]SO[]C[
+]PB[小林觉]BR[九段]PW[赵治勋]WR[九段]RE[W+R];B[pd]C[本局之前两人的对战总成绩为28胜28败];W[dp];B[pp];W[dd]
+;B[cf];W[fc];B[dj];W[cl];B[pj];W[nq];B[lq];W[qq];B[qp];W[pq];B[op];W[nr];B[mo]
+;W[nc];B[oe];W[qc];B[pc];W[qd];B[qf];W[pb];B[cn]LB[dn:a][do:b][eo:c][co:d][dm:e][cp:f][dq:g][cq:h][cr:i][br:j][dr:k][bm:l][fn:m]C[黑25后，白一般是下在a位，黑b，白c，黑d，白e，黑f，白g，黑h，白i，黑j，白k，黑l，白m]
+;W[co]C[白26强手];B[dn];W[el];B[em]LB[fl:a][ep:b]C[黑29后，白如a位，则黑b];W[fp]LB[ek:a][dl:b][fl:c][fm:d][fn:e][gm:f][gn:g][fk:h][gl:i][hm:j][gp:k][gq:l][hp:m][ej:n][gk:o][dk:p][gj:q]C[白30后，黑a位是正着，白b，黑c，白d，黑e，白f，黑g，白h，黑i，白j，黑k，白l，黑m，白n，黑o，白p，黑q]
+;B[fl]C[黑31有问题];W[ek];B[gk];W[ej];B[di];W[ei];B[dg];W[gi];B[bd];W[ii];B[go]C[黑41以下让白左下成为确定地，白可满意];W[gp]
+;B[ho];W[hp];B[io];W[bn];B[hh];W[hi];B[hc];W[qe];B[pf];W[pe];B[of];W[od]LB[ob:a][oc:b]C[白54，防黑a位，白b，黑54的下法]
+;B[cc];W[hd];B[id];W[gd];B[ie];W[ki];B[lc];W[fg];B[iq];W[rp];B[ro];W[rq];B[jj]
+;W[ji];B[qn];W[ip];B[jp];W[lk]C[至72胜负尚不明朗];B[gr];W[jq];B[ir];W[er];B[jl];W[oj];B[oi];W[ni]
+;B[ok];W[nj];B[oh];W[lr];B[kq];W[lm];B[ml];W[ll];B[kn];W[kb]LB[ic:a]C[白90瞄着a位的切断];B[nd]C[黑91有问题]
+;W[kc];B[kd];W[mc];B[oc];W[ob];B[ld];W[lb];B[lg];W[md];B[me];W[nk];B[ol];W[od]LB[dc:a]C[白104应a位]
+;B[eb]C[黑105极大];W[fb];B[ec];W[ed];B[jc];W[hk];B[hl];W[ik];B[il];W[bj];B[bi];W[cj];B[fe]
+;W[gf];B[ef];W[ea];B[db];W[ff];B[ee];W[fd];B[li];W[lj];B[kh];W[mh];B[eq]C[黑129为劫争做准备，实际上是误算];W[fq]
+;B[ge];W[he];B[hf];W[if]LB[hg:a][ig:b][ih:c][jh:d][jg:e][jf:f][kf:g][eg:h][ce:i][fa:j]C[白134后，黑a，白b，黑c，白d，黑e，白f，黑g，成为劫争，但黑a时，白h位是好手，以下i位和e位白必得其一，由于白j位也是先手，黑无法和白棋对杀]
+)

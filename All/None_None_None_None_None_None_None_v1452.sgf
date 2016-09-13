@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第八届富士通杯第三轮]RO[3]PB[赵治勋]BR[九段]PW[俞斌]WR[九段]KM[5.5]DT[1995-06-03]RE[B+R];B[qd];W[dd];B[cp];W[pp];B[kc];W[eq];B[hp];W[go];B[ep];W[dp];B[do];W[dq];B[fp];W[co];B[cq];W[cr];B[br];W[bo];B[dr];W[gp];B[er];W[cj];B[fq];W[hq];B[fc];W[df];B[db];W[cc];B[hd];W[qn];B[qi];W[od];B[pf];W[nq];B[ql];W[dm];B[pc];W[ld];B[lc];W[of];B[pg];W[kd];B[jd];W[je];B[id];W[md];B[jq];W[lq];B[jo];W[ip];B[jp];W[ho];B[jm];W[gl];B[jk];W[ji];B[ig];W[jg];B[jf];W[kg];B[kf];W[lf];B[if];W[pd];B[qc];W[nh];B[dj];W[il];B[ck];W[ci];B[cm];W[dl];B[dk];W[cl];B[bl];W[bm];B[bj];W[jl];B[cg];W[cf];B[dn];W[pl];B[lp];W[kl];B[lr];W[mq];B[ir];W[hr];B[kq];W[cn];B[fn];W[fm];B[gm];W[hm];B[em];W[gn];B[el];W[is];B[oq];W[op];B[pq];W[qq];B[np];W[mr];B[js];W[lo];B[mp];W[pr];B[mn];W[ln];B[lm];W[mo];B[no];W[mm];B[nn];W[km];B[ll];W[ml];B[lk];W[kn];B[ol];W[ok];B[pm];W[om];B[pk];W[on];B[oo];W[pn];B[nm];W[nl];B[nk];W[pl];B[po];W[or];B[ol];W[al];B[mk])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本]KM[5.5]EV[第14届富士通杯第二轮]DT[2001-04-16]PB[王立诚]BR[九段]PW[崔明勋]WR[七段]RE[W+0.5];B[pd];W[dd];B[pq];W[po];B[pl]C[黑5不占空角而立即夹攻是一种气势]
+
+;W[mp];B[oo];W[on];B[no];W[pp];B[nq];W[qq];B[oq];W[nn];B[mo];W[qr]LB[rp:a]C[白16是在征子有利时的强硬下法，普通是在a位虎];B[pn]LB[qn:a]C[黑17如脱先他投，则白a，黑不满]
+
+;W[pm];B[qn];W[qm];B[ro];W[qo];B[rn];W[rm];B[rp];W[qp];B[om];W[rk];B[qk];W[rl]C[至白30是常见定式]
+
+;B[de]C[黑31引征，但因白棋是星位，并不严厉];W[ed];B[cd];W[cc];B[ce];W[nm]C[白36解征是当然的一手];B[ol];W[nl];B[bc];W[ee];B[nk];W[mk]
+
+;B[nj];W[mj];B[rq];W[rr];B[mi];W[lm];B[li]LB[sr:a][rj:b]C[黑49似有不妥，应先a位逼白棋收气，这样黑在b位扳 是先手];W[qj]C[白50极大，黑棋不舒服];B[pj];W[qi]
+
+;B[lk];W[ml];B[ph]C[黑55只得后手补];W[ef]C[白56挺头是厚实的一手，双方均很重视制空权];B[cb];W[dc];B[jd]C[黑59是双方好点，不可放过];W[kp]C[白60寻求行棋的步调];B[ko];W[lj];B[jp]
+
+;W[ki];B[kh];W[jh];B[kg];W[jg];B[kf];W[ji]C[至70的结果，白在中腹形成外势，但落后手，黑并无不满];B[sr];W[pr];B[or];W[sn];B[dp]C[黑75占得空角，黑可战]
+
+;W[cg]C[白76是好手，白棋在左上角有种种后续手段];B[cm];W[qh]C[黑77、白78是双方各得其一的好点];B[pg];W[lo]C[白80凶狠，黑棋不敢硬吃白棋];B[kq];W[cq];B[dq];W[cp];B[co];W[lp];B[lr]
+
+;W[bo];B[bn];W[do];B[cn];W[dr];B[er];W[br];B[ds];W[cr];B[fq];W[bp]C[至98，白棋先手掏角，可以满意];B[eo];W[pc]LB[qc:a]C[白100如走a位点三三，则黑100位挡，白棋无趣]
+
+;B[oc];W[ob];B[od];W[pb]C[白102、104是此时的正着];B[nb];W[mb]C[白106机敏];B[nc];W[qd];B[qe];W[rd];B[re];W[rb]C[至112，白后手活，双方均无不满]
+
+;B[cj];W[ab]C[白114是不易发觉的妙手];B[bf]LB[bb:a]C[黑115如走a位，则白115，黑角部成“盘角曲四”];W[bb];B[bh];W[hm]C[白118一着两用，既侵削黑势，又扩张自己];B[kn];W[ln];B[hn]C[黑121要最大限度地围地];W[in]
+
+;B[io];W[km];B[qc];W[rc];B[gn];W[dj]C[白128紧凑，白中腹的潜力不小];B[di];W[ei];B[ej];W[dk];B[dh]C[黑129至133是最顽强地抵抗];W[ho]
+
+;B[go];W[jq];B[ip];W[ek];B[fj];W[fk];B[gj];W[gk];B[fh];W[hj]C[至144双方各有所得];B[hc];W[na];B[lc]
+
+;W[lb];B[kc];W[gh]C[白150想先手便宜];B[ck]LB[fi:a]C[黑151不如在a位接];W[df];B[bg];W[fi];B[eh];W[gi];B[gm]C[黑157机敏];W[im]
+
+;B[ps];W[so];B[eb];W[db];B[fc];W[dm];B[em];W[dl];B[dn];W[rf];B[qf];W[rg];B[ge]LB[kb:a]C[黑171不如在a位挡]
+
+;W[ka]C[白172是收官的好手，黑难以应付];B[sm];W[sl];B[sf];W[ie];B[gl];W[hl];B[jb];W[je];B[ke];W[an];B[am];W[ao]
+
+;B[cl];W[sg];B[bd];W[ch];B[ci];W[gb]C[白190好手];B[gc]LB[fb:a][ja:b]C[黑191如走a位，则白b，黑不行];W[fb];B[ec];W[ea]
+
+;B[hb];W[se];B[aq];W[ar];B[ga];W[pi];B[oi];W[mc];B[md];W[gf]C[白204抢得最后的大官子，幸运地以半目获胜];B[fg];W[gg];B[he]
+
+;W[hf];B[kb];W[oa];B[sq];W[sm];B[id];W[da];B[fa];W[jn];B[jo];W[mq];B[mr];W[sp]
+
+;B[kr];W[nh];B[ni];W[qg];B[pf];W[qs];B[os];W[cs];B[es];W[fl];B[fm];W[ac];B[jf]
+
+;W[if];B[ad];W[fd];B[ff];W[mn];B[gd];W[ma];B[ja];W[la];B[pk];W[ss])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

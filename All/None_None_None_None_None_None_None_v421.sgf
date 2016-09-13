@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届富士通杯第二轮]DT[2002-04-15]US[棋圣道场]SO[http://weiqi.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.tom.com
+
+棋圣道场-->精彩时局]PC[日本棋院]KM[5.5]PB[李昌镐]BR[九段]PW[依田纪基]WR[九段]RE[B+3.5];B[qd];W[dc];B[dq];W[qq];B[ce]
+
+;W[ed];B[ch]LB[ci:a]C[黑7是李昌镐的棋风，也有在a位拆三的下法];W[oc];B[kd];W[pe]LB[mc:a]C[白10在a位拆一则属普通];B[qe];W[pf];B[qg];W[ic]LB[qc:a]C[白14也有在a位托的下法]
+
+;B[qc]C[黑15先补强自己，看白棋如何动作];W[kc]LB[lc:a][ld:b]C[白16值得研究，白棋显然期待着黑a位扳，白b位断];B[nc]C[黑17是腾挪的手筋，白棋的计划落空了];W[ld];B[nd]C[至19的结果，黑棋充分可战];W[cn];B[cp];W[ck];B[cc]C[黑23意味深长]
+
+;W[cb];B[nf]C[黑25跳出后，黑棋的着子效率充分];W[me];B[ne];W[iq];B[pn];W[oq];B[pk];W[lb]LB[lc:a]C[白32防黑在a位断];B[mc]C[黑33是争先的好手];W[ke]
+
+;B[gq]C[黑35拆二后，黑布局成功];W[oi]C[白36的侵消选点十分刁钻];B[ph];W[cd];B[de];W[ee];B[ef];W[dg]C[白42是最严厉的攻击];B[cg];W[df];B[cf];W[eg]
+
+;B[bc]TR[cc]C[黑47以下即可看出黑△的妙味];W[bd];B[dd];W[bb];B[cj]C[黑51是腾挪的好手];W[dk];B[bk];W[bl];B[ei];W[ff];B[bj]C[至57，黑可满意]
+
+;W[fn];B[lc]C[黑59是好时机];W[jd];B[be];W[oh]C[白62以下的侵消未见便宜];B[og];W[pi];B[qi];W[qj];B[pj];W[pm];B[qm]
+
+;W[ql];B[pl];W[om];B[qk];W[qn];B[rl];W[rn]C[至76，白棋落后手，黑棋并无不满];B[go]C[黑77一着两用，白棋难受];W[kp];B[lo]C[黑79机敏];W[lp];B[ir]C[黑81的时机绝好]
+
+;W[jr];B[ad]C[黑83实惠，其价值在后手14目以上];W[lm]C[白84的下法有疑问];B[mm]C[黑85锐利，白棋已无好的反击手段];W[on]LB[ml:a][nl:b]C[白86如走a，则黑b，白不行];B[ll];W[km];B[kl];W[jm]
+
+;B[jl];W[im];B[nl]C[至93的结果，白棋明显亏损];W[lh]C[白94只得如此];B[hq];W[ip];B[mn];W[no];B[mo];W[mp];B[hh]C[黑101是双方好点];W[hf]
+
+;B[ec]C[黑103以下是黑棋权利];W[db];B[eb];W[fc];B[fb];W[gc];B[mi]C[黑109以下吞吃白三子是厚实的下法];W[mb];B[nb];W[mh];B[nh];W[li]
+
+;B[mj];W[hr]C[白116的价值有后手12目以上];B[gr];W[is];B[ab];W[ba];B[ma];W[kb];B[gb];W[hb];B[dm];W[dn]C[黑125冲击白的薄味]
+
+;B[em];W[en];B[fm];W[gn];B[cl]C[至131黑棋略有所得];W[ep];B[eq];W[gs];B[fr];W[lj];B[lk];W[bo];B[bq]C[黑139是本手]
+
+;W[gm];B[ek];W[cm];B[dl];W[fl];B[dj];W[ih];B[ii];W[jh];B[hg];W[ig];B[nn];W[oo]
+
+;B[mg];W[lg];B[mf];W[hi];B[fh];W[gi];B[fg];W[rm];B[lf];W[kf];B[gf];W[ge];B[gg]
+
+;W[if];B[ij];W[gk];B[hj];W[gj];B[kj]C[黑171后，白棋已无胜机];W[ql];B[rk];W[ho];B[bm];W[la];B[na];W[il]
+
+;B[ko];W[jo];B[fp];W[ki];B[jk];W[ol];B[ok];W[aq];B[ap];W[bp];B[ar];W[dp];B[fo]
+
+;W[le];B[fs];W[hs];B[hk];W[hl];B[eo];W[do];B[hp];W[sl];B[sk];W[sm];B[dh];W[kn]
+
+;B[am];W[ao];B[aq];W[fj];B[eh];W[ef];B[qm];W[ga];B[ql])
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>第15届富士通杯第二轮 李昌镐执黑3目半胜依田纪基<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

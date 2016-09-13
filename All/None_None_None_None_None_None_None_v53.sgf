@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第七届富士通杯第一轮]RO[1.6*]PB[麦克雷蒙]BR[七段]PW[阿格拉]KM[5.5]DT[1994-04-02]PC[日本东京]RE[B+R]TM[10800];B[pd];W[dp];B[pq];W[cd];B[ed];W[ec];B[fc];W[dc];B[gd];W[cf];B[pk];W[kc];B[mc];W[hc];B[hd];W[fb];B[ic];W[gc];B[id];W[ke];B[jg];W[me];B[oc];W[if];B[jf];W[je];B[ie];W[hf];B[fe];W[mb];B[fg];W[hh];B[lg];W[nb];B[md];W[ld];B[lf];W[le];B[of];W[oe];B[pe];W[nf];B[ng];W[og];B[pf];W[mg];B[nh];W[mh];B[mf];W[ne];B[oh];W[gi];B[ki];W[jb];B[fi];W[fj];B[ei];W[ej];B[dj];W[dk];B[gj];W[di];B[hj];W[ij];B[ik];W[jj];B[hi];W[gh];B[fh];W[ii];B[ih];W[hg];B[kh];W[hk];B[gk];W[hl];B[ek];W[cj];B[fk];W[dj];B[fm];W[jl];B[hm];W[il];B[dm];W[lk];B[mi];W[fp];B[qo];W[cm];B[go];W[fo];B[fn];W[gp];B[io];W[dl];B[kn];W[jn];B[jo];W[hp];B[in];W[lm];B[km];W[kl];B[ml];W[ll];B[mo];W[nl];B[nm];W[mm];B[nk];W[lo];B[lp];W[mn];B[np];W[ko];B[kp];W[ln];B[jm];W[im];B[jn];W[no];B[mp];W[ol];B[om];W[pl];B[mk];W[pm];B[on];W[oo];B[pn];W[oq];B[op];W[po];B[pp])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

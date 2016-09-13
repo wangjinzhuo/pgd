@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GN[日本第04届棋圣战]
+
+RO[1]
+
+PB[藤泽秀行]
+
+BR[九段]
+
+PW[林海峰]
+
+WR[九段]
+
+SO[http://xuyang.yeah.net]
+
+US[xuyang]
+
+KM[5.5]
+
+DT[1980-01-16,17]
+
+PC[Japan]
+
+RE[B+R]
+
+TM[32400]
+
+;B[pd];W[dc];B[dp];W[qq];B[ce];W[di];B[fd];W[de];B[dd];W[ed]
+
+;B[cd];W[ec];B[ee];W[df];B[cc];W[eb];B[cb];W[fe];B[ef];W[dg]
+
+;B[eh];W[eg];B[ff];W[ge];B[fg];W[fh];B[gg];W[gh];B[hg];W[hd]
+
+;B[hb];W[gc];B[jd];W[bf];B[be];W[fj];B[hh];W[je];B[ie];W[id]
+
+;B[jc];W[if];B[ke];W[jf];B[hf];W[he];B[jh];W[kf];B[le];W[lf]
+
+;B[me];W[lh];B[qd];W[gj];B[hj];W[hk];B[ij];W[jl];B[li];W[ki]
+
+;B[kj];W[lj];B[mi];W[kh];B[kk];W[ik];B[jk];W[mj];B[ni];W[nj]
+
+;B[kl];W[oj];B[jm];W[ji];B[gk];W[hl];B[hm];W[gl];B[jj];W[ph]
+
+;B[gm];W[fl];B[il];W[in];B[im];W[po];B[fm];W[el];B[lp];W[dq]
+
+;B[cq];W[eq];B[cr];W[ep];B[do];W[iq];B[pq];W[pr];B[qp];W[pp]
+
+;B[oq];W[or];B[rq];W[qr];B[qo];W[np];B[pn];W[rm];B[qm];W[rn]
+
+;B[qn];W[ql];B[pl];W[qk];B[no];W[nq];B[mo];W[bo];B[ch];W[dh]
+
+;B[cm];W[qf];B[ir];W[jr];B[hq];W[hr];B[gr];W[is];B[gp];W[kq]
+
+;B[bl];W[rd];B[rc];W[re];B[of];W[nm];B[oo];W[op];B[om];W[ro]
+
+;B[nl];W[ml];B[mm];W[lm];B[nn];W[ck];B[bk];W[cp];B[co];W[bp]
+
+;B[bn];W[dr];B[bq];W[fr];B[gs];W[fp];B[gq]C[time used:
+
+
+
+W 6h 21m
+
+B 6h 37m])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

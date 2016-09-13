@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GN[日本第20届十段战]
+
+RO[3]
+
+US[xuyang]
+
+SO[http://xuyang.yeah.net]
+
+PB[赵治勋]
+
+BR[九段]
+
+PW[大竹英雄]
+
+WR[九段]
+
+KM[5.5]
+
+DT[1982-03-25]
+
+PC[Matsuyama City, Japan]
+
+RE[B+R]
+
+
+
+;B[qd];W[cq];B[dp];W[cp];B[do];W[er];B[dd];W[pp];B[co];W[fp]
+
+;B[ck];W[oc];B[ld];W[of];B[qg];W[fc];B[hd];W[fe];B[df];W[db]
+
+;B[gc];W[fb];B[cc];W[cb];B[dh];W[nq];B[bb];W[gd];B[hc];W[he]
+
+;B[ie];W[hf];B[if];W[jd];B[id];W[hg];B[ig];W[qi];B[pc];W[od]
+
+;B[pe];W[md];B[le];W[lc];B[kc];W[kb];B[lb];W[mc];B[jb];W[oi]
+
+;B[qk];W[lf];B[me];W[mf];B[ro];W[qp];B[qm];W[ip];B[ok];W[rg]
+
+;B[rf];W[pg];B[qh];W[ph];B[rh];W[qf];B[sg];W[pl];B[pm];W[ne]
+
+;B[ka];W[lp];B[ho];W[hp];B[fo];W[bo];B[bn];W[bp];B[gp];W[gq]
+
+;B[go];W[io];B[fq];W[fr];B[in];W[jn];B[jm];W[fg];B[ed];W[fd]
+
+;B[ef];W[ff];B[rp];W[rq];B[rr];W[im];B[hn];W[qq];B[sq];W[kn]
+
+;B[qr];W[pr];B[cm];W[il];B[nm];W[ih];B[fi];W[fk];B[hk];W[gj]
+
+;B[hl];W[dk];B[dj];W[ej];B[di];W[pf];B[pb];W[jl];B[hm];W[qo]
+
+;B[qn];W[sr];B[ss];W[qs];B[km];W[kk];B[lm];W[mj];B[no];W[qe]
+
+;B[re];W[pd];B[qc];W[dl];B[hq];W[eq];B[kp];W[lo];B[gr];W[fq]
+
+;B[lq];W[mp];B[iq];W[jo];B[kr];W[mr];B[lr];W[jq];B[jr];W[gs]
+
+;B[is];W[hr];B[ir])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

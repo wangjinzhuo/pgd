@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+FF[4]
+
+GN[日本第02届棋圣战]
+
+RO[2]
+
+PW[藤泽秀行]
+
+WR[九段]
+
+PB[加藤正夫]
+
+BR[九段]
+
+SO[http://xuyang.yeah.net]
+
+US[xuyang]
+
+KM[5.5]
+
+DT[1978-01-24,25]
+
+PC[Tottori City, Japan]
+
+RE[B+3.5]
+
+TM[32400]
+
+;B[pd];W[dd];B[pq];W[cp];B[qk];W[eq];B[jd];W[fc];B[ok];W[nc]
+
+;B[oc];W[nd];B[pf];W[ld];B[jf];W[mg];B[kg];W[lh];B[ji];W[lk]
+
+;B[kp];W[jk];B[hi];W[mm];B[np];W[qc];B[ob];W[qe];B[pe];W[rf]
+
+;B[qf];W[re];B[qh];W[rb];B[lj];W[kj];B[ki];W[mj];B[li];W[mi]
+
+;B[nh];W[mh];B[kl];W[nk];B[kk];W[ol];B[pk];W[mo];B[mp];W[ko]
+
+;B[jo];W[jn];B[lo];W[ln];B[kn];W[km];B[ll];W[ko];B[lp];W[io]
+
+;B[jp];W[jl];B[mk];W[ml];B[nj];W[lk];B[qd];W[lm];B[rd];W[cj]
+
+;B[bp];W[cq];B[ej];W[ek];B[fk];W[dk];B[co];W[bq];B[eh];W[fl]
+
+;B[gq];W[qp];B[qq];W[rq];B[rr];W[gp];B[hp];W[ip];B[iq];W[ho]
+
+;B[hq];W[fq];B[gl];W[gk];B[fj];W[gm];B[ch];W[hl];B[cc];W[cd]
+
+;B[dc];W[ec];B[bd];W[be];B[bc];W[cf];B[eb];W[fb];B[db];W[ff]
+
+;B[ef];W[fe];B[ci];W[eg];B[dj];W[bj];B[bi];W[ck];B[dg];W[fg]
+
+;B[hg];W[df];B[qn];W[qm];B[pm];W[oo];B[qo];W[pp];B[rp];W[ro]
+
+;B[sq];W[pn];B[rm];W[om];B[ql];W[gr];B[hr];W[fr];B[hs];W[ni]
+
+;B[nb];W[pi];B[qi];W[op];B[oq];W[gh];B[gi];W[kh];B[jh];W[hh]
+
+;B[ih];W[jc];B[ic];W[ib];B[id];W[jb];B[he];W[mb];B[hb];W[kd]
+
+;B[kn];W[ij];B[ii];W[go];B[ma];W[lb];B[nn];W[on];B[no];W[bg]
+
+;B[oj];W[oi];B[og];W[gd];B[hc];W[ke];B[je];W[la];B[na];W[od]
+
+;B[pc];W[kf];B[nf];W[mf];B[ne];W[me];B[hj];W[jj];B[hk];W[oe]
+
+;B[ng];W[pl];B[qm];W[lg];B[jg];W[bb];B[ab];W[ba];B[ad];W[ea]
+
+;B[ca];W[fh];B[fi];W[cg];B[dh];W[ph];B[pg];W[ge];B[hf];W[ae]
+
+;B[nm];W[nl];B[ia];W[ja];B[ha];W[pj];B[qj];W[mn];B[ik];W[il]
+
+;B[gs];W[fs];B[aj];W[ak];B[ai];W[bh];B[ah];W[ag];B[gc];W[ko]
+
+;W[kn]C[time used:
+
+
+
+W 8h 50m
+
+B 6h 27m])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

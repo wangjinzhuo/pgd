@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;C[欢迎光临 敲玉余韵 围棋棋谱库
+
+http://www.psc-a.org/go]SZ[19]DT[1996-02-14]EV[韩国霸王战]RE[W+R]PC[韩国棋院]PB[李昌镐]BR[七段]PW[曹薰铉]WR[九段]KM[5.5];B[qd];W[dd];B[dp];W[pq];B[qo];W[oc];B[ld];W[qh];B[od];W[qk];B[no];W[mq];B[pc];W[qp];B[op];W[oq];B[rp];W[rq];B[qm];W[ro];B[rn];W[sp];B[pi];W[qi];B[pk];W[qj];B[ok];W[og];B[lp];W[cf];B[lq];W[dr];B[fq];W[fr];B[gq];W[cp];B[cq];W[dq];B[co];W[bp];B[do];W[bq];B[eq];W[er];B[dg];W[cg];B[di];W[ij];B[ch];W[eh];B[dh];W[fj];B[gj];W[gh];B[gk];W[ih];B[fi];W[il];B[fc];W[hc];B[he];W[fd];B[gd];W[gc];B[ed];W[fe];B[ee];W[ec];B[fb];W[ef];B[de];W[df];B[ce];W[ff];B[dc];W[be];B[cd];W[ei];B[je];W[jc];B[lc];W[gb];B[eb];W[kb];B[dj];W[ej];B[eg];W[fg];B[ek];W[fk];B[fl];W[fh];B[el];W[lb];B[mb];W[nc];B[mc];W[nd];B[ne];W[oe];B[pd];W[me];B[nf];W[md];B[ob];W[nb];B[na];W[le];B[kd];W[mg];B[of];W[pf];B[pe];W[ng];B[qf];W[pg];B[bo];W[on];B[po];W[nm];B[ml];W[mm];B[lm];W[ln];B[nl];W[pn];B[mn];W[qn];B[km];W[ao];B[an];W[ap];B[bm];W[gr];B[ib];W[pb];B[oa];W[qb];B[rb];W[hd];B[oo];W[nn];B[mo];W[rm];B[hq];W[bg];B[pm];W[sn];B[bh];W[bc];B[bd];W[ad];B[ab];W[bb];B[rg];W[ah];B[ai];W[ag];B[bi];W[cb];B[db];W[mr];B[jk];W[ik];B[hm];W[im];B[hn];W[in];B[io];W[kn];B[jo];W[lk];B[ll];W[jn];B[om];W[rn];B[li];W[])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

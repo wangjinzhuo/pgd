@@ -1,0 +1,13 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]GN[07weijia-12-lanpeng]HA[0]KM[7.5]EV[2007金立杯围甲联赛第12轮]PB[蓝天]BR[四段]BT[韩国队]PW[彭荃]WR[七段]WT[中国队]RE[W+R]RO[Game 5]DT[2007-09-27]SO[http://weiqi.tom.com]US[棋圣道场]C[http://weiqi.tom.com
+棋圣道场-->大赛直播
+
+荆凌虎根据棋手复盘整理]
+;B[pd]C[“初棋无劫”这好理解，啥都没走，哪去找劫，可彭荃在围甲第12轮执白与蓝天的对局中，给我们来了一出“初棋有劫”];W[dc];B[qp];W[dq];B[co];W[ck];B[gq];W[ep];B[jp];W[cp];B[pj];W[nq];B[pq];W[lq];B[kq];W[lo];B[lr];W[mr];B[lp];W[mp]C[实战白20造劫];B[mq]LB[po:a][lq:b][qo:c][op:d]C[白22如图走a位，这个形状在今年的个人赛上出现过，黑b白c，行至黑d，白棋左右不能兼顾，研究认为白不成功]
+(;W[qq]LB[po:a]C[白22是彭荃的灵机一闪，原来并未研究过。在局部上，黑如变化图a，在1位虎是最好的应对方法，之后白棋会在这个地方开劫，因为黑9是绝对的劫材，所以白棋在此时是打不赢的。可彭荃分析，即使黑棋13最后接上，白棋的4和13交换本身是不亏的，尚有余味可以利用，所以这个结果白棋可接受。
+变化图b：为了避免劫才，黑1也是一种选择。行至12，彭荃认为劫已然是小事，此时白棋可以从下面滚打过去，黑棋的眼位被破，下面数子受到了威胁，所以这个形状黑棋也不能接受。]
+(;B[lq];W[pp]LB[pr:a]C[黑棋可以选择a位立的手法，如图行至10，黑棋可被利用的地方太多了，这个变化黑棋也不成功。]
+(;B[oq];W[qo];B[rp];W[op]C[实战白棋大得];B[qr]C[蓝天对彭荃22这招是赞不绝口。];W[or];B[pr];W[ro];B[rq];W[om];B[ql];W[mn];B[de];W[ee];B[ef];W[ed];B[cc];W[df];B[ce];W[dg];B[cb];W[ff];B[mc];W[qd];B[qc];W[qe];B[rc];W[pe];B[od];W[qh];B[qi];W[ph];B[nj];W[mh];B[lj];W[oi];B[nl];W[pl];B[pk];W[qm];B[rl];W[ll];B[jk];W[bg];B[bf];W[fl];B[rm];W[gp];B[bp];W[bq];B[kn];W[ln];B[gn];W[fn];B[fo];W[go];B[fp];W[fq];B[eo];W[hq];B[gr];W[hn];B[gm];W[do];B[en];W[dn];B[em];W[fm];B[fr];W[eq];B[nm];W[nn];B[pn];W[km];B[jm];W[jn];B[in];W[ko];B[jo];W[hm];B[kn];W[on];B[qn];W[jn];B[jl];W[io];B[kn];W[mk];B[ni];W[jn];B[nh];W[ng];B[nf];W[og];B[mg];W[mf];B[lg];W[ne];B[lf];W[me];B[oe];W[of];B[le];W[rd];B[im];W[nk];B[eg];W[dh];B[eh];W[ei];B[gl];W[hl];B[gk];W[el];B[dm];W[cm];B[fh];W[gc];B[di];W[ci];B[ic];W[db];B[ge];W[ca];B[ba];W[da];B[bc];W[hb];B[ib];W[fb];B[hp];W[ho];B[ip];W[hk];B[hj];W[gj];B[fk];W[fj];B[gi];W[ek];B[fe];W[cf];B[be];W[hi];B[rh];W[rg];B[ri];W[sg])
+(;B[pr];W[qr];B[rr];W[rq];B[rp];W[sr];B[rs];W[qs];B[oq];W[po]C[黑棋可以选择立的手法，行至10，黑棋可被利用的地方太多了，这个变化黑棋也不成功。实战白棋大得，蓝天对彭荃22这招是赞不绝口。]))
+(;B[po];W[lq];B[kp];W[kr];B[mq];W[op];B[pp];W[lq];B[bp];W[bq];B[mq];W[mn];B[lq];W[or];B[pr]C[在局部上，黑1虎是最好的应对方法，之后白棋会在这个地方开劫，因为黑9是绝对的劫才，所以白棋在此时是打不赢的。可彭荃分析，即使黑棋13最后接上，白棋的4和13交换本身是不亏的，尚有余味可以利用，所以这个结果白棋可接受。])
+(;B[pp];W[lq];B[kp];W[no];B[pm];W[kr];B[mq];W[or];B[pr];W[ls];B[lq];W[jr]C[为了避免劫才，黑1也是一种选择。行至12，彭荃认为劫已然是小事，此时白棋可以从下面滚打过去，黑棋的眼位被破，下面数子受到了威胁，所以这个形状黑棋也不能接受。]))
+(;W[po];B[lq];W[qo];B[op]C[这个形状在今年的个人赛上出现过，行至黑4，白棋左右不能兼顾，研究认为白不成功。]))

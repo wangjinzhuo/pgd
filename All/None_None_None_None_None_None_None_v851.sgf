@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第十三届富士通杯世界围棋锦标赛半决赛]DT[2000-07-01]PC[日本]KM[5.5]PB[小林觉]PW[常昊]BR[九段]WR[九段]RE[W+R]C[
+
+聂卫平九段解说
+
+http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局];B[pd];W[dp];B[qp];W[dc];B[de];W[ce]
+
+;B[cf];W[cd];B[fq];W[cn];B[kq]C[白棋让黑棋走成最近极为流行且胜率颇高的迷你中国流，体现了常昊的自信。];W[qj];B[dg];W[fc];B[ck];W[dr];B[qh];W[qm];B[pn]
+
+;W[ro];B[qo]LB[rn:a]C[因为左上是白棋拆一，征子有利，所以黑棋不能a位跨];W[rp];B[rq];W[qn];B[pq];W[ol]LB[pm:a][on:b][iq:c]C[白此时a拐，黑b长，白c打入是更紧凑的下法。但常昊选择了从容的飞起允许黑补棋也是全局性的考虑。];B[hp]
+
+;W[nc]C[那就是白棋能得到全局最后的大场，也可以满意。];B[pc];W[kd];B[ne];W[ob]C[布局下到现在都很正常。];B[om]C[黑棋这一手着法生硬，是黑棋想法有问题，大赛中的动作变形。];W[nl];B[nm];W[mm]C[白棋不甘退让，挑起战斗。];B[ml]C[黑棋只此一手。];W[qr]
+
+;B[qq];W[mn];B[mk];W[pl];B[no];W[km]C[白棋头畅，黑棋下边空没多，中央反而多出个累赘，失败。];B[mo];W[kk];B[jl];W[kl];B[ln];W[lm];B[lj]
+
+;W[jo];B[kn]C[白棋如挡将落后手];W[jm];B[jn];W[in];B[kp];W[ji]C[白棋优势];B[lg];W[ip];B[ho];W[io];B[iq]
+
+;W[oh];B[le]C[很痛苦];W[ld];B[rj];W[rk];B[pi];W[nj];B[ki];W[jh];B[jg];W[kh];B[lh];W[kg]
+
+;B[kf];W[mf];B[me];W[jf];B[ig];W[je];B[nk];W[pj];B[oi];W[oj];B[jj];W[kj];B[li]
+
+;W[ij];B[ii];W[jk];B[ih];W[jj];B[nh];W[ni];B[og];W[mh];B[ph];W[lf]LB[ri:a]C[白棋这两手莫名其妙，仅为了后手把两块活棋连通，而将右边a位的先手大棋拱手让给黑棋，实在不能理解。];B[mg]
+
+;W[ke];B[ri];W[nn];B[on];W[rm];B[gf]C[但白棋全部通连非常厚，总体作战成功局势不错。];W[fe];B[ff];W[ee];B[mc]C[这里黑棋是想便宜2目];W[nf]C[但白棋不给];B[mb]C[气合的一手]
+
+;W[of]C[以下是单行道];B[pe];W[pf];B[rf];W[pb];B[qb];W[qe];B[qf];W[oe];B[jc];W[kb];B[hd];W[jb]
+
+;B[ic];W[qc];B[qd];W[rc];B[rb];W[rd];B[re];W[lb]C[至此告一段落];B[gc];W[ej]LB[ch:a][bg:b][cj:c]C[这是常昊自觉优势的下法，否则白棋会考虑a位点，黑b尖，白c靠。]
+
+;B[fb];W[eb];B[dj];W[ef];B[eg];W[ge];B[if];W[bf];B[bg];W[df];B[cg];W[gj];B[fd]
+
+;W[ed];B[ec];W[oo];B[po];W[fc];B[er];W[eq];B[fr];W[di];B[fh];W[bl];B[ek];W[cj]
+
+;B[dk];W[hq]C[试应手，机敏。];B[cr]C[黑局势不利只好强行反击搅浑。];W[cq];B[ds];W[jq]C[白棋获利甚大];B[bq];W[br];B[dq];W[cp];B[ep];W[bs]C[而黑棋所得有限。]
+
+;B[kr];W[ir];B[bk];W[ei];B[ci];W[gd]C[这是白棋完胜的好局，以下解说从略。];B[bm];W[bn];B[cm];W[dm];B[cl];W[bp];B[hl]
+
+;W[he];B[ie];W[gp];B[fk];W[gi];B[go];W[fo];B[gn];W[fp];B[gq];W[eo];B[hr];W[iq]
+
+)
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届富士通杯第一轮]DT[2001-04-13]US[棋圣道场]SO[http://weiqi.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.tom.com
+
+棋圣道场-->大赛转播]PC[日本棋院]KM[5.5]PB[朴永训]PW[胡耀宇]BR[三段]WR[六段]RE[B+5.5];B[pd];W[dd];B[pq];W[cq];B[qk]
+
+;W[jq];B[fc];W[cf];B[jd];W[mq];B[po];W[qc];B[qd];W[pc];B[oc];W[ob];B[nc];W[nb]
+
+;B[mc];W[rd];B[re];W[rc];B[qf]C[至黑23是常见布局];W[dm]C[白24构思独特，其优劣难以判断];B[io];W[hp];B[mo]TR[dm]C[黑25，27采取了互围的方针，感觉上白▲的位置不错];W[ko]C[28是难以抉择的地方，实战的下法非常大胆]
+
+;B[lp];W[kp];B[lq];W[lm];B[kr]LB[nm:a]C[黑33有迟缓之感，在a位围是一般分寸];W[qp];B[qq];W[nm];B[jr];W[pm]TR[kr][jr]C[至38的结果白可满意，黑33，37连续在二路行棋似有不妥]
+
+;B[ok];W[ql];B[rk];W[nk]LB[mk:a]C[白42紧凑，如在a位飞则嫌松弛];B[nj];W[ol];B[oj];W[lj]C[白46轻灵];B[ck];W[cl];B[dk]
+
+;W[fl];B[cg]LB[ch:a]C[黑51似应直接在a位拆二];W[bg];B[ch];W[bh];B[df];W[ce];B[ci];W[fd];B[gd];W[fe];B[gi]
+
+;W[gc]C[至白62，黑实地受损，白可战];B[cn]C[黑63打入挑起战斗];W[bl];B[cp];W[dq];B[ep];W[dp];B[do];W[bo]LB[eo:a][en:b][bq:c]C[白70如a位断，则黑b位打出，由于黑有c位扳做劫的手段，白无成算]
+
+;B[em]C[黑71是腾挪的手筋];W[en];B[fm];W[dn];B[fn];W[eo];B[fo]C[至黑77形成转换，双方各有所得];W[hc]LB[hl:a][el:b]C[白78虽然很大，但在此之前应先于a位跳，逼黑在b位连回];B[dl];W[cm]
+
+;B[mj]C[黑81以下令白极不舒服];W[mk];B[li];W[kj];B[ki];W[jj];B[hk]TR[hc]C[黑87飞补是好手，黑中腹顿成气候，这应归罪于白▲的不当];W[mb]LB[il:a]C[白88迟缓，应先于a位飞补];B[jl]C[黑89抓住胜机]
+
+;W[kl]LB[km:a]C[白90如脱先，则黑a位尖，白不行];B[fq]C[黑91价值不小];W[ro];B[qo];W[rp];B[pp];W[rl]LB[qn:a]C[白96在a位扳是一般分寸];B[jm];W[km]
+
+;B[rn];W[sk];B[qn];W[rj];B[qi];W[ri];B[qh]C[至105形成转换，从实地看，双方得失大致相当，但白的眼形略有不足];W[ik];B[hj]LB[hl:a]C[黑107要优于在a位退];W[il];B[ho]
+
+;W[ir];B[kc];W[gp];B[fp];W[hm];B[hl];W[jn];B[ip]LB[hd:a]C[黑117应先于a位压];W[iq]LB[ie:a][kg:b]C[白118错过一决胜负的机会，应立即于a位飞，黑如118位断，则白b，如此胜负尚难预料]
+
+;B[hd]C[黑119抓住胜机];W[ic];B[id];W[ec];B[gf];W[ge];B[he];W[ff];B[fg];W[ji];B[jh];W[ii];B[ih]
+
+;W[gg];B[hf];W[hi];B[gh];W[eg];B[fh]C[至137，黑彻底封住中空，白已无胜机];W[no];B[np];W[dg];B[eh];W[ef];B[lb];W[jb]
+
+;B[er];W[dr];B[bk];W[ak];B[gr];W[sl];B[sn];W[hh];B[hg];W[gm];B[gl];W[qj];B[pk]
+
+;W[dh];B[di];W[ma];B[kq];W[jp];B[rh];W[bj];B[bi];W[ai];B[hq];W[mn];B[lo];W[oo]
+
+;B[op];W[hr];B[go];W[mr];B[mp];W[sh];B[sg];W[pn];B[pj];W[sj];B[kb];W[sf];B[rg]
+
+;W[se];B[ja];W[ia];B[ka];W[ib];B[cj];W[aj];B[pl];W[qm];B[sd];W[sc];B[ds];W[cs]
+
+;B[es];W[gs];B[in];W[im];B[fs];W[hs];B[eq];W[sd];B[rf];W[gj];B[fj];W[ij];B[gk]
+
+;W[si];B[js];W[jc];B[ln];W[kn])
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>第15届富士通杯第一轮 朴永训执黑5目半胜胡耀宇(附解说)<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

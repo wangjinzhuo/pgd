@@ -1,0 +1,15 @@
+(;GM[1]AP[StoneBase:SGFParser.2.8]SZ[19]GN[2007cn-grs-7-tanwangsgf]HA[0]KM[7.5]EV[2007年全国个人赛第七轮]PB[王尧]BR[六段]BT[韩国队]PW[檀啸]WR[四段]WT[中国队]RE[B+R]RO[Game 5]DT[2007-09-22]PC[山东德州]SO[http://weiqi.tom.com]US[棋圣道场]C[http://weiqi.tom.com
+棋圣道场-->大赛直播
+
+江南根据棋手复盘整理]
+;B[pd];W[dd];B[pq];W[dq];B[qk];W[jq];B[cf];W[fc];B[cn];W[do];B[dn];W[co];B[en];W[di];B[eo];W[ep];B[fp];W[fq];B[gp];W[gq];B[hp];W[hq];B[ef];W[gi]LB[fi:a]C[黑25如a位靠好，如下图：黑1靠好。进行至白10扳时，黑11可以反扳，黑好。可惜王尧是过后才发现有黑11反扳的好手。]
+(;B[bd]C[开局黑25是王尧表示后悔的第一手棋。];W[cc];B[ip];W[dg];B[de];W[cg];B[ed];W[ec];B[cd];W[dc];B[gf];W[bf];B[if];W[ic];B[cj];W[dj];B[ck];W[eg];B[gd];W[fd];B[ee];W[ii];B[id];W[jc];B[ji];W[ih];B[jh]LB[ig:a]C[白52应a位顶。如下图：白1顶，白3扳是关键。至白11挡，黑大龙相当危险。]
+(;W[fe]C[白52失着。];B[ff];W[ig];B[ge];W[jf];B[hb]LB[jd:a]C[白58应在a位拐。如图：白1拐仍是要点。至白7挡，还是黑相当危险。]
+(;W[bc]C[白58再误。];B[ke];W[je];B[jd];W[kd];B[kc];W[ld];B[lc];W[mc];B[md];W[le];B[mb];W[nc];B[nb];W[oc];B[ob];W[pc];B[qc];W[jb];B[kb];W[pb];B[qb];W[me];B[pa];W[oe];B[pf];W[ng];B[ph];W[gb];B[hc];W[ie];B[hd]C[实战进行至黑89，白实地损失过大，形势开始落后。];W[bn];B[bm];W[bo];B[po];W[qm]LB[ni:a]C[黑95应在a位飞。如图：黑1飞是形势要点。白2若点角，黑可以放弃角部实地。进行至黑15，黑胜势。]
+(;B[ro]C[黑95缓手。];W[pk];B[qj];W[ni];B[jk];W[il]C[白100强硬反击];B[jl]C[形势进入混沌状态。];W[jm];B[km];W[jn];B[kn];W[jo];B[lp];W[ko];B[lo];W[cm];B[gl]C[黑111好手。如图：白1贪吃，黑2以下可以强硬冲吃白棋。至黑12爬，白被吃。]
+(;W[lq];B[cl];W[ln];B[ll];W[lm];B[kl];W[nm];B[nk];W[no];B[mq];W[qp];B[pp];W[ok];B[nj];W[oj];B[mi];W[pi];B[oh];W[mp]LB[qi:a][ql:b][pm:c][rm:d]C[白130走向失败深渊。白应a位直接挡下，至黑d，白尚能等待机会。];B[kq];W[lr];B[kp];W[nq];B[jp];W[rm];B[pn];W[qi];B[ol];W[pl];B[pm];W[or];B[ri];W[qh];B[rh];W[qg];B[ql];W[rg];B[rl];W[pg];B[ik]C[黑151拐，白大败。];W[qr];B[pr];W[ps];B[qq];W[rr];B[ac];W[ab];B[ad];W[bb];B[nh])
+(;W[bl];B[jp];W[kp];B[kq];W[lq];B[kr];W[jr];B[lr];W[im];B[ik];W[mq];B[mr]C[白1贪吃，黑2以下可以强硬冲吃白棋。至黑12爬，白被吃。]))
+(;B[ni];W[qp];B[qo];W[ro];B[rn];W[rp];B[qn];W[pp];B[op];W[qq];B[oq];W[pr];B[or];W[qr];B[kp]C[黑1飞是形势要点。白2若点角，黑可以放弃角部实地。进行至黑15，黑胜势。]))
+(;W[jd];B[bb];W[gb];B[hc];W[bc];B[ac];W[cb]C[白1拐仍是要点。至白7挡，还是黑相当危险。]))
+(;W[ig];B[ge]C[    ];W[jf];B[hb];W[jd];B[bb];W[gb];B[hc];W[bc];B[ac];W[cb]C[白1顶，白3扳是关键。至白11挡，黑大龙相当危险。]))
+(;B[fi];W[dg];B[ed];W[df];B[de];W[ce];B[ee];W[cd];B[ec];W[fh];B[eh]C[黑1靠好。进行至白10扳时，黑11可以反扳，黑好。可惜王尧是过后才发现有黑11反扳的好手。]))

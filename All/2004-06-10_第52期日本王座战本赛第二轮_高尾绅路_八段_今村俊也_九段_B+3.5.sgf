@@ -1,0 +1,26 @@
+(;SZ[19]EV[第52期日本王座战本赛第二轮]DT[2004-06-10]PC[日本]KM[6.5]US[棋圣道场]SO[http://weiqi.tom.com]C[http://weiqi.tom.com
+棋圣道场-->精彩时局]PB[高尾绅路]BR[八段]PW[今村俊也]WR[九段]RE[B+3.5];B[pd];W[cp];B[qp];W[op];B[cd]
+;W[pn];B[oq];W[nq];B[pq];W[mp];B[fq];W[ed];B[jp];W[df];B[ec];W[fc];B[dc];W[gd]
+;B[mc];W[be];B[bd];W[ro];B[rp]C[至23是进来少见的布局];W[qi]LB[qh:a][qf:b]C[白24如a，则黑b，白未见便宜];B[qn];W[qo]LB[qm:a][pm:b]C[白26也可考虑下在a位，黑如26，则白b]
+;B[po];W[oo];B[pp];W[qm];B[rn];W[rm];B[so];W[pm]C[至34，白24与厚势的间距略显狭窄];B[do];W[dp];B[eo]LB[ep:a][co:b][bo:c][bn:d][bp:e][dm:f][fo:g][hq:h][fm:i][dk:j][dr:k]C[黑37有迟缓之感，应a，白如37，则黑b，白c，黑d，白e，黑f，白g，黑h，白i，黑j，白k，黑可战]
+;W[bn];B[ep];W[kc]LB[dm:a][jd:b]C[白40出人意料，普通是下在a位，黑b];B[dl]LB[qe:a]C[黑41不如在a位守角];W[ob]LB[oc:a][qc:b][nb:c][re:d][qd:e][rd:f][qb:g][rb:h][pb:i][pf:j]C[白42后，黑如a，则白b，黑c，白d，黑e，白f，黑g，白h，黑i，白j，白可战]
+;B[nd];W[qc];B[qd];W[rc];B[rd];W[oc];B[od];W[mb]C[至50的结果，白可满意];B[cr];W[dr];B[er];W[ck];B[bo]LB[co:a][cn:b][cm:c][dn:d][bp:e][bm:f][ao:g][cl:h][br:i]C[黑55后，白如a，则黑b，白c，黑d，白e，黑f，白g，黑h，白i，黑有利]
+;W[br];B[co];W[cq];B[dk];W[cj];B[dj];W[ci];B[qg];W[lc];B[km]C[黑65是绝好点];W[oi];B[ri]LB[rh:a]C[黑67如不走，则白a，黑难以忍受]
+;W[rj];B[rh];W[jj];B[di];W[dh];B[eh];W[cg];B[lq];W[mr];B[lr];W[eb];B[db];W[fb]
+;B[bb];W[or];B[pr];W[cm]LB[hj:a]C[白84有疑问，应a位跳方为要点];B[mm];W[nn];B[ik]LB[il:a]C[黑87如a虽然稳健，但无胜算];W[jl];B[jk];W[kl]
+;B[kj];W[ll];B[lm];W[jm];B[jn];W[in];B[jo];W[lj];B[ki];W[lo];B[kn];W[li];B[kh]
+;W[mg]LB[nl:a]C[白104如a，则是细棋局面];B[ml];W[mk];B[ol];W[qj];B[jd];W[ke]LB[hg:a][gh:b]C[白110有疑问，应a，黑110，白b，如此胜负难料];B[je];W[jf]
+;B[kd];W[ld];B[kf];W[le];B[if];W[jg];B[ig];W[kg];B[jh];W[lg];B[kk];W[lk];B[om]
+;W[on];B[he]C[至127，白作战明显失败];W[pf]LB[rf:a][og:b][nf:c][of:d]C[白128如a，则黑b，白c，黑d，白无法杀黑];B[qf];W[sd];B[se]LB[re:a][sc:b][rf:c][si:d]C[黑131后，白如a，则黑b，白c，黑d，白不行]
+;W[sc];B[pg];W[of];B[rf];W[ic];B[ff]C[黑137后，白已无胜机];W[hl];B[hk];W[ho];B[hp];W[gl];B[aq];W[ar]
+;B[gk];W[ps];B[qs];W[ns];B[os];W[eg];B[fg];W[ps];B[qr];W[ls];B[kr];W[bf];B[og]
+;W[ng];B[go];W[gn];B[io];W[hn];B[fn];W[ge];B[gf];W[fm];B[el];W[fl];B[fk];W[id]
+;B[ie];W[cl];B[cn];W[am];B[nc];W[nb];B[ef];W[dg];B[pk];W[sj];B[qk];W[rk];B[nj]
+;W[ni];B[pj];W[oj];B[nk];W[fh];B[ei];W[oh];B[mq];W[ok];B[pl];W[mj];B[nl];W[kp]
+;B[jq];W[lp];B[ds];W[cs];B[es];W[ap];B[bp];W[bq];B[ao];W[dq];B[mn];W[qh];B[si]
+;W[ne];B[pc];W[pb];B[jc];W[jb];B[ce];W[pe];B[qe];W[ad];B[ac];W[ae];B[ea];W[fa]
+;B[da];W[hd];B[md];W[me];B[sm];W[sl];B[ql];W[rl];B[il];W[im];B[lh];W[mh];B[os]
+;W[nr];B[fe];W[fd];B[cf];W[bg];B[oe];W[nf];B[an];W[bm];B[kq];W[em];B[eq];W[gp]
+;B[fo];W[dm];B[hq];W[mo];B[ks];W[np];B[sn];W[ms];B[ps];W[aq])<script language="JavaScript" src="http://weiqi.sports.tom.com/java/tomshu.js"></script>
+<noscript> <img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-tom&amp;cg=0" alt=""> 
+  </noscript>

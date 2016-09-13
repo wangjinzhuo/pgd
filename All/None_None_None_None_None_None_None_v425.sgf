@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]GN[中国围棋全国个人赛]DT[1990/11/01]PB[曹大元]BR[]PW[钱宇平]WR[]RO[]PC[连云港]US[棋迷大本营melody]SO[]C[]RE[W+0.5]GM[5.5];B[pd];W[dc];B[pq];W[cp];B[eq];W[qo];B[qk];W[lq];B[qp];W[iq];B[en];W[cm];B[po];W[nc];B[pf];W[pb];B[qc];W[kc];B[ce];W[ed];B[ck];W[ch];B[ek];W[df];B[bn];W[do];B[hq];W[hp];B[ip];W[ir];B[gq];W[jp];B[io];W[jo];B[bm];W[eo];B[fn];W[dq];B[in];W[jn];B[im];W[cf];B[jd];W[jc];B[ok];W[jf];B[lf];W[kd];B[kh];W[jh];B[ji];W[ih];B[kl];W[lm];B[km];W[nq];B[nn];W[ii];B[ki];W[mo];B[fh];W[fo];B[go];W[gg];B[nd];W[md];B[me];W[od];B[ne];W[pc];B[qd];W[oe];B[of];W[or];B[mc];W[mb];B[ld];W[nb];B[er];W[dr];B[bp];W[bq];B[co];W[br];B[dn];W[fp];B[gp];W[ll];B[nm];W[qr];B[pr];W[ps];B[rr];W[mk];B[kn];W[mn];B[nj];W[rs];B[qq];W[qs];B[oq];W[mr];B[ci];W[bi];B[dh];W[bg];B[fq];W[dp];B[eg];W[cj];B[di];W[ef];B[bj];W[aj];B[bk];W[hk];B[sr];W[lj];B[li];W[qb];B[rb];W[ra];B[sb];W[hr];B[gh];W[hh];B[gl];W[gi];B[fg];W[ff];B[fi];W[no];B[oo];W[ap];B[bo];W[hl];B[hm];W[mj];B[mi];W[gk];B[fk];W[kg];B[lg];W[kf];B[gr];W[nk];B[nl];W[lo];B[ak];W[ai];B[gj];W[hi];B[lc];W[lb];B[pe];W[oc];B[ke];W[je];B[le];W[hj];B[fj];W[jk];B[il];W[ik];B[ao];W[aq];B[ko];W[kp];B[dg];W[cg];B[np];W[mp];B[op];W[fs];B[es];W[gs];B[ds];W[cs];B[kk];W[jj])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

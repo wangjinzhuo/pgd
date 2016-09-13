@@ -1,0 +1,36 @@
+(;AB[pd][dp]C[白：本因坊 秀和 七段
+让两子
+黑：桑原秀策 二段
+日期：1842年3月
+共142手，白中盘负
+
+点评：石田芳夫 九段]
+AP[MultiGo:3.9.2]SZ[19]
+;W[cn]N[第一谱 黑坚实的开局];B[gq];W[nc];B[dc];W[ce];B[qg];W[fc];B[fd];W[gd];B[de]
+;W[cd];B[fe];W[dd];B[ec];W[gc];B[ed]
+(;W[cc];B[dg];W[df];B[eg]LB[ef:A]C[黑20也可在A位打吃，实战秀策选择了至24的变化，目的是加强厚势。]
+;W[ef];B[ff];W[cg];B[fg]C[从白7到黑24是当时的一个流行定式。];W[ci];B[jd]C[秀策利用自己角上的势力，黑26发动攻击，一举掌握主动。]
+;W[hf];B[jf];W[jb];B[kc];W[kb];B[lc];W[lb];B[mc];W[mb];B[nd];W[oc];B[od]C[至黑38，厚势进一步加强，目的是简化棋局。这在让子棋中，是对黑比较有利的局面。]
+;W[po];B[pq];W[ph]C[白41是轻灵的一步，这是典型的秀和风格。];B[qh]C[黑42坚实。]
+(;W[pj];B[pi];W[np]C[白45很自然。]
+(;B[oj];W[pk];B[ok];W[ol];B[qi];W[hh]MN[51]N[第二谱 白棋唯一的机会];B[fj];W[dh]
+C[白53太缓，使得黑得到了黑54断的机会。];B[he];W[ge];B[gf];W[if];B[hd];W[hc];B[ic]
+;W[ib];B[jg];W[hi];B[fb];W[gb];B[ga]C[直到黑66，白别无选择。];W[hb];B[ei]LB[hj:A]
+C[黑68防守，现在黑明显领先。回过头来看，白53应该下在A位。];W[jh];B[kh];W[ji];B[fl]
+;W[lj];B[dn];W[em]C[白75是救急的措施。如果黑左边两片棋联络上的话，棋局就结束了。]
+;B[dm];W[el];B[gm]C[黑78好形。];W[hl];B[ek];W[dl];B[cm];W[cl];B[bl];W[en];B[do]
+;W[bk];B[go];W[bm];B[bn];W[al];B[pl];W[lh]C[黑92和白93是见合。不过黑94以后好象这个见合黑略微占优。]
+;B[pm];W[fo]C[白棋最后的希望是95切断，这样会有一个劫。];B[fp];W[gn];B[hn];W[hm]
+;B[fn];W[fm];B[gl]MN[2]C[2表示102，以下类同。]N[第三谱 完胜];W[gn];B[hk];W[ik];B[fn]
+;W[gi];B[fi];W[gn];B[gk]
+(;W[ho];B[fn];W[nk];B[nj];W[gn];B[in];W[il];B[fn];W[eh];B[fh];W[gn];B[gp];W[pc]
+;B[qc];W[qd];B[pb];W[ob];B[fn];W[rc];B[qe];W[qb];B[eo]C[黑32放弃右上消劫，基本满意。黑棋坚实开局好处现在就比较明显了：白没有足够的劫材来赢得这个劫。甚至白赢了劫，也无法杀黑。前面的变化图就是一个例子。]
+;W[or];B[oo];W[pn]
+(;B[op];W[om];B[rm];W[on];B[no];W[pr];B[qq];W[mp];B[oq];W[nr];B[qn]C[棋局到这其实已经结束了。白实地落后，中腹薄弱，是该投降的时候了。]
+;W[qr];B[rq]C[至黑148手，白棋中盘负。])
+(;AE[pn];W[op];B[qo]C[黑2已经足够好了，因为至黑10，黑可以在下面连起来。];W[pp];B[qp]
+;W[qq];B[rq];W[qr];B[rr];W[pr];B[pn]C[白棋已经获利，但还不足以使黑感到担忧。因此，白35坚持抵抗。但是，由于白自身较弱，无法阻止黑将自己的子救回。]))
+(;W[fn]C[这是一个白消劫也无法杀黑的例子。];B[dj]LB[gj:A]C[黑2确保一个眼位，同时得到一个见合：A位或者在上方走一步。]))
+(;AE[np];W[oi];B[qi];W[oj];B[np]C[这是正常的变化。但是黑4这个要点被黑占据了。]))
+(;AE[qh];B[pl];W[no];B[nq];W[qh]C[这是求战的下法，更加积极]))
+(;W[df];B[cc];W[ge];B[ff];W[dh]C[这是定式的另一种变化]))

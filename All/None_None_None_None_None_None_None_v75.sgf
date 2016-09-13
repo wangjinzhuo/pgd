@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[棋圣赛全段争霸战]DT[2000-11-20]PC[中国棋院]PB[邱峻]BR[六段]PW[王海军]WR[七段]KM[5.5]RE[黑胜4又3/4子]US[棋圣道场]SO[http://weiqi.cn.tom.com/]C[吴玉林六段解说
+
+http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局];B[pd];W[cp];B[dc];W[pp];B[ce]
+
+;W[eq];B[jc];W[cj];B[qn];W[np];B[rp];W[qq];B[qk];W[qc]C[此时点角嫌早。此局面白的下法较多，占下边星位拆是极好的大场。];B[pc];W[qd];B[qe];W[re]
+
+;B[rf];W[pb];B[ob];W[oc];B[pe];W[nb];B[qb];W[oa];B[rb];W[lc];B[lq]C[眼见的全局好点。];W[pl]LB[ql:a][pn:b][qo:c][jq:d]C[有些轻率。白棋意在让黑于a位应，白b位压、黑c位退、白再于d位夹攻黑一子、步调甚好，但这是一厢情愿。]
+
+;B[on]C[有气魄的一手。由于右上黑厚，不惧怕作战。];W[mo];B[iq]C[机敏，抢占绝好的拆二。];W[mq];B[lp];W[ql];B[rq];W[rn]C[局部的手筋。];B[rm]LB[ro:a][po:b][pn:c]C[势所必然。如果于a位顶，白则b位刺，黑若c位接，白39位退，黑整块大棋不活。]
+
+;W[pn];B[rl];W[qo];B[qm];W[pm];B[ro]C[至黑45，黑得实利可以满意。];W[pk];B[lo]C[好点。];W[ln];B[kn];W[km];B[mp]
+
+;W[mn];B[nq];W[oq];B[mr];W[jn];B[ko];W[ll];B[ch]C[至此，黑棋实地已经领先。];W[ec];B[ed];W[fc];B[db];W[ge]
+
+;B[hc];W[ee];B[ie]C[方向正确。];W[ei];B[cl]C[绝好的打入。];W[ci];B[dh];W[eh];B[el];W[dd];B[cd];W[de]
+
+;B[cf];W[cn];B[ef]C[锐利的一手。瞄着白棋的断点，令白棋难以应付。];W[fj];B[fe]C[极大。左上的白棋顿时陷于瘫痪。];W[gl];B[bn];W[co];B[fp]C[准确的判断，妥善的下法。];W[fq];B[gp];W[gq]
+
+;B[hq];W[ff];B[df];W[fn];B[fg];W[hh];B[qj];W[ho];B[hp];W[hf];B[gd];W[pj];B[pi]
+
+;W[oi];B[ph];W[gf];B[kb];W[lb];B[ep];W[dp];B[kh]C[确保胜利的选点。];W[fd];B[ee];W[je];B[oh];W[ni]
+
+;B[mg];W[mh];B[jg];W[ib];B[ic];W[ji];B[ki];W[kj];B[in]C[收官的好手。];W[im];B[jo];W[jm];B[bi]
+
+;W[bj];B[gn];W[eo];B[lj];W[jh];B[lh];W[lk];B[jj];W[kk];B[nd];W[if];B[or];W[pr]
+
+;B[mj];W[nk];B[gr];W[fr];B[hr]C[最大的官子，黑胜定。];W[ng];B[mf];W[nh];B[le];W[kd];B[hb];W[md];B[nf]
+
+;W[og];B[pg];W[gs];B[eg];W[ai];B[fh];W[gi];B[hs];W[fs];B[bh];W[ah];B[qp];W[po]
+
+;B[qr];W[os];B[nr];W[pq];B[ag];W[aj];B[bg];W[rr];B[sr];W[qs];B[fo];W[fm];B[en]
+
+;W[do];B[di];W[dj];B[gm];W[fl];B[hm];W[hl];B[go];W[kf];B[kg];W[lf];B[lg];W[me]
+
+;B[ne];W[kc];B[jb];W[nc];B[jf];W[hd];B[gc];W[ke];B[id];W[ig];B[fi];W[ej];B[sq]
+
+;W[of];B[pf];W[gg];B[gh];W[hi];B[mk];W[ml];B[nj];W[oj];B[li];W[qa];B[ra];W[pa]
+
+;B[he];W[ka];B[ja];W[la];B[ns];W[ps];B[sn];W[rs])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

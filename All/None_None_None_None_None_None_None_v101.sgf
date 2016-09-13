@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第四届富士通杯第二轮]RO[Round2,5]PB[麦克雷蒙]BR[七段]PW[陈嘉锐]WR[五段]KM[5.5]DT[1991-04-08]PC[日本东京]RE[B+R]TM[10800];B[pd];W[dp];B[pq];W[dd];B[fq];W[ip];B[cn];W[fp];B[gp];W[fo];B[cq];W[eq];B[cp];W[cl];B[dm];W[fr];B[dj];W[bo];B[bn];W[ci];B[cj];W[di];B[ej];W[ei];B[fj];W[fi];B[cc];W[dc];B[cd];W[ce];B[be];W[kd];B[bf];W[de];B[dg];W[gj];B[eg];W[cb];B[bb];W[bc];B[bd];W[ba];B[ab];W[gk];B[gd];W[ff];B[fg];W[gf];B[gg];W[hf];B[gi];W[dl];B[hi];W[nc];B[je];W[hd];B[jd];W[hc];B[kc];W[bj];B[bk];W[co];B[do];W[bl];B[bi];W[al];B[el];W[em];B[ao];W[ek];B[aj];W[qf];B[oe];W[qc];B[en];W[fl];B[fn];W[ij];B[gn];W[go];B[qo];W[lc];B[ld];W[ne];B[nf];W[mf];B[me];W[nd];B[og];W[mg];B[qd];W[pc];B[ph];W[le];B[ke];W[md];B[jh];W[jg];B[lb];W[qj];B[pj];W[qi];B[qh];W[pk];B[pi];W[ql];B[rc];W[kg];B[mc];W[mb];B[lc];W[nq];B[kp];W[no];B[op];W[np];B[kn];W[rq];B[qp];W[in];B[pm];W[qm];B[pn];W[lo];B[ko];W[lm];B[km];W[ll];B[im];W[rn];B[nm];W[ol];B[sp];W[rh];B[rg];W[hm];B[hn];W[pr];B[qr];W[rf];B[ri];W[jb];B[jc];W[pf];B[of];W[sf];B[rj];W[qk];B[qg];W[rd];B[re];W[sd];B[rb];W[qb];B[ob];W[oc];B[ok];W[il];B[io];W[pl];B[nl];W[om];B[nj];W[mk];B[nk];W[on];B[or];W[nb];B[ln];W[kr];B[lq];W[nr];B[lr];W[ns];B[ps])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

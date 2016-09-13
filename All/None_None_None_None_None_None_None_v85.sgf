@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GM[1]
+
+VW[]
+
+FF[3]
+
+DT[1991-02-20]
+
+RO[4]
+
+SZ[19]
+
+PB[小林光一]
+
+PW[加藤正夫]
+
+BR[九段]
+
+WR[九段]
+
+KM[5.5]
+
+PC[Japan]
+
+RE[W+5.5]
+
+GN[日本第15届棋圣战]
+
+US[xuyang]
+
+SO[http://xuyang.yeah.net]
+
+;B[pd];W[dd];B[pq];W[cp];B[eq];W[po];B[qo];W[qn];B[qp]
+
+;W[pn];B[nq];W[pj];B[qh];W[do];B[cf];W[di];B[fc];W[df];B[dg]
+
+;W[ef];B[cc];W[ce];B[dc];W[hc];B[gd];W[bf];B[oc];W[hd];B[lc]
+
+;W[ge];B[gp];W[dq];B[jp];W[qe];B[qd];W[rd];B[rc];W[md];B[mc]
+
+;W[ph];B[pg];W[qg];B[pi];W[oh];B[qi];W[oi];B[rg];W[qf];B[qj]
+
+;W[of];B[pk];W[oj];B[ql];W[op];B[oq];W[mn];B[nl];W[mp];B[lm]
+
+;W[ko];B[kp];W[km];B[ll];W[ln];B[in];W[kl];B[lk];W[li];B[jn]
+
+;W[kn];B[ng];W[og];B[dl];W[kk];B[er];W[em];B[dm];W[fp];B[ep]
+
+;W[eo];B[dj];W[cj];B[ck];W[ej];B[bj];W[dk];B[bl];W[bi];B[ak]
+
+;W[bn];B[bm];W[cm];B[cn];W[dn];B[cl];W[bo];B[am];W[ai];B[aj]
+
+;W[ke];B[il];W[hm];B[fo];W[ok];B[ol];W[rl];B[rk];W[rm];B[rf]
+
+;W[re];B[ri];W[sf];B[sh];W[hn];B[ho];W[fn];B[go];W[im];B[ek]
+
+;W[fk];B[dj];W[ci];B[fj];W[dk];B[lj];W[kj];B[dj];W[ei];B[jm]
+
+;W[jl];B[gn];W[hl];B[gm];W[gk];B[cr];W[dr];B[ds];W[br];B[bs]
+
+;W[cq];B[cs];W[ar];B[ne];W[nf];B[mi];W[mj];B[lh];W[ki];B[mg]
+
+;W[mf];B[lf];W[le];B[nj];W[mh];B[nh];W[ni];B[mk];W[kg];B[mq]
+
+;W[lp];B[lq];W[bd];B[bc];W[nd];B[nc];W[ro];B[rp];W[sp];B[sq]
+
+;W[so];B[rq];W[qc];B[qb];W[sc];B[rb];W[gb];B[fb];W[jc];B[gc]
+
+;W[hb];B[pe];W[pf];B[lg];W[kf];B[mj];W[kh];B[mh];W[ed];B[ec]
+
+;W[ac];B[ab];W[ad];B[ba];W[kb];B[oe];W[me];B[lb];W[jo];B[io]
+
+;W[kc];B[dk];W[ap];B[an];W[bq];B[mm];W[nm];B[om];W[nn];B[nk]
+
+;W[sl];B[np];W[no];B[gl];W[hk];B[fd];W[fe];B[sb];W[la];B[ma]
+
+;W[ka];B[ga];W[ha];B[fa];W[sk];B[sj];W[pm];B[pl];W[od];B[pc]
+
+;W[ld];B[sg];W[se]C[ White wins and connects ko])
+
+
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,25 @@
+(
+;
+FF[4]
+EV[Training game]
+PB[pineapple]
+BR[4d]
+PW[posh]
+WR[6d*]
+KM[0.5]
+DT[2000-04-02]
+PC[IGS]
+RE[B+R]
+TM[60]
+
+;B[pd];W[dd];B[pp];W[dq];B[do];W[co];B[dp];W[cp];B[eq];W[cq]
+;B[dn];W[cm];B[pj];W[nq];B[lp];W[no];B[pn];W[pr];B[mq];W[nr]
+;B[qq];W[lo];B[ko];W[ln];B[mp];W[np];B[kp];W[nm];B[om];W[on]
+;B[pm];W[jm];B[fp];W[nk];B[fc];W[hc];B[cc];W[dc];B[cd];W[de]
+;B[db];W[eb];B[cb];W[ec];B[cf];W[nc];B[qf];W[pb];B[in];W[im]
+;B[fe];W[fb];B[id];W[hd];B[ie];W[he];B[if];W[hn];B[hp];W[qc]
+;B[nd];W[md];B[oc];W[ob];B[mc];W[nb];B[me];W[ld];B[nf];W[le]
+;B[lf];W[kf];B[kg];W[lg];B[mf];W[jg];B[kh];W[jf];B[hf];W[jh]
+;B[df];W[ef];B[hh];W[eg];B[lh];W[ki];B[fh];W[eh];B[fi];W[ch]
+;B[ic];W[lc];B[ge];W[ee];B[bg];W[hb];B[li];W[ji];B[ej];W[dm]
+;B[cj];W[dk];B[dj];W[bh];B[fl];W[em];B[hj];)

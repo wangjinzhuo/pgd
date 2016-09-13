@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第39期日本十段战决赛第二局]US[棋圣道场]SO[http://weiqi.cn.tom.com]PC[日本]WR[九段]KM[5.5]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]BR[九段]PW[王立诚]DT[2001-03-22]PB[小林光一]RE[W+0.5];B[pd];W[dd];B[pq];W[cp];B[eq]
+
+;W[qn];B[qp];W[qk]C[白6、8选择了平稳的下法];B[cf]LB[qi:a]C[黑9在a位拆逼也是一局棋];W[fc];B[cm];W[do];B[dj];W[hq];B[cr]LB[fp:a]C[黑15一般在a位尖出，实战是典型的小林流]
+
+;W[di]C[白16试黑应手];B[ci];W[ch];B[cj]C[黑19冷静，白棋暂时没有严厉的手段];W[fp];B[fq];W[gp];B[bq];W[qf];B[nc];W[rd]LB[nq:a]C[白26很想下在a位]
+
+;B[kq]C[黑27好手，白在左下角顿显薄弱];W[dm]C[白28补强很有必要];B[cn];W[dn];B[ef];W[cl];B[bl];W[cq];B[br];W[np];B[pn];W[qm]
+
+;B[po];W[ko]C[白40是好手];B[ip];W[io];B[lp];W[lo];B[mp];W[mo];B[nq];W[jq]C[至白48形成了黑实地与白外势的对抗];B[bd];W[ic]
+
+;B[kc];W[qc];B[pc];W[fj]C[白54是颇有大局观的一手，白中腹潜力不小];B[cc];W[dc];B[fi];W[dl];B[gj];W[fk];B[hb]C[黑61不妥，在a位接是本手]LB[gi:a]
+
+;W[hc]LB[ib:a][hd:b][id:c][gc:d][he:e][gd:f][jc:g][gi:h]C[白62如a位挡，则黑62、白b、黑c、白d、黑e、白f、黑g先手弃子后，再黑h位接，黑满意];B[ib];W[gi];B[fh];W[jc];B[jb]
+
+;W[kd];B[lc];W[hi]C[至70，黑虽在上边捞取了一定的实地，但白中腹的模样也十分可观，黑如何侵削是个难题];B[bk]C[黑71既实惠又厚实，如被白棋走到，黑地中味道不好];W[kp]LB[jp:a]C[白72先手防黑a位的转换手段];B[ji]C[黑73抓住时机侵削白中腹];W[cd];B[bb];W[cb];B[bc]
+
+;W[jg]C[白78既有攻黑之意，又可声援上边白棋];B[li];W[gg]LB[fe:a]C[白80是形的要点，白不仅很厚实，今后还有a位跳围地的可能];B[ni];W[pi];B[og];W[pg]C[黑81至白84的交换白有所得];B[lq]C[黑争先抢得85的大棋，也可满意。目前黑实地占优，白在中腹成空的多少，将决定本局的胜负];W[kj]C[白86试黑应手];B[jj]C[黑87强硬]
+
+;W[ce];B[be];W[fg];B[eg];W[jk];B[ki]LB[ik:a][kk:b]C[黑93如走a位，则白b位接，黑不行];W[ik];B[pj];W[qj];B[oi];W[ph]
+
+;B[fe];W[ge];B[qd];W[rc];B[qb]C[黑103防白在此处立];W[lg];B[mk];W[ro]LB[rb:a]C[白106有先手味道，比a位大];B[ff];W[gf];B[fd]
+
+;W[gd];B[gb];W[gc];B[ec];W[eb];B[ed];W[fb];B[re];W[qe];B[rb]C[黑117、119想先手便宜];W[op];B[oq];W[rq]C[白122是当然的反击]
+
+;B[jr];W[ir];B[rp];W[sp];B[rr];W[sr];B[qr]C[至129，全盘成细棋局面];W[de];B[df];W[ej];B[ei];W[kr];B[lr]
+
+;W[rf];B[kl];W[kk];B[ll];W[nl];B[nk];W[mh]C[白140、142是出人意料的好手];B[ol];W[js]LB[jm:a]C[白144比a位大];B[jm];W[im]
+
+;B[jl];W[il];B[jn];W[in];B[nn]LB[no:a][oo:b][mi:c]C[黑151如下在a位，白151、黑b、白c，黑崩溃];W[gr];B[bo];W[bp];B[ap];W[co]
+
+;B[bn];W[es];B[er];W[no];B[sc];W[se];B[qo];W[rm];B[ca];W[db];B[ld];W[ke];B[ih]
+
+;W[ig];B[ep];W[eo];B[ij];W[hj];B[ls]C[黑175逆收先手三目，是目前最大官子];W[nf]C[白占到176，小胜局面黑难逆转];B[ng];W[mf];B[pk];W[mi];B[lj]
+
+;W[mm];B[nm];W[mn];B[ml];W[mj];B[lk];W[sb];B[sa];W[nj];B[oj];W[ds];B[fs];W[fr]
+
+;B[dr];W[gs];B[ks];W[nd];B[md];W[od];B[oc];W[jr];B[of];W[ne];B[jo];W[jp];B[dk]
+
+;W[ek];B[cs];W[jh];B[ii];W[fs];B[hh];W[gh];B[dh];W[da];B[ba];W[ga];B[ha];W[fa]
+
+;B[hg];W[hf];B[kh];W[kg];B[ql];W[rl];B[pl];W[oo];B[on];W[pm];B[rs])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

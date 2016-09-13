@@ -1,0 +1,24 @@
+(;SZ[19]EV[第52期日本王座战本赛半决赛]DT[2004-06-24]PC[日本]KM[6.5]US[棋圣道场]SO[http://weiqi.tom.com]C[http://weiqi.tom.com
+棋圣道场-->精彩时局]PB[依田纪基]BR[九段]PW[高尾绅路]WR[八段]RE[B+R];B[qd]C[本局之前两人的对战成绩为2胜2败];W[dd];B[qp];W[dp]
+;B[oq];W[oc];B[kd];W[qg]LB[mc:a][of:b]C[白8下在a位或b位则属普通];B[pf];W[pg];B[of];W[og];B[pc]C[黑13有疑问，应a位]LB[nf:a]
+;W[nf]C[白14后，黑棋形不佳];B[od];W[nd];B[nc];W[oe];B[ob];W[pe]C[至20的结果，黑失败];B[pl]C[黑21是好点];W[jq];B[cn];W[fp];B[bp]
+;W[cm]LB[cq:a][ck:b][md:c]C[白26不如下在a位，黑b，白c];B[bm]LB[dm:a][cl:b][dl:c][bn:d][co:e][cj:f][dk:g][bi:h][cq:i][dq:j][bo:k]C[黑27如在a位，则白b，黑c，白d，黑e，白f，黑g，白h，黑i，白j，黑k，这是白的意图]
+;W[bn];B[cl];W[dm];B[bo];W[dn]LB[bl:a][an:b][ck:c]C[白32如a，则黑b，白c位的征子不成立];B[an];W[mq];B[gp]LB[ip:a][fq:b][eq:c][fo:d][ep:e][gr:f][dl:g][gn:h]C[黑35好手，白如a，则黑b，白c，黑d，白e，黑f，白g，黑h，黑可战]
+;W[go]LB[gq:a][hq:b][hp:c][hr:d][fq:e][iq:f][gr:g][ep:h][fo:i][eo:j][fn:k][eq:l][do:m][dq:n][fm:o]C[白36恶手，应a，黑b，白c，黑36，白d，黑e，白f，黑g，白b，黑h，白i，黑j，白k，黑l，白m，黑n，白o，这个结果要优于实战]
+;B[hp];W[fq];B[jp];W[kp];B[jo];W[iq];B[ho];W[ko]LB[gn:a][lp:b][mn:c]C[白44如a，则黑44，白b，黑c，白不利];B[gn];W[km]
+;B[il];W[gr]C[白48后手连回，白作战失败];B[fc]C[黑49是绝好点];W[cf];B[md]LB[db:a][cc:b][hd:c]C[黑51是急所，如改走a位，则白b，黑c，白51，黑不满];W[qn]LB[qi:a][rf:b][qf:c][rg:d]C[白52抢先攻击，此处如脱先，则黑a后，即产生了黑b，白c，黑d攻白的手段，白不利]
+;B[pn];W[qm];B[pm];W[qo];B[pp];W[rk];B[qk];W[qj];B[pj];W[rj]C[至62，白在实地上有所得，但黑变得很厚实，并无不满];B[dc];W[cc];B[cb]
+;W[cd];B[eb];W[ci];B[hd]C[黑69后，黑在上边围得40目的实地，白实地不足];W[cq];B[dl];W[el];B[em]C[黑71、73锐利];W[en];B[fm];W[ek];B[gk]
+;W[bj];B[nr]C[黑79是先手6目的大官子];W[bq];B[bk];W[dk];B[ck];W[cj];B[do];W[eo];B[co];W[ak];B[bl];W[re]LB[mr:a][rf:b]C[白90如a，则黑b，白不满]
+;B[gh]C[黑91好点];W[ei];B[ro];W[rn];B[rp];W[rc];B[rd];W[sd];B[rb];W[qe];B[qc];W[gj]C[白102以下是胜负手]
+;B[hj];W[gi];B[hi];W[hh];B[gg];W[ih];B[ji]LB[hf:a][hg:b]C[黑109后，白如a，则黑b冲断，白不行];W[jh];B[ki];W[kh];B[li]
+;W[ge];B[he];W[gf];B[hg];W[hf];B[ig];W[if];B[jg]LB[jd:a][lg:b][jf:c][kg:d][jc:e]C[黑121后，白如a，则黑b，白c，黑d，白e，这个结果也是白不利]
+;W[lh];B[jf];W[mi];B[ie];W[mj];B[kk];W[gl];B[hl];W[fk];B[fo]C[黑131是正着];W[hk];B[ik];W[mr]
+;B[ms];W[ls];B[ns];W[lq];B[eg];W[ee];B[lf];W[pi];B[bc];W[bd];B[bb]C[黑145后，白已无胜机];W[dg];B[sc]
+;W[oj];B[rl];W[ql];B[pk];W[sl];B[po];W[eh];B[se];W[rf];B[sn];W[rm];B[mg];W[mh]
+;B[ng];W[ne];B[nh];W[ml];B[jn];W[nn];B[np];W[ap];B[al];W[aj];B[kn];W[ln];B[lo]
+;W[mn];B[lp];W[kq];B[no];W[oi];B[fg];W[me];B[le];W[jm];B[im];W[gd];B[gc];W[ef]
+;B[ad];W[ae];B[ac];W[lj];B[kl];W[lm];B[fn];W[ep];B[be];W[af];B[bf];W[ag];B[bg]
+;W[ah];B[ed])<script language="JavaScript" src="http://weiqi.sports.tom.com/java/tomshu.js"></script>
+<noscript> <img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-tom&amp;cg=0" alt=""> 
+  </noscript>

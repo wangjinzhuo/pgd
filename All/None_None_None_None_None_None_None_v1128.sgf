@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]DT[2001-07-07]EV[第14届富士通杯半决赛]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本大阪]PB[崔明勋]BR[八段]PW[周俊勋]WR[一品]RE[B+7.5];B[pd];W[dd];B[qp];W[dq];B[do]
+
+;W[co];B[dp];W[cp];B[eq];W[cq];B[dn];W[cm];B[nq];W[qj];B[ql];W[qf]C[至16是常见布局];B[qh]LB[mc:a]C[黑17在a位大飞守角最近也很流行]
+
+;W[of];B[nc];W[rd];B[pi];W[qc];B[kc]C[至23的下法非常普通];W[gq]LB[pj:a]C[白24一般是立即在a位动出，实战的下法较少见];B[el];W[go];B[cl];W[dm]
+
+;B[em];W[cn];B[fo];W[er]C[白26至32是双方意料之中的结果，白获取了一些实地，但落后手];B[pc]C[黑33似小实大];W[pj];B[ni];W[pl];B[pm];W[oj];B[qd];W[rb]
+
+;B[qb];W[rc];B[oi];W[qm]LB[om:a]C[白44也有在a位扳的下法];B[rl]LB[ol:a]C[黑45如走a位打吃，则白45，黑不便宜];W[ol];B[pn];W[mk];B[qe];W[re]
+
+;B[pf];W[pg];B[rf];W[pe];B[rg]TR[pc]C[黑49至55即是当初黑△的用意所在];W[pb];B[ob];W[qa];B[mf]TR[pe][of][pg][qf]C[至59的结果，黑可满意，但白▲四子尚有一些余味，黑需加以防范]
+
+;W[qq]C[白60试黑应手];B[pp]C[黑61稳健];W[pq];B[oq]C[至63，白在右下角留有一个打劫活];W[fc]C[白64位是双方好点];B[gn]C[黑65虽厚实，但略嫌迟缓];W[ce]C[白66脱先抢占实地是好手];B[fq];W[fr];B[gp]
+
+;W[hq];B[hp];W[en];B[eo];W[fp]LB[ip:a][iq:b]C[白72、74巧妙，确保白a位扳时，黑不敢b位断];B[ep];W[rp];B[ro];W[rm]C[白78想先手便宜];B[hc]C[黑79脱先拆二，双方都不想让对方的意图得逞]
+
+;W[kd];B[lc];W[jc]C[白80、82强硬，白方希望利用死子的余味获取便宜];B[fb];W[ec]C[至此中午休息];B[jb];W[ib];B[ic];W[jd];B[kb]LB[hb:a][md:b]C[黑89如走a位，则白b，黑难受]
+
+;W[me]C[白90开始腾挪];B[lf]C[黑91是最强的应手，白不易应付];W[mg];B[ng];W[nf];B[le];W[nd];B[md];W[nh];B[mh];W[oe];B[ne]
+
+;W[lg];B[kg];W[me];B[oc];W[ld];B[lh];W[mc];B[mb];W[ie]LB[md:a]C[白110如走a位粘劫，则黑110，白无活路];B[he];W[hf]C[黑111和白112的交换令白不舒服]
+
+;B[md];W[rk]C[白114是无奈的选择];B[ge];W[jf];B[gf];W[hg];B[gg];W[hh];B[mc]C[黑115至121次序井然，这一局部的战斗黑明显占优];W[hd];B[gd];W[gc]
+
+;B[id];W[hb];B[hd];W[gb]C[白122至128白虽获取 了一些实地，但也把自己的气撞得很紧];B[gh];W[hi];B[je];W[ke];B[kf];W[je];B[jg];W[if];B[gi]
+
+;W[hj];B[cg]LB[jk:a]C[黑139是简明策，如走a位则较复杂];W[jk];B[dl]C[至141，黑优势明朗化了];W[gk]LB[ik:a]C[白142防黑在a位别断];B[qn];W[qk];B[or]C[黑145将白吃净是本手];W[eg]C[白146凶狠]
+
+;B[ef];W[df];B[dg];W[eh];B[di];W[dh];B[ch];W[ei];B[fj];W[ci];B[bi];W[dj];B[bj]
+
+;W[fk];B[ej];W[ek];B[dk];W[ff];B[cj];W[ee];B[di]C[147至167，黑棋安全运转，黑棋形势依然占优];W[kq];B[lk];W[lj];B[ll];W[mj]
+
+;B[bf];W[be];B[ln];W[kk];B[lq];W[lp];B[kp];W[jq];B[jp];W[lr];B[mq];W[nn];B[iq]
+
+;W[ir];B[ip];W[kr];B[ae];W[ad];B[af];W[bd];B[nm];W[om];B[on];W[mm];B[no];W[mn]
+
+;B[mo];W[lm];B[km];W[ml];B[jm];W[ns];B[mr];W[ms];B[os];W[ri];B[sn];W[sl];B[il]
+
+;W[rh];B[qg];W[qi];B[ph];W[bl];B[bk];W[bm];B[ik];W[ij];B[ki];W[kj];B[ji];W[jj]
+
+;B[kl];W[ls];B[fl];W[cf];B[bg];W[im];B[hm];W[kn];B[lo];W[in];B[jl];W[hl];B[jn]
+
+;W[gm];B[hn];W[gl];B[oa];W[pa];B[nj];W[nk];B[fm];W[ih];B[mi];W[rn];B[al];W[am]
+
+;B[ak];W[ja];B[ka];W[ia];B[se];W[sd];B[sh];W[si];B[jh];W[fd];B[so];W[sg];B[sf]
+
+;W[sh])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

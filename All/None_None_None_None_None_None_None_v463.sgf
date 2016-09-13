@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;EV[第15届中国天元战挑战者决定赛]DT[2001-02-24]PC[中国棋院]PB[丁伟]BR[七段]PW[周鹤洋]WR[八段]KM[5.5]RE[B+R]US[棋圣道场]SO[http://weiqi.cn.tom.com/]SZ[19]C[本谱由华学明七段解说
+
+http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局];B[pd];W[dp];B[qp];W[dc];B[fq]
+
+;W[cn];B[kq];W[qj];B[qf];W[qm];B[pn];W[qn];B[pm];W[pl];B[ol];W[pk];B[po];W[oq]LB[ko:a]C[白18试应手，是最近研究的一种下法，以前通常在a位镇。]
+
+;B[pq]LB[mq:a][rq:b][qq:c][rp:d][rr:e][qo:f][op:g]C[黑19应在a位逼，迫使白立即出招，也不给白棋更多的变化。以下依次是白b，黑c，白d，黑e，白f，黑g。];W[lp]LB[rq:a]C[白20应单在a位点，实战的下法有重的嫌意。];B[kp];W[lo];B[ko]
+
+;W[lm];B[lq];W[rq];B[rp];W[pr];B[op];W[nq];B[np];W[qr];B[ok];W[nm]LB[lk:a]C[白34随手！应单在a位跳出头。];B[oj]C[黑35反击，好棋！]
+
+;W[qh];B[mr];W[os];B[nr];W[or];B[kj]LB[ln:a]C[黑41过分，应在a位挖，白较难办。];W[kn]LB[mp:a][mq:b][in:c][lk:d]C[白42次序有误，应先在a位团，考验黑棋，黑如b，白再走42，这样迫使黑在b位走了一个单官，以下白有二个好点，c位、d位跳，白必得其一。]
+
+;B[mn];W[ln];B[jn];W[jm];B[in];W[mp]C[白48已来不及，];B[om]C[黑49回头是岸。此段攻防中白稍占上风。];W[im];B[hn];W[eq];B[fr];W[fp]
+
+;B[gp];W[jc];B[ce];W[ed]LB[dg:a]C[白58稳健，也可考虑在a位夹击。];B[cl];W[cj];B[ch];W[di]LB[ej:a]C[白62有些考虑过头，在a位跳是正常分寸。];B[eg];W[el]
+
+;B[bc]C[黑63、65出色！];W[eh]LB[hd:a]C[白66计算有误，应在a位补回。];B[dh];W[fg];B[ef];W[ff]LB[hd:a]C[白70继续执迷不悟，此时仍应在a位补。];B[bj];W[bk];B[bi]
+
+;W[ck];B[fh];W[ei];B[fe]LB[cf:a][de:b]C[黑77严厉！白此形误算之处在于，以为在a位靠，黑即崩溃。实际上，黑可走b位，杀气黑竟意外地可行。];W[ee];B[ge];W[gg];B[gc];W[fc]C[白82以下苦苦求活，此役白失败。];B[gb]
+
+;W[cd];B[be];W[de];B[cf];W[bd];B[ad];W[cc];B[bb];W[fb];B[ie];W[nc];B[lc];W[df]
+
+;B[dg];W[cb];B[ba];W[hd];B[id];W[pc];B[qc];W[od];B[pb];W[ob];B[oc];W[bg];B[cg]
+
+;W[pc];B[ri];W[rh];B[oc];W[af];B[ae];W[pc];B[oe];W[nd];B[oc];W[ld];B[kd];W[pc]
+
+;B[le];W[pe];B[oc];W[ac];B[ab];W[pc];B[qd];W[of];B[ne];W[qb]LB[me:a][nf:b][ng:c][mf:d][lf:e][mg:f][ke:g][jd:h][pf:i]C[白132走向失败的一手！应在a位，黑b，白c，黑d，白e，黑f，白g，黑h，白i位动出，这样局势较乱，尚有机会。]
+
+;B[oc];W[me];B[nf];W[md];B[mf];W[pc];B[qi];W[pi];B[oc];W[lf];B[ke];W[pc];B[og]C[黑145将局势简单化。]
+
+;W[pa];B[gh];W[gd];B[hg]C[黑149优势确立。];W[ic];B[fo];W[ep];B[er];W[cq]LB[dr:a]C[白154也许只能在a位扳，拼搏一下，局部并无问题，需要担心的是，可能中腹大龙会有危险。];B[kc];W[oh]
+
+;B[nh];W[dr];B[sm];W[rl];B[kl]LB[fl:a]C[黑161小小的失误，应先在a位靠，但与胜负无关。];W[mq];B[fl];W[gq];B[hq];W[gi];B[em];W[go]
+
+;B[gr];W[fm];B[rg];W[rj];B[fn];W[gm];B[gn];W[en];B[hi];W[fi];B[hh];W[rb];B[ll]
+
+;W[ml];B[mk];W[gl];B[eo];W[dn];B[ak];W[al];B[aj];W[bl];B[hk];W[gk];B[mm];W[oi]
+
+;B[ni];W[he];B[gf];W[ci];B[bh];W[nn];B[nl];W[mo];B[qq];W[rr];B[hl];W[hm];B[fd]
+
+;W[hc];B[hj];W[rd];B[qe];W[rc];B[ml];W[jb];B[no];W[mb];B[ka];W[qg];B[pj];W[si]
+
+;B[do];W[co];B[ca];W[da];B[gj];W[fj];B[rf];W[pg];B[pf]
+
+())
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

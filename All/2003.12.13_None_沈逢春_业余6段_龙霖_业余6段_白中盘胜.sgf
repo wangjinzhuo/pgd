@@ -1,0 +1,62 @@
+(;SZ[19]AP[MultiGo:3.6.0]C[成都晚报队选拔赛
+黑：沈逢春    业余6段
+白：龙    霖    业余6段
+
+《围棋天地》2004年第6期
+《第16次出线》]GN[成都晚报队选拔赛]
+DT[2003.12.13]PC[四川成都]PB[沈逢春]BR[业余6段]
+PW[龙霖]WR[业余6段]KM[7.5]RE[白中盘胜]
+
+;B[pd]	;W[dp]	;B[pq]	;W[dd]	;B[fq](;W[po]	;B[np]	;W[qq]	;B[qr]	;W[qp]	;B[or]	;W[qk]	;B[cn]	;W[eo]	;B[cq]
+;W[nc]	;B[qf]	;W[jd]	;B[cf]
+;W[ch]LB[fc:A]C[白20还是在A位小飞更好]
+;B[ef]	;W[fd]	;B[di]	;W[ce](;B[ci]	;W[bf]	;B[cg]	;W[gp]	;B[cp]	;W[hn]
+;B[lc]C[黑31打入有问题]
+;W[jc]	;B[nd]	;W[oc]	;B[pc]	;W[od]	;B[oe]	;W[md]	;B[ne]	;W[mc]	;B[me]
+;W[ld]
+;B[qi]C[黑棋虽然很厚，但是黑43只能拆二，白棋满意]
+;W[qj]	;B[jp]
+;W[iq]LB[jn:A]C[白46俗手，应该走A位跳。]
+;B[jq]	;W[ip]	;B[er]	;W[jo]	;B[ko]
+;W[kn]C[白52应该走A位长，这样棋形比较正，而且留有A位点的手段。]LB[lq:A]
+;B[jn]	;W[io]	;B[lo]	;W[ln]	;B[mo]	;W[bg]	;B[bh]
+;W[eg]C[白60常用手筋。
+不过也许走A位补强更好，这样白棋领先。]LB[jm:A]
+;B[dh]
+;W[ff]C[至此上面白空彻底放心]
+;B[jm]	;W[el]	;B[il]
+;W[fi]LB[gl:A]C[白66不好，应走A位补强]
+;B[gl]	;W[jr]	;B[kr]	;W[hr]	;B[om]	;W[pl]	;B[fg]	;W[df]	;B[eh]	;W[ee]
+;B[fh]
+;W[lr]C[白78大棋，在补活的同时还破黑空]
+;B[kq]	;W[ks]	;B[ri]	;W[ol]	;B[on]
+;W[ml]C[白84随手，应走A位长]LB[nl:A]
+;B[nl]	;W[nk]	;B[nm]	;W[qm]	;B[mk]	;W[hk]	;B[hl]
+;W[lk]C[白92以下动出不简明]
+;B[mj]	;W[lj]	;B[nj]	;W[kh]	;B[li]	;W[ki]
+;B[kj]C[黑99漏算了A位的打出手段]LB[kk:A]
+;W[lh]	;B[mi]	;W[kk]	;B[jj]	;W[jk]	;B[ji]	;W[ik]	;B[jh]	;W[jg]	;B[ig]
+;W[ih]	;B[kg]	;W[jf]	;B[ii]	;W[if]	;B[hh]
+;W[jl]LB[im:A]C[黑棋已经不能A位接了。]
+(;B[gk]
+;W[im]C[白吃通2子，局面领先不少。]
+;B[kf]	;W[dn]	;B[gi]	;W[cm]	;B[bn]	;W[pb]	;B[qb]
+;W[ob]C[白中盘胜]
+)
+(;B[im]MN[1]	;W[gk]	;B[fl]	;W[fk]	;B[em]
+;W[fm]C[黑棋被吃]
+)
+)
+()
+(;B[bf]MN[1]C[黑棋如果立下]
+
+;W[dm]C[白棋将选择作战]
+;B[ci]	;W[dq]	;B[cp]	;W[cm]	;B[do]	;W[dn]	;B[co]	;W[cr]	;B[br]
+;W[er]C[双方都无成算]
+)
+)
+(;W[cn]MN[1]C[普通白1应]
+;B[ip]	;W[qn]
+;B[po]C[形成比较流行的下法]
+)
+)

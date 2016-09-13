@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第一届富士通杯第一轮]RO[1,2]PB[金河立]PW[白石裕]DT[1988-04-02]PC[日本]RE[W+R];B[pd];W[dd];B[pq];W[dp];B[pk];W[mp];B[po];W[jp];B[fc];W[df];B[db];W[cc];B[ic];W[cn];B[nd];W[re];B[rd];W[qd];B[qc];W[qe];B[rc];W[qi];B[rj];W[pe];B[oe];W[of];B[nf];W[og];B[ng];W[oi];B[nh];W[ri];B[gf];W[hd];B[fe];W[kc];B[mc];W[hc];B[jc];W[if];B[je];W[ie];B[hh];W[jd];B[kb];W[jh];B[id];W[ge];B[ff];W[kd];B[ke];W[ec];B[ed];W[ee];B[fd];W[fb];B[eb];W[dc];B[gb];W[jb];B[ib];W[hb];B[ja];W[ha];B[ia];W[fa];B[dh];W[fq];B[qj];W[oh];B[cl];W[dl];B[dk];W[el];B[cm];W[dn];B[mr];W[lq];B[io];W[ip];B[go];W[im];B[hm];W[hl];B[jm];W[in];B[jo];W[jn];B[ko];W[ho];B[kn];W[hn];B[jl];W[nn];B[mo];W[no];B[np];W[pn];B[om];W[nm];B[nl];W[ml];B[mm];W[mn];B[lm];W[op];B[nq];W[pp];B[qo];W[oo];B[qp];W[oq];B[or];W[qq];B[pr];W[qn];B[rq];W[lo];B[lr];W[ci];B[ch];W[di];B[bi];W[bj];B[cj];W[bh];B[ei];W[ai];B[dj];W[bi];B[fj];W[bk];B[ck];W[cg];B[bn];W[bo];B[ol];W[on];B[jr];W[kp];B[hq];W[ln];B[km];W[hp];B[mk];W[kr];B[ks];W[ir];B[hr];W[jq];B[kq];W[pc];B[od];W[kr];B[cb];W[bb];B[kq];W[pb];B[oc];W[kr];B[bc];W[ca];B[kq];W[eh];B[fh];W[kr];B[gc];W[ga];B[kq];W[sd])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

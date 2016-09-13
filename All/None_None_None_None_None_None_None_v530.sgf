@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;GN[日本第10届天元赛]
+
+RO[1]
+
+PB[片冈聪]
+
+BR[九段]
+
+PW[石田芳夫]
+
+WR[九段]
+
+SO[http://xuyang.yeah.net]
+
+US[xuyang]
+
+DT[1984-11-01]
+
+PC[Japan]
+
+RE[W+1.5]
+
+;B[pd];W[cc];B[pq];W[eq];B[cq];W[do];B[co]
+
+;W[dn];B[cn];W[dm];B[cm];W[dl];B[cl];W[dk];B[cj];W[qo];B[mq];W[qf];B[nc];W[kq]
+
+;B[kp];W[jp];B[ko];W[lq];B[mp];W[qq];B[jq];W[iq];B[jr];W[ir];B[jo];W[ip];B[qr]
+
+;W[rr];B[qp];W[rq];B[pp];W[rp];B[qm];W[rd];B[qc];W[qi];B[po];W[qn];B[pn];W[ic]
+
+;B[rm];W[pr];B[or];W[qs];B[kc];W[fc];B[ed];W[ec];B[cd];W[dc];B[oi];W[qj];B[rc]
+
+;W[qe];B[pk];W[hn];B[jl];W[ch];B[eg];W[cf];B[id];W[hd];B[ie];W[jc];B[kd];W[of]
+
+;B[gf];W[dd];B[ph];W[qh];B[nf];W[ik];B[il];W[hk];B[hl];W[gk];B[kj];W[he];B[hf]
+
+;W[ih];B[bg];W[cg];B[ci];W[bh];B[kh];W[if];B[hc];W[jd];B[je];W[hb];B[jf];W[ig]
+
+;B[ei];W[gl];B[ib];W[gc];B[jb];W[og];B[ng];W[cr];B[br];W[dq];B[cp];W[ji];B[ki]
+
+;W[oh];B[nh];W[oj];B[pj];W[pi];B[ni];W[bi];B[bj];W[jk];B[kk];W[mr];B[nr];W[qk]
+
+;B[ql];W[fg];B[hc];W[ic];B[eh];W[ff];B[ro];W[dr];B[rk];W[rj];B[qd];W[bs];B[ar]
+
+;W[re];B[ef];W[fe];B[oe];W[sk];B[gi];W[sc];B[sb];W[sd];B[rb];W[aj];B[bk];W[hm]
+
+;B[io];W[ho];B[in];W[lr];B[gh];W[gg];B[ee];W[jc];B[rl];W[dj];B[di];W[js];B[ej]
+
+;W[ek];B[ak];W[ai];B[sl];W[sj];B[de];W[ce];B[dp];W[ep];B[fj];W[kb];B[lb];W[ia]
+
+;B[ka];W[im];B[jm];W[fd];B[hh];W[hg];B[fk];W[fl];B[lp];W[ms];B[pf];W[pg];B[pe]
+
+;W[jg];B[kg];W[sn];B[so];W[sp];B[rn];W[fh];B[ck];W[gj];B[fi];W[hi];B[jj];W[ij]
+
+;B[jh];W[ii])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

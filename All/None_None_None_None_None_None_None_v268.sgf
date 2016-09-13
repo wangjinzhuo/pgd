@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第六届碁圣战]RO[2]PB[大竹英雄]BR[九段]PW[加藤正夫]WR[九段]KM[5.5]DT[1981-07-16]PC[日本]RE[B+R];B[qd];W[dd];B[pq];W[cq];B[fc];W[df];B[db];W[cc];B[ic];W[qo];B[pl];W[pn];B[np];W[rq];B[jq];W[oc];B[mc];W[qg];B[pe];W[qj];B[fp];W[cn];B[nn];W[ql];B[pc];W[hq];B[do];W[co];B[dq];W[dp];B[ep];W[cp];B[er];W[dr];B[eq];W[ho];B[fn];W[mo];B[no];W[jp];B[kq];W[kp];B[lq];W[iq];B[hm];W[lp];B[mp];W[km];B[el];W[ck];B[in];W[mm];B[mn];W[ln];B[ll];W[kl];B[lk];W[lm];B[jn];W[lo];B[li];W[il];B[gk];W[kj];B[lj];W[pk];B[pi];W[qh];B[og];W[hl];B[gl];W[jh];B[ol];W[hj];B[om];W[kg];B[qm];W[pm];B[qi];W[ri];B[rk];W[rl];B[rj];W[si];B[pj];W[sk];B[qk];W[sj];B[hk];W[ik];B[gj];W[hi];B[cb];W[en];B[io];W[ip];B[go];W[pb];B[qb];W[kc];B[fe];W[ke];B[dh];W[ff];B[ge];W[dj];B[fh];W[ch];B[ci];W[di];B[cg];W[eh];B[bh];W[dg];B[ce];W[cf];B[bf];W[ch];B[rm];W[sl];B[dh];W[de];B[ch];W[be];B[ae];W[bd];B[bk];W[bl];B[bj];W[bb];B[jb];W[kb];B[mb];W[em];B[fm];W[ad];B[ei];W[eg];B[af];W[qr];B[qp];W[rp];B[ld];W[id];B[hd];W[ie];B[pr];W[ca];B[ec];W[dl];B[cr];W[br];B[ds];W[rc];B[qc];W[re];B[rd];W[sd];B[rf];W[qf];B[qe];W[se];B[sf])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第40期日本十段战决赛第二局]DT[2002-03-22]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]BR[九段]PW[武宫正树]PB[王立诚]WR[九段]PC[日本爱知]RE[W+8.5];B[pd]C[这是五番胜负的第二局，第一局王立诚执白2目半胜，本局王立诚九段执黑，];W[dp]C[本局的裁判是山城宏九段];B[pq];W[dd]
+
+;B[qo];W[jp]C[白6是武宫正树九段执白爱用的着法，武宫正树向来是以不变应万变];B[cn];W[cl];B[cq];W[dq];B[cp];W[do];B[dn]LB[bn:a]C[黑13一般是下在a位，实战也是定式的变化之一];W[co];B[bo]
+
+;W[bp];B[bq];W[bn];B[ap];W[en];B[bm];W[em]LB[dm:a][an:b][cm:c][fm:d]C[白22少见，一般是在a位打，黑b、白c、黑18、白d];B[fc];W[df]
+
+;B[cc]LB[jd:a]C[黑25下在a位较为普通，实战立即点角是对武宫“宇宙流”的一种挑战];W[dc];B[db];W[eb];B[cb];W[ec];B[be];W[kc];B[ce];W[fd]C[黑33和白34的交换双方各有所得];B[pi]
+
+;W[mp]LB[nq:a]C[白36是双方好点，但喜欢实地的棋手会选择在a位拆];B[jf]C[黑37显然是对“宇宙流”心有顾忌，如果对手不是武宫正树九段，估计王九段不会这样下];W[nc];B[pf];W[oo]C[白40虽然是好点，但从棋形配置上看有不协调之感];B[gq]C[黑41的打入强硬，黑棋的作战思想很明确：先争夺实地，再侵消白的外势];W[fp]C[白42是攻防要点];B[iq];W[jq];B[ip]
+
+;W[io];B[ho];W[hn];B[go];W[in];B[fr]C[至51，黑棋已无生死之忧];W[qn];B[rn];W[ro];B[rp];W[qp];B[so];W[po]
+
+;B[ro]C[白52至59是常用的侵消手段。至此中午休息];W[pc];B[qc];W[od]C[白60、62放弃3·三点角的下法需要极大的勇气，白棋显然要与黑棋在中腹一决胜负了];B[pe]LB[pb:a]C[黑63是正着，如在a位打吃，则白63，黑不利];W[oi]C[白64靠压寻求战机];B[oj];W[nj];B[nk];W[ni]
+
+;B[pj];W[mk];B[nl]C[至71，双方都按着自己的既定方针行棋，表现得都很自信];W[lf]LB[nf:a]C[白72开始发动攻击，如走a位则嫌松弛];B[jd];W[hd]LB[jc:a]C[白74是非常规的下法，此时在a位围地对白棋来说已无意义];B[le];W[mf];B[jc]
+
+;W[kb];B[ig];W[gg]LB[ii:a]C[白80不在a位镇显示了必杀的决心];B[hc];W[jb];B[ii];W[jh];B[he]LB[ih:a]C[黑85如在a位接则嫌重滞];W[gd];B[hg]
+
+;W[gi];B[ji];W[kh];B[hi];W[gj];B[gf];W[fg];B[ki];W[li];B[lj];W[lk];B[lh];W[mi]
+
+;B[kj];W[mj];B[ik]C[至103，黑棋并未活净];W[qq];B[pp];W[qr];B[pr];W[or];B[oq];W[nr];B[nq];W[mq]C[白104至112想先手定型]
+
+;B[id]C[黑113显然是经过形势判断后选择的安全下法。由此看来如果本局白棋输了，那104就应该选择尝试硬杀黑棋大龙];W[ps];B[rr];W[rs];B[rq];W[qs];B[qm];W[ib];B[jl]C[至121，黑棋彻底活净，从实地上看，目前仍然是黑棋占优];W[qb]C[白122是胜负手];B[pb];W[ob]
+
+;B[oc];W[er];B[hr];W[jr];B[ir];W[pc];B[fo];W[eo];B[oc];W[cd];B[bd];W[pc];B[ch]C[黑137再次作出妥协，黑的优势意识很明显]
+
+;W[pa];B[rc]C[至139，白在右上略有所得];W[bb]C[白140是好时机];B[bc]LB[ba:a][da:b]C[黑141是失着。黑141是怕走在a位，会让白b成为先手，但即使如此，黑141还是该走在a位补。实战的下法黑角味道极恶];W[bg]C[白142抓住胜机，黑棋顿感局促];B[cg];W[bh];B[cf]LB[ci:a][ck:b]C[黑145本可选择a位退，白145、黑b一类的下法，但由于黑角上不活，黑145只得屈服]
+
+;W[ci];B[ic];W[di]C[至148，白棋明显得利];B[de];W[gc]C[黑149与白150的交换也是白有利];B[bl];W[bk];B[cm];W[ff]LB[ab:a]C[白154是先手，黑如脱先，白a，黑角被杀];B[ef];W[kk]
+
+;B[hl];W[ge];B[hf];W[fq];B[fs];W[km]C[白162后，黑棋已不容乐观];B[kf];W[lg];B[gm];W[gn];B[jk];W[hj];B[ij]
+
+;W[ck]C[白170抢得这个大官子，黑棋的贴目马上成为沉重的负担];B[nn];W[no];B[mn];W[rb];B[sb];W[ph];B[qh];W[pg];B[qg];W[cr];B[br];W[qd]
+
+;B[rd];W[fl]C[184后，白棋的优势明朗化了];B[lo];W[mm];B[nm];W[ln];B[mo];W[hb];B[kn];W[lm];B[jm];W[eg];B[ee]
+
+;W[dg];B[af];W[pn];B[pm];W[gp];B[hp];W[sc]LB[lp:a]C[白202没必要，应在a位补净，黑无任何机会];B[oe];W[ne];B[ng];W[oh];B[of]
+
+;W[nf];B[og];W[mg];B[md];W[nd];B[cs];W[sa];B[sd];W[bf];B[ab];W[dr];B[kr];W[kq]LB[lr:a]C[白220危险，下在a位仍是细棋白有望的局面]
+
+;B[lr];W[js];B[jo];W[fn];B[lq];W[lp];B[kp]C[至227成劫，形势复杂化了];W[ko];B[mr];W[np];B[kp];W[re];B[qe]
+
+;W[ko];B[fb];W[fa];B[kp];W[se];B[ns];W[op];B[ko]C[黑241只得消劫，否则黑棋劫材不够];W[qd];B[rd];W[rf];B[qf];W[sg]
+
+;B[qc];W[sd];B[ri];W[si];B[sj];W[sh];B[rj]C[至253的转换，黑棋所得有限，白棋仍是胜势];W[ld];B[kd];W[lc];B[me];W[os];B[gl]
+
+;W[ms];B[is];W[ae];B[ad];W[al];B[dh];W[eh];B[am];W[ak];B[gh];W[fh];B[mc];W[mb]
+
+;B[ke];W[dm];B[an];W[rc];B[qd];W[rh];B[rg];W[sf];B[on];W[sr];B[sq];W[hh];B[ih]
+
+;W[kg];B[ag];W[ah];B[ae];W[bi];B[gk];W[fk];B[gh];W[bs];B[as];W[hh];B[da];W[gh]
+
+;B[im];W[ss];B[ba]C[双方战成1:1平，第三局将于4月4日在日本长野继续进行。敬请关注TOM.COM棋圣道场。])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

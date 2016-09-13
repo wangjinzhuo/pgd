@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]DT[2001-12-04]EV[第14届中国名人战决赛五番胜负第一局]KM[5.5]US[棋圣道场]PC[中国北京]PB[马晓春]BR[九段]PW[常昊]WR[九段]RE[W+0.5]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com`
+
+棋圣道场-->精彩时局];B[pd];W[dd];B[pq];W[dp];B[fq]
+
+;W[hq];B[qk];W[kq];B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn];W[qf]
+
+;B[qe];W[pf];B[nc];W[qi];B[po];W[ne];B[nd];W[me];B[kc];W[qm];B[pl];W[qp];B[pp]
+
+;W[pm];B[om];W[ol];B[nm];W[ok];B[qo];W[pk];B[cf];W[fc];B[fo];W[fr];B[bd];W[cc]
+
+;B[lq];W[lr];B[mr];W[mq];B[lp];W[kr];B[dh];W[mp];B[rn];W[cj];B[ci];W[ej];B[fi]
+
+;W[fj];B[gi];W[gj];B[hi];W[ik];B[dn];W[en];B[jk];W[jl];B[lo];W[nr];B[kl];W[jm]
+
+;B[em];W[fm];B[ql];W[qj];B[rl];W[ml];B[ij];W[jj];B[kk];W[km];B[mo];W[ji];B[jo]
+
+;W[jg];B[gc];W[gb];B[fb];W[hc];B[gd];W[ib];B[ga];W[hb];B[ec];W[fd];B[ed];W[fe]
+
+;B[ee];W[eb];B[db];W[fa];B[dc];W[rc];B[rd];W[pc];B[qc];W[qb];B[qd];W[oc];B[od]
+
+;W[ra];B[nb];W[pa];B[rf];W[rg];B[sc];W[sb];B[rb];W[rm];B[rc];W[sl];B[ff];W[ge]
+
+;B[fn];W[eo];B[dl];W[el];B[dm];W[gm];B[bj];W[ho];B[dj];W[ps];B[qr];W[co];B[bo]
+
+;W[bn];B[bm];W[ei];B[gf];W[eh];B[eg];W[ld];B[jb];W[da];B[cb];W[hg];B[fh];W[hf]
+
+;B[rh];W[sf];B[se];W[re];B[ip];W[hp];B[rf];W[gg];B[fg];W[re];B[ih];W[jh];B[rf]
+
+;W[bp];B[an];W[re];B[iq];W[io];B[rf];W[jd];B[lm];W[ll];B[jq];W[kp];B[il];W[hk]
+
+;B[jn];W[mm];B[ln];W[im];B[jp];W[ir];B[jr];W[js];B[nq];W[ms];B[np];W[re];B[nl]
+
+;W[nk];B[rf];W[qg];B[sg];W[qs];B[or];W[os];B[rr];W[ds];B[bq];W[ks];B[mr];W[mq]
+
+;B[in];W[hn];B[lc];W[jc];B[kd];W[ke];B[md];W[le];B[ja];W[kb];B[lb];W[ia];B[ka]
+
+;W[on];B[nn];W[pn];B[mp];W[mr];B[ek];W[di];B[ck];W[fl];B[ig];W[if]C[共251手，棋谱不全。第2局比赛将在12月6日举行，])
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center>第14届中国名人战决赛第一局 常昊执白半目胜马晓春<br><br><br>
+</center><br>
+ <br>
+<center><h3>中国围棋名人战决赛常昊首战告捷</h3>
+新华网</center><br><br>
+　　近来步调颇佳的常昊九段今天执白以１／４子的优势战胜在位“名人”马晓春九段，在第１４届南太杯中国围棋名人战决赛的五番棋较量中先拔头筹。 <br>
+　　马晓春九段在名人战这项国内传统头衔战中有着“不可思议”的骄人战绩。自首届比赛冠军被刘小光九段捧走之后，他已连续１２届“霸占”着“名人”宝座。今天，执黑的马晓春以“星·小目”开局，挑战者常昊应以“二连星”。布局阶段，常昊落子迅疾，黑棋抢占到３个角的实地，白棋却同时取得了可观的外势，实地也不太吃亏。 <br>
+　　随着局势的进展，到现场观战的中国棋院院长陈祖德九段、俞斌九段、曹大元九段等高手都认为白棋占据了明显的优势。临近收官时，白棋盘面已经领先。可能是优势较大的缘故，官子阶段常昊出着较缓，马晓春九段趁机将局面追回了许多。然而，最后常昊还是有惊无险地赢得了这场比赛。 <br>
+　　双方的第二盘较量将在１２月６日进行，其后常昊将于１２月１１日至１４日与韩国的曹薰铉九段展开三星杯世界职业围棋赛三番棋决赛的较量。名人战五番棋的后几盘比赛定于１２月底进行，新任“名人”还将与韩国和日本的“名人”进行对抗赛。( 
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

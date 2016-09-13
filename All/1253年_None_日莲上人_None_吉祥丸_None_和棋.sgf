@@ -1,0 +1,38 @@
+(;AB[pd][jj][dp]AW[dd][pp]C[　　据传，本局是日本有记载的棋谱中最古老的对局，最初见于日本文政十二年（1829年）出版的棋谱<<古棋>>中，但也有不少人认为这是后人的托伪之作，就不知其详了。不过，对局前在棋局上先列有五个座子的形式，在古谱中亦不见所传，即使是在围棋的发源地－－中国，亦不曾见过。
+　　据载，对局时日莲上人年32岁，吉祥丸年仅9岁（也有说是11岁）。弈于松叶谷草庵。
+
+日莲上人（1221年－1282年）
+日莲宗的开山鼻祖。生于安房国，俗姓贯名，18岁出家为僧，好围棋，创有围棋珍珑“十厄势”，为古典诘棋名作。又传有与其弟子吉祥丸的被推为日本棋史上最古的对局记录。但近代棋史学家多认为此局系后人伪托。
+
+吉祥丸(1243年 －？）
+10岁出家，法名日朗，为日莲上人之弟子，余者不详。]
+AP[MultiGo:3.9.4]GN[日本最早的棋谱]DT[1253年]PB[日莲上人]PW[吉祥丸]KM[0]RE[和棋]
+SO[日本围棋历史名局精选]CP[蜀蓉棋艺出版社　韩念文 吴玉林]AN[由 win_blade@tom.com 录入]
+;B[fc];W[nc];B[qn];W[fq];B[lc];W[ne];B[le]C[　　黑棋 A、B的下法是中国古典着法，在宋元时代的古谱中称之为“起好手式”，其变化繁多而又没什么实用价值，早已被淘汰不用。]
+LB[lc:A][le:B];W[hc]C[白打入是过分之着，上边一带为黑棋势力范围，且黑又有天元一子遥相呼应，白棋当然应按入界宜缓的原则，不能在此不利的形势下挑起急战。]
+;B[fe];W[he];B[id];W[hd];B[gg];W[kd];B[ld];W[jf];B[kf];W[jg];B[of];W[nf];B[ng];W[mg]
+;B[og];W[mf];B[kg];W[mh];B[kh];W[ke];B[jc];W[je];B[lf];W[jh];B[ji];W[hh];B[gh]C[黑棋35应在 A 位飞，已是黑方有利。]
+LB[df:A];W[hi];B[li];W[mi];B[mj];W[oi];B[nj];W[oh];B[qg];W[pk];B[qi];W[oj];B[ol]
+C[黑棋 47 是古代急战之法，过于急躁，应 A 位飞压，为声东击西的战法，白将陷于苦战。]
+LB[oo:A];W[pl];B[pm]C[黑扳，过于强硬，不如 A 位关]LB[on:A];W[om];B[on];W[nm];B[nl]
+;W[ml];B[nk];W[qj];B[gi]C[黑应当直接在 A 位关，占据形势要点。]LB[jl:A];W[hj];B[hg]
+;W[ig];B[nn];W[mm];B[mn]C[仍应于 A 关，而不必如 63 位压。]LB[jl:A];W[km];B[jl];W[ln]
+;B[jm];W[gj];B[jn]C[应在 A 位关]LB[mp:A];W[lo];B[np];W[lq];B[mq];W[lr]
+(;B[jq]C[过分，应按参考图下。];W[oq]C[白尖反击，成乱战局面];B[lp];W[mo];B[op];W[mp]
+;B[nq];W[jp];B[ip];W[kp];B[hq];W[po];B[pn];W[or];B[rp];W[nr];B[rl];W[rk];B[ql];W[rh]
+;B[qh];W[ri];B[pc];W[rg];B[rf];W[ob];B[mb];W[rq]C[白靠是好手]
+(;B[ro];W[re];B[qf];W[rc];B[pb];W[sf];B[rb];W[sb];B[ra];W[nb];B[qe];W[mc];B[rd]
+;W[lb];B[kc];W[ic];B[jd];W[ie];B[gl];W[ej];B[de];W[ce];B[df];W[cf];B[cg];W[dc];B[el]
+C[过分之着，应当在 A 位补强]LB[dh:A];W[ci]C[　　攻击的好手，黑棋左上立成窘态。]
+;B[bg]C[黑棋立下，铤而走险。];W[fb]C[白棋托过，自重。若 A 位断，黑棋亦难应付，但因变化复杂，难以决策。]
+LB[dg:A];B[dh];W[fi];B[ed];W[ec];B[cd];W[bd];B[eb];W[db];B[fh];W[dq];B[mr];W[ms]
+;B[cq];W[qq];B[sp];W[cp];B[co];W[bp];B[eq];W[dr];B[cr];W[er];B[bo];W[io];B[ep]
+(;W[hp];B[gp];W[iq];B[gq];W[ik];B[kl];W[hm];B[hn];W[go];B[gn];W[in];B[hl];W[fn]
+;B[fp];W[gm];B[fm];W[ho];B[il];W[eg];B[ei];W[fj];B[ef];W[gc];B[ck]C[共 181 手，以下不明
+和棋])
+(;W[ik];B[kl];W[gp];B[hp];W[ho];B[gr];W[hm];B[hl];W[jo];B[il];W[fr];B[ir];W[fm]
+;B[fl]C[至此，双方相安无事，这一结果与实战大致相当。]))
+(;B[qq]C[黑如果扳...];W[ro]C[白棋夹是好手]
+(;B[qp];W[qo];B[pq];W[qr];B[rr];W[pr];B[sq];W[so];B[sp];W[rs]C[至此形成劫杀，黑不利])
+(;B[rr];W[qo];B[rn];W[pq];B[so];W[qr];B[sq];W[qp]C[至此亦是劫杀，])))
+(;B[qq];W[ip]C[白如果拆......];B[pc]C[黑补角，形势简明，优势历然]))

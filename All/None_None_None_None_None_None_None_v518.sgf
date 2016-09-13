@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]GN[段位赛]DT[1988/07/15]PB[钱宇平]BR[]PW[张文东]WR[]RO[]PC[北京]US[棋迷大本营melody]SO[]C[]RE[B+R]GM[8];B[pd];W[dp];B[qp];W[dc];B[oq];W[qj];B[ce];W[dh];B[df];W[fd];B[cj];W[ei];B[cc];W[cb];B[dd];W[ec];B[bc];W[jc];B[cn];W[fq];B[ff];W[qm];B[cp];W[cq];B[bq];W[dq];B[bo];W[dk];B[do];W[ck];B[bh];W[cg];B[bg];W[bj];B[hq];W[eo];B[en];W[fo];B[ho];W[fn];B[em];W[ee];B[fe];W[ed];B[dg];W[ch];B[cf];W[mc];B[qg];W[re];B[pf];W[qc];B[pc];W[qb];B[qd];W[rd];B[pb];W[sb];B[hm];W[hr];B[ir];W[gr];B[iq];W[on];B[bi];W[ci];B[lc];W[lb];B[ld];W[nb];B[md];W[nd];B[ne];W[id];B[oi];W[mn];B[pk];W[qk];B[qn];W[pn];B[rn];W[pl];B[mp];W[br];B[ar];W[ph];B[oh];W[qh];B[pg];W[fh];B[je];W[ie];B[jf];W[hg];B[rm];W[rl];B[nk];W[ml];B[fg];W[jh];B[hf];W[if];B[jg];W[ig];B[kh];W[nq];B[op];W[qq];B[or];W[rp];B[qo];W[rr];B[qs];W[np];B[no];W[oo];B[pp];W[mo];B[mq];W[nr];B[ns];W[mr];B[lr];W[nn];B[ms];W[no];B[kp];W[bb];B[gd];W[gc];B[ji];W[ih];B[rh];W[ri];B[kj];W[ai];B[gg];W[ge];B[gh];W[gi];B[hi];W[gj];B[hj];W[bm];B[cr];W[rg];B[mk];W[hh];B[ah];W[aj];B[af];W[ac];B[ad];W[ab];B[cd];W[qe];B[nc];W[oc];B[od];W[nc];B[pe];W[dr];B[bs];W[jk];B[hk];W[ii];B[fk];W[fj];B[gp];W[fp];B[ds];W[er];B[rc];W[rb];B[cm];W[bl];B[kb];W[kc];B[ma];W[mb];B[ob];W[jb];B[na];W[ka];B[rf];W[sh];B[se];W[sf];B[sg];W[be];B[bf];W[sf];B[ll];W[ij];B[sg];W[pr];B[ps];W[sf];B[hs];W[gs];B[sg];W[kd];B[rh];W[kr];B[lq];W[rg];B[es];W[fs];B[rh];W[lf];B[si];W[lm];B[me];W[kg];B[lg])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

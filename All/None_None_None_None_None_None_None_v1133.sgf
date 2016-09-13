@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届中国围棋天元赛第一轮]DT[2001-02-16]PC[中国棋院]PB[胡耀宇]BR[六段]PW[孔杰]WR[五段]KM[5.5]RE[W+R]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局];B[pd];W[dd];B[qp];W[do];B[oq]
+
+;W[dq];B[qj];W[nc];B[pf];W[jd];B[cj];W[cl];B[cf];W[ch];B[bh];W[dh];B[cc];W[cd]
+
+;B[dc];W[ed];B[bd];W[ec];B[be];W[bg];B[ef];W[fh];B[gf];W[hd];B[jp];W[hq];B[cq]
+
+;W[cp];B[dr];W[eq];B[gk];W[ik];B[gi];W[gh];B[ei];W[eh];B[hi];W[bf];B[eb];W[fb]
+
+;B[ce];W[fe];B[db];W[ji];B[bi];W[cg];B[dl];W[cm];B[ck];W[ff];B[hm];W[im];B[in]
+
+;W[hn];B[jm];W[il];B[gm];W[jn];B[io];W[km];B[gp];W[oi];B[ph];W[qc];B[pc];W[pb]
+
+;B[ok];W[er];B[qd];W[rb];B[rc];W[qb];B[mk];W[mm];B[om];W[no];B[lo];W[nq];B[op]
+
+;W[np];B[oo];W[lq];B[nn];W[mn];B[kn];W[jl];B[mo];W[jq];B[nr];W[mr];B[ko];W[or]
+
+;B[bp];W[bq];B[jg];W[kg];B[kf];W[kh];B[je];W[gn];B[fn];W[fm];B[go];W[gl];B[ho]
+
+;W[hl];B[em];W[fl];B[dn];W[cn];B[el];W[ej];B[fk];W[lf];B[le];W[me];B[mf];W[lg]
+
+;B[kd];W[ld];B[ke];W[ih];B[md];W[eo];B[kk];W[ll];B[fi];W[en];B[jj];W[kj];B[lk]
+
+;W[ij];B[ii];W[jk];B[jh];W[gn];B[hn];W[mg];B[li];W[ki];B[ne];W[ng];B[iq];W[jr]
+
+;B[hh];W[ig];B[jf];W[gg];B[gq];W[hr];B[oh];W[fo];B[rd];W[lb];B[kb];W[mb];B[gn]
+
+;W[nm];B[on];W[nl];B[nk];W[lm];B[hf];W[jc];B[kc];W[jb];B[gb];W[fc];B[hc];W[id]
+
+;B[la];W[ma];B[ka];W[fa];B[sb];W[ob];B[ja];W[df];B[gr];W[gs])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

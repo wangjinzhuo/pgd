@@ -1,0 +1,14 @@
+(;SZ[19]DT[2003-07-07]KM[6.5]US[棋圣道场]SO[http://weiqi.tom.com]PC[日本东京]C[http://weiqi.tom.com
+棋圣道场-->大赛直播]PB[依田纪基]BR[九段]PW[李昌镐]WR[九段]EV[第16届富士通杯世界围棋锦标赛三四名决定战]RE[W+R];B[qd]C[Black is Yoda Norimoto 9P of Japan];W[dd]C[White is Lee Changho 9P of Korea];B[cp];W[pq]
+;B[oc];W[qo];B[eq];W[cj];B[cl];W[fc];B[kq];W[ej];B[el];W[jp];B[oq]LB[jq:a][ip:b][kp:c][jn:d][ko:e][hm:f][lm:g]C[黑15在a位长则属普通，以下白b、黑c、白d、黑e、白f、黑g]
+;W[op];B[np];W[nq]LB[oo:a][pr:b][or:c][qr:d][no:e][on:f][nn:g]C[白18以下的走法很精彩，白18如a位长，则黑b、白c、黑18、白d、黑e、白f、黑g，白不利];B[or];W[mp];B[no];W[mq]
+;B[pp];W[oo];B[po];W[on];B[qq];W[pn];B[qp];W[nr];B[pr];W[kp]C[至32，白棋的外势明显胜于黑棋的实地，黑棋已不容乐观了];B[lo];W[nn];B[jq]LB[mo:a][kn:b]C[黑35如a位接，则白b位跳，黑棋被吃]
+;W[ip];B[iq];W[hp];B[gr];W[lm]LB[kn:a][ln:b][ko:c][jm:d][lp:e][lq:f][mo:g][lr:h]C[至40的结果，黑棋不能满意，黑如a位逃出，则白b、黑c、白d、黑e、白f、黑g、白h，杀气黑棋被吃];B[be]LB[pi:a]C[黑41应在a位拆]
+;W[cd];B[ch];W[bl];B[bm];W[cf];B[eh];W[bf];B[bk];W[gi];B[fk];W[qf]C[至52，白棋明显占优];B[qh];W[of]
+;B[qk]LB[oh:a][mf:b][mc:c]C[黑55应a位跳，白b、黑c和白拚命];W[mc]C[白56是双方好点];B[md];W[ld];B[nd];W[pd]C[白60机敏];B[pc];W[mf];B[lc]LB[le:a][kd:b][me:c]C[黑63应a位扳，白b、黑c]
+;W[kc];B[lb];W[kd];B[kb];W[jb];B[mb];W[pi]C[白70好手];B[qi];W[pj];B[ph];W[oh];B[rl]C[至75，白棋先手封锁黑棋，明显得利]
+;W[fj];B[bi];W[gk]C[至78，白中腹模样庞大];B[gl];W[hl];B[hk];W[gj];B[pk];W[bj];B[aj];W[ic]C[白86是胜利宣言];B[pg]
+;W[rd];B[rc];W[qe];B[qc];W[nj]C[白92即使弃掉右边守住中腹也是白棋有利];B[fg];W[gg];B[me];W[lf];B[hm];W[il];B[gm];W[dg]
+;B[dh];W[im];B[nk];W[mk];B[og];W[ng];B[oj];W[ni];B[pf];W[oe];B[pe];W[rn];B[ff]LB[gf:a][fh:b][eg:c]C[黑113如a位扳，则白b、黑c、白113断，黑不行]
+;W[rp]LB[rq:a][gf:b]C[白114后，黑如a位挡，则白b，白棋盘面目数也不落后
+李昌镐九段获得本届富士通杯第三名])

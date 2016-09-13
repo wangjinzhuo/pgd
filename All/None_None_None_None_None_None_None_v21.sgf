@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第四届富士通杯第二轮]RO[Round2,2]PB[刘昌赫]BR[四段]PW[赵治勋]WR[九段]KM[5.5]DT[1991-04-08]PC[日本东京]RE[W+R]TM[10800];B[pd];W[dd];B[pq];W[cp];B[eq];W[qo];B[pl];W[lp];B[po];W[iq];B[en];W[cm];B[qp];W[dq];B[do];W[co];B[dr];W[nc];B[pf];W[pb];B[io];W[mq];B[qc];W[kc];B[dl];W[cl];B[dk];W[cj];B[dj];W[ci];B[di];W[dh];B[eh];W[dg];B[ln];W[qj];B[qh];W[rh];B[rg];W[qm];B[pk];W[rl];B[ro];W[ph];B[ri];W[qi];B[sh];W[qg];B[rh];W[oi];B[qk];W[oe];B[og];W[mi];B[pg];W[mg];B[je];W[ec];B[ki];W[mk];B[kk];W[eg];B[me];W[nl];B[nj];W[oj];B[mo];W[rk];B[pm];W[rj];B[ir];W[hr];B[jr];W[hq];B[lr];W[kq];B[kr];W[fq];B[ep];W[fr];B[nh];W[ni];B[rn];W[mh];B[mc];W[mb];B[nd];W[lc];B[lf];W[kh];B[jh];W[kg];B[jg];W[od];B[ne];W[oc];B[lg];W[nf];B[jq];W[er];B[fh];W[go];B[hn];W[pe];B[qe];W[fg];B[gg];W[gf];B[id];W[gn];B[gm];W[fm];B[gl];W[fn];B[fl];W[em];B[dm];W[cn];B[dn];W[lh];B[hg];W[nn];B[mm];W[nm];B[no];W[ll];B[pj];W[pi];B[kl];W[lm];B[mn];W[kf];B[ke];W[he];B[ie];W[hc];B[hd];W[gd];B[ic];W[hb];B[ho];W[gp];B[ib];W[qb];B[rb];W[rd];B[qd];W[of];B[lj];W[mj];B[km];W[rc];B[sb];W[jp];B[ip];W[mr];B[lq];W[kp];B[mp];W[is];B[nq];W[js])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

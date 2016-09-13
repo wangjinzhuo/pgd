@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GN[日本第11届十段战]
+
+RO[1]
+
+SO[http://xuyang.yeah.net]
+
+US[xuyang]
+
+PB[高木祥一]
+
+BR[七段]
+
+PW[坂田荣男]
+
+WR[十段]
+
+KM[5.5]
+
+DT[1973-02-14,15]
+
+PC[Japan]
+
+RE[W+R]
+
+TM[32400]
+
+;B[qd];W[cq];B[cd];W[qq];B[ec];W[od];B[ld];W[pg];B[oe];W[ne]
+
+;B[of];W[pd];B[qf];W[nf];B[og];W[qc];B[qe];W[pb];B[ql];W[ci]
+
+;B[cg];W[dn];B[jq];W[hq];B[dl];W[ei];B[fl];W[ek];B[el];W[fn]
+
+;B[eg];W[gi];B[hl];W[dc];B[db];W[gk];B[fk];W[fj];B[gl];W[ho]
+
+;B[dj];W[di];B[gg];W[ii];B[cm];W[cn];B[hj];W[hk];B[ik];W[gj]
+
+;B[il];W[ij];B[hh];W[hi];B[kk];W[nq];B[qo];W[pk];B[pl];W[nk]
+
+;B[ol];W[lj];B[kj];W[lh];B[ki];W[mg];B[jg];W[pi];B[nh];W[li]
+
+;B[ri];W[fc];B[fb];W[ed];B[eb];W[ke];B[kd];W[je];B[jd];W[ie]
+
+;B[id];W[he];B[kg];W[lf];B[gc];W[qk];B[qi];W[mc];B[lq];W[qh]
+
+;B[pj];W[qj];B[oj];W[ok];B[oi];W[ph];B[rh];W[qp];B[bn];W[bo]
+
+;B[fh];W[ck];B[dk];W[bg];B[bf];W[bh];B[bl];W[df];B[dg];W[gh]
+
+;B[hg];W[ff];B[ef];W[fe];B[fg];W[bj];B[ej];W[fi];B[bp];W[an]
+
+;B[am];W[bm];B[md];W[nd];B[bn];W[rj];B[oh];W[bm];B[eo];W[en]
+
+;B[bn];W[cp];B[ao];W[po];B[qn];W[lk];B[oo];W[pn];B[on];W[pp]
+
+;B[nl];W[rd];B[re];W[ml];B[mo];W[be];B[cf];W[af];B[lm];W[mm]
+
+;B[mn];W[cc]C[time used:
+
+
+
+W 8h 10m
+
+B 6h 51m])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

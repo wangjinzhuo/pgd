@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第14届中国名人战挑战赛第一局]DT[2001-08-10]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[中国贵阳]PB[常昊]BR[九段]PW[邱峻]WR[六段]RE[B+R];B[pd];W[dd];B[pq];W[dp];B[cf]
+
+;W[fc];B[bd];W[cc];B[ci];W[qo];B[pl];W[op]C[白12的下法不多见];B[pp]LB[oq:a]C[黑13在a位爬，也是一局棋];W[po];B[oo];W[pm]
+
+;B[no];W[om];B[ql]LB[mq:a]C[黑19是积极的下法，如走a位，则白19];W[qm];B[rp];W[ol];B[pj];W[ok];B[qf];W[nq];B[mq];W[mr]
+
+;B[mp]C[黑29是以攻为守的好点];W[kr]C[白30的下法值得研究];B[kq]C[黑31是好手，白不易应付];W[qp];B[qq];W[or]C[白34似有误算];B[jq]C[黑35是妙手];W[oq]LB[np:a][lr:b]C[白36如a，则黑b，白不行]
+
+;B[rr];W[pr];B[qr];W[jr];B[iq];W[ir];B[hq]C[至43的结果，白不满];W[kc];B[cn];W[fp];B[bp];W[em];B[eo]
+
+;W[fo];B[fn]C[黑49、51出人意料地凶狠，但风险不小];W[en];B[do];W[ep];B[cp];W[ho];B[gn];W[go];B[fl];W[kn]C[白60后，黑看起来很危险];B[ko]
+
+;W[jo];B[lr];W[ls];B[hr]C[黑63、65是好次序];W[lq];B[lp];W[lr];B[jn]C[黑69的切断很强硬，双方均已无退路];W[jm];B[in];W[hn];B[km]
+
+;W[ln]LB[im:a][fm:b]C[白74如a，则黑74、白b，双方和平解决，白不能满意];B[im];W[io];B[jl];W[lm]LB[mm:a]C[白78防黑a位飞封];B[fr]C[黑79是好次序];W[dq]C[白80是最强硬的抵抗];B[hm]
+
+;W[cq];B[er]C[黑83是双方要点];W[bq];B[dr];W[cm];B[bm];W[bl];B[cl];W[dm];B[bn];W[ck];B[dl];W[el]
+
+;B[bk]LB[dk:a][bj:b]C[黑95绝妙，如走a位，则白b，黑崩溃];W[dk];B[al];W[fk];B[gm];W[cr]C[至100，白后手双活，黑形势有利];B[ll];W[ml];B[ej]C[黑103是好时机];W[fq]
+
+;B[gq];W[gs];B[hs];W[bj];B[cl];W[di];B[bi];W[cj];B[aj];W[lk]C[白114是胜负手，但有些过分];B[fj]C[黑115严厉];W[gk]
+
+;B[ek];W[dj];B[gj];W[dh];B[hj];W[bh];B[bg]C[黑123巧妙，白无计可施];W[df];B[ce];W[de];B[oc]C[至127，黑优势明显];W[qi]C[白128是非常规的下法]
+
+;B[qj];W[ph];B[ro];W[rn];B[oi];W[pf];B[qg];W[ri];B[mi];W[pg];B[pe];W[nf];B[mg]
+
+;W[sq];B[sr];W[nh];B[ni];W[mh];B[lh];W[li]C[白144至148作最后一搏];B[lj];W[ki];B[mk];W[kk];B[kl];W[jk]
+
+;B[mm];W[nl];B[mn];W[il];B[lo]C[至159，白下边双活的大龙已成净死];W[hk]C[白160想将黑全部吃光];B[ij];W[ik];B[kh];W[ji];B[jh];W[ii]
+
+;B[ih];W[hi];B[hh];W[gi];B[ng];W[oh];B[of]C[黑161至173下得十分简明];W[pi];B[oj];W[og];B[oe];W[rj];B[rk]
+
+;W[sl];B[lf];W[je];B[mc]C[183后，白实地大差，只得认输])
+">
+</applet>
+
+</center>	
+<center><table><tr><td><font size=2>
+<br><br><center><h1>相关新闻</h1></center><br>
+<center><b>围棋名人赛挑战权争夺战常昊先胜一局</b><br>
+来源：新华社</center>
+　　新华网贵阳８月１１日电（记者黄勇）第十四届中国围棋名人赛（贵阳赛区）番棋赛第一盘棋１０日晚在贵阳棋院结束，常昊中盘战胜邱峻，双方共弈１８３手，用时７小时５分。<br>
+　　比赛从下午开始，常昊执黑先行。双方的较量从棋盘右下角开始，逐渐向左方推进，形成黑白暂时双活局面。纵观整个棋局，常昊一直握有先手，行棋各处显得较为主动。下午６时封盘时，邱峻用时已经很多，形势对黑棋有利。行至中局阶段，白棋在右方丢失３个子，导致白棋一条“大龙”被吃，成为整个棋局形势转变的关键，行至１８３手白棋推枰认输。<br>
+　　中国围棋名人赛是国内传统围棋赛事之一。马晓春在名人赛中１２连冠，创下国内赛事的一项纪录。本次争夺名人赛挑战权的比赛采用三番棋决胜制，先胜两盘者将获得向上届名人马晓春挑战的资格。<br><br>
+<center><b>名人战挑战权之争　常昊先胜一局</b><br>
+http://weiqi.cn.tom.com　2001-08-11</center><br>
+　　(TOM.COM棋圣道场)第14届“南太杯”中国围棋名人战战权争夺战，8月10日在贵阳棋院落子。由于贵阳围棋文化节当天上午开幕，下午3点比赛才开始。邱峻六段没有辜负“邱磨王”的称号，与常昊九段战至当晚11点比赛才结束，结果常昊九段执黑以183手中盘胜邱峻六段，在挑战权三番棋争夺中以1比0领先。 <br>
+　　本局常昊执黑先行，双方从棋盘右下角二间高夹定式开始走向中腹。常昊在行棋过程中较为主动，邱峻频频长考，用时很多，形势对黑棋有利。战至中盘，白棋在中腹３子棋筋被黑蚕食，导致白棋一条大龙被吃，行至１８３手邱峻推枰认输。 <br>
+　　挑战权争夺战三番棋第二局将于12日举行，常昊九段只需再胜一局即可获得向上届名人马晓春挑战的资格。 <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

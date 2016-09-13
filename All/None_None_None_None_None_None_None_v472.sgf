@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;PB[李昌镐]BR[九段]PW[曹薰铉]WR[九段]RE[W+R]EV[韩国KBS围棋赛]PC[韩国]GM[5.5]HA[0]US[melody]SO[蓝色沸点]DT[99-11-10];B[pd];W[dd];B[qp];W[dq];B[do];W[co];B[dp];W[cp];B[eq];W[cn];B[dn];W[dm];B[cq];W[dr];B[bq];W[cr];B[cm];W[cl];B[br];W[er];B[bm];W[bn];B[bl];W[bp];B[fq];W[fr];B[ck];W[em];B[fo];W[gq];B[gp];W[hq];B[fm];W[el];B[ch];W[gm];B[ao];W[ap];B[bs];W[aq];B[an];W[cs];B[am];W[ar];B[fl];W[en];B[fn];W[eo];B[ek];W[op];B[fc];W[cg];B[cc];W[dh];B[bh];W[fk];B[ej];W[gk];B[gl];W[hk];B[im];W[dc];B[cd];W[de];B[ce];W[cb];B[df];W[cf];B[dg];W[fd];B[ff];W[jl];B[jm];W[kl];B[ln];W[gc];B[pn];W[on];B[om];W[mn];B[nn];W[mm];B[lm];W[no];B[oo];W[nm];B[ll];W[on];B[po];W[ol];B[pm];W[lk];B[mk];W[lj];B[mo];W[lo];B[mp];W[ko];B[jo];W[np];B[mq];W[km];B[kn];W[ml];B[jn];W[nn];B[nk];W[nl];B[ni];W[kp];B[jq];W[kq];B[jr];W[kr];B[jp];W[nr];B[mr];W[nq];B[ks];W[pl];B[qr];W[ls];B[js];W[qm];B[pj];W[qj];B[qi];W[rk];B[ri];W[ro];B[rp];W[rn];B[pq];W[ps];B[sr];W[mi];B[nh];W[qc];B[qd];W[pc];B[nc];W[nb];B[ns];W[or];B[pp];W[oj];B[nj];W[pi];B[ph];W[pk];B[il];W[jj];B[jk];W[hi];B[kk];W[od];B[hf];W[pg];B[oi];W[qh];B[pj];W[ef];B[eg];W[pi];B[kg];W[oh];B[mh];W[jg];B[jf];W[kf];B[lf];W[if];B[ke];W[hg];B[he];W[fg];B[eh];W[ee];B[ie];W[])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届富士通杯第二轮]DT[2002-04-15]US[棋圣道场]SO[http://weiqi.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.tom.com
+
+棋圣道场-->大赛转播]PC[日本棋院]KM[5.5]PB[睦镇硕]BR[六段]PW[王铭琬]WR[九段]RE[W+4.5];B[pd];W[dd];B[pq];W[co];B[cq]
+
+;W[ep];B[eq];W[fp];B[bo];W[cn];B[fq];W[gp];B[dp];W[do];B[bp];W[po];B[np];W[qq]
+
+;B[qr];W[qp];B[or];W[qk];B[cf];W[dh];B[ef];W[fd];B[ek];W[ce];B[bg];W[gf];B[ck]
+
+;W[gh];B[en];W[gm];B[fm];W[fl];B[gn];W[el];B[dm];W[dl];B[cl];W[gl];B[hn];W[cm]
+
+;B[em];W[io];B[in];W[jn];B[dk];W[jm];B[hl];W[gj];B[il];W[jp];B[eo];W[jj];B[hi]
+
+;W[gi];B[ji];W[ki];B[jh];W[hj];B[jl];W[kl];B[ij];W[ik];B[jk];W[ii];B[kk];W[kj]
+
+;B[ll];W[mn];B[nn];W[ml];B[mk];W[mm];B[mo];W[om];B[ok];W[on];B[nc];W[mq];B[lq]
+
+;W[lp];B[mr];W[nq];B[mp];W[lr];B[kq];W[nr];B[ms];W[ns];B[kp];W[op];B[kr];W[lo]
+
+;B[ko];W[ln];B[jo];W[ls];B[ir];W[bh];B[bi];W[cg];B[dg];W[ch];B[be];W[ag];B[ec]
+
+;W[bd];B[ed];W[fe];B[cc];W[dc];B[db];W[bc];B[cb];W[ee];B[fc];W[gc];B[gb];W[hb]
+
+;B[hc];W[gd];B[fb];W[ic];B[bb];W[cd];B[rq];W[rs];B[qn];W[rp];B[qi];W[ab];B[ea]
+
+;W[qc];B[qd];W[pc];B[oc];W[rd];B[re];W[rb];B[sd];W[sc];B[rc];W[iq];B[jq];W[rd]
+
+;B[se];W[qe];B[rc];W[dr];B[dq];W[rd];B[rf];W[qf];B[rc];W[ip];B[hr];W[rd];B[rg]
+
+;W[od];B[rc];W[nd];B[rd];W[mc];B[mb];W[lc];B[ob];W[lb];B[lg];W[qb];B[na];W[la]
+
+;B[pb];W[ma];B[sb];W[nb];B[ra];W[oa];B[qa];W[nj];B[nk];W[nh];B[mh];W[mg];B[ng]
+
+;W[mf];B[lh];W[ni];B[mj];W[og];B[lj];W[pl];B[rj];W[rk];B[ei];W[eh];B[hk];W[fk]
+
+;B[ij];W[gr];B[hq];W[ik];B[bj];W[ij];B[lf];W[me];B[sk];W[sl];B[sj];W[rl];B[jf]
+
+;W[pe];B[fj];W[fi];B[ej];W[gk];B[di];W[if];B[je];W[ci];B[cj];W[ai];B[aj];W[ah]
+
+;B[hd];W[bl];B[bm];W[bn];B[ak];W[ib];B[he];W[jd];B[hf];W[hg];B[ig];W[ih];B[ie]
+
+;W[am];B[ao];W[kh];B[ks];W[jg];B[mr];W[ms];B[kd];W[kc];B[ge];W[ff];B[pg];W[qg]
+
+;B[ph];W[of];B[oh];W[kg];B[id];W[jc];B[ke];W[km];B[ld];W[md];B[oi];W[qj];B[rh]
+
+;W[ga];B[oj];W[nf];B[pf];W[lm];B[lk];W[pj];B[ba];W[de];B[if];W[ol];B[nl];W[nm]
+
+)
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>第15届富士通杯第二轮 王铭琬执白4目半胜睦镇硕<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

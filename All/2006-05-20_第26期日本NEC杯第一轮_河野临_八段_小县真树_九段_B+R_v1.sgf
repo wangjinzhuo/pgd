@@ -1,0 +1,25 @@
+(;SZ[19]EV[第26期日本NEC杯第一轮]DT[2006-05-20]PC[日本山形]KM[6.5]US[棋圣道场]SO[]C[
+]PB[河野临]BR[八段]PW[小县真树]WR[九段]RE[B+R];B[pd];W[dd];B[pq];W[dq];B[do]
+;W[co];B[cn];W[cp];B[qk];W[nc];B[pf];W[pb];B[cf];W[fc];B[qc];W[ld];B[bd];W[dn]
+;B[jp];W[po];B[np];W[qq];B[qr];W[qp];B[rr];W[qm];B[nn];W[om];B[on];W[pn];B[pl]LB[pm:a][rl:b]C[黑31后，白如a，则黑b，白不利]
+;W[rk];B[rj];W[rl];B[qi];W[pj];B[qj];W[pm]C[至38是常见定式];B[jc]C[黑39是急所];W[kc]LB[lb:a]C[白40防黑a];B[jd];W[kf]LB[cc:a]C[白42有疑问，应a]
+;B[gd];W[gc];B[hc]LB[ib:a]C[黑45后，由于黑有a位的活棋手段，黑已无受攻之忧];W[df];B[cg];W[bc]C[白48过分];B[cd];W[cc];B[dc]LB[de:a][db:b][cb:c][ba:d][ce:e][be:f][bf:g][af:h][ca:i][da:j][ac:k]C[黑51后，白如a位，则黑b，白c，黑d，白e，黑f，白g，黑h，白i，黑j，白k，如此角上虽无问题，但g位的断明显亏损，白不满]
+;W[db];B[de]LB[ee:a][ed:b][fd:c][fe:d][ge:e][ef:f][hd:g]C[黑53后，白a位也是一策，黑b，白c，黑d，白e，黑f，白g，形成转换];W[ed];B[ee];W[fe];B[fd];W[ec]
+;B[ge];W[ff];B[if]LB[gf:a]C[黑61不紧凑，应a位];W[ef];B[ce];W[fh];B[cj];W[ih];B[jg];W[qb];B[cm];W[hq]C[白68、70力争实地的均衡]
+;B[jq];W[dh];B[ci];W[dm];B[dl];W[eo];B[hp];W[gp];B[hr];W[gr];B[iq];W[gq];B[jh]
+;W[ii];B[kj];W[ik];B[le]C[黑87想中腹成空];W[me];B[kd];W[lc];B[mf];W[ne];B[nf];W[lf];B[ke];W[of]
+;B[og];W[oe];B[pg];W[nm];B[nk];W[mn];B[mo]LB[mk:a][mj:b][nj:c][ok:d][lj:e][mi:f][mh:g]C[黑103后，黑中腹仍不是确定地，例如，白a，黑b，白c，黑d，白e，黑f，白g，黑不行]
+;W[no];B[mp];W[rc];B[rd];W[sb];B[fj]C[黑109意在攻白];W[hf];B[gf];W[gg];B[hg];W[hh];B[ig];W[ej]
+;B[gi];W[gh];B[ek];W[dj];B[fl];W[gk];B[fk];W[ch];B[bh];W[bi]LB[bj:a][bg:b][ai:c][bf:d]C[白126后，黑如a，则白b，黑c，白d，黑难以忍受]
+;B[dg]LB[bg:a][eh:b][di:c][dk:d][ah:e][ei:f][fi:g][ck:h][bk:i]C[黑127强手，白如a位吃，则黑b，白c，黑d，白e，黑f，白125，黑g，白h，黑i，白被吃];W[hd];B[he];W[eg];B[di]
+;W[eh];B[bg];W[ck];B[bj];W[cl];B[ei];W[bm]C[至138，白收获不小];B[ij]LB[ji:a][ki:b]C[黑139严厉，白早先应找机会做a位和b位的交换];W[hj];B[jj]
+;W[hi];B[hl];W[hk];B[em];W[en];B[hm];W[jl];B[km];W[fi];B[gj];W[jm]LB[in:a][kn:b][lm:c][ln:d][jn:e][jk:f]C[白152后，黑a位是好手，白如b，则黑c，白d，黑e，由于黑f是先手，白大龙被吃]
+;B[jn]C[黑153错失良机];W[in];B[hn];W[kn];B[jo];W[kl];B[lm];W[ll];B[mm];W[ml];B[ln];W[nl];B[mk]C[至165，黑通过攻白，挽回了左边的损失，黑形势占优]
+;W[ji];B[ki]C[白166和黑167的交换，已晚了一步];W[qe];B[pe];W[qd];B[re];W[pc];B[qf];W[ir];B[js];W[pr];B[oq];W[rq]
+;B[sr];W[lk];B[lj];W[or];B[nr];W[hb];B[ic];W[jr];B[kr];W[hs];B[dk];W[kq];B[lq]
+;W[ok];B[ol];W[mj];B[nj];W[mi];B[oj]LB[lh:a][kh:b][ng:c][mg:d][nh:e][lg:f]C[黑197后，白如a，则黑b，白c，黑d，白e，黑f，白不行];W[ng]
+;B[mg];W[is];B[ks];W[mh];B[nh];W[ql];B[pk];W[od];B[sq];W[sp];B[kb];W[lb];B[pp]
+;W[ro];B[fo];W[fn];B[go];W[fp];B[bl];W[bn];B[bk];W[oo];B[ac];W[ab];B[ad];W[mn]
+;B[nn];W[bb];B[im];W[cm];B[qc];W[op];B[nq])<script language="JavaScript" src="/java/tomshu.js"></script>
+<noscript> <img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-tom&amp;cg=0" alt=""> 
+  </noscript>

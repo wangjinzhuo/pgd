@@ -1,0 +1,33 @@
+(;SZ[19]AP[MultiGo:3.6.0]C[第一届中日业余十强赛
+黑：李家庆  业余6段
+白：原田实
+
+《围棋天地》2004年第14棋
+《美好的回忆》]GN[第一届中日业余十强赛]
+PB[李家庆]PW[原田实]RE[黑中盘胜]BR[业余6段]
+KM[5.5]
+;B[pd]	;W[dp]	;B[pp]	;W[ec]	;B[pj]	;W[nq]	;B[lq]	;W[no]	;B[pn]	;W[kp]
+;B[lp]	;W[lo]	;B[kq]	;W[jp]	;B[jq]	;W[ip]	;B[hq]	;W[hp]	;B[gq]
+;W[gp]C[白18，20是趣向，意在用外势对抗三连星。]
+;B[mo]	;W[mn]	;B[mp]	;W[ln]	;B[np]	;W[di]	;B[cn]	;W[cl]	;B[en]	;W[fp]
+;B[dl]	;W[ck]	;B[dk]	;W[dj]	;B[cm]	;W[bp]	;B[fk]	;W[fi]
+;B[gm]C[黑棋处理好孤棋]
+
+;W[nc]C[白40问题手，应走A位守角，保持实地的平衡。]LB[cd:A]
+;B[cd]	;W[cf]	;B[dc]	;W[ed]	;B[eb]	;W[fb]	;B[db]	;W[qf]	;B[pf]	;W[pg]
+;B[of]	;W[qe]	;B[qd]	;W[og]	;B[nd]	;W[md]	;B[oc]	;W[ne]	;B[od]	;W[ng]
+;B[mc]	;W[ld]
+;B[rn]C[黑63好手，既加强了边上，又守住了角地。]
+;W[nb]	;B[lb]	;W[lc]	;B[mb]	;W[kb]	;B[ob]	;W[gc]
+;B[kc]C[黑71试应手，机敏。]
+;W[jc]	;B[de]	;W[ff]	;B[jj]	;W[gk]	;B[gj]	;W[fj]	;B[hk]	;W[ek]	;B[gl]
+;W[el]	;B[em]	;W[jh]	;B[ih]	;W[ii]	;B[ji]	;W[hi]
+;B[kh]C[黑89好次序。
+如果先走黑A，白B，黑89，白C提子后，黑外面有断点。]LB[gi:A][hh:B][ig:C]
+;W[jg]	;B[gi]	;W[gh]	;B[kg]	;W[ig]	;B[jm]
+;W[oj]C[白96顽强，意图搅乱局面]
+;B[qj]	;W[ki]	;B[lj]	;W[kj]	;B[kk]	;W[li]	;B[mi]	;W[lh]	;B[mh]	;W[lg]
+;B[mg]	;W[kf]	;B[lk]	;W[oi]	;B[ml]	;W[nk]	;B[nf]	;W[mf]	;B[mj]	;W[pk]
+;B[qk]	;W[pl]	;B[qh]	;W[qg]	;B[ph]	;W[ql]	;B[rl]	;W[oh]
+;B[qm]C[黑中盘胜]
+)

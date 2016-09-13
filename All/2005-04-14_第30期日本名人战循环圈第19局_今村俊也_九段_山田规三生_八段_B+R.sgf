@@ -1,0 +1,16 @@
+(;SZ[19]EV[第30期日本名人战循环圈第19局]KM[6.5]DT[2005-04-14]PB[今村俊也]BR[九段]PW[山田规三生]WR[八段]US[棋圣道场]SO[http://weiqi.tom.com]C[http://weiqi.tom.com
+棋圣道场-->精彩时局]RE[B+R];B[qd];W[dd];B[qp];W[op];B[dp]
+;W[qq];B[nc];W[rp];B[qo];W[ro];B[pq];W[qr]LB[qn:a][pp:b]C[白12后，黑如马上走a或b则略显重滞];B[cf];W[fc];B[bd];W[cc]
+;B[ci];W[fq];B[jq]LB[hq:a][cq:b][dq:c][cp:d][cr:e][br:f][dr:g][co:h][do:i][dn:j][en:k][dm:l][bm:m][bn:n][cl:o][dl:p]C[黑19可考虑下在a位，白如b，则黑c，白d，黑e，白f，黑g，白h，黑i，白j，黑k，白l，黑m，白n，黑o，白p，黑可战]
+;W[cn]LB[cq:a]C[白20要优于在a位点角];B[co]LB[eq:a][fp:b][dn:c][dm:d][en:e][ep:f][bq:g][io:h][br:i][cr:j][cq:k][cp:l][dr:m]C[黑21的方向有问题，应a位，白b，黑c，白d，黑e，白21，黑f，白g，黑h，此后黑还留有黑i，白j，黑k，白l，黑m做劫的手段，这个结果要 优于实战]
+;W[dn];B[fp];W[gp];B[fo];W[eq];B[ep];W[dq];B[cq];W[cr]LB[hq:a]C[白30下在a位也是一策];B[br];W[bq];B[cp]
+;W[bs];B[gq];W[ar];B[fr];W[er];B[es];W[dr];B[hq]LB[hr:a][hp:b][io:c][ip:d][jo:e][jp:f][kp:g][kq:h][ho:i][gr:j][jr:k][lq:l][iq:m][kr:n][ir:o][go:p][hs:q]C[黑41不如下在a位，白如b，则黑c，白d，黑e，白f，黑g，白h，黑i，白41，黑j，白k，黑l，白m，黑n，白o，黑p，白q，黑优势明显]
+;W[qn];B[dk]LB[ip:a]C[黑43意在防白a位的点];W[ph]LB[qf:a][pi:b][od:c][oc:d][rd:e][qc:f][of:g][oe:h][rc:i]C[白44有疑问，应a，黑如b，则白c，黑d，白e，黑f，白g，仍是白有利,另外白a时，黑如改走h，则白e，黑i，白g，仍是白有利]
+;B[hc];W[df];B[dg];W[ef];B[eg];W[ce]LB[be:a][cg:b][bf:c][fg:d][ei:e]C[白50后，黑如a，则白b，黑c，白d，黑e，黑不满];B[ff];W[bf]
+;B[cg];W[be];B[qf]C[黑55后，黑形势占优];W[kd];B[je];W[md];B[og]C[黑57、59均是好手];W[mc];B[nb];W[kf];B[ig];W[lh]
+;B[oh];W[pj]LB[jh:a][ih:b]C[白66不如下在a位，黑如66，则白b];B[jh]C[黑67急所，白难受];W[nd];B[pc];W[oi];B[ni];W[pg];B[of];W[pf]
+;B[pe];W[nh];B[oe];W[nj];B[mi];W[lk];B[li];W[ic];B[hd];W[hb];B[gb];W[ib];B[gc]
+;W[mb];B[jd];W[jc]C[至90，白虽得以活棋，但落后手，形势仍是黑优];B[mp];W[rg];B[mn];W[nl]LB[lm:a]C[白94应a];B[jk];W[cl]C[白96是胜负手];B[bo];W[ck]
+;B[cj];W[dl];B[em];W[dj]LB[ek:a][el:b][fl:c][fk:d][ej:e][fm:f][gl:g][gm:h]C[白102后，黑如a，则白b，黑c，白d，黑e，白f，黑g，白h，黑无成算];B[ej]C[黑103冷静]
+;W[ek];B[ei];W[bn]LB[fm:a]C[白106应a位，或许还有机会];B[bk];W[en];B[fm];W[fn];B[gn];W[gm];B[fl];W[fk];B[gl]
+;W[hm];B[hl];W[im];B[hp];W[hj];B[ik])

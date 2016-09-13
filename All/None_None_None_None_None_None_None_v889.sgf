@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]GN[日本棋圣战]DT[1995/08/24]PB[大竹英雄]BR[9P]PW[结城聪]WR[8P]RO[]PC[日本东京日本棋院]US[]SO[]C[]RE[B+R]GM[5.5];B[qd];W[dc];B[pq];W[dq];B[do];W[co];B[cn];W[cp];B[de];W[ee];B[ef];W[ed];B[ff];W[df];B[dg];W[cf];B[cg];W[be];B[bf];W[ce];B[dn];W[fp];B[gn];W[po];B[fh];W[qq];B[pj];W[od];B[oc];W[nc];B[pc];W[md];B[jd];W[pf];B[oe];W[pe];B[pd];W[of];B[nd];W[ne];B[od];W[mf];B[ng];W[nf];B[le];W[pl];B[ld];W[nj];B[qg];W[rf];B[rg];W[re];B[oh];W[lh];B[ql];W[qm];B[qk];W[rm];B[ol];W[pm];B[mi];W[ph];B[pg];W[lf];B[mj];W[ji];B[mc];W[hp];B[qr];W[qp];B[mq];W[kq];B[ii];W[ih];B[jj];W[hi];B[ij];W[hg];B[jh];W[jg];B[ki];W[je];B[if];W[ig];B[ie];W[hj];B[gh];W[hh];B[fj];W[jf];B[hd];W[gk];B[ep];W[eq];B[fo];W[gp];B[hl];W[gl];B[hm];W[el];B[dk];W[dl];B[fk];W[gm];B[cl])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

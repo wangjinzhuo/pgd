@@ -1,0 +1,24 @@
+(;GM[1]AP[StoneBase(弈典):SGFParser.2.3]SZ[19]HA[0]KM[6.5]EV[第10届LG杯世界棋王赛决赛第五局]PB[古力]BR[七段]BT[中国]PW[陈耀烨]WR[五段]WT[中国]RE[B+R]DT[2006-04-21]PC[韩国汉城]SO[]US[棋圣道场]C[
+]
+;B[pd]C[第10届LG杯决胜局古力猜得黑棋];W[dd]C[LG杯的冠军奖金是2.5亿韩元，按最新的汇率计算，大约是220万人民币，本局很大];B[qp];W[dp]C[从技术和实力上古力要略胜一筹，但连败两局后陈耀烨连胜两局，现在就说不清了];B[oq]C[如果本局古力获胜，古力将从七段直接升为九段，中国“第一人”加冕世界冠军，并且是“小虎辈”棋手的第一个冠军];W[qj]C[如果陈耀烨赢得本局，陈耀烨将创造十六岁零四个月夺得世界冠军的世界记录，目前这一记录由“石佛”李昌镐保持，他第一次夺得东洋证券杯冠军时为十六岁零六个月
+如果夺冠陈耀烨还将成为世界上最年轻的职业九段];B[fc];W[cf];B[qh];W[qm];B[db];W[nc];B[pl];W[qo];B[rp]LB[ro:a][rn:b][po:c][qn:d]C[黑15如果在a位扳，则白b、黑c、白d，正合白意];W[ql];B[pc];W[hc];B[fe];W[kc];B[cc];W[ci];B[pj];W[pk];B[ok];W[qk];B[fq];W[pi]LB[oj:a][qi:b]C[白28强硬，黑如a位粘，则白b位粘，白棋好];B[cq];W[cp];B[dq];W[ep];B[eq];W[qf]LB[go:a]C[白34局部在a位飞是要点，但现在34打入是急所];B[pf];W[qe]LB[pe:a]C[黑37如果在a位应，见变化图]
+(;B[nd]LB[md:a][qg:b]C[黑37靠，白棋如果在a位扳，则黑棋就可以b扳住了，白棋不行];W[rc];B[ph]LB[mc:a]C[黑39如果在a位扳吃白一子，则白棋在39位压，黑棋不好];W[pe]LB[oj:a][rb:b][qb:c]C[白40如果在a位提，则黑b靠，白棋只能c位扳活小角，不好
+白40凶狠];B[oe];W[of];B[nf];W[og]LB[pg:a][oh:b]C[白44如果a位提则黑b长，白棋不好];B[oh];W[ng];B[pg]C[这里形成全局第一个复杂的战斗];W[qb]LB[mf:a][rb:b]C[白48如果在a位打吃，则黑b位靠，白棋无应手];B[mf];W[mg];B[lf];W[lg];B[kg];W[li];B[oj]LB[kh:a][mi:b]C[黑55好点
+如果在a位长，被白b双，黑棋不好];W[kh]C[白56厚实，感觉白棋布局不错];B[mc]LB[md:a]C[黑57选择妥协，如果这里不走，被白a位扳黑棋眼形顿失];W[kf];B[jg];W[jf];B[if];W[ie];B[ig];W[he]C[白64长后，黑棋右上角和中腹显得有些忙乱];B[kd]C[黑65是形的要点];W[jd];B[le];W[je]LB[ob:a][lc:b]C[白68后黑右上已活棋
+黑棋脱先，白a、黑b];B[gg];W[lc];B[mb];W[ii]LB[md:a][ld:b][nb:c][ma:d]C[白72如果在a位断，黑b、白c时，黑d立是好手];B[qc]C[黑73试白应手];W[rb]LB[rg:a][rh:b]C[白74接，则黑a、b位都是先手，对右边白棋有影响];B[dg]C[黑75意在先手补掉黑棋中腹的弱点];W[md];B[ld]LB[nb:a][oc:b]C[黑77如果a位吃，则白77、黑b，白棋不错];W[nb];B[kb];W[lb];B[ma];W[jb]C[至82的结果，白棋不错];B[ob];W[cg];B[se];W[re]LB[pb:a][pa:b][oc:c]C[白86立，黑棋并没有预期的战果
+也许当初黑77应该在c位吃，那样白棋角上不会活得这么大
+白棋现在a位、b位都是先手，角上是活棋];B[nm];W[oo]C[这盘无论谁胜谁负，中国都将产生第25位九段棋手
+中国目前的24位九段是：
+陈祖德 吴淞笙 聂卫平 马晓春 　 　 　 
+刘小光 曹大元 俞　斌 张文东 　 　 　 　 
+陈临新 钱宇平 江铸久 芮乃伟 　 　 　 　 
+邵震中 廖桂永 汪见虹 吴肇毅 　 　 　 　 
+郑　弘 丰　云 宋雪林 邵炜刚 　 　 　 　 
+常　昊 梁伟棠 周鹤洋 罗洗河 
+罗洗河2002年通过升段赛升为九段，是这24个九段中的最后一个
+];B[dj]C[黑89是好时机];W[di];B[fj];W[mk]C[白92是攻击的要点];B[ol]LB[pn:a]C[黑93厚实，接下来有a位的刺];W[lm]C[黑棋盘面大约领先10目
+中腹的攻防非常关键];B[mn];W[ln];B[lo];W[ko];B[mp];W[mm];B[nn];W[lp];B[mo];W[ro];B[ri];W[sp];B[kp]LB[sq:a][pp:b]C[黑107不能在a位挡，否则白b];W[jp];B[lq];W[jo];B[rg]LB[sd:a]C[黑111是先手，白如a位补活，黑棋可能抢先在左边行棋
+现在全盘古力的黑棋看不出明显的优势，从前四局的进程来看，应该说陈耀烨今天发挥得还算不错，现在就看在接下来的战斗中谁能使出真本事，谁能“不动心”了
+
+至此中午休息，13：00继续];W[la];B[me];W[na];B[md];W[pa];B[oa];W[pb];B[oc];W[sf]C[白112至118先手交换掉有必要];B[pn]C[黑121以下是先手];W[rj]LB[rq:a][sl:b]C[白122如果在a位扳，黑棋有b位的大飞];B[mj];W[lj];B[qn];W[rn];B[rr];W[pm];B[on];W[rl]C[至130，黑棋利用逼迫白棋作活之机大占便宜];B[go];W[bq];B[br];W[cl];B[cj];W[ej];B[ek];W[ei];B[dk];W[em];B[dm];W[dl];B[el];W[bl];B[bi];W[bh];B[bk];W[ai];B[bj];W[fm]LB[en:a][dn:b]C[白150如果不长，则黑a位打、白150，黑b，白棋不行];B[fi];W[fh];B[dn];W[en];B[cn]C[黑155是妙手，白棋有麻烦了];W[bn];B[bo]LB[am:a][eo:b][cm:c][an:d][bm:e][bp:f][co:g][al:h]C[黑157后，白如a位倒虎，黑棋有b位挖的手段；白棋如c位紧气，则黑d、白e、黑f、白g后，黑棋还有h位的扳渡];W[am];B[gh];W[eg];B[bp];W[co];B[gk]C[黑163厚实];W[cd];B[hm]LB[cm:a][fp:b][fo:c][gp:d][hp:e]C[黑165考验白棋，白棋脱先，黑棋有a位团，白b冲时，黑有c位破眼、白d、黑e——硬杀];W[hl];B[gm];W[gl];B[fl];W[cm]C[白170不得不补，痛苦];B[il];W[hk];B[jj]C[黑173好手，古力要赢了];W[hg];B[hi];W[ji];B[ij];W[hf];B[jq]C[黑179大极];W[dc];B[bb];W[bc];B[cb];W[hp];B[ip];W[gp];B[io];W[fp];B[kn];W[ir];B[gr];W[hq];B[fg];W[eh];B[po];W[kr];B[jr];W[js];B[kq];W[jl];B[jm];W[bd];B[gb];W[ho];B[kl];W[hn];B[gn];W[sr];B[rq];W[sq];B[mi];W[lk];B[nh];W[lh];B[lr];W[qi];B[hb];W[rs];B[qr];W[in];B[jn];W[im];B[ik];W[ab];B[so];W[sn];B[ib];W[ic];B[hh];W[ih];B[hr];W[iq];B[ks];W[is];B[de];W[df];B[ee]C[古力赢得其职业生涯的首个世界冠军，并升为九段])
+(;B[pe];W[qg];B[pg];W[rh];B[ph];W[qi];B[qd]C[白棋获先手，可下]))

@@ -1,0 +1,454 @@
+(;GM[1]VW[]C[Œ‚«Â‘¥ (Wu) vs. Sakata
+
+(The 1st Japan's Strongest Deciding Matches)
+
+Black\: Œ‚«Â‘¥ (Wu), 9d
+
+White\: €‡ÃÔ»Ÿƒ–, 9d
+
+Date\:  May, 1957
+
+Place\: Matsuyama]
+SZ[19]GN[The 1st Japan's Strongest Deciding Matches]EV[Œ‚«Â‘¥ vs €‡ÃÔ»Ÿƒ–]DT[May, 1957]
+PC[Matsuyama]PB[Œ‚«Â‘¥]BR[9d]PW[€‡ÃÔ»Ÿƒ–]WR[9d]KM[0]TM[10 hours each]RE[B+Resign]
+SO["Detailed Analysis on Wu's Famous Games" Vol 3. pp. 189-284. People's Sports [China\], 1986]
+;B[qd];W[pp]C[(* This game is played near some hot spring in Matsuyama, Shikoku [one of the main islands of Japan\].  Meanwhile, the game between Hashimoto Utaio 9-dan and Takagawa Honinbo is also played here.  The referee is ÃŸ‘Û≈Û’´ 9-dan.  Shikoku is a place where Go is very popular.  This time, the arrival of five 9-dans at the same time [should be four 9-dans; Takagawa is still 8-dan then\] is a rare chance for Go fans, thus the enthusiastic greetings from the fans are unprecedented. *)]
+;L[dc]B[cd]C[B #3 to make a mukai komoku [B #1 and #3 two komoku stones are "facing" each other\] is the fuseki I have used quite often recently.  When I was 4 or 5-dan, I'd sometimes play at [a\].  This is only the difference in personal inclination.  Nothing deep.]
+;L[oc][ed][jc][dq]W[ec]C[If W[a\] kakari from the other side, when B[b\] and W[c\], B would occupy [d\] at lower left.  In such an arrangement, W #4 is better than Wa.  This is a common sense in fuseki.
+
+[*** 'B' to see a clear picture.\]]
+(;B[oc]C[B #5 kogeima shimari [kogeima\: small knight move; shimari\: corner enclosure\] is the most solid shimari for B.]
+;W[eq]C[Up to W #6, this opening also appeared in the games when I played —“±æﬁπ 8-dan and Takagawa Honinbo.  In thoes games, they played W too.
+
+(* Before, in a game between Sakata 9-dan, W, and Takagawa Honinbo, the exactly same opening appeared too.  Perhaps because of this, in this game, both side spent little time to get to W #6. *)]
+;L[gd]B[hd]C[B #7 to play [a\] for a one-space pincer can be also considered.  In a game between me and Takagawa Honinbo, I played this way [reference 1\], and Sakata 9-dan played this way [reference 2\] in Honinbo Sen.  In short, under this arrangement, there are various ways like one-space or two-space pincers.
+
+[*** 'B' and 'C' to see references.\]]
+(;W[ef];B[cg]C[W #8 and B #9 are the simplest joseki.];L[cp][qj]W[qi]C[W #10 is the biggest fuseki point.  Of course, W[a\] shimari [corner enclosure\] is also big, but under this situation, it's difficult for B to play kakari at [a\].
+
+[*** 'B' to see why B[a\] at this point is not so good.\]
+
+Besides, B[b\] at this point would be extremely good for B, and W #10 prevents that.  From this standpoint, W #10 indeed is the best point. ]
+(;B[cq]C[Based on the reason described before [see reference diagram at W #10\], B #11 to approach at [C4\] is not very good, so B chooses [C3\] kakari.
+
+(* Both [C3\] and [C4\] are "low approach", but the meaning is totally different. *)]
+;W[do]C[W #12 certainly.];L[cn]B[co]C[Next W #14 to play W[a\] would not be good because ---
+
+[*** 'B' and 'C' to see variations.\]]
+(;W[dn]C[Therefore, W #14 extend is the only move.];B[cn]C[(* And to extend here is also the only move for B. *)]
+;M[cq]W[dm]C[To W #16, it's clear that B [C3\] stone has added a force at the corner, which is obviously better than [C4\].  That's why previously, B #11 played at [C3\] instead of [C4\].
+
+(* After W #16, if B[a\], B's top and bottom stones would be all at low position.  Not good. *)]
+;L[pn][kq][jp]B[nq]C[When B #17 kakari, W has various ways to respond, and the choice is difficult.
+
+If W simply [a\] jumps, B would immediately [b\] or [c\] to extend.  If so, it would be a simple, easy game for B.
+
+Or ---
+
+[*** 'B' to see another variation for W #18.\]]
+(;W[oq]C[W chooses to play [P3\] kosumi tsuke... ];B[np];W[kp]C[Then extend to W #20 [from the left side wall\].  The purpose of this sequence [#18-#20\] is to prevent B from getting into the corner *and* from a pincer attack on B stones.  That is, W is trying to make moves on both sides.  This is a greedy way.]
+;L[qo]B[po]C[B #21 is the urgent point.  Next if W[a\] hane ---
+
+[*** 'B' to see this variation.\]]
+(;W[oo]C[Perhaps W is not satisfied with the way shown in variation [at node #21\], so W #22 a strong hane, initiating a violent fight with B.
+
+The reason that W plays such violently is because a ladder is good for W ---]
+;B[op]C[W has already seen that if B #23...];W[pq]C[When W #24, next B (#25) cannot play at [a\] since the ladder doesn't work for B.  Therefore W chose [P5\] hane for #22.  From a strategical standpoint, since B gained at lower left corner, it's natural for W to force B to fight inside his [W's\] sphere of influence -- W hopes to gain in the process.]
+;B[qo]C[B #25 sagari to accept the challenge [for a fight\] with determination.  The result of this battle would directly relates to the outcome of the game.  This is the first climax of the game.
+
+Next (W #26) ---
+
+[*** 'B' to see a variation for W #26.\]]
+(;L[on][rq]W[no]C[Based on the shape, it seems that W should play #26 at [a\]. But if so, B would get the chance to play [b\].]
+;B[mo];W[mn]C[B #27 and W #28.  Neither side can give in an inch.];B[nr];L[lo]W[rq]
+C[If W #30 hane at [a\] ---
+
+[*** 'B' to see this variation.\]]
+(;L[om]B[lo]C[When B #31 extends, W to jump at [a\] next is normally the shape.  In this situation, however, W cannot do so ---
+
+[*** 'B' to see an explanation.\]]
+(;W[pn]C[W #32 therefore hane.  Next B #33 ---
+
+[*** 'B' to see a variation for B #33.\]]
+(;B[rp]C[In the game, B #33 is tesuji.
+
+Next (W #34) ---
+
+[*** 'B' and 'C'  to see variations.\]]
+(;W[qp]C[Therefore W [R4\] and (later) [R2\] to live.  No other choice.];L[rn][sp]
+B[ro]C[Can B [S5\] play at [S6\]?  *If* W[b\] after B[a\], then [R2\] to live, of course [S6\] would be better than [S5\].  However, when B[a\], if W doesn't play [b\] but [R2\] directly to live, B would have some trouble.
+
+[*** 'B' and 'C' to see references.\]]
+(;W[qr]C[(* In the game, B #35 connects solidly, and B next will have a severe attack on W. *)]
+;B[om]C[B #37 is the urgent point.
+
+Next move (W #38) ---
+
+[*** 'B' to see a variation for W #38.\]]
+(;W[on]C[B #37, forcing W #38 to connect, gains in sente.];B[ql];W[pm]C[W #40 pushes.  W has no way but to determindedly hangs on.]
+;B[pl];W[ol]C[(* A violent fight has started.*)];B[nm]C[(* A close combat this early in a opening is rarely seen in today's high-dan encounters. *)]
+;W[nn];B[ok]C[B #45 atari...];W[nl];B[ko]C[B #45 atari then #47 extend is a good order.  After W's push-and-cut of #40-#42 [Q7-P8\], this picture is expected.]
+;W[nk];L[qm][rm][rl][rk]B[or]C[There is nothing deep about B #49, but consider -- Later after W[a\]-B[b\]-W[c\] and B[d\] (Of course W can't play this right now), B #49 [P2\] wouldn't be sente anymore.  Therefore, #49, still sente, to exchange for a gain now is good.]
+;W[pr];B[oj]C[When B #51, Next (W #52) ---
+
+[*** 'B' and 'C' to see variations.\]]
+(;W[jp]C[Therefore [base on 2 variations shown\], W #52 has no choice.];B[km];W[nj]
+;B[oi]C[These couple of moves are certain.
+
+(* The first day of this game was sealed at move #55. *)]
+;W[lq]C[Against W #56...];B[jo]C[B #57 oshi first is good order.
+
+Next W #58 ---
+
+[*** 'B' to see a variation.\]]
+(;W[ip];L[lr]B[mq]C[B #59 is the best way to connect [the cutting point\].
+
+Later B[a\] can gain an eye in sente.]
+;L[rn]W[lm]C[W #60 to add a move, aiming at W[a\] tesuji next.];L[rn]B[ln]C[B #61 prevents W[a\] tesuji, and it also helps to make an eye.  It's the most efficient move.]
+;W[kl];L[ll][mm][rn]B[jm]C[(* B #63 absolutely *cannot* atari at [a\], since if B[b\] captures two W stones, B[c\] tesuji would work again.*)]
+;W[lr]C[W #64 is extremely big.  From the standpoint of profit, it's an anti-sente worth 6-7 points (Compare it with B sente hane here), and it has the purpose of taking away W's eyes and attacking W.  So it's a huge point.]
+;L[kk][jk][kj][jj][ki][qg]B[jl]C[When B #65 bends, W's next move is very difficult.
+
+If W[a\], giving B[b\], W[c\], and B[d\] a couple of pushes -- it's unbearable for W.  Next when W is forced to extend again at [e\], B would take [f\], an extremely good point]
+;L[qf][of]W[pg]C[W temporarily puts the left side aside, and play W #66 at the right.
+
+If #66 plays at [a\], after B[b\] boshi, W would be in trouble.
+
+Also, before #66 kogeima ---
+
+[*** 'B' to see a reference.\]]
+(;L[rn]B[qj]C[B #67 is the key point for both sides' eyeshape; no way to pass by.  Also, after B #67, W's aji at [a\] doesn't exist anymore.]
+;L[rn]W[ll]C[Since the aji at [a\] is not there anymore, B could now cut at [M8\] if W ignores here.  So W #68 plays at [M8\].]
+;L[fq]B[hn]C[B #69 gets the key point of both sides -- If W gets this point, the difference is tremendous.  Not only this, after #69, B[a\] tesuji becomes available.
+
+To #69, the violent fight started from the lower left comes to a pause.  Based on the result up to now, W didn't quite get what he hoped.  B is better.]
+;W[rj]C[W #70 and what followed show a severe method.];B[rk];W[pj]C[W #72 initiates a ko fight.]
+;L[pi]B[pk]C[This ko is light to W, since even if B wins the ko and then captures at [a\], it wouldn't be much of a loss to W...]
+;L[rl]W[qk]C[On the other hand, if W wins the ko and next cuts at [a\], it would be a heavy burden to B. So if B loses this ko, the loss would be huge.]
+;B[sr]C[B has to take the ko seriously, as explained before.  But to W, even if he can't win the ko, he would still have chance to play two [non-ko\] moves in a row to settle this W team [R11\] -- this is W's purpose to start this ko.]
+;W[sq];B[qj];W[rd]C[W #78 is a point W wants to get even if it's not used as a ko threat.  Greating timing.]
+;B[qe];L[qk][rl]W[re]C[If W #80 to recapture at [a\], B would play [S15\] to get the one B stone.  Then even if W[b\] cuts next, since W wouldn't have enough ko threats, W cannot win the ko ---
+
+[*** 'B' to see a reference on the ko fight.\]]
+(;B[rc];W[qf]C[W has invested quite a bit here, so when B #81 [S17\] hane, W #82 cannot be omitted.]
+;B[pi]C[To B #83, it's a fair trade between the two sides.];W[pe]C[Although W didn't win the ko, but with #84...]
+;B[pd];W[oe]C[...and #86, W rushes out, and W should be satisfied.
+
+W was fighting inside B's influence, to get this result is quite decent.]
+;L[nc]B[mc]C[#87 point is also a must.
+
+If B tenuki here, W[a\] would be severe.]
+;W[qc]C[W #88 great timing.
+
+If W ignores here and plays somewhere else, B would immediately B[a\] hane.  The difference is big.]
+;B[qb];W[sc];B[rb]C[To here, W gains in sente.  This is the results brought by W #88 [R17\].
+
+How should W play the next move (#92)?
+
+[*** 'B' to see a variation.\]]
+(;W[cp]C[In the game, W #92's purpose is to start a violent fight, so that he can use the thickness to gain the best results.]
+;B[dp]C[If B #93 responds from the bottom ---
+
+[*** 'B' to see this variation.\]]
+(;W[bp]C[When W #94 sagari...];B[dq]C[B #95 connects.  The next move for W (#96) is difficult.  The conclusion ---
+
+[*** 'B' and 'C' to see variations.\]]
+(;W[bq]C[Locally speaking, W #96 is the most advantageous variation, and it's quite severe a move.  But based on the changes afterwards, it seems that this move is worth a reconsideration.]
+;B[ep]C[B #97 certainly.  What should the next move (W #98) be?
+
+[*** 'B' to see a variation.\]]
+(;W[fp]C[[Therefore,\] W #98...];B[fq]C[...to exchange with B #99 first, *then*...]
+;L[hq]W[cm]C[...W #100 to capture two B stones are good moves.  This time if B[a\] to press again ---
+
+[*** 'B' to see a reference.\]]
+(;B[gp]C[This time, therefore, B #101 can only atari at [G4\].];W[hq]C[Then W #102 kosumi, and this W group's safety is no more a problem.
+
+The fight at lower left corner draws to a temporary conclusion. Locally, W got the corner and gained, but to lose sente under current situation is questionable.
+
+That is to say ---]
+;B[rg]C[With sente, B gets to play #103 and...];W[rf];B[qh]C[...[and\] #105.  Not only a big gain on territory, but also deprived W's eyeshape, thus threatening to attack B.  B is able to get #103 and #105 -- although losing a bit at lower left corner, B should be satisfied.
+
+Therefore, if W adopted the variation shown before [variation 1 for #96 at node #95\], wouldn't it be better?]
+;L[le]W[md]C[W #106 is also questionable.
+
+Because of this move, B's top side is solidified.  Had #106 played at a looser point of W[a\], it would have been tough to handle.]
+;B[ld]C[B #107 hane only move.  No other choice.];W[nc]C[W #108 is tesuji, very severe.]
+;B[nb]C[B #109 can only respond from below.  Again, no other choice.];W[nd];B[lc]
+C[B #109 and #111 are gained by W in sente.  But this way, this part of B stones are solidified.]
+;W[le]C[W #112 and...];B[ke];W[kf]C[...[and\] #114 are tesuji moves calculated when W played #106 [N16\].]
+;B[lf];L[je][hb]W[me]C[Next W might expect B[a\] extension.
+
+But even if B plays [a\], the bottem still leaves a hole for W[b\] invasion.  Therefore, B[a\] next would be slightly slow.]
+;B[lg]C[B #117 is strong!];W[ob]C[W #118 is a clever yose move...];B[lb]C[...Since B has no other way, B has to play #119.  This way, later when W plays endgame at the corner, the outcome would be quite different.  On the other hand, after B #119, W would suffer some loss in the endgame of upper side.]
+;W[qg];B[rh];W[mg]C[W #122 good move.
+
+[*** 'B' to see a reference -- and it shows why #122 is good.\]]
+(;L[mh][nh]B[ed]C[If B #123 hane at [a\], B[b\] also hane, and W wouldn't get what he wants.
+
+(* This tight melee vividly shows Sakata 9-dan's extraordinary skills.  At first, it seemed that W's both groups were under attack, very dangerous.  But to W #122 [N13\], it seemed even an expert like Œ‚«Â‘¥ could not find a strong move to contiue to attack W. *)]
+;W[dc]C[W #124 ---
+
+[*** 'B' to see a variation.\]]
+(;B[cc];W[cb];B[bb];W[gc];B[dd];M[lb][ob]W[hc]C[To W #130, it's clearly seen that the previous W [P18\] and B [M18\] exchange is hurting W here now.]
+;B[jf]C[When B #131 ---
+
+[*** 'B' to see a variation for the next move.\]]
+(;L[kg][ib]W[da]C[[Also,\] If W omits #132 [D19\], when B[a\] captures one stone, next B[b\] and W would lose eyeshape.]
+;B[kg];W[mh]C[After #134, W's top and bottom are finally connected...];B[cj]C[But when B gets #135, B is now leading in territory.]
+;W[fd]C[If W plays endgame in the normal way, his points would be enough, so W #136...]
+;B[fe];W[ee]C[...and #138 cut B, hoping to find a chance to turn it around.];B[ge]
+;W[ch]C[W #140 was the tesuji aimed at when #136.];B[dh];W[cf]C[W #142.  This move ---
+
+[*** 'B' to see a variation.\]]
+(;L[bg][be]B[bf]C[If B #143 sagari at [a\], W[b\] would kill B at the corner.];W[bg]
+;B[dg];W[be];B[df]C[When B #147, next (W #148) ---
+
+[*** 'B' to see a variation.\]]
+(;W[af]C[So W #148 captures one stone; no other choice.];B[ce]C[When B #149...]
+;W[di]C[W #150 hane...];B[ci];W[de]C[...then cuts at #152.  Here, W tries to start a ko, and with it, W tries to seal B from outside.]
+;B[bf];W[na];B[mb];W[cf];L[bh][ei]B[bc]C[B gets a chance to play #157 during the ko fight since it wasn't a tight ko [B four stones are not under atari\].
+
+Next if W[a\] connects, B[b\] ladder works.]
+;W[eh]C[So W has to play #158...];B[bf];W[pb];B[pc];W[cf];B[bh];W[eg]C[To #164.  W seals B.]
+;B[bf];W[od]C[(* If the ko fight continues at the left, W wouldn't expect to have instant gain anyway.  So it's more urgent to settle the right side weak group first. *)]
+;B[qc];W[cf];B[ch];W[ba];B[bf];W[fj]C[When W #172 kogeima ...];B[ej]C[...B #173 is the key point to attack W.]
+;W[ei];B[dj];W[gi];L[gk][hj]B[fk]C[When B #177, next if W plays [a\], B would peep at [b\], and W is in danger.]
+;W[cf];B[ah]C[(* When W #178 [C14\] captures, B #179 sagari is tesuji. *)
+
+[*** 'B' to see a reference diagram that explains #179's effect.\]]
+(;L[jj][gk]W[hj]C[W #180 is shape.  Next [a\] and [b\] are miai.];B[gk];W[jj];B[bl]
+C[B #183 presses...];W[bm]C[...to force W #184.  This is quite painful to W, but W has no choice but to answer.]
+;B[br]C[Then W #185 and...];W[ar];B[cs]C[...and #187 are big yose moves.];W[el]
+C[If W #188 tenuki ---
+
+[*** 'B' to see a reference.\]]
+(;B[gj];W[ii];B[hh];W[hi];B[ki];W[jk];B[ib];W[gd];B[he];W[ic];B[jb];W[jc]C[Although all three [previously weak\] W groups are now virtually settled, W's territory has trailed by much.]
+;B[kc];W[ab];B[bf];L[hb][ac][ag]W[fb]C[W #204 to block at [a\] would get more points, but with this block, W would lose the big yose move at [b\].  That is to say, when later W tries to continue the ko fight [B14-C14\] and forces B[c\], W[b\] would not be there, and W wouldn't gain anything. (So W played [F18\] instead of [H18\].)]
+;B[cl];W[fo];B[gq];W[go];B[hr];W[ho];B[hl];W[ir];B[hp];W[iq];B[er]C[If B #215 connects at [G2\], then W would play #215 [E2\] and B group is not clean.]
+;W[gr];B[fr];W[sb]C[W #218 is sente 4 points or more.];B[pa];W[hs];B[hb];W[gb];B[ag]
+C[B #223 is worth 7 points or more.
+
+[*** 'B' to see a reference in which W moves here first.\]]
+(;W[hg];B[jd];W[gm];B[hm];W[ig];B[fi];W[fh];B[io];L[eo]W[fm]C[If W #232 is omitted, then B would have [a\] push, and four W stones [F5\] are captured -- if W tries to save these four stones, the whole W team wouldn't have enough eyeshapes.]
+;B[rr];W[rs];B[lj];W[ph];B[mi];W[nf];B[oh];L[kk][ni][li][ik]W[og]C[After W #240, even if B[a\] cuts, W can [b\] to live both groups.  And if then B[c\], W[d\] lives.]
+;B[jh];W[lh]C[W #242 is the only move ---
+
+[*** 'B' to see a variation.\]]
+(;B[ih];W[gh];B[ji];W[qn];B[rn];W[sp]C[W #248 is aiming to live at above (W has [N7\] sente capture).]
+;B[ik];W[ij];B[dl];W[am];B[as]C[Even if B doesn't play #253 to start a ko fight, B is still better.  Since B is better in ko threats, so B makes this move.]
+;W[bs];B[ni]C[W didn't achieve his original goal after starting a fight at lower right corner, and W's situation just turned worse and worse, eventually losing the game.]
+;C[Total of 255 moves.  B wins by resignation.
+
+Time given\: 10 hours apiece
+
+Time consumed\:
+
+Black\: 4 hours 28 minutes
+
+White\: 9 hours 59 minutes
+
+[*** END OF THE GAME ***\]])
+(;AE[lh]AW[ih]C[[Suppose W #242 plays here instead...\]]N[variation];B[kk]C[B cuts...]
+;W[ni];B[ji]C[...and W is dead.
+
+[*** end of variation.\]
+[*** '[' to continue.\]]))
+(;AE[ag]AW[bg]C[[Suppose W moves here first...\]]N[reference];W[cf]C[W has the following yose sequence...]
+;B[ag];W[ac];B[bf];W[bd]C[...To here.
+
+[The reference shows why W wanted to save a possible move of [A17\] -- when he played [F18\] instead of [H18\].\]
+
+[*** end of reference.\]
+[*** '[' to continue.\]]))
+(;AE[el]C[[Say if W plays somewhere else...\]]N[reference];B[am]C[After B [A7\]...]
+;W[an];B[aq]C[...and a throw-in at [A3\], W team wouldn't have enough eyes.
+
+[*** end of reference.\]
+[*** '[' to continue.\]]))
+(;C[[When B [A12\] sagari...\]]N[reference];W[ag];B[ad];W[bd];B[ac]C[After B [A17\]...]
+;W[aa]C[Even if W plays one more move at [A19\], it would be a 3-move loose ko.  Such a ko is very light.
+
+[*** end of reference.\]
+[*** '[' to continue.\]]))
+(;C[[When B [D14\]...\]]N[variation (W #148)];W[ce]C[If W [C15\] connects...];B[de]
+;W[bd];B[bc];W[bi];B[ci];W[bh];B[bj];W[af]C[To here, W lives.  But if W gets gote, and ...]
+;B[jj]C[...[and\] B next gets to jump at [K10\], B will be able to get a considerably large territory outside.  W can't be content.
+
+[*** end of variation.\]
+[*** 'g148' to continue.\]]))
+(;AE[cf]AW[dg]C[[If W cuts at [D13\] instead...\]]N[variation];B[bg]C[B would go for the following exchange...]
+;W[di];B[eh];W[ci];B[ei];W[dj];B[ej]C[To this picture, although B loses [C10\] stone, but W too loses one more stone at [D13\].  This way, B is not bad.
+
+[*** end of variation.\]
+[*** '[' to continue.\]]))
+(;C[[When B [K14\]...\]]N[variation (W #132)];W[kg]C[If B tries to escape here...]
+;B[kh]C[After B [L12\]...];W[jg];B[mh]C[B would have the chance to play [N12\] hane.  This way, W is hurt.
+
+[*** end of variation.\]
+[*** 'g132' to continue.\]]))
+(;AE[dc]AW[fd]C[[If W hane at [F16\] instead...\]]N[variation];B[dc]C[B [D17\] would get the benifit at the corner.
+
+At this moment, to get the benifit at upper left corner is the central point of the fight.
+
+[*** end of variation.\]
+[*** '[' to continue.\]]))
+(;AE[mg]AW[ng]C[[Suppose W plays [O13\] (instead of [N13\], which W actually played)...\]]
+N[reference];L[nf]B[mh]C[Then B [N12\] would block W inside in sente -- if W tenuki, B[a\] and W dies.
+
+[*** end of reference.\]
+[*** '[' to continue.\]]))
+(;M[fp][fq]C[[After W [F4\] and B [F3\] exchange, W gets two B stones...\]]N[reference]
+;B[hq]C[If B [H3\] threatens...];W[gq]C[W has [G3\]...];B[fr];W[gr];B[gp];W[hp]
+;B[fo];W[go];B[fp];W[hr]C[To here, W is safe.
+
+[*** end of reference.\]
+[*** '[' to continue.\]]))
+(;C[[When B [E4\]...\]]N[variation (W #98)];W[cm]C[If W [C7\] directly blocks to captures two B stones...]
+;B[hq]C[B [H3\] is a severe tesuji...];W[gq]C[W has no other choice but to go for the exchange...]
+;B[hp];W[hr];B[ir];W[gp];B[iq];W[go];B[ho];W[fr];B[hs]C[To B [H1\] hane, W still needs one more move to completely capture B stones.  Therefore, this exchange is favorable to B.
+
+[*** end of variation.\]
+[*** 'g98' to continue.\]]))
+(;C[[After B [D3\]...\]]N[variation 1 (W #96)];W[cm]C[If W blocks here directly...]
+;B[bq];W[bn];B[ap];W[bo];B[er];W[fr];B[fq];W[gq];L[ri]B[fp]C[To here, W [G3\] gains sente and next can play [a\] -- this would be the strongest way based on the resutls.
+
+[*** end of variation 1.\]
+[*** '[' to continue.\]])
+(;C[[After B [D3\]...\]]N[variation 2 (W #96)];W[ep]C[What if W blocks from this side?]
+;B[bq];W[cm];B[bo];W[bn];B[ap]C[B certainly captures two stones...];W[cc]C[Under this situation, W [C17\] can be said as a strong move, and W can expect the following moves...]
+;B[bc];W[cf];B[dc];W[dg];B[ed]C[To here an exchange...];W[hl];B[ik];L[bm][bf]W[gj]
+C[Then W tries to extend the moyo at left.  But after this, W cannot hope to get a big stomach as he imagine.  Also, B still has [a\] capture and [b\] big endgame move.  So clearly, this is in fact a situation in favor of B.
+
+[*** end of variation 2.\]
+[*** 'g96' to continue.\]]))
+(;AB[bp]AE[dp]C[Suppose B atari from the bottom...]N[variation];W[dp];B[br]C[To here, W gets a thicker outside in sente.  B absolutely cannot give in like this.
+
+[*** end of variation.\]
+[*** '[' to continue.\]]))
+(;C[[After B [S18\]...\]]N[variation (W #92)];W[cm]C[If W blocks here...];B[er]
+;W[fr];B[dr];W[dp]C[After W [D4\], B can actually tenuki to get some other big points.]
+;B[tt]C[Say B tenuki here...];W[cp];B[bp];W[bo]C[If W cuts...];B[bq];W[bn]C[To here, W gets two stones in *gote*, and W would be trailing globally.
+
+[*** end of variation.\]
+[*** 'g92' to continue.\]]))
+(;AE[qj][re]AW[qk]C[[Say W captures at [R9\] instead of [S15\] (actually played)...\]]
+N[reference];B[re]C[B would [S15\] to get the stone at the corner...];W[rl]C[When W cuts...]
+;B[qj]C[B takes back...];W[cp];B[bp];W[qk];B[rr];W[rs];L[lp]B[qj]C[And when B takes the ko back again, W cannot find another ko threat.  Threats like [a\] would be too small.
+
+[*** end of reference.\]
+[*** '[' to continue.\]]))
+(;L[pg]AE[pg][qk]AW[rk]C[[If W plays here before [a\]...\]]N[reference];B[rl];W[qk]
+C[W gains with sente...];B[pk];L[rn]W[pg]C[But to [Q13\], the aji at [a\] is gone, so W cannot play this way.
+
+[*** end of reference.\]
+[*** '[' to continue.\]]))
+(;N[variation (W #58)];W[mp];B[lp];W[mq];B[kq];W[kr];B[jq];W[mr];B[ip]C[To here, B captures two stones at the middle.  W loses big.
+
+[*** end of variation.\]
+[*** 'g58' to continue.\]]))
+(;C[[After B [P10\]...\]]N[variation 1 (W #52)];W[rn]C[If W [S6\] tsuke...];B[qn]
+C[B would sacrifice with [R6\] and the following moves...];W[qm];B[rm];W[sn];B[mm]
+;W[ln];B[rk];L[jp]W[sp]C[To here, although W captures five B stones, but B[a\] next, and B is good.
+
+Now look at another variation ---
+
+[*** end of variation 1.\]
+[*** '[' to continue.\]])
+(;C[[Again, after B [P10\]...\]]N[variation 2 (W #52)];W[rn]C[When W [S6\] tuske...]
+;B[qn];W[qm];B[rm];W[rl]C[If W [S8\] cuts immediately (in variation 1, this move is to extend at [T6\])...]
+;B[sn]C[B would live first...];W[pk];B[sp];W[qk]C[When W is forced to capture the two B stones...]
+;B[sr]C[B [T2\] jumps in and the corner is killed.  This way, ont only B gains huge, also W will have no way to attack B's team at lower side.
+
+[*** end of variation 2.\]
+[*** 'g52' to continue.\]]))
+(;C[[When B [P7\] peeps...\]]N[variation (W #38)];W[pm]C[If W [Q7\] extends...]
+;B[pl]C[B [Q8\] blocks...];W[ol];B[nl];W[on];B[ok];W[rm];B[rl]C[To here, although W captures four B stones, but to let B form a ponnuki at the middle, W's loss is greater than the gain.
+
+(* Proverb says "a ponnuki is worth 30 points", and the power of this shape is clearly seen. *)
+
+[*** end of variation.\]
+[*** 'g38' to continue.\]]))
+(;AB[rn]AE[ro]C[[If B connects with [S6\]...\]]N[reference 1];W[qr]C[W [R2\] lives...]
+;B[ql]C[When B [R8\]...];L[pk][lq]W[nm]C[W [O7\] protects the cutting point.  Next, W[a\] or W[b\] are miai. B not good.
+
+[*** end of reference 1.\]
+[*** '[' to continue.\]])
+(;AB[rn]AE[ro]C[[Again if [S6\] instead of [S5\]...\]]N[reference 2];W[qr]C[After W [R2\] lives the corner...]
+;B[om]C[If B peeps...];W[qm]C[W [R7\] kosumi is a good move...];B[ql];W[rm];B[on]
+;W[nn];B[rl];W[ln];B[ko];L[pl][ol]W[pm]C[To here, if B[a\] blocks, W[b\] cuts and the ladder works for W.  B moves don't work.
+
+[*** end of reference 2.\]
+[*** '[' to continue.\]]))
+(;C[[When B [S4\]...\]]N[variation 1 (W #34)];W[qn]C[W [R6\] tries to block B inside.  Pushing too hard.]
+;B[rn];W[ql];B[rm]C[B first increases liberties...];W[rl];B[rr]C[Then [S2\], and B wins the semeai.
+
+[*** end of variation 1.\]
+[*** '[' to continue.\]])
+(;C[[Again, when B [S4\]...\]]N[variation 2 (W #34)];W[qm]C[Even if W plays a little bit looser at [R7\]...]
+;B[rm];W[rl];L[ql][qq]B[rn]C[After B [S7\] and [S6\], [a\] cut and [b\] wedge are miai for B.  Still B is good.
+
+[*** end of variation 2.\]
+[*** 'g34' to continue.\]]))
+(;C[[When W [Q6\]...\]]N[variation (B #33)];B[qn]C[If B [R6\]...];W[pm];B[qm];W[pl]
+C[W extends to build up a solid wall, sealing B to inside.  If so, even if B lives inside, it would be still very unfavorable to B.
+
+[*** end of variation.\]
+[*** 'g33' to continue.\]]))
+(;C[[When B [M5\]...\]]N[variation (W #32)];W[om]C[When W [P7\]...];B[pl]C[B [Q8\] jumps out...]
+;W[pm];B[qm];W[ql]C[If W cuts...];B[qk];W[rl];B[rk];W[rm];B[qn];W[pk];B[ol];W[nl]
+;B[ok];W[pj];B[rn]C[To B [S6\], since the ladder to capture B stones [P9\] doesn't work for W, W fails.
+
+[*** end of variation.\]
+[*** 'g32' to continue.\]]))
+(;AE[rq]AW[lo]C[[Suppose W #30 plays at M5...\]]N[variation];B[qq]C[Then B #31 would kill W at the corner...]
+;W[qp];B[rp];W[rq];B[pr]C[... ...];W[qr];B[or];W[qq];B[ro]C[To B #39, B wins the semeai [capturing race\].
+
+[*** end of variation.\]
+[*** '[' to continue.\]]))
+(;C[[When B [R5\]...\]]N[variation (W #26)];W[rp]C[If W [S4\] to protect the corner...]
+;B[ro]C[B blocks...];W[qp];B[nn]C[B [O6\] geta...];W[on];B[om];W[pn];B[pm];W[qn]
+;B[rn];W[qm];B[ql];W[rm];B[rl];W[so];B[no];W[sn];B[nm]C[To [O7\], B sacrifices stones to seal W tightly from outside.  This way, W's moyo would be thin.
+
+[*** end of variation.\]
+[*** 'g26' to continue.\]]))
+(;C[[When B [Q5\]...\]]N[variation (W #22)];W[qo]C[If W [R5\] hane...];B[pn];W[op]
+;B[no];W[qp];L[qm][jn]B[ln]C[To here, if W[a\] jumps, B[b\] jumps, too, to reduce W's moyo.
+
+[*** end of variation.\]
+[*** 'g22' to continue.\]]))
+(;C[[When B [O3\] kakari...\]]N[variation (W #18)];W[lq]C[W [M3\] pincer move...]
+;B[qq]C[B invades 3-3...];W[qp];B[pq];W[op];B[nr];W[mo];L[kp]B[pj]C[To here, although B gains corner and the keypoint at [Q10\], W's outside moyo is also remarkable.  This is another choice [for W #18\].
+
+However, if W plays [M3\] at [a\], it would be no good, since later B would certainly play [N2\] instead of [O2\], aiming at [K3\] invasion.
+
+[*** end of variation.\]
+[*** 'g18' to continue.\]]))
+(;C[[When B [C5\]...\]]N[variation 1 (W #14)];W[cn]C[If W [C6\] hane...];B[dn]C[B cuts...]
+;W[eo];B[cm];W[bn];B[bo];W[dm];B[en];W[bm];B[cl];W[dl];B[bl]C[To B [B8\], since the ladder doesn't work for W, W fails.
+
+[*** end of variation 1.\]
+[*** '[' to continue.\]])
+(;C[[Again, when B [C5\]...\]]N[variation 2 (W #14)];W[cn]C[When W [C6\] hane...]
+;B[dn]C[B [D6\] cut...];W[cp];B[bo];W[dp]C[If W adopts [C4\] and [D4\]...];B[bp]
+;W[cm];B[dq];W[ep];B[en];W[dk];L[dc]B[dh]C[To here, it's a form of violent fight.  In this picture, if B next to play [a\] kosumi-tuske [roughly, a diagonal touch\], W would be under attack.  W again [like in variation 1\] is not good.
+
+[*** end of variation 2.\]
+[*** 'g14' to continue.\]]))
+(;C[[Suppose B approaches the lower left corner...\]]N[reference];B[cp];W[do];B[co]
+;W[dn]C[To here, B stones at left are forced to a low position [line 3\] on both upper and lower sides.
+
+Therefore, for W, to enclose the lower left corner is not urgent. [W played [R11\] instead.\]
+
+[*** end of reference.\]
+[*** '[' to continue.\]]))
+(;AB[gd]AE[hd]C[[Wu once played a one-space pincer...\]]N[reference 1];W[gc];B[fd]
+;W[fc];B[ed]C[[*** end of reference 1.\]
+[*** '[' to continue.\]])
+(;AB[gd]AE[hd]C[[And once when Sakata 9-dan applied the one-space pincer...\]]N[reference 2]
+;W[ee];B[df];W[id];B[gf];W[gc]C[[*** end of reference 2.\]
+[*** '[' to continue.\]]))
+(;AE[ec]AW[oc]C[[Suppose W to approach the corner from this side...\]]N[reference]
+;B[ed];W[jc];B[dq]C[[B's form looks good.\]
+
+[*** end of reference.\]
+[*** '[' to continue.\]]))

@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第14届中国名人战本赛第一轮]DT[2001-03-21]PC[中国棋院]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局]PB[余平]BR[六段]PW[胡耀宇]WR[六段]RE[W+R];B[pd];W[dd];B[pq];W[cp];B[ep]
+
+;W[qn];B[po];W[rp];B[pl];W[pn];B[on];W[qq];B[pp];W[om];B[pm];W[nn];B[oo];W[rn]
+
+;B[lp];W[dn];B[cq];W[bq];B[dq];W[bo];B[ip];W[qf];B[pi];W[qc];B[qd];W[pc];B[od]
+
+;W[rd];B[re];W[rc];B[qe];W[nc];B[me];W[hn];B[en];W[em];B[fn];W[ko];B[kp];W[fm]
+
+;B[gm];W[gn];B[gl];W[hp];B[dm];W[el];B[fq];W[iq];B[dl];W[ek];B[dk];W[do];B[ej]
+
+;W[fk];B[ei];W[gj];B[br];W[ar];B[bs];W[bm];B[il];W[gh];B[df];W[fg];B[ee];W[cj]
+
+;B[ci];W[dj];B[di];W[ck];B[ed];W[dc];B[ce];W[ec];B[bc];W[gc];B[io];W[gp];B[jm]
+
+;W[eo];B[gr];W[qk];B[pk];W[rf];B[hq];W[of];B[oc];W[ob];B[nb];W[mb];B[mc];W[na]
+
+;B[nd];W[lc];B[nb];W[gq];B[hr];W[nc];B[bj];W[md];B[ld];W[bi];B[mc];W[bh];B[cg]
+
+;W[md];B[bk];W[cl];B[mc];W[bg];B[bf];W[md];B[fp];W[fo];B[mc];W[fr];B[er];W[md]
+
+;B[bl];W[cm];B[mc];W[bb];B[gd];W[bd];B[hi];W[gi];B[hc];W[fc];B[he];W[md];B[ch]
+
+;W[pj];B[qj];W[oj];B[oi];W[le];B[mc];W[nj];B[qi];W[md];B[nf];W[kd];B[mh];W[ql]
+
+;B[nl];W[se];B[lf];W[jj];B[ji];W[kf];B[ai];W[lg];B[mf];W[ki];B[lj];W[mi];B[li]
+
+;W[lh];B[mg];W[lk];B[kg];W[nm])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届中国名人战本赛第二轮]DT[2002-03-11]PC[中国棋院]PB[刘世振]BR[六段]PW[邱峻]WR[六段]KM[7.5]RE[W+R]US[棋圣道场]SO[http://weiqi.cn.tom.com/]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局];B[qd];W[pp];B[dc];W[de];B[cg];W[dp];B[fd];W[od];B[md];W[of];B[qf];W[qc];B[rc];W[pc];B[rb];W[oh];B[qh];W[kc];B[ic];W[ke];B[ef];W[cn];B[jq];W[hq];B[nq];W[lq];B[no];W[pr];B[pn];W[qn];B[qm];W[qo];B[lc];W[lb];B[ne];W[nc];B[oe];W[jc];B[mb];W[mc];B[ld];W[ka];B[rm];W[pm];B[nm];W[pl];B[po];W[qp];B[qk];W[lo];B[ok];W[ci];B[ll];W[pe];B[pd];W[nf];B[mf];W[qe];B[rd];W[pf];B[mh];W[qg];B[rf];W[qi];B[rh];W[re];B[rg];W[mg];B[lg];W[ng];B[lf];W[lh];B[ob];W[nd];B[me];W[nb];B[kh];W[li];B[pb];W[jh];B[jd];W[ki];B[kd];W[ib];B[jb];W[kb];B[hb];W[ma];B[id];W[jo];B[ni];W[oi];B[nj];W[pk];B[pj];W[oj];B[qj];W[nk];B[mk];W[nl];B[ml];W[ol];B[mj];W[nh];B[mn];W[mi];B[il];W[ij];B[or];W[jl];B[jm];W[km];B[kp];W[lp];B[kl];W[lm];B[qr];W[ps];B[rr];W[pq];B[mm];W[jk];B[sp];W[mr];B[nr];W[ln];B[rp];W[np];B[op];W[mq];B[mp];W[mo];B[oo];W[oq])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

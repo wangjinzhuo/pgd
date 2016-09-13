@@ -1,0 +1,56 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[第2届晚报杯全国业余围棋锦标赛]EV[第2届晚报杯全国业余围棋锦标赛]
+DT[1989年1月]PC[四川成都]PB[沈兴]BR[业余6段]
+BT[新民晚报]PW[孙国梁]WR[业余6段]WT[钱江晚报]
+C[第2届晚报杯全国业余围棋锦标赛
+黑：沈   兴    业余6段
+白：孙国梁    业余6段
+
+《围棋天地》2005年第4期
+《棋城第一战》]
+;B[pd]	;W[dd]	;B[pp]	;W[cp]	;B[eq]	;W[ip]
+;B[fc]C[黑7挂角是有谋略的下法。
+如果白棋在A位关应，黑会走B位分投，白C位补，黑D位拆二后，白棋A位的单关不如E位的小飞。
+如果白棋E位小飞应，黑棋就F位大跳，白G位应后，白棋E位小飞的位置不如A位单关。]LB[df:A][ck:B][ep:C][ch:D][cf:E][en:F][cm:G]
+
+;W[dq]C[白棋识破黑7的意图，走8位尖顶]
+;B[cf]	;W[df]	;B[dg]	;W[ef]	;B[cc]	;W[ce]	;B[dc]	;W[cg]
+;B[cj]LB[ch:A][cm:B]C[黑棋期待白A长，黑B拆二，这样将是平淡的一局棋。]
+
+;W[dk]C[白18是临机的一手。
+这个局部黑棋的手段是A位长，白希望通过对黑17一子的纠缠来牵制这个手段]LB[bf:A]
+
+;B[dn]C[黑19试图反击]
+
+;W[ep]C[虎住厚实]
+;B[dj]	;W[ek]	;B[ej]	;W[fj]	;B[ck]	;W[fk]	;B[dl]
+;W[bn]LB[cl:A]C[黑还有A位断点]
+;B[fi]	;W[gi]	;B[gh]	;W[fh]	;B[ei]	;W[hi]	;B[fg]	;W[hh]	;B[eh]	;W[bf]
+;B[ff]C[黑棋子效不高，白棋地势兼得。]
+;W[nq]	;B[pn]	;W[no]	;B[oq]	;W[nr]	;B[pi]
+;W[ql]LB[nm:A]C[白46走A位跳也不错。]
+;B[nn]	;W[ok]	;B[hp]	;W[iq]	;B[qj]
+;W[qo]C[白52试应手。]
+;B[qn]
+;W[nm]C[白54夹是引以自豪的一手。]
+;B[on]	;W[mn]	;B[mo]	;W[mm]	;B[np]	;W[mp]	;B[oo]	;W[lo]
+;B[lp]C[黑63愤怒开劫]
+;W[no]	;B[bd]	;W[fd]	;B[mo]	;W[mq]	;B[ko]	;W[no]	;B[gd]	;W[ed]	;B[mo]
+;W[ln]	;B[kq]
+;W[ec]LB[gc:A]C[黑棋也许是为了保留劫材，没有走A位的粘。
+白棋抓住机会，76位冲下。]
+;B[no]
+;W[jr]LB[kr:A]C[白78走A位也许更加严厉，但是也有风险。
+在优势意识下，白棋简明地弃子争先。]
+;B[kr]	;W[jn]	;B[or]
+;W[cl]C[白82断强烈]
+;B[cm]	;W[bl]
+;B[bo]C[黑空靠85手筋]
+;W[bm]	;B[co]
+;W[do]C[白棋不愿硬吃，去冒鱼死网破的风险。再度弃子]
+;B[eo]	;W[dp]	;B[cn]	;W[bp]	;B[ao]	;W[el]	;B[dm]	;W[fo]	;B[ap]
+;W[en]C[白98缓手，应走A位跳，官子差不少。]LB[br:A]
+;B[br]	;W[cr]	;B[ar]
+;W[ni]C[白102手以下略
+
+白中盘胜]
+)

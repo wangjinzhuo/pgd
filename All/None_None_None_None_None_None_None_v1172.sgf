@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第十三届碁圣战]RO[3]PB[武宫正树]BR[九段]PW[茅野直彦]WR[九段]KM[5.5]DT[1988-03-31]PC[日本]RE[W+R]TM[18000];B[pd];W[dp];B[pp];W[dd];B[pj];W[nc];B[pf];W[pb];B[jp];W[hq];B[ho];W[fq];B[pn];W[lp];B[iq];W[hp];B[jn];W[ln];B[kl];W[pq];B[oq];W[op];B[qq];W[pr];B[or];W[qr];B[po];W[nq];B[nr];W[np];B[rr];W[kq];B[qs];W[jm];B[km];W[kn];B[in];W[jl];B[hl];W[kk];B[mm];W[jk];B[ml];W[ir];B[jr];W[jq];B[ip];W[hr];B[gk];W[gn];B[im];W[mj];B[mn];W[mo];B[dk];W[ne];B[fc];W[df];B[ic];W[di];B[dm];W[en];B[lr];W[kr];B[gi];W[jh];B[db];W[qc];B[nf];W[oj];B[oi];W[ok];B[ni];W[mk];B[om];W[pk];B[qk];W[mf];B[ng];W[nn];B[ol];W[rf];B[me];W[qj];B[pi];W[ql];B[rk];W[rj];B[rl];W[rm])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

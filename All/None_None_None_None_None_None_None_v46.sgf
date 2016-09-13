@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第40期日本十段战决赛第三局]DT[2002-04-04]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]BR[九段]PB[武宫正树]PW[王立诚]WR[九段]PC[日本长野]RE[W+R];B[pd]C[前两局双方打成1：1平，武宫九段第二局8目半大胜王立诚九段那一局给人留下深刻印象];W[dc]C[本局的裁判是工藤纪夫九段];B[dp]C[黑1、3的“对角星”布局在武宫的布局辞典中并不多见]
+
+;W[pp];B[de];W[ce]C[白6显示了王立诚九段不甘示弱的心情，即：我不怕“宇宙流”];B[cf];W[cd];B[gf]C[黑9的下法古已有之，只是除了武宫九段以外，别的棋手很少这样下];W[gc];B[dm]C[黑11很有个性，武宫九段的棋大多下在四线以上];W[nq];B[pj];W[ip]C[白14是双方好点]
+
+;B[hd]C[黑15拉开了模样作战的序幕];W[hc];B[id];W[ic];B[jd];W[kc];B[in]C[黑21的镇对于熟悉武宫的人来说应不会感到意外];W[kp];B[le]C[至23又形成了黑外势白实地的格局，双方都坚守各自的围棋理念];W[lk]C[白24侵消的选点是一般分寸];B[ko]
+
+;W[lp]C[白26不给黑棋借劲的机会];B[hp];W[cq]C[白28试黑应手];B[dq];W[hq];B[gp];W[gq];B[iq];W[ir]LB[jq:a]C[白34是正着，如在a位打吃，则黑34立，白难应];B[df]C[黑35的价值不小，黑左边模样可观]
+
+;W[fp];B[fo]C[至此中午休息];W[cn]C[白38的下法出人意料，其优劣难以判断];B[cp];W[cl];B[cj];W[dl];B[fq]LB[go:a][ho:b][eo:c]C[黑43厚实，否则白有a、黑b、白c的手段];W[dj]
+
+;B[ci];W[fk];B[pm]C[黑47也是武宫的独家专利];W[di];B[dh];W[mm]LB[ho:a][go:b][hn:c]C[白50不仅是单纯的联络，还瞄着白a、黑b、白c分断黑棋];B[fm]C[黑51攻守兼备];W[eh];B[lj]C[黑53碰有争先扩张模样之意]
+
+;W[kj];B[mj];W[ki]LB[kk:a][pc:b]C[白56于a位粘虽厚实，但黑b位的砸钉就变得非常大了];B[hj]C[黑57的分断力量不小，但有落空的危险];W[ch];B[bh];W[dg];B[kk]C[黑61箭在弦上不得不发];W[gg]LB[ij:a]C[白62是安全策，如在a位碰则变化复杂]
+
+;B[fg];W[gh];B[gd];W[fc];B[ih];W[ef];B[ee];W[ff];B[fe];W[eg]C[至72，白棋彻底活净，感觉上是白棋可战];B[qd]C[黑73力保实地均衡];W[lh]C[白74是双方好点，但风险不小]
+
+;B[ii]C[黑75切断白棋的退路];W[oj]C[白76是腾挪的手筋，战斗白热化了];B[oi];W[ni];B[nj];W[ok];B[pi]C[黑77至81是最强的应手，白棋并无好的反击手段];W[me]C[白82试黑应手];B[ld]LB[md:a][lf:b][nk:c]C[黑83如走a，则白b，瞄着c位的紧气杀，黑危险]
+
+;W[md];B[lc];W[nh]C[白86只得作出妥协];B[nl]C[黑87后，白作活中腹大龙是当务之急];W[mc];B[lb];W[lf];B[pg]LB[og:a][oh:b][ph:c][pk:d]C[黑91如a位跳，则白b、黑c、白91断后，即产生了d位的拐，黑无成算]
+
+;W[ll];B[fj]LB[nm:a]C[黑93似有误算，当然应a位逼白作活];W[ol];B[om];W[nk]C[至96，黑棋明显受损];B[fi]C[黑97以下尝试屠龙];W[fh];B[cg];W[ck];B[bl]C[黑101是破眼的手筋]
+
+;W[bk];B[bm];W[cm];B[bn];W[em]C[至106黑已无法杀白，黑棋形势不乐观了];B[jq];W[jp];B[jr];W[hr];B[ek];W[fl];B[ej];W[dk]
+
+;B[qp];W[qq];B[fr];W[ho];B[go];W[kr];B[rq];W[gm];B[hn];W[ik]C[白122、124先发制人，黑难受];B[if];W[rp];B[qo]
+
+;W[ro];B[pq];W[qr];B[qn];W[rr];B[op];W[oc];B[pb];W[rn];B[rm];W[nm];B[ql];W[bf]
+
+;B[bg];W[be]C[140、142的价值极大，白棋的优势明朗化了];B[kf];W[ob];B[pc];W[kb];B[mf];W[nf];B[lg];W[mg];B[hg];W[kg];B[lf]
+
+;W[pa];B[qa];W[oa];B[od];W[ne];B[mb];W[nc];B[og];W[ng];B[qb];W[jg];B[kd];W[pr]
+
+;B[jc];W[jb];B[oq];W[or]C[白170后，黑已无胜机];B[no];W[nn];B[on];W[hi];B[gk];W[ij];B[hl];W[fn];B[il]
+
+;W[eo];B[ep];W[jl];B[hh];W[gi];B[gj];W[dh];B[aj];W[bj];B[bi];W[io];B[gn];W[bo]
+
+;B[co];W[al];B[bp];W[do];B[km];W[kl];B[dd];W[ec]C[王立诚九段2：1领先，决赛第四局将于4月18日在日本爱媛进行，敬请关注TOM.COM棋圣道场的大赛直播])
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>第40期日本十段战决赛第三局 王立诚执白中盘胜武宫正树(附解说)<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

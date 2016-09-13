@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第14届中国名人战本赛第二轮]PC[中国棋院]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局]DT[2001-03-22]PB[彭荃]BR[四段]PW[周鹤洋]WR[八段]RE[B+R];B[pd];W[dd];B[pq];W[cp];B[eq]
+
+;W[qo];B[op];W[qk];B[dn]C[黑9选择“大斜定式”，显然是有备而来];W[ep];B[dp];W[do];B[dq];W[co];B[eo];W[fp];B[cq];W[cn]
+
+;B[dm]LB[en:a][fo:b]C[黑19也有在a位接或b位压的下法];W[fo];B[en];W[cm];B[fn];W[fq];B[cl];W[bl];B[bk]LB[go:a]C[黑27照搬教科书，此时也许在a位扳更为有趣]
+
+;W[bq];B[br];W[bp];B[fr];W[gr];B[er];W[ck];B[dl];W[bj];B[go]C[至37是常见定式];W[jq];B[hq];W[mp]
+
+;B[on];W[pm];B[mq];W[lq];B[mr]C[黑43、45关系双方根据，不可放过];W[kn];B[nc];W[ec]C[白48是周鹤洋的棋风];B[jd]C[黑49能占此大场并无不满];W[rd];B[qf];W[qc]
+
+;B[pc];W[rf]C[白50至54的下法未见便宜];B[qg];W[hc];B[qb];W[rb];B[qd];W[rc];B[qp]C[黑61机敏];W[ro];B[qj];W[pj]
+
+;B[pi];W[pk];B[pb]C[黑63至67是相关的好手];W[se];B[ib];W[dg]C[黑69、白70是双方各得其一的好点];B[hb];W[gb];B[oi]C[黑73急所，黑上边模样不小];W[qi]C[白74有迟缓之感];B[rh]
+
+;W[ri];B[qh];W[rj];B[lp]C[黑79抓住战机];W[kp];B[lo];W[lr];B[ir]C[黑83搜根攻逼，白棋不舒服];W[ho];B[hp];W[hn];B[gn]
+
+;W[ip];B[jr];W[ms];B[mo];W[iq];B[hr];W[kl]C[白94须后手出逃，黑可满意];B[dh]C[黑95敏锐，白棋不易应付];W[cg];B[cj]C[黑97弃子的手筋，黑明显得利];W[dk];B[ek]
+
+;W[dj];B[ej];W[ci];B[im]C[黑103直逼白要害];W[ko]LB[hm:a]C[白104不易理解，当然应a位冲出];B[lm];W[ln];B[mn];W[ll];B[mm];W[km]
+
+;B[hm]C[至黑111，白仍需出逃，黑局势有利];W[li];B[lh];W[kh];B[ki]C[黑113、115借白下边不活之机向白用强];W[lj];B[kj];W[jh];B[ii];W[nj]C[白120不得不联络];B[qe];W[re]
+
+;B[hd];W[ih]LB[ji:a]C[白124似有误算，此时只有在a位冲出与黑一搏才能争胜负];B[ij];W[fg]C[白126后手连回，黑棋竟在中腹成了10余目地];B[gc];W[ke];B[fb];W[eb];B[lg];W[jf];B[kd]
+
+;W[le];B[ea];W[da];B[ga];W[fa];B[hh];W[hg];B[gh];W[gg];B[kk];W[ni];B[ea];W[db]
+
+;B[rp];W[ng];B[md];W[me];B[di];W[ak];B[ns];W[ls];B[or]C[至155，黑棋盘面10目的优势已不可动摇];W[ld];B[lc];W[nd];B[mc]
+
+;W[sp];B[sq];W[so];B[rq];W[il];B[jl];W[jm];B[jk];W[fh];B[fi];W[in];B[qn];W[pn]
+
+;B[po];W[rn];B[om];W[pl];B[ra];W[sg];B[sh];W[rg];B[og];W[nf];B[ar];W[ge];B[fd]
+
+;W[fe];B[he];W[ji];B[hl];W[oh];B[ph];W[nh];B[of];W[ie];B[id])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

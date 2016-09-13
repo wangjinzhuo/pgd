@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第七届富士通杯第二轮]RO[2.7*]PB[李昌镐]BR[六段]PW[加藤正夫]WR[九段]KM[5.5]DT[1994-04-04]PC[日本东京]RE[W+R]TM[10800];B[pd];W[dp];B[pq];W[dd];B[qo];W[jp];B[cn];W[cl];B[cq];W[dq];B[cp];W[do];B[bn];W[em];B[lq];W[jd];B[ko];W[df];B[nc];W[qj];B[qh];W[oj];B[ql];W[qp];B[pp];W[ro];B[rp];W[qm];B[pl];W[rl];B[rn];W[rm];B[nl];W[qn];B[so];W[po];B[qq];W[oh];B[qe];W[om];B[jo];W[ip];B[io];W[hp];B[dc];W[ec];B[eb];W[ed];B[cc];W[fb];B[be];W[il];B[nm];W[nn];B[mn];W[no];B[mo];W[bf];B[ce];W[cf];B[db];W[mk];B[nk];W[nj];B[lk];W[lj];B[ml];W[kk];B[mj];W[mi];B[cj];W[mk];B[ej];W[dl];B[fl];W[ll];B[fm];W[di];B[dj];W[fk];B[de];W[ee];B[gk];W[fj];B[ek];W[el];B[fi];W[gj];B[ef];W[ae];B[bc];W[eg];B[ff];W[fg];B[gg];W[gh];B[gf];W[gi];B[fh];W[dh];B[ei];W[bh];B[hc];W[hd];B[gd];W[gc];B[ad];W[bk];B[af];W[bi];B[gb];W[fc];B[hb];W[he];B[ge];W[ig];B[if];W[ic];B[ih];W[hh];B[ib];W[jg];B[hf];W[kd];B[jf];W[jb];B[fa];W[mc];B[mb];W[nb];B[lb];W[ga];B[ha];W[ka];B[ea];W[oc];B[nd];W[pb];B[na];W[ob];B[ld];W[od];B[ne];W[oe];B[nf];W[qc];B[of];W[le];B[kc];W[pf];B[pg];W[pe];B[og];W[kf];B[ho];W[cr];B[br];W[dr];B[bs];W[np];B[gp];W[gq];B[fq];W[fp];B[go];W[hr];B[qf];W[lm];B[fr];W[fo];B[jr];W[hq])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

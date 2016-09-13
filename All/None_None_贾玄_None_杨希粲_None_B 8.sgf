@@ -1,0 +1,23 @@
+(;AB[dp][pd]AW[dd][pp]C[贾 玄 图
+唐待诏贾玄与杨希粲对局 贾玄黑
+先，希粲输八路 各一百一十九着 白
+杀黑二十一子，白有四十三路 黑杀白
+九子，黑有五十一路]
+AP[MultiGo:3.9.4]SZ[19]GN[贾 玄 图]PB[贾玄]PW[杨希粲]KM[0]RE[B 8]
+;B[fc];W[cg];B[cl];W[fq];B[eq];W[fp];B[dn];W[iq];B[qk];W[qi];B[qn];W[qo];B[pn];W[np]
+;B[ci];W[kc];B[mc];W[ec];B[fd];W[qf];B[re];W[rf];B[ic];W[ke];B[ie];W[ib];B[hb];W[jc]
+;B[id];W[me];B[nd];W[of];B[pe];W[pf];B[be];W[ce];B[cc];W[bd];B[bf];W[bc];B[cf];W[df]
+;B[bg];W[eb];B[qq];W[ro];B[oq];W[op];B[nq];W[mq];B[mr];W[lq];B[lr];W[kq];B[kr];W[ok]
+;B[nm];W[om];B[on];W[nl];B[pm];W[ol];B[ri];W[rh];B[pi];W[qj];B[rj];W[pj];B[pk];W[oj]
+;B[rn];W[si];B[rl];W[pl];B[ql];W[sj];B[rr];W[qp];B[mn];W[mm];B[nn];W[lm];B[ln];W[kn]
+;B[mp];W[ko];B[jq];W[mo];B[lp];W[lo];B[kp];W[no];B[jo];W[in];B[io];W[ho];B[hn];W[jn]
+;B[gn];W[hp];B[jp];W[go];B[fn];W[ir];B[fr];W[gr];B[er];W[gq];B[kl];W[km];B[il];W[jk]
+;B[jl];W[qc];B[rd];W[gb];B[jb];W[kb];B[ia];W[ob];B[nb];W[oc];B[ne];W[nc];B[md];W[mb]
+;B[lb];W[na];B[lc];W[la];B[le];W[je];B[lg];W[jg];B[kh];W[lj];B[kj];W[ka];B[lk];W[mk]
+;B[fb];W[li];B[jh];W[hg];B[db];W[cb];B[bb];W[dc];B[ca];W[ea];B[ad];W[ac];B[ee];W[de]
+;B[dg];W[eg];B[dh];W[ef];B[gf];W[gg];B[ff];W[eh];B[ei];W[fi];B[fj];W[ej];B[di];W[gi]
+;B[gj];W[hi];B[hj];W[mg];B[mf];W[mh];B[pc];W[pb];B[rb];W[qb];B[rq];W[sp];B[ii];W[fa]
+;B[gc];W[ga];B[hf];W[if];B[hh];W[gh];B[ih];W[ig];B[fg];W[fh];B[ae];W[rc];B[sc];W[kf]
+;B[lf];W[eo];B[en];W[do];B[co];W[ep];B[dq];W[pq];B[pr];W[ki];B[ll];W[ml];B[ji];W[im]
+;B[hm];W[lh];B[kg];W[hd];B[ed];W[ge];B[he];W[gd];B[nf];W[ng];B[sb];W[sf];B[ra];W[se]
+;B[sd];W[fs];B[es];W[gs];B[tt];W[is];B[rp];W[so];B[qa];W[pa];B[jr];W[sq];B[sr];W[ab])

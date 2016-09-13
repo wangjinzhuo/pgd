@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届中国名人战本赛第一轮]DT[2002-03-09]PC[中国棋院]PB[黄奕中]BR[六段]PW[朱松力]WR[五段]KM[7.5]RE[W+R]US[棋圣道场]SO[http://weiqi.cn.tom.com/]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局];B[qd];W[dc];B[pq];W[dq];B[de];W[ce];B[dd];W[cd];B[ec];W[cc];B[df];W[cg];B[nc];W[qk];B[qi];W[qo];B[qm];W[oo];B[mq];W[pl];B[oi];W[fc];B[eb];W[fd];B[ed];W[ff];B[fg];W[gg];B[fh];W[gf];B[dg];W[ch];B[ic];W[je];B[kc];W[dh];B[eh];W[hi];B[ej];W[dk];B[gj];W[hj];B[dj];W[ld];B[lc];W[od];B[nd];W[of];B[qf];W[ne];B[oc];W[qq];B[qr];W[rq];B[pm];W[om];B[ol];W[ok];B[nl];W[nk];B[ml];W[nn];B[mk];W[nj];B[mh];W[mj];B[lf];W[kj];B[ke];W[rj];B[pj];W[pk];B[mo];W[mn];B[lo];W[iq];B[do];W[dm];B[cq];W[cr];B[cp];W[er];B[fo];W[cj];B[fq];W[fr];B[gq];W[gr];B[gl];W[kq];B[jp];W[jq];B[pp];W[po];B[or];W[lh];B[li];W[mg];B[lg];W[kh];B[nh];W[kd];B[jd];W[me];B[jf];W[ie];B[mf];W[ng];B[og];W[nf];B[pf];W[kf];B[kg];W[le];B[jh];W[ki];B[kf];W[if];B[jg];W[en];B[eo];W[gm];B[gb];W[cn];B[hq];W[hr];B[ip];W[jn];B[ko];W[mr];B[nq];W[sg];B[sf];W[rg];B[lm];W[ho];B[km];W[hp];B[hn];W[gn];B[go];W[hm];B[in];W[io];B[im];W[jo];B[hl];W[fl];B[cl];W[id];B[jc];W[cm];B[dl];W[bl];B[el];W[em];B[fk];W[fm];B[il];W[ih];B[ji];W[jj];B[md];W[jl];B[jm];W[kp];B[hh];W[ii])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

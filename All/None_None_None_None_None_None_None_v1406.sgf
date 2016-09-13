@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]PB[藤泽秀行 七段]PW[大平修三 七段]PC[东京高轮日本棋院]DT[1957.10.17]KM[4.5]EV[第1期首相杯争夺战决赛]RE[B+1.5];B[qd];W[dc];B[pp];W[dq];B[oc];W[qj];B[ce];W[dh]
+
+;B[df];W[fd];B[cc];W[cb];B[dd];W[ec];B[bc];W[jc];B[cn];W[cp];B[ck]C[    至黑19,黑棋步调坚实];W[nq];B[qn]
+
+;W[qg];B[oq];W[np];B[jq]LB[pr:a][qq:b][lq:c][op:d]C[    白20,22是一种行棋的调子,我也曾在类似的局面
+
+中这样下过.但不可否认的是,黑23,25后,棋就变得
+
+单调了,因此,白22还是先在A位小飞,与黑B交换后
+
+再22位拆较好,我认为这样局面较为广阔,对白小飞,
+
+黑如C位夹,白即D位整形.];W[gq];B[jo];W[mm];B[jm]LB[ql:a][qq:b]C[    29在A位拆,牵制白B点角,这样的下法亦属有力,
+
+但这样会被白在29位当头一罩,所以我不愿意.]
+
+;W[qq];B[or];W[ro];B[qo];W[rn];B[rp];W[qm];B[pm];W[ql]LB[pk:a]C[    白30打入,至38双方大致如此.白34若35位退,
+
+黑A位攻击是好调.];B[so];W[rm]LB[pk:a]C[黑39与白40交换毫无意义,如谱黑失去了A位点的手段.]
+
+;B[qp];W[mk];B[ff]LB[lc:a]C[    黑43重视进攻,比起A位捞实地的下法,此手更合
+
+我的棋风.];W[dj];B[dk];W[ej];B[fl];W[cj];B[bk];W[gi];B[ii];W[hd]LB[mc:a][fh:b][gk:c][hj:d]C[白52坚实地自补,其意大约是防备黑对白左边孤棋的进攻.不过,我似乎觉得此手A位的拆以求实地领先.白A拆,之后黑即使进行黑B,白C,黑D一类的攻击,白也完全可以应付,白棋只要不被全歼,便可抓到机会.]
+
+;B[lc];W[cg];B[bb];W[rd];B[qc];W[qe];B[pe];W[pf];B[oe];W[of];B[re];W[qf];B[rc]C[白56以扩张右方,这是很高明的下法.]
+
+;W[bj]LB[on:a][pn:b][nr:c][bi:d][bo:e][bp:f][en:g]C[白66即使不补,对这块白棋黑也没有严厉的攻击手段.因此该手应于A位点,黑B,白再C补,以下大致成黑66,白D,黑E,白F,黑G,如此形势不明.];B[hq];W[gp];B[mn];W[nn];B[nm]C[黑69,71抓住机会强攻.]
+
+;W[ln]LB[mo:a][om:b][nl:c][on:d][ml:e]C[白72如走A位,则黑72,白B,黑C,白D,白数子虽逃出,但黑得到E位补亦很充分.
+
+];B[mo];W[lo]LB[no:a][ml:b][lm:c][ll:d][lp:e][om:f]C[白74如A位接,则黑B,白C,黑D,白E,黑F,白棋没有活路.]
+
+;B[lm];W[ml];B[no];W[km];B[lp];W[jl]C[至白80,黑棋所得虽然并不十分多,但下边全部实地化后,计算变得容易了.];B[bo];W[bp];B[en];W[ip];B[iq];W[kp];B[lq]
+
+;W[jp];B[hp];W[io];B[kq];W[ho];B[mf]C[局面大致是细棋,但黑93时,黑的优势就已经确定了.];W[db];B[ed];W[fe];B[ee];W[do];B[dn];W[mg]
+
+;B[lg];W[lf];B[ng];W[mh];B[nf]LB[ne:a][md:b]C[白100,102求变,至黑105,又一次进行转换,结果双方得失大致相当.
+
+白100如在105位顶,白即在100位挺出,白A,黑B位尖抵抗,由于黑51位已有一子,白征子不利,所以冲断不成立.
+
+又,白102如在104位退,被黑105位顶则不堪忍受.];W[le];B[nh];W[kg];B[md];W[gf];B[il]
+
+;W[im];B[jk];W[jn];B[hl];W[kb];B[fg];W[bf];B[rf];W[rg];B[gr];W[fr];B[hr]C[黑121,123扳粘后,优势更明确,这里反过来如被白在123位扳粘,以后白一路扳还是先手, 一来一去,出入在15目棋以上.];W[jj]
+
+;B[lb];W[be];B[ba];W[la];B[ma];W[ka];B[mb];W[bd];B[cd];W[co];B[bn];W[ek];B[el]
+
+;W[ak];B[al];W[aj];B[bl]LB[ap:a][ao:b][bm:c]C[优势总容易松缓,这个毛病到现在还没有改掉.在白134以前,黑应先找机会在A,B位扳粘,,这样当白34挤 时,黑可在C位应,如此白138,140即非先手,实战黑优势总容易松缓,这个毛病到现在还没有改掉.在白34以前,黑应先找机会在A,B位扳粘,,这样当白34挤 时,黑可在C位应,损了两目.];W[fs];B[ph]LB[ij:a]C[黑43画蛇添足,中央A位贴住最大.];W[ik];B[gg]
+
+;W[sf];B[sd];W[mi];B[hf];W[hk];B[gk];W[gm];B[gl];W[fo];B[ap];W[aq];B[ao];W[bq]
+
+;B[ji];W[ki];B[ge];W[gd];B[da];W[ea];B[ca];W[fb];B[qi];W[ri];B[pj];W[qk];B[hj]
+
+;W[kk];B[ij];W[oi];B[pi];W[fm];B[jk];W[ik];B[ei];W[fj];B[eh];W[dg];B[eg];W[di]
+
+;B[kc];W[jb];B[ol];W[gs];B[hs];W[oj];B[ok];W[em];B[dm];W[sn];B[sp];W[ig];B[rj]
+
+;W[rh];B[if];W[sg];B[ad];W[nl];B[on];W[he];B[kf];W[ke];B[jf];W[jg];B[je];W[jd]
+
+;B[kd];W[hh];B[me];W[lh];B[hm];W[hn];B[fn];W[gn];B[eo];W[ep];B[nj];W[ni];B[nk]
+
+;W[mj];B[ie];W[gf];B[hg];W[id];B[cf];W[se];B[rd];W[bg];B[ae];W[af];B[ac];W[jh]
+
+;B[pk];W[ge]C[小官子阶段失着迭出,但因中盘领先甚多,黑才得以保持优势至局终.也可以说这是黑棋完胜的一局吧.])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

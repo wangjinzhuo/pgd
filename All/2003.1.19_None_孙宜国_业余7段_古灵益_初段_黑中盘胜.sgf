@@ -1,0 +1,83 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[第16届晚报杯全国业余围棋锦标赛]PB[孙宜国]
+C[第16届晚报杯全国业余围棋锦标赛
+黑：孙宜国    业余7段
+白：古灵益    初段
+
+《围棋天地》2003年第19期
+《梦圆团体冠军》]DT[2003.1.19]PC[广东汕头]BR[业余7段]
+BT[北京晚报]PW[古灵益]WR[初段]WT[成都晚报]
+KM[7.5]RE[黑中盘胜]
+;B[pd]	;W[dd]	;B[pq]	;W[dq]	;B[qo]	;W[jq]	;B[cn]	;W[cp]	;B[ck]	;W[ci]
+;B[fc]	;W[cf]
+;B[dg]C[黑13点后，如果白棋应在A位，那么黑的拆二受到威胁的时候留有B位靠的处理手段。]LB[cg:A][di:B]
+;W[bh]	;B[ek]	;W[dl]	;B[cl](;W[dc]C[白18不太好，还是A位挂角更好]LB[nc:A]
+
+;B[jc]C[黑19普通走A位拆二建立根据地。实战是希望白棋B位挂角后......]LB[ic:A][qf:B]
+;W[qf]	;B[pf]	;W[pg]	;B[qe]	;W[of]	;B[pe]	;W[mg]	;B[qg]	;W[ph]	;B[qh]
+;W[qi]	;B[rf]
+;W[pi]LB[ic:A]C[实战和黑方的预想一样，黑19一子位置比A位好]
+;B[lq](;W[qm]C[白34不太好，还是如前走A或者B点为好]LB[oc:A][oo:B]
+
+;B[md]C[黑35补回满意]
+;W[om]	;B[rk]	;W[qn]
+;B[ro]C[黑37点入迫使白38与黑39交换，补强无忧角。]
+
+;W[rj]C[黑棋形势不坏]
+;B[hq]	;W[jo]
+;B[jr]C[黑43不好，损实地，应该A位拆一，就地活棋。]LB[fq:A]
+;W[kr]	;B[kq]	;W[ir]	;B[jp]	;W[iq]	;B[ip]	;W[hp]	;B[io]	;W[gp]	;B[ep]
+;W[eq](;B[fp]C[黑55坏棋，应走A位打吃。]LB[lr:A]
+;W[gq]
+;B[lr]C[现在黑57打吃落后手。不补白57爬太大不能忍受。]
+
+;W[hc]C[白58不好，应该A位进入，彻底破坏黑空。]LB[mc:A]
+;B[fe]	;W[fb]	;B[eb]	;W[fd]	;B[gb]	;W[gc]	;B[fa]	;W[gd]	;B[hb]	;W[fi]
+;B[je]C[黑棋补强上边，彻底成空，收获不小]
+
+;W[hf]C[白棋中腹也有一定收获。]
+;B[mk]	;W[oc]
+;B[mc]C[黑73寸步不让。]
+;W[ko]	;B[kp]	;W[op]	;B[po]	;W[nn]	;B[mm]	;W[oq]	;B[pr]
+;W[ll]C[白82败招，遭到黑棋反击。]
+;B[mn]	;W[mo]	;B[nm](;W[oo]C[白86无奈]
+;B[pn]	;W[on]	;B[pm]	;W[pl]	;B[km]	;W[pp]	;B[qp]	;W[qq]	;B[ql]	;W[pk]
+;B[qr]	;W[rq]	;B[rr]	;W[rl]	;B[qk]	;W[ln]	;B[lm]	;W[nl]	;B[ml]	;W[sk]
+;B[nk]	;W[ol]	;B[rn]	;W[rm]	;B[go]
+;W[ho]C[白112顽强]
+;B[hn]	;W[gn]	;B[fo]	;W[in]	;B[hm]	;W[im]	;B[il]	;W[hl]	;B[gm]	;W[jl]
+;B[ik]	;W[jk]	;B[jj]	;W[ij]	;B[hk]	;W[kj]	;B[ji]	;W[kk]	;B[jm]	;W[jn]
+;B[ki]
+;W[lj]C[黑113到白134，必然]
+;B[mh]	;W[gl]	;B[fm]	;W[mi]	;B[fq]	;W[gr]
+;B[fr]C[黑棋弃掉中腹，穿破白棋左下角，依然保持优势。]
+;W[js]	;B[mp]	;W[lo]	;B[gs]	;W[hr]	;B[or]	;W[er]	;B[nh]	;W[ii]	;B[li]
+;W[mj]	;B[gk]	;W[lh]	;B[lg]	;W[kh]	;B[jh]	;W[kg]	;B[jg]	;W[kf]	;B[jf]
+;W[ng]	;B[gg]	;W[fg]	;B[gf]	;W[gh]	;B[hg]	;W[ff]	;B[ge]	;W[ee]	;B[eh]
+;W[fh]	;B[ei]	;W[df]	;B[cr]	;W[cq]	;B[bo]	;W[br]	;B[aq]	;W[es]	;B[fs]
+;W[ar]	;B[bp]
+;W[bq]LB[bs:A][ds:B]C[角上黑A，白B双活]
+;B[ec]	;W[ed]	;B[cb]	;W[db]	;B[da]	;W[cc]	;B[bb]	;W[bc]	;B[ab]	;W[bj]
+;B[ac]C[黑中盘胜]
+)
+(;W[on]MN[1]	;B[lo]	;W[ln]	;B[lm]	;W[lp]
+;B[jn]C[白棋不行]
+)
+)
+(;B[lr]MN[1]C[黑1打吃较好]
+
+;W[ei]C[如果白2局部脱先]
+;B[hr]	;W[js]
+;B[hs]C[白棋被吃]
+)
+)
+(;W[oc]MN[1]	;B[pc]	;W[pb]	;B[qb]
+;W[lc]C[白棋破掉黑大空]
+)
+(;W[oo]LB[qn:A][oq:B]MN[1]C[白1瞄着A，B位的靠]
+
+)
+)
+(;W[nc]MN[1]	;B[qf]
+;W[id]C[白棋不坏]
+)
+)

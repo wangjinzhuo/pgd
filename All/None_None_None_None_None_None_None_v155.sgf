@@ -1,0 +1,37 @@
+(;AP[MultiGo:3.7.0]SZ[19]
+;B[qd];W[qp];B[od];W[dc];B[do];W[dq];B[cq];W[cr];B[cp];W[er];B[ck];W[op];B[ce];W[qj]
+;B[gc];W[ed];B[dg];W[cd];B[de];W[bd];B[qh];W[kc];B[ql];W[ph];B[qg];W[ok];B[om];W[pm]
+;B[pl];W[ol];B[pn];W[nm];B[qm];W[nn];B[rj];W[eo];B[en];W[fo];B[fq];W[dp];B[dn];W[ip]
+;B[jq];W[iq];B[ir];W[jp];B[jr];W[kq];B[kr];W[lq];B[lr];W[mr];B[hq];W[hp];B[gq];W[fr]
+;B[gr];W[gs];B[hs];W[fs];B[mq];W[nr];B[ep];W[br];B[go];W[gp];B[fp];W[fn];B[kp];W[lp]
+;B[ko]C[       到此时是凝兰提出的问题图。
+       白先，如何处理白三角五子是白的难题。白圈三子，和叉三子也不能丢是白的硬伤，所以白硬吃黑不行。
+       看到网友有说白A、白B或白C等下法，黑就崩了。现在一一作答。
+
+
+
+
+
+
+
+
+]
+CR[eo][fo][fn]TR[jp][iq][ip][hp][gp]MA[lp][lq][kq]LB[is:A][kn:B][in:C][jo:D]
+(;W[is];B[hr]C[白1扑后，黑粘黑仍为四气，而白三角五子三气，白圈三子两气，叉三子两气。没有解决实际问题。]
+CR[fn][fo][eo]TR[gp][hp][ip][jp][iq]MA[lp][lq][kq]
+(;W[kn];B[lo];W[mp];B[gn];W[fm];B[jo]C[白中腹五子死的很透。过程中无论白棋那三个要是不要的话，黑都将活。
+
+
+这是结论：“《布局大全》：白58硬杀无理，黑59打后，黑方利用白方外围的缺陷，61、63断开白棋。白64做活时，黑65靠好手，以下至71长出。白方破绽百出。”]
+LB[ds:A])
+(;W[in];B[gn];W[fm];B[io]C[白棋要是跳的话，黑只要打完了，一挖白就结束了。])
+(;W[jo];B[lo];W[mp];B[gn];W[fm];B[jn]C[白如再A扳。黑B位扑也结束了。]LB[in:A][io:B])
+(;W[gn];B[ho];W[io];B[hn];W[in];B[hm]C[白A位跳将被黑冲出后征吃。]LB[gl:A][gm:B]
+;W[fm];B[lo];W[mp];B[mo];W[np];B[gl]C[黑小尖后A、B两点见合。]LB[el:A][jm:B]
+(;W[im];B[fl];W[em];B[dl])
+(;W[fl];B[jm]))
+(;W[hn];B[gn];W[fm];B[gm];W[fl];B[ho]C[白棋也不行。])
+(;W[ho];B[gn];W[fm];B[hn])
+(;W[io];B[in];W[gn];B[hn];W[ho];B[jo];W[go];B[gm])
+(;W[jn];B[jo];W[ho];B[hn];W[gn];B[io];W[go];B[gm])
+(;W[lo];B[jo];W[ho];B[hn];W[gn];B[io];W[go];B[gm])))

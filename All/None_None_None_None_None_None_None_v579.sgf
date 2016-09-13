@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;B[pd]SZ[19]C[经猜先，方天丰执黑先行。]EV[棋圣赛]DT[2000-11-04]PC[中国棋院]PB[方天丰]BR[八段]PW[华以刚]WR[八段]KM[5.5]RE[W+R];W[dd];B[qp];W[dq];B[do]C[对付黑5高挂，白棋最流行的下法是托退定式。];W[gq]
+
+;B[cq];W[dr]C[华以刚局后复盘透露，白6、8的下法，是想把这盘棋下得平稳一些。
+
+
+
+对于白8单立，华以刚认为黑棋若于a位退，白8的下法也不见得差。
+
+
+
+由此可见，以平常心出招只要符合棋理，围棋得可塑空间是相当大得。]LB[cp:a];B[oq]LB[cp:a][jq:b][ck:c]C[黑9守角，也可考虑于a位退。白于b位拆，黑于c位在左边开拓。];W[cm];B[en];W[qj];B[dl];W[cp]
+
+;B[co];W[bp];B[ql];W[qf];B[nc];W[qd]C[白20直接托角是近来下得较多的一种定式。];B[qc];W[rc];B[pc]LB[qe:a][rd:b][pe:c][re:d][qb:e][ph:f]C[黑23接，属于老变化。流行下法是黑a位打、白b位接、黑c位接、白d位渡、黑e位立，白还须于f位补。这样黑棋的实地优于实战。]
+
+;W[re];B[fc];W[cf];B[id];W[dj];B[cl];W[bn];B[fk];W[dm];B[em];W[fj];B[gj];W[ek]
+
+;B[el];W[gk];B[fl];W[fi];B[hk];W[gi];B[hj]C[白28至43是双方在左边争夺的大致应对。];W[hn]LB[kq:a][hp:b]C[白44是颇有思想的一手棋。瞄着逃出38一子，期待黑棋有所反应。普通着法是于a位拆。
+
+
+
+白方顾忌黑于b位尖冲，先手限制白38的活动力。];B[bo];W[ao]
+
+;B[dp];W[bq];B[jp]C[白49反击，当然。];W[jo];B[ko];W[kp]LB[jn:a]C[白52断，过强，应直接于a位长。];B[ip];W[jn];B[lo];W[hp];B[kq]
+
+;W[gl]LB[ho:a]C[白50至58，揭开本局的中盘战。白58逃出一子从表面看相当严厉，但黑棋有a位挖的好手，效果并不明显。];B[ho];W[go];B[gm];W[hl];B[hm];W[il];B[im]C[黑65冲，欠妥。应先于a位接，白棋没有借用。]LB[io:a];W[jl];B[jm]
+
+;W[kl];B[jj];W[kj];B[ki];W[lj];B[io]C[实战黑69以下至72交换后，本当于a位补，但感觉白提59一子极大，长考后决定放弃中腹四子。]LB[ji:a];W[ji];B[jh];W[ii];B[ih];W[hi]C[至白78，白方作战成功。]
+
+;B[of]C[黑79是很难选择的一步棋。由于中腹白棋太厚，黑围上边应当谨慎。局后认为黑79于a位围是局部结构的好点。期待白棋在上边打入，这样棋局的发展会复杂一些。]LB[mg:a];W[lg]C[白80，侵消的好点。];B[kf];W[eb]C[经过形势判断，白82收兵。];B[fb];W[ec];B[fd];W[fa];B[ga];W[ea];B[hb]
+
+;W[om];B[qn];W[ir]C[白占到92位，全局实地白优势明显。];B[pk];W[mh];B[lf];W[mf];B[me];W[kg];B[jf];W[pj];B[ok];W[nl]
+
+;B[de];W[ce];B[ed]C[黑103、105，局部俗手。];W[cc];B[km];W[lm];B[qk]LB[iq:a]C[黑109，意义不大，若于a位顶，尚可期待细棋局面。];W[no];B[np];W[po];B[qo]
+
+;W[iq]C[白争到114位，全局确立优势。];B[qh];W[rj]C[黑115打入，遭到白116位强手立，连官子都亏损了。];B[rh];W[ph];B[pg];W[oh];B[qg];W[qb];B[pb];W[rb];B[oj]
+
+;W[oi];B[jq];W[ls];B[kr];W[ks];B[js];W[jr];B[lr];W[ms];B[mr];W[is];B[ns];W[js]LB[er:a]C[白138，随手，自紧一气后生出黑a位夹的手段。此处官子损失是本局白方惟一的漏着。]
+
+;B[nq];W[pa];B[oa];W[qa];B[ob];W[ff];B[bj];W[bl];B[ck];W[bh];B[ef];W[hf];B[if]
+
+;W[eg];B[fp];W[gp];B[er];W[fr];B[eq];W[es];B[cr];W[ds];B[br];W[ar];B[bk];W[an]
+
+;B[al];W[bm];B[mm];W[ln];B[mn];W[ml];B[kn];W[ll];B[mo];W[sl];B[rm];W[pm];B[ci]
+
+;W[nf];B[ne];W[ch];B[hg];W[he];B[gg];W[fe];B[ee];W[fg];B[hd];W[fq];B[ep];W[gn]
+
+;B[kh];W[bi];B[mi];W[li];B[nj];W[lh];B[ng];W[mg];B[og];W[mj];B[ni];W[nh];B[cj]
+
+;W[pe];B[oe];W[di];B[in];W[ie];B[je];W[pp];B[oo];W[pn];B[pq];W[fn];B[fm];W[sm]C[至216手，黑棋投子认输。
+
+
+
+华以刚八段获得与王群八段争夺冠军的决赛权，同时进入第三届中国围棋棋圣赛最高棋士决定战。]
+
+)
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,47 @@
+(;SZ[19]C[棋谱：1960年，日本进行了旧名人战首局的比赛。这是开幕的第一局。
+高川格 九段（黑）
+桥本昌二 九段（白）
+黑贴4目半
+白胜1目半
+讲解：高川格 九段
+录入：www.flygo.net
+
+===================================
+关于打谱的说明：
+1请务必打开棋谱编号（见菜单"选项"->"设置"->"显示步数"）；
+2打谱过程中，请注意根据解说中“见参考图??”来查找参考图。
+===================================];B[pd]C[1960年，日本围棋界发起了一次“名人站”，邀请全日本围棋一流高手参加角逐。其中包括吴清源及坂田荣男等十一位九段。比赛采取单循环，全部赛程78局，需要1年余结束。成绩最优秀的棋手获得“名人”称号。这是开幕的第一局。];W[dc];B[dp];W[pp];B[ce];W[ci];B[dd];W[ec]LB[cc:a]C[白8也可以在a长。];B[cc];W[cb]
+;B[bc];W[gd];B[cm]LB[mc:a]C[黑13可以考虑在a大飞守角。];W[qf];B[nc]LB[nd:a][lc:b]C[黑15小飞，正确。如果在a高位，反而凑白b挂的调子。];W[rd];B[ed]LB[qc:a][qi:b][ph:c]C[黑17如果在a尖，白b或者c拆回。实战黑保留变化。]
+;W[fd];B[ic];W[hc];B[id];W[bb];B[cg];W[jp]LB[qh:a][qc:b][qe:c][re:d][pf:e][pg:f][qg:g][rf:h][og:i]C[大场。此点如果被黑所占，黑左下将形成大形势。白24的另外一个意图就是，黑如果在a夹击，白b、黑c、白d、黑e、白f、黑g、白h、黑i不能征吃白。]
+;B[qn];W[qc]LB[np:a][rp:b][qq:c][qk:d][qh:e][pf:f][qe:g][pg:h]C[白26大场。白原来想在a单关，黑如果按照黑b、白c、黑d的定式来下是普通应对。或者黑在e逼，白26、黑f、白g、黑h，黑的两种下法都可以考虑。];B[qq];W[qp];B[pq];W[op]
+;B[rp];W[ro];B[rq];W[qo];B[nq];W[on]LB[pn:a][np:b]C[白36没有在a虎的原因是为了防止黑在b压出。];B[qk];W[kd];B[nf];W[md];B[nd]LB[pc:a][kf:b][if:c][kh:d][ih:e]C[白40与黑41交换是否恰当，此时应该如何下很难确定，似乎应该先在a长试黑应手。或者在b跳、黑c、白d、黑e，但是如此下，黑左边形势变大，对白不利。]
+;W[lg];B[if]LB[qh:a]C[黑43如果在a逼，白在43镇，严厉。];W[qi];B[ok];W[oi];B[mk];W[mh];B[le];W[ke];B[kc]LB[lc:a][kb:b][lb:c][me:d][ld:e][kf:f]C[黑51使得黑两块联络。白如果a，黑b、白c、黑d，如此白e和f难以两全。]
+;W[rm]LB[kk:a][rn:b]C[白52要点。如果在a镇，黑b贴整块就呈现活棋。];B[kk]C[黑53当然。];W[cq];B[dq];W[cp]
+(;B[do]N[实战进行]LB[co:a]C[黑57不适宜在a扳，具体变化见参考图1、2];W[bo];B[bn];W[co];B[dn]LB[cn:a][dr:b][er:c][cr:c][eq:d]C[黑61不在a应是考虑到白b、黑c、白d扳接以后白可以在e断。];W[dr]
+;B[er];W[cr];B[ei];W[lc];B[lb];W[kb];B[jc];W[me];B[mc];W[ld];B[jb];W[dk];B[ck]LB[bk:a][fk:b][cj:c][dj:d]C[黑75应该在a飞，白b、黑c分断一子，如此比实战结果要好。如果黑a飞，白d，则黑在b飞镇。]
+;W[cj];B[dj];W[ek];B[bk];W[df]
+(;B[dg]LB[dh:a]C[黑81愚形，此手应该在a应。具体变化可以看参考图3和参考图4];W[eh];B[fh];W[eg];B[dh];W[di];B[ej];W[fg];B[ef];W[gj];B[gg];W[ff]
+;B[fi];W[cf];B[bf];W[ee]C[到96，黑获得左边20目的实地，白拔黑一子，白很厚。];B[bh];W[ik];B[ii]LB[hh:a]C[黑99应该在a一手补干净。];W[gl];B[km]C[黑101是为了补强右边四子。];W[mo];B[mq]
+;W[lp]C[白联络自身。];B[in]LB[hh:a]C[黑105如果在a补，白就105飞，如此黑99的效率就显的低了，];W[hh];B[gh];W[hi];B[ph];W[pi];B[pf]LB[ne:a][oe:b][of:c]C[黑防止白a、黑b、白c的冲断。]
+;W[pl];B[pk];W[ll];B[kl];W[og];B[nm];W[lq]C[以下进入收官阶段。];B[pg];W[rg];B[pc]C[大！];W[im];B[ko]LB[hm:a][jn:b]C[黑123如果在a扳，则白在b连扳.]
+;W[mn];B[lm];W[mm];B[ml];W[lj];B[mj];W[mi];B[kj];W[li];B[lk];W[hn];B[io];W[hq]C[白在下边取得一定的实地]
+;B[rj];W[rl];B[ql];W[qm];B[pm];W[om];B[ol];W[pn];B[ki];W[hg];B[gf];W[jh];B[kh]
+;W[jg];B[kg];W[jf]LB[he:a]C[黑151和白152的交换使白有了在a联络的手段];B[ri];W[qh];B[gn];W[de];B[bd];W[ho];B[hm];W[ip];B[go]
+;W[hp];B[il];W[hl];B[jm];W[gm];B[qb];W[rb];B[qd];W[rc];B[oh];W[cd];B[dd];W[ng]
+;B[qg];W[rf];B[rh];W[of];B[pe];W[ni];B[pb];W[ra];B[jo]LB[jk:a][im:b][ij:c]C[缓手，此手可以不下。白如果在183冲杀黑，黑a，白b、黑c就活出了。];W[fp]
+;B[fq];W[fn];B[ne];W[rk];B[qj];W[he];B[sg];W[re];B[hf];W[ie];B[mf];W[lf];B[lr]
+;W[kr];B[mr];W[fj];B[bj];W[oq];B[or];W[ge];B[bi];W[hb];B[jr];W[kq];B[dl]LB[gq:a][gp:b][hr:c]C[黑9应该按照黑a、白b、黑c进行为最佳。]
+;W[gq];B[ks];W[ls];B[ms];W[mg];B[el];W[fk];B[ij];W[ab];B[ao];W[ap];B[an];W[ar]
+;B[gr];W[hr];B[gs];W[es];B[hk]LB[en:a]C[黑应该在a并，如此比实战要多一目，将成为和棋。];W[cn];B[bm];W[en];B[so];W[sn];B[sp];W[qa]
+;B[pa];W[oe];B[od];W[ed];B[jq];W[eo];B[dm];W[im];B[jl];W[ia];B[ja];W[cd];B[be]
+;W[ac];B[no];W[nn];B[np];W[oo];B[ib];W[ha];B[ad];W[ln];B[kn];W[sf];B[nl];W[kf]
+;B[hm];W[ep];B[eq];W[hs];B[fr];W[im];B[ji];W[jd];B[hm];W[hd];B[ka];W[im];B[hj]
+;W[nj];B[hm];W[ma];B[mb];W[im];B[ds];W[cs];B[hm];W[la];B[kb];W[im];B[sk];W[sl]
+;B[hm];W[gi];B[ch];W[im];B[bp];W[bq];B[hm];W[fl];B[im];W[kp];B[em];W[sh];B[sj]
+)
+(;B[di]N[参考图3];W[cf];B[bf];W[bg];B[bh];W[ch];B[dg];W[dh];B[eg];W[eh]C[这个变化对黑不利。])
+(;B[dh]N[参考图4 ]C[黑81下在这里是正确的。];W[cf];B[bf];W[bg];B[bh];W[di];B[ej];W[eh];B[eg];W[fh];B[fj]C[如此黑拿住下面白数子。]))
+(;N[参考图1 ]B[co]C[黑如果扳头];W[bo];B[bn];W[do];B[cn];W[dr];B[er];W[br];B[ds];W[cs];B[cr];W[oq]
+;B[bs];W[or]C[黑开劫的结果必然导致如图的转换，转换的结果白好。])
+(;B[co]N[参考图2 ];W[bo];B[bn];W[do];B[cn];W[dr];B[er];W[br];B[fq];W[eo];B[fp];W[em]C[黑如果不开劫，这个结果对黑来讲也不好。]
+))

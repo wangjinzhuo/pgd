@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;EV[中国第三届棋圣赛全段争霸战第二轮]RO[2]DT[2000-11-12]PC[中国棋院]PB[张东岳]BR[三段]PW[史金帛]WR[二段]KM[5.5]RE[B+R]US[棋圣道场]SO[http://weiqi.cn.tom.com/]SZ[19]C[
+
+朱宝训四段解说];B[pd];W[dd];B[qp];W[dq]
+
+;B[do];W[co];B[dp];W[cp];B[eq];W[cq];B[dn];W[cm];B[kq];W[qj]C[黑5高挂，白6下托取地至白14分投，是近来流行局面之一。];B[qg];W[qm];B[pk]C[对于攻读大学的史金帛来说，流行的变化未必都很清楚。当黑17继续流行变化时，史金帛选择了一个不多见的变化。]
+
+;W[qq]C[白18直接托角在大赛中曾有人使用过，但效果不显著未流行。];B[pp];W[pq];B[oq];W[or];B[op];W[nr]C[就局部而言，白24出头很舒畅。];B[qk]C[但黑25冲下来白损失惨重。];W[mp];B[mq]C[白26飞，黑27跨断成立，白棋非常难受。];W[nq]
+
+;B[np];W[mo]C[白30只能如此作战。];B[mr];W[rq];B[ns];W[pr];B[om];W[rp];B[ko];W[ln];B[jm];W[ol];B[pm]
+
+;W[pl];B[ql];W[qn];B[nl];W[on];B[pn];W[po];B[ok];W[oo]C[至白50，黑棋虽然弃掉5子，但在这一过程中顺调走到了37、39两手大棋，而且先手在握，全盘黑优势不言自明。];B[jd]C[黑51，全局的“天王山”。];W[hc];B[he]
+
+;W[fc]C[白52、54是史金帛非常冷静的下法];B[oc]LB[er:a]C[黑55守角很充分，不过此时于a位立也是非常诱人的大棋。];W[er];B[fq];W[fr];B[gq];W[kg]C[白60侵消势在必行，由于黑棋全局太厚，实在找不出更充分、更有力的好点。];B[mg];W[ke];B[je];W[kd]
+
+;B[kc];W[me];B[lc];W[md];B[jh];W[kh];B[ji];W[mh];B[ng];W[ki];B[jf];W[lg];B[kj]
+
+;W[lj];B[lk];W[mc];B[mj];W[li];B[jj];W[ob];B[pb];W[nc];B[oe];W[mb]C[黑61以下合理拒敌，白棋左冲右突至88构成活棋状。];B[dl];W[cl]
+
+;B[dk]C[黑89、91围住中腹，全局依然黑棋优势。];W[df];B[oa];W[jc];B[ic];W[jb];B[ib];W[kb];B[ja];W[ld];B[dh];W[eg];B[eh]
+
+;W[fg];B[gi];W[nh];B[gr];W[qh];B[ph];W[pi];B[rh];W[ri]C[白108至112做劫，展开局部争夺。];B[qi];W[dm];B[em];W[qh]
+
+;B[ka];W[lb];B[qi];W[gh];B[fh];W[qh];B[qo];W[rn];B[qi];W[hg];B[hh];W[gg];B[jg]
+
+;W[qh];B[cc];W[be];B[qi];W[lp];B[kp];W[qh];B[bd];W[db];B[qi];W[ck];B[bf];W[ce]
+
+;B[cg];W[ae];B[oi]C[由于白棋劫材短缺，黑棋在没有大的损失下，于145手消劫，胜负已基本明朗。];W[dj];B[ej];W[na];B[nb];W[oh];B[pj];W[ob];B[pa];W[ci];B[og]
+
+;W[hb];B[hd];W[ha];B[ia];W[gd];B[ge];W[fe];B[bh];W[bi];B[di];W[cj];B[mi];W[rl]
+
+;B[rk];W[sl];B[lq];W[mm];B[nn];W[no];B[nm];W[lm];B[fs];W[dr];B[ll];W[mf];B[ni]
+
+;W[lh];B[ig];W[hi];B[ih];W[km];B[kl];W[sk];B[sj];W[cn];B[ek];W[ah];B[bg];W[dg]
+
+;B[ch];W[ne];B[nf]C[至197手，史金帛主动投子认输。])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

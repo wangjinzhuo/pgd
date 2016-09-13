@@ -1,0 +1,25 @@
+(;BS[][Kuwahara Shusaku, 4e dan ]WS[][Ito Showa, 6e dan ]S[][19]C[白：伊藤松次郎 六段
+黑：桑原秀策     四段
+日期：1844年10月10日
+地点：名古屋
+
+共81手，黑中盘胜。
+
+点评：不祥。]
+AP[MultiGo:3.9.2]DT[10th October, 1844 ]PC[]
+;B[qd]N[第一谱 开局有利];W[dc];B[pq];W[oc];B[cp];W[qo]LB[cf:A][eq:B][iq:C][po:D]
+C[白6若走A，则黑走6或D位。如果接下来，白走B，则黑C，和右下形成绝佳配合，同时同黑5配合夹击白。]
+;B[pe]LB[nd:E][kc:F][qk:G]C[黑7是著名的秀策的小尖，不但提高了黑的位置，同时让白没有什么手段，而且下一步有了三个好点E、F、G。这是一石四鸟的一手。]
+;W[np];B[po];W[pp];B[op];W[qp];B[oq];W[oo];B[pn];W[qq];B[nq];W[no];B[lq];W[rm];B[pl]
+;W[ln]LB[pj:A][jp:B]C[白22是大斜定式里非常有趣的一种变化，产生了A、B的见合。];B[pj]
+;W[jp];B[jr]C[黑25有点软弱。不过，黑23走24位，让白在23位攻击的走法根本不能考虑。]
+;W[lp];B[kq];W[ho]LB[in:E]C[白28走E也是可行的，不过实战的走法对黑5的压力更大一些。]
+;B[nd];W[mc];B[ce];W[cg]C[黑31、白32都不急于在下方行棋，因为白28的存在使得下面的价值很小。]
+;B[kc];W[md];B[hc];W[cd];B[de];W[fc];B[ci];W[dg];B[ei]MN[41]N[第二谱 粗心的计算]
+;W[fg];B[ed];W[ec];B[gd];W[ck];B[be];W[bc];B[bi];W[bg];B[ke];W[ne];B[gi];W[hh];B[hi]
+;W[ih];B[hf];W[if]LB[gh:F]C[白58败着，必须下在F位。]
+(;B[gh]C[白忽略了黑59。黑59产了黑81这一手筋，一举在对杀中获胜。];W[he];B[ef];W[ge]
+LB[eg:A][gf:B]C[白62如果走A，则黑B。];B[ff];W[dh];B[di];W[gg];B[eg];W[eh];B[fh]
+;W[fd];B[gf];W[hg];B[ie];W[je];B[id];W[fe];B[jf];W[ig];B[kg];W[ii];B[ag]C[黑81手筋。白中盘负。])
+(;B[he]N[变化图1];W[hg]LB[jd:A][kd:B][ib:C][hb:D][jc:E]C[白实战可能是这么计划的。这样白有A的手段。如果黑B，则白C，黑D，白E。])
+(;B[ie]N[变化图2];W[gf];B[ge];W[hg];B[he]C[这样进行，对黑是最糟的结果。因为这给了白先手。]))

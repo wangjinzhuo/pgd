@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;C[欢迎光临 敲玉余韵 围棋棋谱库
+
+http://www.psc-a.org/go]SZ[19]FF[3]PB[曹薰铉]PW[李昌镐]PC[韩国棋院]DT[1991.04.21]KM[5.5]RE[W+Resign]US[余军]EV[第25期王位战挑战赛]RO[7];B[pd];W[dp];B[pp];W[dd];B[fq];W[dn];B[ip];W[nq];B[oq];W[np];B[pn];W[kq];B[jr];W[kr];B[cl];W[ci];B[el];W[fn];B[fp];W[cm];B[cj];W[di];B[eo];W[en];B[cq];W[dq];B[do];W[cp];B[co];W[bm];B[bp];W[bq];B[bo];W[cr];B[ej];W[jq];B[iq];W[fo];B[ep];W[gm];B[jn];W[fh];B[hk];W[im];B[er];W[dr];B[ir];W[mm];B[ln];W[mn];B[kl];W[fk];B[fi];W[gi];B[gj];W[fj];B[ei];W[eh];B[dj];W[gk];B[gh];W[hj];B[hi];W[gj];B[dh];W[gg];B[ch];W[hh];B[jc];W[lc];B[gc];W[fb];B[le];W[kd];B[jf];W[jd];B[id];W[ie];B[hd];W[je];B[ec];W[fc];B[fd];W[ed];B[db];W[fe];B[gd];W[bg];B[cf];W[eb];B[dc];W[cc];B[cb];W[bb];B[bc];W[cd];B[ba];W[bd];B[ab];W[bk];B[bj];W[bf];B[bl];W[al];B[ck];W[ak];B[dm];W[dl];B[aj];W[am];B[em];W[ek];B[eg];W[ef];B[fg];W[gh];B[lp];W[ko];B[kp];W[lo];B[jp];W[kn];B[jm];W[mp];B[ok];W[mk];B[ni];W[lj];B[lh];W[qo];B[po];W[qn];B[qm];W[rm];B[ql];W[qq];B[or];W[rl];B[rk];W[rj];B[qk];W[rr];B[ll];W[ki];B[ml];W[nl];B[nk];W[nn];B[gf];W[ge];B[he];W[hf];B[if];W[hg];B[jb];W[hb];B[gb];W[kf];B[jg];W[kh];B[mj];W[lm];B[kg];W[lg];B[ke];W[qc];B[pc];W[qd];B[qe];W[re];B[rf];W[])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

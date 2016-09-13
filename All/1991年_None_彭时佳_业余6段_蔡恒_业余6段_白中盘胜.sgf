@@ -1,0 +1,69 @@
+(;SZ[19]AP[MultiGo:3.6.0]GN[第六届黄河杯全国业余围棋锦标赛]DT[1991年]
+PC[甘肃兰州]PB[彭时佳]BR[业余6段]PW[蔡恒]
+WR[业余6段]KM[5.5]RE[白中盘胜]C[第6界黄河杯全国业余围棋锦标赛
+黑：彭时佳  业余6段
+白：蔡    恒  业余6段
+
+《围棋天地》2004年第20期
+《快意的完胜之局》]
+
+;B[dp]	;W[pp]	;B[dd]	;W[pc]	;B[pe]	;W[qe]	;B[qf]	;W[qd]	;B[nq]	;W[qm]
+;B[jp]	;W[cn]	;B[cp]	;W[ck]	;B[ci]	;W[pq](;B[jc]C[黑17令人费解，促成了白棋进角的绝好时机。
+不如按前图下。]
+
+;W[dc]LB[cc:A]C[白18一般是A位点三三]
+;B[cc]	;W[ec]	;B[cb]	;W[hc]	;B[mc]
+;W[dh]C[白24肩冲过分，还是应该走A位补强自己。]LB[ek:A]
+;B[di]	;W[eh]	;B[ei]
+;W[fh]C[白棋几块棋被纠缠，战斗黑棋有理。]
+(;B[dl]C[黑29问题手。应该如前图A位先贴。]LB[fi:A]
+
+;W[dk]C[白30反击强烈]
+;B[el]	;W[ek]	;B[fk]	;W[fj]	;B[bg]	;W[bj]	;B[cf]	;W[fl]	;B[gk]
+;W[eo]C[白40声东击西，顺势进入黑阵，黑棋的攻击没有收获。]
+;B[fm]	;W[ep]
+;B[cm]C[黑43俗手，应直接走A位，这样下边白棋还未活净。]LB[dn:A]
+;W[bm]	;B[dn]	;W[cl]	;B[dm]	;W[bo]	;B[do]	;W[hq]	;B[iq]	;W[io]	;B[jo]
+;W[in]	;B[gl]	;W[hr]
+;B[gd]C[黑57重开战场。这是黑棋挽回颓势的最后机会。]
+;W[gc]	;B[ed]	;W[hd](;B[fc]C[黑61贪小利，问题手。
+]
+;W[ge]	;B[fd]	;W[pf]	;B[qg]	;W[oe]	;B[pg]	;W[of]	;B[qk]
+;W[je]C[白棋迅速转身，不仅摆脱了黑棋的攻击，而且形成了厚味，让上边的黑棋不安宁。
+白70镇后，夺取制高点，优势。]
+;B[ob]
+;W[kq]C[白72反攻黑棋]
+;B[ir]	;W[ip]	;B[jq]	;W[lp]	;B[jn]	;W[ln]	;B[gp]	;W[hp]	;B[jm]	;W[go]
+;B[eq]	;W[fq]	;B[er]	;W[hm]	;B[fr]	;W[mm]	;B[mp]	;W[lr]	;B[lo]	;W[mo]
+;B[ko]	;W[mq]	;B[np]	;W[nr]	;B[no]	;W[mn]	;B[kr]
+;W[ms]C[白棋右边形成大空]
+;B[gq]	;W[gr]	;B[fp]	;W[fo]	;B[fq]	;W[il]	;B[jl]	;W[ik]	;B[ll]
+;W[pk]LB[ii:A]C[白110凶狠，稳健点的话走A位补强即可。]
+
+;B[ii]C[黑111最后的攻击，虽然毫无把握]
+;W[hj]	;B[hh]	;W[gh]	;B[gj]	;W[hi]	;B[ih]	;W[jj]	;B[ml]
+;W[kh]C[白120包围中腹3子，黑攻击彻底失败]
+;B[om]	;W[on]	;B[ql]	;W[pm]	;B[pl]	;W[ol]	;B[nm]	;W[nn]	;B[nl]	;W[bp]
+;B[bq]	;W[aq]	;B[br]
+;W[rm]C[白134虽然很大，但是没有必要，应该白A、黑B、白C位定型。这样黑棋毫无搅乱局面的机会。]LB[kd:A][kc:B][ld:C]
+
+;B[kg]C[黑135顽抗，试图搅乱局面]
+;W[kf]	;B[ie]	;W[if]	;B[id]	;W[hf]	;B[he]	;W[kc]	;B[gf]	;W[jd]	;B[ic]
+;W[ib]	;B[jb]	;W[kb]	;B[ja]	;W[ka]	;B[fe]
+;W[lg]C[白中盘胜]
+)
+(;B[ge]MN[1]C[黑棋只好1位长，寄希望于对白棋实施缠绕攻击。]
+;W[he]	;B[hf]	;W[jd]	;B[kd]	;W[ke]
+;B[fi]C[黑棋形势虽然没有多大改观，但胜负之路还长。]
+)
+)
+(;B[fi]MN[1]C[黑1继续贴住白棋]
+;W[gh]
+;B[dl]C[黑棋不坏。]
+)
+)
+(;B[fc]MN[1]C[黑1守角要点]
+;W[pf]	;B[ph]	;W[qg]
+;B[kc]C[黑棋生动]
+)
+)

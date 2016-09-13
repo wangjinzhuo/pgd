@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届中国围棋天元赛第一轮]PC[中国棋院]KM[5.5]RE[B+R]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局]DT[2001-02-18]PB[周鹤洋]BR[八段]PW[李劫]WR[三段];B[qd];W[dd]C[李劫三段每有惊人之举，继2000年阿含·桐山杯淘汰马晓春之后，又在本届天元战预赛中将聂卫平九段淘汰出局，第一轮又淘汰上届“新人王”刘世振六段闯入十六强];B[pq];W[oc]
+
+;B[cp]C[黑棋布下“秀策流”];W[qo];B[kd];W[of]LB[mc:a][qh:b]C[白8也有在a位拆一或b位反夹的下法];B[qg];W[id];B[kf];W[pe];B[qe];W[ph]LB[oh:a][pi:b][kh:c]C[白14较积极，如在a位跳、黑b、白c也是一局棋]
+
+;B[pg];W[og];B[oh]C[黑15、17冲断当然];W[pj];B[pi]LB[nh:a][qh:b]C[黑19如在a位长，白b位挡，黑将落后手];W[oi];B[qh];W[nh];B[oj];W[ph]
+
+;B[qi];W[pk]LB[pl:a][nj:b][qj:c][lh:d]C[白26如在a位跳，则黑b、白c、黑d，白棋不舒服];B[nj];W[lh];B[pm]C[黑29严厉];W[op]C[白30想先手出头];B[ol]C[黑31吃住白二子十分厚实];W[oq]C[白32也很大，双方各有所得]
+
+;B[jg];W[jh];B[ih];W[ji];B[fd]C[黑37强硬，但风险不小];W[ge]LB[hf:a]C[白38反击并无成算，不如a位飞看黑如何动作];B[fe];W[ff];B[gd];W[he];B[ef]
+
+;W[ee];B[ic];W[gg];B[jd]C[至黑47的结果，白棋不满意];W[eg]C[白48以下双方展开对杀];B[df];W[dg];B[cf];W[hc];B[hd];W[ie];B[hb]
+
+;W[cg];B[cd];W[ce]LB[jc:a][ib:b][ed:c][fc:d]C[白58有误算，应白a、黑b、白c位团，以下d位的滚打和58位的挖二者必得其一，白可战];B[bf];W[de];B[be];W[cc];B[bd];W[dc]
+
+;B[bc];W[bb];B[bg];W[bh];B[ab];W[cb];B[bi];W[jc];B[ib];W[fb];B[gb];W[ch]LB[ah:a][ci:b][dh:c][bj:d][di:e][cj:f][fh:g][fg:h][gh:i]C[白76不得已，如在a位立，则黑76、白b、黑c、白d、黑e、白f、黑g、白h、黑i的对杀白棋差一气]
+
+;B[ah];W[cj]LB[eb:a]C[白78过分，此时只能在a位退活棋];B[eb]C[黑79白角被吃，白棋明显受损];W[aj];B[ac];W[eq];B[dq];W[ep];B[er];W[fr];B[dr]C[黑83至87是胜利宣言]
+
+;W[ql];B[qn];W[ro];B[rn];W[ok];B[nk];W[nl];B[qk];W[pl];B[om];W[mk];B[mj];W[rl]
+
+;B[lj];W[ml];B[mn];W[kl];B[qj];W[kb];B[kc];W[lo];B[jj];W[ii];B[ln];W[kn];B[mo]
+
+;W[lp];B[mp];W[mq];B[lq];W[nn];B[nm];W[mm];B[oo];W[lm];B[on];W[pp];B[ki];W[kh]
+
+;B[mr];W[nq];B[ko];W[kp];B[jo];W[jn];B[jp]C[本局李劫三段虽负于周鹤洋八段，但我们可以看出他无量的前途])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

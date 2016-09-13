@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+GN[日本第07届棋圣战]
+
+RO[2]
+
+PW[藤泽秀行]
+
+BR[九段]
+
+PB[赵治勋]
+
+WR[九段]
+
+SO[http://xuyang.yeah.net]
+
+US[xuyang]
+
+KM[5.5]
+
+DT[1983-01-26,27]
+
+PC[Nagasaki, Japan]
+
+RE[W+R]
+
+TM[32400]
+
+;B[pd];W[dc];B[dp];W[pp];B[ce];W[di];B[fe];W[gc];B[hd];W[hc]
+
+;B[id];W[ic];B[jd];W[jc];B[kd];W[cl];B[pk];W[nk];B[pm];W[np]
+
+;B[ml];W[ok];B[pj];W[om];B[pn];W[ni];B[no];W[mp];B[mo];W[lo]
+
+;B[lp];W[op];B[nm];W[kp];B[lj];W[li];B[ki];W[lh];B[mj];W[og]
+
+;B[mg];W[oe];B[oh];W[od];B[pc];W[oc];B[qe];W[nh];B[ng];W[pg]
+
+;B[oi];W[lg];B[me];W[le];B[lf];W[kf];B[mf];W[ld];B[ke];W[lc]
+
+;B[mh];W[ob];B[jf];W[qb];B[rg];W[fq];B[er];W[fr];B[cn];W[qo]
+
+;B[iq];W[lq];B[io];W[hp];B[ip];W[dq];B[cq];W[dr];B[cj];W[dj]
+
+;B[ci];W[ck];B[ep];W[eq];B[dh];W[eh];B[dg];W[ek];B[cr];W[eg]
+
+;B[df];W[gi];B[gk];W[hr];B[cc];W[cb];B[bc];W[bn];B[bo];W[dn]
+
+;B[cm];W[dm];B[bm];W[hl];B[gl];W[gm];B[hk];W[hn];B[fo];W[fm]
+
+;B[ho];W[ik];B[il];W[jl];B[im];W[in];B[jm];W[jn];B[ij];W[fp]
+
+;B[eb];W[km];B[jk];W[ec];B[kc];W[kb];B[fb];W[fc];B[en];W[go]
+
+;B[em];W[fl];B[db];W[qc];B[fj];W[fi];B[el];W[fk];B[dl];W[dk]
+
+;B[qh];W[rm];B[rl];W[rn];B[ql];W[bj];B[bi];W[ph];B[pi];W[rd]
+
+;B[hh];W[hi];B[ii];W[gb];B[gg];W[re];B[qf];W[bk];B[bb];W[fn]
+
+;B[do];W[ai];B[bg];W[kl];B[hm];W[nd]C[time used:
+
+
+
+W 8h 58m
+
+B 8h 25m])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

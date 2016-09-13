@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第二十五届日本碁圣战]RO[Semifinal]PB[山下敬吾,六段]PW[彦坂直人,九段]KM[5.5]DT[2000-04-27]PC[日本]RE[B+R];B[oe];W[cq];B[dp];W[dq];B[fp];W[do];B[po];W[dd];B[qe];W[qm];B[qk];W[qq];B[oq];W[qo];B[pn];W[qn];B[pm];W[eo];B[fo];W[ho];B[fm];W[hq];B[hm];W[jn];B[ip];W[hp];B[kp];W[io];B[dl];W[lo];B[lp];W[jc];B[jl];W[fr];B[df];W[fd];B[ff];W[hd];B[cd];W[cc];B[ce];W[bc];B[hf];W[gn];B[fn];W[cn];B[cm];W[ig];B[if];W[kg];B[ql];W[ij];B[gj];W[hk];B[gm];W[bm];B[bl];W[dm];B[cl];W[kk];B[jm];W[gk];B[fk];W[nh];B[qr];W[rr];B[pr];W[rl];B[rk];W[sm];B[mk];W[li];B[oc];W[pg];B[lc];W[nc];B[nb];W[lm];B[ll];W[mm];B[kl];W[ol];B[nj];W[qf];B[re];W[nd];B[ne];W[mb];B[ob];W[mc];B[pi];W[gh];B[hg];W[hh];B[jg];W[ih];B[jf];W[jh];B[kc])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

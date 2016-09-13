@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]DT[2001-01-06]PC[中国上海]PB[张文东]BR[九段]PW[曹大元]WR[九段]KM[5.5]RE[B+R]US[棋圣道场]SO[http:/weiqi.cn.tom.com]EV[第三届中国围棋棋圣赛]C[http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局
+
+由吴玉林六段解说];B[pd];W[dd];B[pq];W[dq];B[do]
+
+;W[dm];B[ck]C[黑7，新颖的下法。在重要的比赛中大胆使用新手，令人钦佩。];W[bm];B[fp]C[黑9，与黑7相关连的下法。];W[dp]C[白10，针锋相对的好手。];B[cn]LB[eo:a][co:b]C[黑1l，机敏。如果单在a位退，被白b位扳过，黑棋乏味。];W[eo]LB[cm:a][co:b]C[白12，当然之着。若在a位接，黑于12位连回，白b位虽能挤渡，但留下许多利用。]
+
+;B[cm];W[co];B[dn];W[bn];B[en];W[fo];B[bo];W[cp];B[bl];W[fn]C[白22，眼见的好点。];B[am]C[黑23，当然的一手。至此，黑棋的新手以双方均可满意的结果告终。];W[ip]
+
+;B[kq];W[ir];B[np]C[至黑27，双方各占好点，皆无不满。];W[qk];B[qm];W[qh];B[fc];W[cf];B[db];W[cc];B[qf]C[黑35，积极的下法。];W[hc]
+
+;B[ed];W[kc];B[de];W[ce];B[dc];W[cd];B[mc]C[序盘告一段落，局势大致相当。];W[qo];B[qp];W[mp]C[白46，有趣的着想。];B[mo];W[lp]
+
+;B[nq];W[lo];B[mn];W[ln];B[lr];W[rp];B[rq];W[pp];B[qq];W[pm];B[pn];W[pl];B[qn]
+
+;W[mm]C[至62，双方各有所得，旗鼓相当。];B[pj];W[ri];B[le];W[he];B[ff];W[on];B[oo];W[ob]C[白70，绝好的时机。];B[oc];W[qc];B[pb]
+
+;W[pc];B[qb];W[nc]LB[qd:a][od:b][qe:c][pf:d][rb:e][rf:f]C[白76，值得推敲的一手。此时白如在a位拐、黑b位接、白c位顶、黑d位退、白e位先手扳再于f位扳夺黑角，实利可观。];B[od];W[mb];B[nd];W[nb]
+
+;B[rc];W[gb]LB[ic:a]C[白82，好点。既攻击黑棋，又消除了黑a位靠的严厉手段。];B[ch]LB[gd:a][hd:b][dh:c][dg:d]C[黑83，是张九段后悔的一手。当先于a位刺，与白b位接交换后，再于此处拦。这样，白c位靠则不成立，黑可于d位扳断白棋。];W[dh];B[df];W[cg];B[bh]
+
+;W[dg];B[gd];W[hd];B[fh];W[fi];B[gi];W[fj];B[gh];W[gj]C[到96，白颇有所得。];B[nm];W[nl];B[ei];W[eh]
+
+;B[hj];W[hk];B[ik];W[fg];B[gg];W[gf]C[白106，巧手！];B[ge];W[hf];B[eg];W[fe];B[ee];W[hi]C[白112，巧妙、有力！]
+
+;B[ij];W[hh];B[fd];W[hg];B[fg];W[kj]LB[lm:a]C[白118，轻率，是重大的问题手。当于a位接，全局形势白较有利。];B[jo]LB[lm:a]C[黑119，机敏。白毫无收获。];W[io];B[ej];W[fl]
+
+;B[jn];W[jp];B[kp];W[km];B[ml];W[lm];B[ek];W[cb];B[in]C[黑131，感觉锐利。];W[gl];B[ko];W[il];B[nk]
+
+;W[ol];B[nh]C[黑137，优势局面下妥善的一手。];W[mi];B[jr];W[is]LB[hr:a]C[白140，败着。此处留下祸根，当下本手a位并。];B[lc];W[lb];B[mh];W[nj];B[rk];W[rl]
+
+;B[ql];W[pk];B[oj];W[oi];B[pi];W[ph];B[oh];W[mj];B[ni];W[rj];B[ki]LB[kh:a]C[黑157也许计算有误，是损着。应于a位跳。];W[li]
+
+;B[lh];W[ji];B[bg];W[bf];B[kh];W[ok];B[ap];W[bq];B[kd];W[jc];B[jh];W[ih];B[hm]
+
+;W[hl];B[go]C[黑173，决定胜利的好手，白棋已无法应付。];W[ho];B[gp];W[gn];B[iq];W[hq];B[hn];W[hp];B[gr];W[hr];B[gq])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(
+
+;
+
+FF[4]
+
+GN[日本第02届棋圣战挑战者决定赛]
+
+RO[1]
+
+PW[加藤正夫]
+
+BR[九段]
+
+PB[林海峰]
+
+WR[九段]
+
+SO[http://xuyang.yeah.net]
+
+US[xuyang]
+
+KM[5.5]
+
+DT[1977-12-16]
+
+PC[Japan]
+
+RE[B+R]
+
+TM[21600]
+
+;B[pd];W[cq];B[pp];W[dd];B[pj];W[nc];B[jp];W[qf];B[oe];W[qc]
+
+;B[qd];W[pc];B[md];W[nd];B[ne];W[me];B[mc];W[mb];B[kd];W[le]
+
+;B[lb];W[nb];B[jd];W[od];B[pf];W[rd];B[qg];W[pg];B[og];W[ph]
+
+;B[oh];W[qh];B[rg];W[rh];B[rf];W[qe];B[ri];W[re];B[pi];W[sf]
+
+;B[gd];W[dg];B[pq];W[ni];B[oi];W[li];B[mj];W[ko];B[jo];W[kn]
+
+;B[kk];W[kp];B[jq];W[jn];B[lr];W[ih];B[dp];W[cp];B[do];W[er]
+
+;B[gh];W[gf];B[hg];W[hf];B[ig];W[je];B[fe];W[fg];B[id];W[if]
+
+;B[jg];W[ke];B[de];W[cd];B[ce];W[ed];B[ee];W[hc];B[gc];W[ld]
+
+;B[be];W[bd];B[db];W[cb];B[eb];W[kc];B[bb];W[nj];B[mi];W[mh]
+
+;B[mk];W[nh];B[nk];W[kh];B[lg];W[kg];B[mf];W[hn];B[jb];W[ik]
+
+;B[gk];W[on];B[mn];W[qo];B[qm];W[qn];B[pm];W[oo];B[mp];W[mo]
+
+;B[no];W[op];B[mq];W[nn];B[lo];W[mm];B[nm];W[om];B[nl];W[ol]
+
+;B[rl];W[rq];B[rr];W[qq];B[qr];W[or];B[oq];W[nr];B[pr];W[np]
+
+;B[nq];W[mo];B[ln];W[lm];B[lp];W[ok];B[oj];W[lh];B[kj];W[rn]
+
+;B[ij];W[hj];B[hk];W[jj];B[il];W[ii];B[jl])
+
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

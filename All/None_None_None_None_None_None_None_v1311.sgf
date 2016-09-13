@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->大赛转播]PC[日本]KM[5.5]EV[第14届富士通杯第二轮]DT[2001-04-16]PB[曹薰铉]BR[九段]PW[孔杰]WR[五段]RE[B+R];B[pd];W[dd];B[qp];W[cp]C[白选择4位置的小目，显然是有备而来]
+
+;B[ep];W[nq];B[lq]LB[pq:a]C[黑7在a位应也是一局棋，实战的紧夹展现了曹薰铉的棋风];W[qq];B[pq];W[pp];B[qr];W[rq];B[op];W[po];B[oq];W[rr]
+
+;B[dn]LB[on:a]C[黑17飞攻，力图掌握全局主动，普通是在a位罩];W[pn]C[白18想对黑的脱先加以追究，让黑补棋];B[bo]C[黑19先下手为强];W[er];B[dq];W[dr];B[cq];W[hq]C[白20至24是针对此形常见的侵削手段];B[gr]C[黑25凶狠，直接了当地对白棋施以重拳];W[gq]
+
+;B[hr];W[ir];B[iq];W[jr];B[fq];W[ip];B[fr]TR[cp][dr][er][bo][cq][dq]C[白26至33双方必然，左下角黑△三子和白▲三子的交换，白棋明显亏损];W[mq]C[白34横顶是急所，白要力争取得补偿]
+
+;B[kp]C[黑35巧手];W[lr];B[kr];W[jq];B[mr];W[kq];B[ls];W[lp];B[lr];W[mp];B[nr];W[ko];B[pr]C[至47的结果，白棋战果有限]
+
+;W[qf];B[qh];W[nc];B[pf];W[qc];B[pc];W[qd];B[pe];W[rf];B[pb]C[黑57稳健];W[qb];B[md];W[pk]
+
+;B[oj]LB[pg:a]C[黑61追求高效率，补a位弱点的同时限制白棋下面外势的发挥];W[jd]C[白62稍嫌过分];B[hc]C[黑63的打入当然];W[ld];B[mc];W[he];B[lc];W[ec];B[jc]C[至69的结果，白棋不能满意];W[ch]
+
+;B[kd]C[黑71非常厚实，黑形势有利];W[hg];B[cf];W[bd];B[ci];W[di];B[dh]C[黑73至77是典型的曹氏战法，令人头疼];W[cj]C[白78奋起反击];B[bi];W[bh];B[bj];W[eh]
+
+;B[dg];W[ag];B[be];W[ae];B[cd];W[cc];B[de]C[至89形成打劫，白并不成功];W[ce];B[ck];W[dj];B[cd];W[dk];B[cl]
+
+;W[ce];B[gf];W[gg];B[cd];W[bk];B[bl];W[ce];B[fd];W[ee];B[cd];W[bf];B[ef]C[黑107是一锤定音的好手，白已斗志全无];W[ok]
+
+;B[nj];W[gd];B[fe];W[gc];B[ce];W[bb];B[ed];W[dc];B[fg];W[fh];B[qj];W[cr];B[eq]
+
+)
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

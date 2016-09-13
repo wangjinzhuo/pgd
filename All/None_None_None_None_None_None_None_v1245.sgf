@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第一届碁圣战]RO[1]PB[岛村俊广]BR[九段]PW[赵治勋]WR[七段]KM[5.5]DT[1975-12-18]PC[日本]RE[B+R];B[pd];W[dc];B[pq];W[cp];B[qk];W[eq];B[ci];W[ce];B[cl];W[nc];B[jp];W[qf];B[oe];W[qc];B[qd];W[pc];B[me];W[qi];B[rd];W[lc];B[kd];W[ld];B[le];W[ke];B[pi];W[kf];B[qj];W[jd];B[gq];W[po];B[np];W[no];B[mo];W[qq];B[qr];W[qp];B[rr];W[nn];B[op];W[qm];B[mn];W[nl];B[ro];W[mm];B[om];W[nm];B[qn];W[ni];B[pg];W[og];B[oh];W[ln];B[lo];W[nh];B[ng];W[mg];B[of];W[dh];B[db];W[cc];B[ec];W[fc];B[ed];W[fb];B[eb];W[di];B[fd];W[hc];B[cb];W[bb];B[hd];W[ic];B[ef];W[df];B[fh];W[gf];B[eg];W[cj];B[gg];W[ck];B[hf];W[pn];B[rm];W[kn];B[el];W[iq];B[fq];W[ip];B[ep];W[dq];B[jo];W[io];B[jn];W[fo];B[fp];W[go];B[co];W[bo];B[dp];W[bq];B[dn];W[cn];B[do];W[jq];B[lq];W[lr];B[mr];W[kq];B[lp];W[hm];B[bn];W[an];B[bm];W[il];B[km];W[qo];B[rn];W[hh];B[kk];W[ql];B[ok];W[ol];B[rl];W[lj];B[kj];W[li];B[bk];W[bj];B[if];W[hr];B[er];W[dr];B[am];W[ls];B[ms];W[jr];B[dg];W[cg];B[aj];W[ai];B[ak];W[bi];B[gr];W[br];B[oc];W[ob];B[nd];W[od];B[ao];W[bp];B[oc];W[mb];B[rb];W[de];B[ba];W[ab];B[ih];W[hi];B[lm];W[mf];B[rc];W[em];B[dm];W[ek];B[fl];W[ge];B[gd];W[hg];B[gh];W[ff];B[ig];W[gi];B[fi];W[fj];B[he];W[ii];B[gc];W[gb];B[jh])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

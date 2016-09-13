@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]DT[1996-07-15]EV[中国围棋霸王赛]RE[W+R]PC[天津]PB[孔杰]BR[3P]PW[朱燕铭]WR[4P]KM[5.5];B[pd];W[dp];B[pp];W[cc];B[fq];W[ip];B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn];W[nq];B[qn];W[pr];B[qq];W[lp];B[ic];W[qf];B[re];W[pj];B[fc];W[ce];B[nd];W[cl];B[dn];W[en];B[em];W[fn];B[co];W[fm];B[dl];W[el];B[dm];W[dk];B[ck];W[cj];B[ek];W[bk];B[fl];W[hm];B[fr];W[es];B[fp];W[fo];B[iq];W[jq];B[jr];W[jp];B[hr];W[kr];B[is];W[hq];B[hp];W[ir];B[ep];W[eo];B[iq];W[rc];B[qe];W[ir];B[pf];W[ho];B[kd];W[ql];B[qr];W[pg];B[qg];W[oc];B[nc];W[of];B[rf];W[nb];B[pb];W[ob];B[pc];W[od];B[oe];W[ne];B[me];W[pe];B[iq];W[qf];B[gq];W[qd];B[pf];W[oe];B[qc];W[pa];B[rd];W[qb];B[qd];W[sb];B[ph];W[og];B[qi];W[qj];B[oh];W[lc];B[kc];W[rn];B[ro];W[pn];B[qo];W[nh];B[oi];W[nk];B[ni];W[oo];B[mh];W[kk];B[il];W[jm];B[di];W[dj];B[ej];W[dg];B[eg];W[dh];B[ci];W[bi];B[df];W[cf];B[eh];W[ch];B[ld];W[lb];B[ka];W[kb];B[jb];W[la];B[ok];W[oj];B[mk];W[ml];B[lk];W[ll];B[kj];W[jk];B[nj];W[nl];B[jj];W[lj];B[mj];W[ij];B[ii];W[ee];B[fe];W[mf];B[lf];W[ji];B[li];W[hj];B[hl];W[gk];B[gl];W[ik];B[hi];W[gi];B[gh];W[mg];B[lg];W[ed];B[fd];W[qm];B[op];W[np];B[db];W[cb];B[dc];W[ja];B[ia];W[da];B[ea];W[ca];B[dd];W[de];B[ec];W[ef];B[ks];W[])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

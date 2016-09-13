@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]GN[全运会]DT[1987/11/25]PB[钱宇平]BR[]PW[陈临新]WR[]RO[]PC[石家庄]US[棋迷大本营melody]SO[]C[]RE[B+R]GM[5.5];B[qd];W[dc];B[dp];W[pq];B[ce];W[ed];B[ch];W[oc];B[kd];W[pd];B[qe];W[qc];B[rc];W[qb];B[qh];W[pe];B[pf];W[of];B[pg];W[ic];B[kf];W[qo];B[jq];W[cn];B[co];W[dn];B[fp];W[cj];B[cl];W[dl];B[ck];W[dk];B[bj];W[dj];B[bi];W[je];B[ke];W[eh];B[gn];W[hk];B[mq];W[cq];B[cp];W[ip];B[em];W[dm];B[in];W[jp];B[kq];W[ko];B[mo];W[hm];B[im];W[il];B[km];W[mn];B[lo];W[kn];B[ln];W[jm];B[jn];W[jl];B[hn];W[lm];B[kl];W[kk];B[ll];W[lk];B[ml];W[og];B[mc];W[jc];B[ne];W[oe];B[mg];W[mk];B[ig];W[ie];B[kh];W[ph];B[pi];W[oh];B[qj];W[jg];B[jf];W[jh];B[if];W[df];B[cf];W[lc];B[kc];W[lb];B[kb];W[mb];B[he];W[gc];B[gd];W[fd];B[gf];W[fe];B[ji];W[ih];B[hh];W[ii];B[hi];W[ij];B[fi];W[fh];B[gh];W[ff];B[ib];W[hc];B[gg];W[fo];B[go];W[gp];B[ep];W[mf];B[nf];W[me];B[md];W[ng];B[nd];W[lg];B[gk];W[gm];B[fm])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

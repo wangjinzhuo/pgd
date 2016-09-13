@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第十五届日本碁圣战]RO[2]PB[小林光一,九段,棋圣,名人,碁圣]PW[小林觉]WR[九段]KM[5.5]DT[1990-07-13]PC[日本]RE[B+R];B[pd];W[dp];B[pq];W[dd];B[qo];W[kq];B[cn];W[fp];B[bp];W[cl];B[cq];W[dn];B[er];W[jd];B[cf];W[be];B[di];W[ef];B[dm];W[cm];B[dl];W[bn];B[co];W[dk];B[ck];W[dj];B[cj];W[ei];B[fl];W[ci];B[bi];W[dh];B[bh];W[fm];B[ek];W[en];B[ej];W[di];B[el];W[gi];B[hl];W[dr];B[dq];W[eq];B[fq];W[ep];B[cr];W[fr];B[ds];W[gq];B[bf];W[nc];B[qf];W[ne];B[fc];W[eb];B[hc];W[ic];B[ie];W[id];B[hd];W[he];B[ed];W[de];B[dc];W[cc];B[ge];W[hf];B[gf];W[gg];B[db];W[cb];B[hg];W[if];B[ea];W[gd];B[gc];W[fe];B[fd];W[ff];B[ib];W[jb];B[ia];W[gd];B[oc];W[nb];B[qi];W[nq];B[np];W[mp];B[no];W[qn];B[pn];W[qm];B[ro];W[ol];B[oi];W[oq];B[pp];W[ml];B[mo];W[lp];B[nk];W[nl];B[ob];W[og];B[qk];W[ni];B[nj];W[mi];B[oh];W[ng];B[nd];W[md];B[od];W[pk];B[pj];W[ql];B[rk];W[hb];B[ga];W[me];B[mc];W[mb];B[lc];W[lb];B[ce];W[bd];B[kn];W[ik];B[mk];W[lk];B[ll];W[mj];B[kk];W[lj];B[oj];W[gl];B[gk];W[gm];B[hk];W[il];B[lm];W[hm];B[bk];W[bm];B[hj];W[ij];B[hi];W[hh];B[ih];W[ii];B[gh];W[fh];B[jh];W[hh];B[cd];W[fj];B[bb];W[kj];B[jo];W[lo];B[ln];W[bc];B[ca];W[qg];B[rg];W[oa];B[pa];W[ja];B[ha];W[na];B[pb];W[pf];B[qe];W[pr];B[qr];W[jp];B[or])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

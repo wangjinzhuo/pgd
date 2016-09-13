@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第15届富士通杯第二轮]DT[2002-04-15]US[棋圣道场]SO[http://weiqi.tom.com]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go`转载自：http://weiqi.tom.com
+
+棋圣道场-->大赛转播]PC[日本棋院]KM[5.5]PB[曹薰铉]BR[九段]PW[孔杰]WR[六段]RE[W+0.5];B[pd];W[dp];B[qp];W[dc];B[de]
+
+;W[op];B[fd];W[pn];B[qn];W[pm];B[oq];W[pp]LB[nq:a][pq:b][mp:c]C[白12显然是有备而来，在a位扳、黑b、白c是普通下法];B[pq];W[qq]C[白14下出新手]
+
+;B[qo]LB[nq:a][rp:b][qr:c][ro:d][sq:e][ql:f][nn:g][pj:h][kq:i]C[黑15如于a位长，则白b、黑15、白c、黑d、白e、黑f、白g，以下白h位和i位必得其一，白棋可战];W[nq]LB[qr:a][mq:b]C[白16如a，则黑b]
+
+;B[qr];W[rq];B[rr];W[nr];B[or];W[qm]C[至22的结果，白棋可以满意];B[fq];W[hq];B[hp];W[iq]LB[ip:a][gp:b]C[白26是正着，如走a位，则黑b，白棋不利]
+
+;B[dn];W[fp];B[gp];W[gq];B[cp];W[fo]C[白32是有大局观的一手];B[cq];W[eq];B[np];W[po];B[rm];W[rl];B[rn]
+
+;W[pk]LB[qk:a]C[白40要优于a位虎];B[eb];W[nc];B[qf];W[pb];B[qc]LB[lc:a]C[黑45有a位反夹的心情];W[kc];B[be];W[cn]C[白48是好手！]
+
+;B[co];W[cm];B[do];W[cj];B[dm];W[cl];B[dk];W[bi]C[白56是优势意识下的稳健策];B[qi];W[cd];B[bd]LB[ce:a][db:b]C[黑59如于a位应，则白b，白左上角有打劫活]
+
+;W[ll];B[ch]C[黑61机敏];W[bh];B[jl];W[gb];B[ec];W[jm];B[ip]C[黑67凶狠];W[os];B[pr];W[jq]LB[jp:a][jo:b][kp:c][km:d]C[白70如于a位，则黑b、白c、黑d，白不行]
+
+;B[im];W[km];B[il];W[jp]LB[kq:a]C[白74如脱先，则黑有a位碰的手段，白棋危险];B[ib]LB[jc:a][jb:b]C[黑75似有不妥，应于a位碰，白b、黑75明显要优于实战];W[ic];B[hc];W[jc]C[白78巧妙，黑明显漏算了这一手];B[hb]
+
+;W[hd];B[gd];W[rp];B[sq];W[sm];B[so];W[gc];B[he];W[id];B[jb];W[kb];B[fc]C[至91的结果，白棋有利];W[qb]LB[cg:a]C[白92似应先于a位扳]
+
+;B[cg]C[黑93先手得利];W[dj];B[lk];W[mk];B[kl];W[ml];B[dr];W[er];B[lj];W[jf]C[白棋形势不错];B[nd];W[md]LB[oc:a][od:b][bo:c]C[白104在a位抢先手是简明策，黑如b，则白c扳非常大]
+
+;B[ne];W[me];B[mf];W[lf];B[lg];W[kf];B[bn]C[黑111极大，双方的差距一下拉近了];W[bm];B[ao];W[bg];B[bf];W[dl];B[rb]
+
+;W[ja];B[fb];W[oi];B[ek];W[el];B[fl];W[ei];B[fk];W[ph];B[qh];W[pg];B[pf];W[rj]
+
+;B[fi]C[黑133攻守兼备];W[dg];B[fh];W[dh];B[cf];W[ck];B[jh]C[黑137后，成为细棋白有望的局面];W[ra];B[rc];W[in];B[hn];W[io]
+
+;B[gn];W[fm];B[fn];W[em];B[gm];W[dq];B[cr];W[ig];B[jn];W[jo];B[ag];W[eo];B[en]
+
+;W[gg];B[hh];W[gf];B[ge];W[ie];B[nj];W[mg];B[nf];W[mj];B[ni];W[mi];B[nh];W[ia]
+
+;B[ga];W[qg];B[rg];W[pi];B[oc];W[ob];B[mh];W[qj];B[rh];W[ih];B[ii];W[sl];B[sn]
+
+;W[sr];B[ss];W[sp];B[ro];W[kh];B[nb];W[mc];B[ji];W[kg];B[nk];W[nl];B[ok];W[ol]
+
+;B[mq];W[mp];B[no];W[mr];B[ns];W[ej];B[gh];W[fj];B[gj];W[ef];B[ps];W[lq];B[ee]
+
+;W[ki];B[kj];W[gk];B[gl];W[lh];B[ci];W[bk];B[og];W[pc];B[od];W[qa];B[hf];W[hg]
+
+;B[fg];W[ff];B[ds];W[es];B[am];W[al];B[an];W[si];B[sh];W[ri];B[rf];W[ah];B[af]
+
+;W[ms];B[sb];W[mb];B[os])
+">
+</applet>
+
+</center>	
+<center><table width=70%><tr><td><font size=2><br>
+<center><br>第15届富士通杯第二轮 孔杰执白半目胜曹薰铉(附解说)<br><br>
+</center><br>
+ <br>
+<br>
+</font></td></tr></table></center>
+</BODY>
+</HTML>

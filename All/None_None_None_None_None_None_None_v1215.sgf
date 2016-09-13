@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]EV[第14届中国名人战本赛第一轮]DT[2001-03-21]PC[中国棋院]KM[5.5]US[棋圣道场]SO[http://weiqi.cn.tom.com]C[http://weiqi.cn.tom.com
+
+棋圣道场-->精彩时局]PB[潘峰]BR[二段]PW[刘小光]WR[九段]RE[W+R];B[qd];W[qp];B[dd];W[cp];B[op]
+
+;W[eq];B[pn];W[fc];B[hc];W[qn];B[qq];W[pm];B[rp];W[qo];B[pq];W[od];B[pk];W[on]
+
+;B[ld];W[qe];B[pe];W[pd];B[qf];W[re];B[qc];W[rd];B[qb];W[rf];B[oe];W[ne];B[pg]
+
+;W[qg];B[nd];W[pf];B[of];W[og];B[nf];W[ph];B[mf];W[cf];B[cd];W[hd];B[ic];W[id]
+
+;B[fe];W[jc];B[jb];W[kb];B[kc];W[jd];B[ib];W[fd];B[ee];W[lb];B[lc];W[mb];B[fb]
+
+;W[nc];B[ob];W[md];B[le];W[jf];B[nb];W[mc];B[ge];W[gd];B[eb];W[lg];B[oc];W[lf]
+
+;B[me];W[nd];B[ke];W[mg];B[pc];W[dj];B[mk];W[ng];B[ma];W[mn];B[nm];W[nn];B[kk]
+
+;W[nk];B[nj];W[nl];B[ml];W[oj];B[oi];W[pj];B[mi];W[lj];B[mj];W[pi];B[cl];W[ck]
+
+;B[ek];W[dk];B[bp];W[cq];B[dl];W[el];B[co];W[em];B[bk];W[bj];B[bl];W[fk];B[do]
+
+;W[km];B[fp];W[ep];B[eo];W[bq];B[ci];W[cj];B[gn];W[fo];B[fn];W[go];B[hn];W[gp]
+
+;B[en];W[il];B[hj];W[gj];B[hl];W[jj];B[lm];W[kn];B[gk];W[gi];B[hi];W[ik];B[gh]
+
+;W[hk];B[gl];W[hh];B[ln];W[lo];B[ko];W[jo];B[kp];W[mp];B[jm];W[jn];B[im];W[kl]
+
+;B[jl];W[jk];B[fj];W[fi];B[fl];W[ej];B[fk];W[eh];B[gq];W[fq];B[hp];W[kf];B[ka]
+
+;W[jp])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>

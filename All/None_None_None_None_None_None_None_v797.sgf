@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- head -->
+<head>
+<title>围棋棋谱库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style><!-- A:link{text-decoration:none;color:#0000ff;font-family:宋体}
+A:visited{text-decoration:none;color:#000077;font-family:宋体}
+A:active{text-decoration:none;font-family:宋体}
+A:hover{text-decoration:underline:#ffffff;color:#ff0000}
+--></style>
+</head>
+<body background=http://www.psc-a.org/sgf/bin/board.gif>
+<center><a href=http://www.psc-a.org/go><img src=http://www.psc-a.org/sgf/images/GoRecords.gif border=0></a></center><br>
+
+<P>&nbsp;</P>
+<center>
+<!-- Insert HTML here -->
+<p>
+<applet 
+CODEBASE="../sgf/bin/"
+code="GoBoardApplet.class" height=30 width=100 VIEWASTEXT> 
+<param name=sgf value="(;SZ[19]US[陈雯路]SO[敲玉余韵围棋棋谱库http://www.psc-a.org/go]C[敲玉余韵 围棋棋谱库`http://www.psc-a.org/go]EV[第十二届富士通杯第二轮]RO[2,game4]PB[李圣宰]BR[五段]PW[常昊]WR[八段]KM[5.5]DT[1999-04-12]PC[日本]RE[B+R];B[pd];W[dd];B[pq];W[dq];B[do];W[co];B[dp];W[cp];B[eq];W[cq];B[dn];W[cm];B[qk];W[jq];B[lp];W[gq];B[jo];W[go];B[el];W[cl];B[gm];W[in];B[jn];W[im];B[kl];W[ik];B[fo];W[fp];B[gn];W[ho];B[ep];W[fn];B[fm];W[eo];B[en];W[fo];B[gj];W[ej];B[hl];W[jm];B[km];W[jk];B[gh];W[ok];B[pm];W[qq];B[qp];W[pp];B[oq];W[qj];B[pj];W[pk];B[qi];W[rj];B[ql];W[ri];B[pi];W[qf];B[pg];W[pf];B[of];W[og];B[qg];W[rg];B[oh];W[ng];B[oe];W[qo];B[rp];W[op];B[np];W[nq];B[qr];W[nh];B[ni];W[mi];B[nj];W[oj];B[oi];W[mk];B[rf];W[pr];B[rq];W[or];B[qq];W[re];B[mj];W[qc];B[lj];W[mp];B[no];W[lq];B[mo];W[ih];B[gf];W[gd];B[eh];W[cj];B[pc];W[qb];B[kd];W[lg];B[hd];W[md];B[mf];W[le];B[mg];W[he];B[ge];W[fd];B[id];W[if];B[ee];W[ed];B[mc];W[nc];B[mb];W[nb];B[nd];W[pb];B[ob];W[oc];B[kb];W[lc];B[lb];W[dg];B[fj];W[eg];B[jg];W[jh];B[fg];W[ke];B[lh];W[ei];B[ig];W[kg];B[jf];W[kh];B[mq];W[qh];B[ph];W[rh];B[kq];W[jr];B[gb];W[fb];B[ef];W[cf];B[kr];W[je];B[ie];W[jd];B[ib];W[fi];B[gi];W[gc];B[hb])
+">
+</applet>
+
+</center>	
+
+</BODY>
+</HTML>
